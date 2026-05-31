@@ -156,20 +156,6 @@ export const SlovakiaClue = {
         {
           "title": "Bollards",
           "text": [
-            "Bollards in Slovakia have **orange double reflectors** on the front and a single white reflector on the back. There are also rarer [blue](https://goo.gl/maps/fL3eA8AWB8PgX29w7) and [red](https://www.google.com/maps/@49.3226818,21.4268942,3a,15y,317.67h,81.45t/data=!3m6!1e1!3m4!1sgokBvrgl2ArrDdOa4ar-1A!2e0!7i16384!8i8192?entry=ttu) variants.",
-            "NOTE: The only other country with the same design is Czechia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_bollard.png",
-              "link": "https://goo.gl/maps/bWu6Pty5WTmSY4oRA",
-              "alt": "Slovakia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
             "Stripy gas and water poles reminiscent of snow poles can often be found next to the road.",
             "NOTE: Dozens of poles of various utilities all over Europe use stripy patterns. Consider the location of the pole, as well as other clues before making a guess."
           ],
@@ -202,46 +188,6 @@ export const SlovakiaClue = {
         {
           "title": "Poles",
           "text": [
-            "Slovakia and Czechia most commonly use wide, round concrete poles, which are quite often attached **in pairs**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_doublepole.png",
-              "link": "https://goo.gl/maps/CqLdA1Qym3eRMTny7",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Slovak and Czech poletops typically feature **short metal bars **that hold the insulators."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_poletops.png",
-              "link": "https://goo.gl/maps/2pQYufWqjPLtnRYr5",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Two support bars holding up the metal bar on pole tops, resembling an upside down **triangle**, can sometimes be found in Slovakia and Czechia.",
-            "NOTE: This is also found in Germany, Albania, Serbia and Romania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_poletoptriangle.png",
-              "link": "https://goo.gl/maps/Pgpj1TUrJ4tvovUF7",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
             "You may also see concrete poles with trident poletops, with two arms angled upwards. Some features, such as the [number of insulators](https://maps.app.goo.gl/Fc2r38kWnFRgtuCX6), will vary, however the general shape will be the same. Out of the pole tops listed, these are the least common, but unique to the two countries."
           ],
           "images": [
@@ -251,26 +197,53 @@ export const SlovakiaClue = {
               "alt": "Slovakia Poles"
             }
           ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "It is somewhat more common to see **wooden poles**, and in turn, white concrete supports in Slovakia rather than in Czechia.",
+            "Note that because there are many variables, it may sometimes be inconsistent. Therefore, this information should preferably be used to help decide between a difficult fifty-fifty."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/slovakia/sk_woodenpole.png",
+              "link": "https://goo.gl/maps/D1jpScsDcf4TY49Z7",
+              "alt": "Slovakia Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Concrete poles in Nitra and Trnava regions commonly have** yellow circles** painted on them, usually containing a number. They are also occasionally found in adjacent regions.",
+            "NOTE: This is only the case with circles, other shapes are found [elsewhere](https://goo.gl/maps/QyZSJSBRyQfXziUD6) in the country."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/slovakia/sk_yellowpolemarking.png",
+              "link": "https://goo.gl/maps/3K7s6X4x6oezDt5y6",
+              "alt": "Slovakia Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Trolleybuses in Žilina use a **green-yellow-white** colour scheme. The trolley supporting electricity poles, often doubling as [lamps](https://maps.app.goo.gl/nfWAtqUmKhWctMb56), are painted with matching yellow and green colours."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/slovakia/sk_trolleybuses.png",
+              "link": "https://maps.app.goo.gl/u48ApNfazthaPVca8",
+              "alt": "Slovakia Poles"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Signs",
       "tips": [
-        {
-          "title": "Signs",
-          "text": [
-            "Slovakia and Czechia both use a **special** kind of **type B** guardrail, which is wider than the normal type. No other European countries use the same kind.",
-            "NOTE: While Czechia uses this type fairly consistently, Slovakia also uses [other types](https://www.google.com/maps/@48.3230366,17.9835001,3a,20.4y,23.89h,74.62t/data=!3m6!1e1!3m4!1s5f9kxEo5ASRM7Q3_L5wElw!2e0!7i16384!8i8192) occasionally. For a good overview of European guardrails, see [this infographic](/images/slovakia/europeguardrail.png)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_guardrail.png",
-              "link": "https://goo.gl/maps/5GXwMsePcP4JeZYW6",
-              "alt": "Slovakia Signs"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -307,6 +280,19 @@ export const SlovakiaClue = {
             {
               "url": "https://www.plonkit.net/images/slovakia/sk_trailmarkers.png",
               "link": "https://goo.gl/maps/gZHYDxtcZurdoS5r5",
+              "alt": "Slovakia Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "These **black **signs can often be found by the end of bridges in Generation 4 coverage. The road number is displayed on the left."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/slovakia/sk_bridgemarker.png",
+              "link": "https://goo.gl/maps/WG9RcPvnMFnNwSAa8",
               "alt": "Slovakia Signs"
             }
           ]
@@ -566,266 +552,6 @@ export const SlovakiaClue = {
           ]
         },
         {
-          "title": "Bollards",
-          "text": [
-            "Bollards in Slovakia have **orange double reflectors** on the front and a single white reflector on the back. There are also rarer [blue](https://goo.gl/maps/fL3eA8AWB8PgX29w7) and [red](https://www.google.com/maps/@49.3226818,21.4268942,3a,15y,317.67h,81.45t/data=!3m6!1e1!3m4!1sgokBvrgl2ArrDdOa4ar-1A!2e0!7i16384!8i8192?entry=ttu) variants.",
-            "NOTE: The only other country with the same design is Czechia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_bollard.png",
-              "link": "https://goo.gl/maps/bWu6Pty5WTmSY4oRA",
-              "alt": "Slovakia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Slovakia and Czechia both use a **special** kind of **type B** guardrail, which is wider than the normal type. No other European countries use the same kind.",
-            "NOTE: While Czechia uses this type fairly consistently, Slovakia also uses [other types](https://www.google.com/maps/@48.3230366,17.9835001,3a,20.4y,23.89h,74.62t/data=!3m6!1e1!3m4!1s5f9kxEo5ASRM7Q3_L5wElw!2e0!7i16384!8i8192) occasionally. For a good overview of European guardrails, see [this infographic](/images/slovakia/europeguardrail.png)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_guardrail.png",
-              "link": "https://goo.gl/maps/5GXwMsePcP4JeZYW6",
-              "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Slovakia and Czechia most commonly use wide, round concrete poles, which are quite often attached **in pairs**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_doublepole.png",
-              "link": "https://goo.gl/maps/CqLdA1Qym3eRMTny7",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Slovak and Czech poletops typically feature **short metal bars **that hold the insulators."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_poletops.png",
-              "link": "https://goo.gl/maps/2pQYufWqjPLtnRYr5",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Two support bars holding up the metal bar on pole tops, resembling an upside down **triangle**, can sometimes be found in Slovakia and Czechia.",
-            "NOTE: This is also found in Germany, Albania, Serbia and Romania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_poletoptriangle.png",
-              "link": "https://goo.gl/maps/Pgpj1TUrJ4tvovUF7",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "You may also see concrete poles with trident poletops, with two arms angled upwards. Some features, such as the [number of insulators](https://maps.app.goo.gl/Fc2r38kWnFRgtuCX6), will vary, however the general shape will be the same. Out of the pole tops listed, these are the least common, but unique to the two countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_poletop3.png",
-              "link": "https://maps.app.goo.gl/rwYw2noiWN6iwfSS9",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Lamp posts with a thick base mounted...",
-          "text": [
-            "Lamp posts with a thick base mounted by opposing pairs of bolts are common in both countries. The exact shape of the base may vary."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_lampbase.png",
-              "link": "https://goo.gl/maps/ACMMFh4BgTYZwMFx9",
-              "alt": "Slovakia Lamp posts with a thick base mounted..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "It is common in both Slovakia and Czechia to see temporary square sign posts coated in red and white stripes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_redwhitesignpost.png",
-              "link": "https://goo.gl/maps/dNUDNrAxFBuQv1348",
-              "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Slovak and Czech chevrons are **white** with **red arrows**. Less commonly, you may find [red on yellow](https://goo.gl/maps/mGXmo2VFj1MSUCXw7) chevrons."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_chevron.png",
-              "link": "https://goo.gl/maps/kmg3psVnbbXbToySA",
-              "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Stripy gas and water poles reminiscent of snow poles can often be found next to the road.",
-            "NOTE: Dozens of poles of various utilities all over Europe use stripy patterns. Consider the location of the pole, as well as other clues before making a guess."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_gaspoles.png",
-              "link": "https://goo.gl/maps/oxXvVtxBvJRN4dZ67",
-              "alt": "Slovakia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Hiking markers, made up of one colourful strip between two white ones, are commonly found in Slovakia and Czechia. They sometimes form an [arrow](https://goo.gl/maps/rdpAP15NABRWY6J59).",
-            "NOTE: While by far being the most common in Slovakia and Czechia, similar signs can be found in other European countries such as [Poland](https://goo.gl/maps/aXtx3dQZAxJDEo9u6), [Hungary](https://goo.gl/maps/Rc9N8toac29Zq5Df8) and [Germany](https://goo.gl/maps/W2ek9Z81Qx9ZXStS7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_trailmarkers.png",
-              "link": "https://goo.gl/maps/gZHYDxtcZurdoS5r5",
-              "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Like all of the former Eastern bloc, prefabricated panel apartment buildings are a common sight in urban areas. What distinguishes Slovakia and Czechia is the relatively good maintenance often combined with vibrant colours and patterns. Some [smaller buildings](https://goo.gl/maps/CJeGYdbyuKZJFKMw6) also adhere to this style.",
-            "NOTE: To a lesser extent, you can find this kind of architecture in neighbouring countries, like [Poland](https://goo.gl/maps/qDTiRFmn8nDkEmxYA) and [Hungary](https://goo.gl/maps/rFL2pygygEQKHmTJ6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_apartmentblocks.png",
-              "link": "https://goo.gl/maps/2TNh6cZqggE4zsmg6",
-              "alt": "Slovakia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Roofs with **diamond shaped tiles** are common in both Slovakia and Czechia.",
-            "NOTE: This is also somewhat common in Hungary."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_diamondroof.png",
-              "link": "https://goo.gl/maps/UzXtPnp17sU7m6nG8",
-              "alt": "Slovakia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A car antenna with a **grey** piece of **tape** stuck to the top can be seen on much of the Generation 3 coverage.",
-            "NOTE: This can also be seen in Hungary, Romania and Bulgaria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_antenna.png",
-              "link": "https://goo.gl/maps/ReEe5mjtHzX51fir9",
-              "alt": "Slovakia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A black generation 4 Google car can also be found in both Slovakia and Czechia.",
-            "NOTE: A black car can be found in many other European countries too."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/BlackCar.png",
-              "link": "https://maps.app.goo.gl/NRyb5wsAHBVuWW7Q6",
-              "alt": "Slovakia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A red generation 4 Google car can be found in both Slovakia and Czechia.",
-            "NOTE: A red car can be found in other European countries too."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/RedCar.png",
-              "link": "https://maps.app.goo.gl/bgDppwJ9pZyBTjts6",
-              "alt": "Slovakia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "These **black **signs can often be found by the end of bridges in Generation 4 coverage. The road number is displayed on the left."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_bridgemarker.png",
-              "link": "https://goo.gl/maps/WG9RcPvnMFnNwSAa8",
-              "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Slovak and Czech are mutually intelligible Slavic languages with several similarities such as acute accents above vowels (á, é, í, ó, ú, ý). However, they both have some distinct letters:",
-            "- Slovak uses the letters **Ľ**, **Ô**, **Ä**, **Ŕ** and **Ĺ**;",
-            "- Czech uses the letters Ř, Ě and Ů.",
-            "NOTE: Acute accents on vowels are not found in [South Slavic languages](https://en.wikipedia.org/wiki/South_Slavic_languages)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_language.png",
-              "link": "https://www.plonkit.net/images/slovakia/sk_language.png",
-              "alt": "Slovakia Language"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The Slovak landscape varies between very mountainous and completely [flat](https://goo.gl/maps/puNY8G6iPosUHNtMA). Generally speaking, Czechia is hillier, but less mountainous."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_landscape.png",
-              "link": "https://goo.gl/maps/PPj943HJ39dWPzBTA",
-              "alt": "Slovakia Landscape"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Slovakia uses [blue directional signs](https://goo.gl/maps/2mkRyA6uUbEVFavi7), with **small** **white arrows**.",
@@ -964,61 +690,6 @@ export const SlovakiaClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "**Window shutters** are considerably more common in Slovakia than in Czechia.",
-            "NOTE: They are also very common in Hungary."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_windowshutters.png",
-              "link": "https://goo.gl/maps/bnVmya82hXbgCW2T9",
-              "alt": "Slovakia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Many Slovak houses have the short side facing the road with the roof ending in a [hip end](https://en.wikipedia.org/wiki/Hip_roof).",
-            "NOTE: This is also very common in Hungary, but less common in Czechia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_roofshape.png",
-              "link": "https://goo.gl/maps/4XYifseoGkYxqao19",
-              "alt": "Slovakia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Grey metal roofs** are very common, particularly in the eastern parts of Slovakia.",
-            "NOTE: Apart from the most mountainous areas, it is far less common in Czechia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_metalroofs.png",
-              "link": "https://goo.gl/maps/1Ex81rByW2yR7bar9",
-              "alt": "Slovakia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "While Czechia has a lot of Generation 3 winter coverage, Slovakia has a lot of Generation 3 **spring coverage**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_gen3spring.png",
-              "link": "https://goo.gl/maps/X5fhnhe8vjxJajiX6",
-              "alt": "Slovakia Coverage"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "The Slovak railway crossing sign has a white **rectangular background**.",
@@ -1045,53 +716,12 @@ export const SlovakiaClue = {
               "alt": "Slovakia Signs"
             }
           ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Slovakia recently changed its standard bollard to a design very similar to the one found in [Hungary](https://www.google.se/maps/@47.1765642,18.80994,3a,19.3y,185.88h,68.68t/data=!3m7!1e1!3m5!1scybzctaIto3MgG1bEOvhmw!2e0!5s20220901T000000!7i16384!8i8192!5m1!1e4?entry=ttu): a standard European wedge-shaped bollard with a **red front reflector**. Note that for the time being, this bollard is still very rare."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_newbollard.png",
-              "link": "https://www.google.com/maps/@48.5515539,18.1190523,3a,15y,55.74h,65.4t/data=!3m7!1e1!3m5!1sZ5QVxIUgMkl9Nt97LuLxyw!2e0!5s20230601T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Slovakia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "It is somewhat more common to see **wooden poles**, and in turn, white concrete supports in Slovakia rather than in Czechia.",
-            "Note that because there are many variables, it may sometimes be inconsistent. Therefore, this information should preferably be used to help decide between a difficult fifty-fifty."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_woodenpole.png",
-              "link": "https://goo.gl/maps/D1jpScsDcf4TY49Z7",
-              "alt": "Slovakia Poles"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and province-specific clues",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "Slovak phone numbers typically consist of 10 digits, of which the first 2-3 digits are the **area code**.",
-            "NOTE: Czech phone numbers generally do not begin with a 0."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_areacodes.png",
-              "link": "https://www.plonkit.net/images/slovakia/sk_areacodes.png",
-              "alt": "Slovakia Regions"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -1103,33 +733,6 @@ export const SlovakiaClue = {
               "url": "https://www.plonkit.net/images/slovakia/sk_roadnumbers_darkmode.webp",
               "link": "https://www.plonkit.net/images/slovakia/sk_roadnumbers.png",
               "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The tallest mountains in Slovakia are found in the **central **and **northern **parts of the country, while the flattest areas are found mainly in the southwest and in the southeast."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_topography.png",
-              "link": "https://www.plonkit.net/images/slovakia/sk_topography.png",
-              "alt": "Slovakia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The western lowlands in Slovakia are characterised by **completely flat** agricultural fields, which are rare to find anywhere else in the country.",
-            "NOTE: While there are some generally flat areas in Czechia, it is rare to see complete flatness which reaches beyond the horizon."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_westplains.png",
-              "link": "https://goo.gl/maps/b6cwnyWMAYhDq7jn8",
-              "alt": "Slovakia Landscape"
             }
           ]
         },
@@ -1156,34 +759,6 @@ export const SlovakiaClue = {
               "url": "https://www.plonkit.net/images/slovakia/sk_hungarian.png",
               "link": "https://goo.gl/maps/jg8wzpGorZd9yegH9",
               "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Concrete poles in Nitra and Trnava regions commonly have** yellow circles** painted on them, usually containing a number. They are also occasionally found in adjacent regions.",
-            "NOTE: This is only the case with circles, other shapes are found [elsewhere](https://goo.gl/maps/QyZSJSBRyQfXziUD6) in the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_yellowpolemarking.png",
-              "link": "https://goo.gl/maps/3K7s6X4x6oezDt5y6",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Yellow** lamp posts with a **blue base** are mainly found in the east, with a notable exception being the city of Zvolen.",
-            "NOTE: This rule only applies to lamps with this exact colour arrangement. Other infrastructure with similar colour schemes can be found all over the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_yellowbluelampposts.png",
-              "link": "https://goo.gl/maps/qjkvuQBp2qas74Sa9",
-              "alt": "Slovakia Regions"
             }
           ]
         },
@@ -1233,46 +808,6 @@ export const SlovakiaClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "Not only is Bratislava by far the largest city in the country, it is also the only major city with a** large river** running through it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_bratislava.png",
-              "link": "https://goo.gl/maps/NhU19a3EK7KHCUWX9",
-              "alt": "Slovakia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Bratislavahttps://goo.gl/maps/L2judPPCa4DcUs277 and Košicehttps://goo.gl/maps/EwXXxccDoBTp9RMJ6 are the only two...",
-          "text": [
-            "[Bratislava](https://goo.gl/maps/L2judPPCa4DcUs277) and [Košice](https://goo.gl/maps/EwXXxccDoBTp9RMJ6) are the only two cities with **trams**, using a red and a yellow-blue-white colour scheme respectively.",
-            "NOTE: Buses in [Košice](https://goo.gl/maps/4gm63SyEndzgZP9g6) and [Bratislava](https://goo.gl/maps/FKUJQmpTzbZ1B9jq5) use the same colour schemes, however red buses can also be found in [Prešov](https://goo.gl/maps/GgBiC61WEyRRkSxXA)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_trams.png",
-              "link": "https://goo.gl/maps/L2judPPCa4DcUs277",
-              "alt": "Slovakia Bratislavahttps://goo.gl/maps/L2judPPCa4DcUs277 and Košicehttps://goo.gl/maps/EwXXxccDoBTp9RMJ6 are the only two..."
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Trolleybuses in Žilina use a **green-yellow-white** colour scheme. The trolley supporting electricity poles, often doubling as [lamps](https://maps.app.goo.gl/nfWAtqUmKhWctMb56), are painted with matching yellow and green colours."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_trolleybuses.png",
-              "link": "https://maps.app.goo.gl/u48ApNfazthaPVca8",
-              "alt": "Slovakia Poles"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Skalica, in the northwestern corner of the country, has **red street signs**, similar to the ones commonly found in Czechia. However, the somewhat stylized font distinguishes it from the Czech signs."
@@ -1282,19 +817,6 @@ export const SlovakiaClue = {
               "url": "https://www.plonkit.net/images/slovakia/sk_streetsign_skalica.png",
               "link": "https://goo.gl/maps/tNFqMzdhxqD3JYih9",
               "alt": "Slovakia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Čičmany, in the westernmost parts of the Žilina Region, is easily recognized by the dark brown wooden houses, whose walls are filled with art consisting of **white lines**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/slovakia/sk_cicmany.png",
-              "link": "https://goo.gl/maps/h3evNy7U51wXihBE8",
-              "alt": "Slovakia Road Lines"
             }
           ]
         }

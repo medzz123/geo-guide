@@ -72,7 +72,6 @@ export const HongKongClue = {
     }
   ],
   "categories": [
-    "Plates",
     "Road Lines",
     "Bollards",
     "Poles",
@@ -85,24 +84,6 @@ export const HongKongClue = {
     "Other"
   ],
   "keyClues": [
-    {
-      "title": "Plates",
-      "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Hong Kong has **white **front licence plates and **yellow **rear** **licence plates. The licence plates can be long or short. Some cars have an additional [black](https://goo.gl/maps/fdFvDqpk17q8dBKW9) mainland Chinese licence plate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/Hong_Kong_License_Plate.png",
-              "link": "https://www.plonkit.net/images/hong-kong/Hong_Kong_License_Plate.png",
-              "alt": "Hong Kong Plates"
-            }
-          ]
-        }
-      ]
-    },
     {
       "title": "Road Lines",
       "tips": [
@@ -241,21 +222,6 @@ export const HongKongClue = {
         {
           "title": "Landscape",
           "text": [
-            "There is also a plethora of rural locations that are harder to identify.",
-            "Outside the urban areas, Hong Kong is generally quite **mountainous**, with green, subtropical vegetation. There is extensive coverage in rural areas outside the city, with many roads going through the mountains. You might see low-rise rural buildings, however usually you will not need to travel far to see tall apartment blocks.",
-            "NOTE: Singapore, on the other hand, is very flat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/rural_landscape.png",
-              "link": "https://goo.gl/maps/yhdFUrJo8y6Q9BYz9",
-              "alt": "Hong Kong Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
             "Because of the subtropical climate,** air conditioners** attached to the walls of apartments are very common in Hong Kong."
           ],
           "images": [
@@ -288,6 +254,19 @@ export const HongKongClue = {
             {
               "url": "https://www.plonkit.net/images/hong-kong/wateh.png",
               "link": "https://goo.gl/maps/v7JTyqfqUj8awECJ6",
+              "alt": "Hong Kong Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Mid-Levels is a residential district that is easily recognized by the non-identical tall modern apartments and **hilliness**."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/hong-kong/hose.png",
+              "link": "https://goo.gl/maps/2Pp1QDkUWnrijCvm7",
               "alt": "Hong Kong Landscape"
             }
           ]
@@ -373,34 +352,6 @@ export const HongKongClue = {
         {
           "title": "Regions",
           "text": [
-            "Hong Kong is located in Southern China, sharing a border with the Guangdong province. It is a Chinese **Special Administrative Region**, so for country streaks purposes, it is counted as part of China.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/1280px-Hong_Kong_in_China_28zoomed29_282Ball_claims_hatched29.png",
-              "link": "https://www.plonkit.net/images/hong-kong/1280px-Hong_Kong_in_China_28zoomed29_282Ball_claims_hatched29.png",
-              "alt": "Hong Kong Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Hong Kong is a densely populated city with millions of inhabitants. In urban areas, modern **skyscrapers **are common, with **busy** streets filled with vehicles and pedestrians.",
-            "The city has a unique vibe that you can quickly pick up on. In many cases, this vibe alone should be sufficient to identify urban Hong Kong locations."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/urban_landscape.png",
-              "link": "https://goo.gl/maps/cMG1vsRbWkcLQbBL7",
-              "alt": "Hong Kong Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "A **double-decker** tram line runs along the north of Hong Kong Island. A full map of the route can be seen [here](https://www.travelchinaguide.com/images/map/hongkong/ding-ding-tram.jpg).",
             "NOTE: Make sure not to mistake this tram for the red MTR railway line, which has some sections above ground."
           ],
@@ -424,26 +375,38 @@ export const HongKongClue = {
               "alt": "Hong Kong Regions"
             }
           ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "The Central District can be recognized by the large concentration of modern **skyscrapers**. The district feels quite busy, affluent and well-kept, with lots of [luxury brand](https://goo.gl/maps/rxYtmjfiUfxNwYLf6) stores and ads."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/hong-kong/what_color_is_your_bugatti.png",
+              "link": "https://goo.gl/maps/9bgPD1pUdiSDMGD38",
+              "alt": "Hong Kong Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "Chek Lap Kok Island and the Boundary Crossing Facilities can be recognized by the various large scale **construction **works going on in the area. From the outside, it can be identified by the many [**bridges**](https://goo.gl/maps/vXzoCBzixfWrvgTH6)** **that connect other parts of Hong Kong to the two islands."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/hong-kong/construkshin.png",
+              "link": "https://www.google.com/maps/@22.3164875,113.9405892,3a,75y,278.92h,84.32t/data=!3m7!1e1!3m5!1sZSwYIANkAFoaYbB_f7lrNQ!2e0!5s20220801T000000!7i16384!8i8192?entry=ttu",
+              "alt": "Hong Kong Regions"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Other",
       "tips": [
-        {
-          "title": "Hong Kong drives on the left. NOTE:...",
-          "text": [
-            "Hong Kong drives on the **left**.",
-            "NOTE: Singapore also drives on the left, however Taiwan drives on the right."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/driving_side.png",
-              "link": "https://goo.gl/maps/7QCw5WKkwTNCKvr2A",
-              "alt": "Hong Kong Hong Kong drives on the left. NOTE:..."
-            }
-          ]
-        },
         {
           "title": "Cylindrical grey lamp posts with a wide...",
           "text": [
@@ -480,6 +443,19 @@ export const HongKongClue = {
               "url": "https://www.plonkit.net/images/hong-kong/road_lines.png",
               "link": "https://goo.gl/maps/opzd8qwGb8PVxDiL9",
               "alt": "Hong Kong Hong Kong usually uses white centre lines..."
+            }
+          ]
+        },
+        {
+          "title": "Most fire hydrants are red, and usually...",
+          "text": [
+            "Most fire hydrants are red, and usually have **circular tops** and three protrusions. There is also a [pipe-like variant](https://goo.gl/maps/RscuXQ2NrevZ1GDK9). Some fire hydrants have other colours, so make sure to look at their shape or other clues before guessing."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/hong-kong/fire_hydrant.png",
+              "link": "https://goo.gl/maps/ALo52Jyk1Ve4CZ4b6",
+              "alt": "Hong Kong Most fire hydrants are red, and usually..."
             }
           ]
         }
@@ -497,247 +473,6 @@ export const HongKongClue = {
             {
               "url": "https://www.plonkit.net/images/hong-kong/0_Hong_Kong_summary.png",
               "alt": "Hong Kong overview"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Hong Kong is located in Southern China, sharing a border with the Guangdong province. It is a Chinese **Special Administrative Region**, so for country streaks purposes, it is counted as part of China.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/1280px-Hong_Kong_in_China_28zoomed29_282Ball_claims_hatched29.png",
-              "link": "https://www.plonkit.net/images/hong-kong/1280px-Hong_Kong_in_China_28zoomed29_282Ball_claims_hatched29.png",
-              "alt": "Hong Kong Regions"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Hong Kong has **white **front licence plates and **yellow **rear** **licence plates. The licence plates can be long or short. Some cars have an additional [black](https://goo.gl/maps/fdFvDqpk17q8dBKW9) mainland Chinese licence plate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/Hong_Kong_License_Plate.png",
-              "link": "https://www.plonkit.net/images/hong-kong/Hong_Kong_License_Plate.png",
-              "alt": "Hong Kong Plates"
-            }
-          ]
-        },
-        {
-          "title": "Hong Kong drives on the left. NOTE:...",
-          "text": [
-            "Hong Kong drives on the **left**.",
-            "NOTE: Singapore also drives on the left, however Taiwan drives on the right."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/driving_side.png",
-              "link": "https://goo.gl/maps/7QCw5WKkwTNCKvr2A",
-              "alt": "Hong Kong Hong Kong drives on the left. NOTE:..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Hong Kong is a densely populated city with millions of inhabitants. In urban areas, modern **skyscrapers **are common, with **busy** streets filled with vehicles and pedestrians.",
-            "The city has a unique vibe that you can quickly pick up on. In many cases, this vibe alone should be sufficient to identify urban Hong Kong locations."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/urban_landscape.png",
-              "link": "https://goo.gl/maps/cMG1vsRbWkcLQbBL7",
-              "alt": "Hong Kong Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "There is also a plethora of rural locations that are harder to identify.",
-            "Outside the urban areas, Hong Kong is generally quite **mountainous**, with green, subtropical vegetation. There is extensive coverage in rural areas outside the city, with many roads going through the mountains. You might see low-rise rural buildings, however usually you will not need to travel far to see tall apartment blocks.",
-            "NOTE: Singapore, on the other hand, is very flat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/rural_landscape.png",
-              "link": "https://goo.gl/maps/yhdFUrJo8y6Q9BYz9",
-              "alt": "Hong Kong Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "One very striking aspect of Hong Kong architecture are the many extremely **tall apartment buildings** found throughout the city.",
-            "NOTE: Apartment buildings in Singapore and Taiwan tend to be not nearly as tall as those in Hong Kong."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/Tall_apartment_buildings.png",
-              "link": "https://goo.gl/maps/AG1BxzzJUv1u5peL7",
-              "alt": "Hong Kong Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Because of the subtropical climate,** air conditioners** attached to the walls of apartments are very common in Hong Kong."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/it_27s_hot_outside.png",
-              "link": "https://goo.gl/maps/gmRjy3NumiBT91zg6",
-              "alt": "Hong Kong Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Hong Kong has two official languages: **English and Chinese** (legally, no variety is specified, but residents primarily speak Cantonese).",
-            "Bilingual signs are common, with English next to traditional Chinese characters."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/bilingual.png",
-              "link": "https://www.plonkit.net/images/hong-kong/bilingual.png",
-              "alt": "Hong Kong Signs"
-            }
-          ]
-        },
-        {
-          "title": "Cylindrical grey lamp posts with a wide...",
-          "text": [
-            "Cylindrical grey lamp posts with a **wide base** are common. Many lamp posts have a white sticker."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/ooh_light_producing_thing.png",
-              "link": "https://goo.gl/maps/u14kiwh4BKaybGhc6",
-              "alt": "Hong Kong Cylindrical grey lamp posts with a wide..."
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Utility poles will never be seen in urban rounds, however you might see **cylindrical wooden** poles in rural areas. The poles can be single or double, with electricity counters or transformers attached to them."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/utility_poles.png",
-              "link": "https://goo.gl/maps/ncwid1ZaB2sW4fDG9",
-              "alt": "Hong Kong Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "In Hong Kong, you will almost **never** see striped kerbs, which are extremely common in Singapore. In addition, grey pedestrian guardrails are also common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/never_striped.png",
-              "link": "https://goo.gl/maps/HZN4KrdvH4C41wzX7",
-              "alt": "Hong Kong Signs"
-            }
-          ]
-        },
-        {
-          "title": "Hong Kong uses yellow pedestrian crossings. Some...",
-          "text": [
-            "Hong Kong uses **yellow** pedestrian crossings. Some intersections have yellow grids."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/yellow_road_markings.png",
-              "link": "https://goo.gl/maps/F9egEcNhECG9ZLzF8",
-              "alt": "Hong Kong Hong Kong uses yellow pedestrian crossings. Some..."
-            }
-          ]
-        },
-        {
-          "title": "Hong Kong usually uses white centre lines...",
-          "text": [
-            "Hong Kong usually uses **white centre** lines and** white or yellow outer** lines. These lines can be single, double or dashed. Roads are also commonly made of concrete. Yellow outer lines are most commonly found on small roads to indicate no-stopping."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/road_lines.png",
-              "link": "https://goo.gl/maps/opzd8qwGb8PVxDiL9",
-              "alt": "Hong Kong Hong Kong usually uses white centre lines..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Road signs are white and rectangular, with a thick black outline and **bilingual **text."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/road_signs.png",
-              "link": "https://goo.gl/maps/KMxuZiQHs8ufPrXk8",
-              "alt": "Hong Kong Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Give way signs feature a white upside down triangle with a **thick red** border and bilingual text."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/give_way_sign.png",
-              "link": "https://goo.gl/maps/NQf587mqieAa4AmV7",
-              "alt": "Hong Kong Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Distinct weathered rock walls can be seen on the side of mountains. Some of them have nets, to prevent rockslides. In addition, **green or blue plaques** are a common sight."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/not_so_great_wall_of_china.png",
-              "link": "https://www.google.com/maps/@22.2331007,114.2224911,3a,15y,272.14h,77.6t,0.01r/data=!3m7!1e1!3m5!1sac6SCo7l2_tdFsmrtCgfGQ!2e0!5s20201001T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Hong Kong Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Most fire hydrants are red, and usually...",
-          "text": [
-            "Most fire hydrants are red, and usually have **circular tops** and three protrusions. There is also a [pipe-like variant](https://goo.gl/maps/RscuXQ2NrevZ1GDK9). Some fire hydrants have other colours, so make sure to look at their shape or other clues before guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/fire_hydrant.png",
-              "link": "https://goo.gl/maps/ALo52Jyk1Ve4CZ4b6",
-              "alt": "Hong Kong Most fire hydrants are red, and usually..."
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "**Yellow **bollards with a white arrow in a blue circle are commonly seen at pedestrian crossings, but also elsewhere, indicating where cars should go. There is a flat and a cuboid version."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/bollard_thing.png",
-              "link": "https://goo.gl/maps/T2rfR3g9YimL1zBC9",
-              "alt": "Hong Kong Bollards"
             }
           ]
         },
@@ -767,107 +502,12 @@ export const HongKongClue = {
               "alt": "Hong Kong Signs"
             }
           ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Buses in Hong Kong are mostly **double-decker**, with various colour schemes and adverts on the side. Single-decker versions do exist, but are less common. Smaller minibuses can also be seen, with a green or red roof.",
-            "NOTE: Place names are sometimes visible on the front of the buses, which can be useful for region guessing.",
-            "Double-decker buses are also somewhat common in Singapore, but these will often have a recognizable light green colour scheme."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/buses.png",
-              "link": "https://www.google.com/maps/@22.2774537,114.1721639,3a,43.8y,106.29h,81.69t/data=!3m7!1e1!3m5!1shRKmvHJBKfyz82ifoS4tWw!2e0!5s20220501T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Hong Kong Language"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Boxy **houses that are a few storeys high are a common sight in small villages, mostly to the north of Hong Kong."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/rural_architecture.png",
-              "link": "https://goo.gl/maps/EHUvVSGdxjVbduVa8",
-              "alt": "Hong Kong Architecture"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "A **double-decker** tram line runs along the north of Hong Kong Island. A full map of the route can be seen [here](https://www.travelchinaguide.com/images/map/hongkong/ding-ding-tram.jpg).",
-            "NOTE: Make sure not to mistake this tram for the red MTR railway line, which has some sections above ground."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/apple_pie.png",
-              "link": "https://goo.gl/maps/paoqge2LQbvHwQAe9",
-              "alt": "Hong Kong Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The northwestern part of the New Territories is served by a distinct **light rail system**. It can be recognised by its green-and-orange platforms, single-level train cars and the fact that the tracks are separated from the street."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/very_important_meta_1.png",
-              "link": "https://maps.app.goo.gl/74BZjfCTZ6ZvgteQA",
-              "alt": "Hong Kong Regions"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Mong Kok and the surrounding districts in Kowloon can be recognized by the crowded, **busy, gridded streets**, with apartment blocks situated above the shops.",
-            "NOTE: These buildings are usually older, which means there will be a lack of glass walls (as opposed to parts of Hong Kong Island which feature more [glass](https://goo.gl/maps/hJJikEY7wqW8bii48))."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/MOMN.png",
-              "link": "https://www.google.com/maps/@22.3176022,114.170244,3a,75y,112.85h,78.57t/data=!3m7!1e1!3m5!1scrBqp5xS6gEdGSc5o3AcOg!2e0!5s20210601T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Hong Kong Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The north-western area near the Mainland China border is mostly flat and features a patchwork of waterlogged** rice paddies**. The Shenzhen skyline is visible in the distance, to your north."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/wateh.png",
-              "link": "https://goo.gl/maps/v7JTyqfqUj8awECJ6",
-              "alt": "Hong Kong Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The Central District can be recognized by the large concentration of modern **skyscrapers**. The district feels quite busy, affluent and well-kept, with lots of [luxury brand](https://goo.gl/maps/rxYtmjfiUfxNwYLf6) stores and ads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/what_color_is_your_bugatti.png",
-              "link": "https://goo.gl/maps/9bgPD1pUdiSDMGD38",
-              "alt": "Hong Kong Regions"
-            }
-          ]
-        },
         {
           "title": "You can use these two skyscrapers to...",
           "text": [
@@ -879,45 +519,6 @@ export const HongKongClue = {
               "url": "https://www.plonkit.net/images/hong-kong/my_file_names_aren_27t_as_good_as_the_ones_cron_comes_up_with.png",
               "link": "https://www.plonkit.net/images/hong-kong/my_file_names_aren_27t_as_good_as_the_ones_cron_comes_up_with.png",
               "alt": "Hong Kong You can use these two skyscrapers to..."
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Mid-Levels is a residential district that is easily recognized by the non-identical tall modern apartments and **hilliness**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/hose.png",
-              "link": "https://goo.gl/maps/2Pp1QDkUWnrijCvm7",
-              "alt": "Hong Kong Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "The residential district of Quarry Bay has a lot of identical **white and brown** apartment blocks, and tall glass office buildings."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/neck_strainer.png",
-              "link": "https://goo.gl/maps/uoeDenfgX7Y3E4VRA",
-              "alt": "Hong Kong Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Chek Lap Kok Island and the Boundary Crossing Facilities can be recognized by the various large scale **construction **works going on in the area. From the outside, it can be identified by the many [**bridges**](https://goo.gl/maps/vXzoCBzixfWrvgTH6)** **that connect other parts of Hong Kong to the two islands."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/construkshin.png",
-              "link": "https://www.google.com/maps/@22.3164875,113.9405892,3a,75y,278.92h,84.32t/data=!3m7!1e1!3m5!1sZSwYIANkAFoaYbB_f7lrNQ!2e0!5s20220801T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Hong Kong Regions"
             }
           ]
         },
@@ -949,19 +550,6 @@ export const HongKongClue = {
               "url": "https://www.plonkit.net/images/hong-kong/hk_tsing_ma_bridge.png",
               "link": "https://goo.gl/maps/ct7puzi8idw1Fqrj8",
               "alt": "Hong Kong Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Ting Kau Bridge, a **cable-stayed** bridge connecting Ting Kau and Tsing Yi, can be identified by the generally **clean asphalt **and newer condition, three **cylindrical** support towers, hangers coming** directly from the towers** themselves, and yellow paint seen in the median and on the outsides."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/hong-kong/hk_ting_kau_bridge.png",
-              "link": "https://goo.gl/maps/5kzoJbLnHyQ93Xy16",
-              "alt": "Hong Kong Road Lines"
             }
           ]
         },
@@ -1094,20 +682,6 @@ export const HongKongClue = {
               "alt": "Hong Kong Signs"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official Hong Kong map has too many unpinpointable rural trekkers. Plonk It recommends the following maps instead:",
-            "- **IntersectionGuessr - Hong Kong** ([map link](https://www.geoguessr.com/maps/6294af15ed0f1605632b122d)) - Arbitrarily generated locations at intersections, and therefore potentially pinpointable (but this is not guaranteed).",
-            "- **AI Gen - Hong Kong** ([map link](https://www.geoguessr.com/maps/635b656d2b05738d22cd7060)) - AI generated pinpointable map with locations that face the road. May include urban trekkers."
-          ],
-          "images": []
         }
       ]
     }

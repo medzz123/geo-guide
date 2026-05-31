@@ -149,20 +149,6 @@ export const RussiaClue = {
         {
           "title": "Plates",
           "text": [
-            "Russian licence plates are **fully white** with black text.",
-            "NOTE: Most European counterparts will feature a blue strip on the left hand side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/licenceplate.png",
-              "link": "https://www.plonkit.net/images/russia/licenceplate.png",
-              "alt": "Russia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
             "In Generation 3 coverage you will somewhat commonly find unblurred licence plates, featuring a **regional code** on the right side. The codes are generally ordered alphabetically within each [type of federal subject](https://en.wikipedia.org/wiki/Federal_subjects_of_Russia#Types), starting at republics and ending with autonomous okrugs. Therefore, the [Republic of Adygea](https://maps.app.goo.gl/PhX9zVnMQfBCvHQi7) will be represented by 01, and the [Amur Oblast](https://maps.app.goo.gl/AXNwmSJ1vio1pRCo7) by 28, both being the first alphabetical subjects of republics and oblasts respectively. If you encounter a [three digit code](https://maps.app.goo.gl/BiQGFQEG51Xxc7fc7), the second and third digit will form the regional code, in this case 123 becomes 23, for Krasnodar Krai. You may also find the codes written out on the back of [trucks](https://maps.app.goo.gl/NVQNyKpSUXZ3i4LG6) and [vans](https://www.google.com/maps/@56.6511783,66.3012014,3a,15y,5.71h,78.8t/data=!3m6!1e1!3m4!1s8nSDptPKXAhrtGZE6nzskg!2e0!7i13312!8i6656?entry=ttu)."
           ],
           "images": [
@@ -251,19 +237,6 @@ export const RussiaClue = {
         {
           "title": "Bollards",
           "text": [
-            "Russia has three main types of bollards: a very thin type being attached to a stick, one with a black top section and a red vertical reflector below and a German-style bollard."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/bollards.png",
-              "link": "https://goo.gl/maps/GVDB9sHJBTd8978Q7",
-              "alt": "Russia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
             "Near intersections in Russia you will commonly see a very **large number of bollards**."
           ],
           "images": [
@@ -296,6 +269,19 @@ export const RussiaClue = {
             {
               "url": "https://www.plonkit.net/images/russia/Eastern_bollard.png",
               "link": "https://maps.app.goo.gl/KRj3vWkaLkH5K2D97",
+              "alt": "Russia Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "This unique bollard, with a **grey rectangle** and **double red reflectors**, is specific to the P100 in Kostroma Oblast."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/russia/45.png",
+              "link": "https://goo.gl/maps/Mcr4QFiPJLAxVFT6A",
               "alt": "Russia Bollards"
             }
           ]
@@ -422,35 +408,6 @@ export const RussiaClue = {
     {
       "title": "Language",
       "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "The Russian language uses the **Cyrillic script**, and contains the special letters Ы, Э, Ё and Ъ.",
-            "Ё is also used in Mongolian and Ъ is used in Bulgarian.",
-            "NOTE: You may rarely come across Russian in both [Ukraine](https://www.google.com/maps/@46.7466337,33.3598742,3a,15y,252.53h,96.14t/data=!3m6!1e1!3m4!1snFUnRbez3yFUVjnKG9azVg!2e0!7i13312!8i6656?entry=ttu) and eastern [Estonia](https://www.google.com/maps/@59.3779623,28.1969594,3a,15y,61.93h,93.19t,1.18r/data=!3m7!1e1!3m5!1sLI0Eu3YxRqFjCr2pUN2tAw!2e0!5s20230901T000000!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/cyrillic.png",
-              "link": "https://www.plonkit.net/images/russia/cyrillic.png",
-              "alt": "Russia Language"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The Russian word for street is **улица** (ulitsa), sometimes abbreviated **ул.** (ul.).",
-            "NOTE: Bulgarian and most other Slavic languages also use улица / ulica. The Ukrainian word however is вулиця (vulytsya), abbreviated вул. (vul.)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/ulitsa.png",
-              "link": "https://goo.gl/maps/4PsrdL9nX5NqQUTJA",
-              "alt": "Russia Language"
-            }
-          ]
-        },
         {
           "title": "Language",
           "text": [
@@ -644,20 +601,6 @@ export const RussiaClue = {
         {
           "title": "Regions",
           "text": [
-            "The Russian word for city is **город** (gorod), abbreviated **г.** (g.).",
-            "NOTE: The Ukrainian word is місто (misto), abbreviated м. (m.)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/gorod.png",
-              "link": "https://goo.gl/maps/VTaGQTTv3EZGQ2Co7",
-              "alt": "Russia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "Birch trees, identified by their white peeling bark, have a wide range in Russia. Notably they are almost never found far south or far north in the western part of the country."
           ],
           "images": [
@@ -690,6 +633,19 @@ export const RussiaClue = {
             {
               "url": "https://www.plonkit.net/images/russia/sakhalincabbage.png",
               "link": "https://goo.gl/maps/1yHZdYmaYSQkfqeR9",
+              "alt": "Russia Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "Large amounts of the pink or red flower fireweed ([Chamaenerion angustifolium](https://en.wikipedia.org/wiki/Chamaenerion_angustifolium)) typically indicates a northern region of Russia. Similarly, most places north of Moscow commonly have fireweed."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/russia/fireweed.png",
+              "link": "https://maps.app.goo.gl/9YuM4HbtZb4jVX636",
               "alt": "Russia Regions"
             }
           ]
@@ -768,320 +724,12 @@ export const RussiaClue = {
               "alt": "Russia overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Russian licence plates are **fully white** with black text.",
-            "NOTE: Most European counterparts will feature a blue strip on the left hand side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/licenceplate.png",
-              "link": "https://www.plonkit.net/images/russia/licenceplate.png",
-              "alt": "Russia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The Russian language uses the **Cyrillic script**, and contains the special letters Ы, Э, Ё and Ъ.",
-            "Ё is also used in Mongolian and Ъ is used in Bulgarian.",
-            "NOTE: You may rarely come across Russian in both [Ukraine](https://www.google.com/maps/@46.7466337,33.3598742,3a,15y,252.53h,96.14t/data=!3m6!1e1!3m4!1snFUnRbez3yFUVjnKG9azVg!2e0!7i13312!8i6656?entry=ttu) and eastern [Estonia](https://www.google.com/maps/@59.3779623,28.1969594,3a,15y,61.93h,93.19t,1.18r/data=!3m7!1e1!3m5!1sLI0Eu3YxRqFjCr2pUN2tAw!2e0!5s20230901T000000!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/cyrillic.png",
-              "link": "https://www.plonkit.net/images/russia/cyrillic.png",
-              "alt": "Russia Language"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The Russian word for street is **улица** (ulitsa), sometimes abbreviated **ул.** (ul.).",
-            "NOTE: Bulgarian and most other Slavic languages also use улица / ulica. The Ukrainian word however is вулиця (vulytsya), abbreviated вул. (vul.)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/ulitsa.png",
-              "link": "https://goo.gl/maps/4PsrdL9nX5NqQUTJA",
-              "alt": "Russia Language"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The Russian word for city is **город** (gorod), abbreviated **г.** (g.).",
-            "NOTE: The Ukrainian word is місто (misto), abbreviated м. (m.)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/gorod.png",
-              "link": "https://goo.gl/maps/VTaGQTTv3EZGQ2Co7",
-              "alt": "Russia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Russia has three main types of bollards: a very thin type being attached to a stick, one with a black top section and a red vertical reflector below and a German-style bollard."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/bollards.png",
-              "link": "https://goo.gl/maps/GVDB9sHJBTd8978Q7",
-              "alt": "Russia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Near intersections in Russia you will commonly see a very **large number of bollards**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/bollardspam.png",
-              "link": "https://goo.gl/maps/ZGBpUA11k4x4p76q9",
-              "alt": "Russia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Along with containing a large number of bollards, many intersections are **unusually wide** compared to other countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/bigintersections.png",
-              "link": "https://goo.gl/maps/QkpnsbjrHzEwxKCm8",
-              "alt": "Russia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Signposts in Russia often have **black painted bottoms**.",
-            "NOTE: This is also common in Kazakhstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/blacksocks.png",
-              "link": "https://goo.gl/maps/uKrSd1rnudHc6cMK9",
-              "alt": "Russia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "You can often see **concrete support blocks** at the bottom of utility poles, with wooden poles often being raised above ground by the support.",
-            "NOTE: [Similar blocks](https://www.google.com/maps/@48.4300351,17.7728644,3a,32.5y,3.03h,74.13t/data=!3m6!1e1!3m4!1sQ_utNdLPQAxCA1f1l0Jgnw!2e0!7i16384!8i8192?entry=ttu) are found in several Central and Eastern European countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/polebottomblocks.png",
-              "link": "https://www.google.com/maps/@52.1956702,109.8450814,3a,16.4y,292.18h,84.59t/data=!3m6!1e1!3m4!1sOIMbE783tISrhr8eII12Bg!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Russia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Russian pedestrian signs have a simply drawn person and **three stripes**. Signs will commonly have a **bright yellow border**.",
-            "NOTE: Ukraine, Lithuania, Mongolia, Kazakhstan and Kyrgyzstan use the same design."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/pedestriansign.png",
-              "link": "https://goo.gl/maps/T9CAd1bhMmYMgMwN8",
-              "alt": "Russia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Russian pedestrian crossings contain alternating white and...",
-          "text": [
-            "Russian pedestrian crossings contain alternating **white and yellow stripes**.",
-            "NOTE: This is also common in Kazakhstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/zebrapath.png",
-              "link": "https://goo.gl/maps/Yt2XFCGLvtAwyYrDA",
-              "alt": "Russia Russian pedestrian crossings contain alternating white and..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Black and white striped guardrails**, kerbs and bridge barriers are common in russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/blackandwhiteguardrail.png",
-              "link": "https://www.google.com/maps/@53.0086641,46.0641101,3a,43.6y,253.72h,59.73t/data=!3m6!1e1!3m4!1sixMXGbP7YBNyBRqbEbn4fQ!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Russia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Three Generation 3 Street View cars are commonly found in Russia. The two most useful ones for recognising Russia are a [black](https://goo.gl/maps/YnCt2HnsRyQss5Kk8) and a [white](https://goo.gl/maps/MmC3SpuSmhV5ezux9) car, both with a long antenna. You may also see a [short antenna](https://goo.gl/maps/x1ryuJiJL9VjkEWx6) without a visible car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/gen3car.png",
-              "link": "https://goo.gl/maps/YnCt2HnsRyQss5Kk8",
-              "alt": "Russia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "The vast majority of urban housing in Russia are large rectangular apartment buildings made of simple concrete. [Newer buildings](https://goo.gl/maps/qSWTTiaLytipTyBd7) in wealthier areas appear more modern."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/urbanapartmentblock.png",
-              "link": "https://goo.gl/maps/Q8R9taS7PqU1EipQ9",
-              "alt": "Russia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Rural housing in Russia consists mostly of a **basic wooden structure** with metal roofs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/suburbanhousing.png",
-              "link": "https://goo.gl/maps/82i6HKt77YGYev5WA",
-              "alt": "Russia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "This style of richly decorated window frames...",
-          "text": [
-            "This style of **richly decorated window frames** is commonly found on traditional Russian homes, especially on log cabins. They are often painted blue."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/windows.png",
-              "link": "https://goo.gl/maps/NvGEx7dgGnbXjZ346",
-              "alt": "Russia This style of richly decorated window frames..."
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "**Black & white-striped pole shields** are common along highways, especially in European Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/blackandwhitepolemarking.png",
-              "link": "https://www.google.com/maps/@56.1332327,29.6543334,3a,16y,43.78h,81.84t/data=!3m6!1e1!3m4!1sW5Exi0Es9MruYHen7ZQPLQ!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Russia Poles"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "Birch trees, identified by their white peeling bark, have a wide range in Russia. Notably they are almost never found far south or far north in the western part of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/birchtree.png",
-              "link": "https://goo.gl/maps/cWZ3bAys3eYgBR9u5",
-              "alt": "Russia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Birches very close together, as well as forests consisting of **only birches**, are indicative of areas east of the Urals, most commonly between Chelyabinsk Oblast and Novosibirsk Oblast."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/clusteredbirches.png",
-              "link": "https://maps.app.goo.gl/FAAYHNLcaibXTRsC6",
-              "alt": "Russia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Siberian larches are one of the dominant tree species in much of eastern Russia, recognized by their unique **needle-like leaves**. Generally speaking, they become more prevalent the further east you go in the country, as well as at high elevations."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/siberianlarches.png",
-              "link": "https://goo.gl/maps/KmXxwXZ541aFnJc4A",
-              "alt": "Russia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "[Giant butterbur](https://en.wikipedia.org/wiki/Petasites_japonicus) (commonly referred to as Sakhalin cabbage) is very common in Sakhalin Oblast, particularly in the southern half. Related plants can very rarely be found in [Adygea](https://goo.gl/maps/wWv1UwyS1XfNpC4v6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/sakhalincabbage.png",
-              "link": "https://goo.gl/maps/1yHZdYmaYSQkfqeR9",
-              "alt": "Russia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "This type of white flower ([heracleum sosnowskyi](https://en.wikipedia.org/wiki/Heracleum_sosnowskyi)) is most commonly found around Moscow, Komi Republic, and Perm Krai."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/sosnowskyshogweed.png",
-              "link": "https://goo.gl/maps/t7qnYs8rYR53jtas8",
-              "alt": "Russia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Large amounts of the pink or red flower fireweed ([Chamaenerion angustifolium](https://en.wikipedia.org/wiki/Chamaenerion_angustifolium)) typically indicates a northern region of Russia. Similarly, most places north of Moscow commonly have fireweed."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/fireweed.png",
-              "link": "https://maps.app.goo.gl/9YuM4HbtZb4jVX636",
-              "alt": "Russia Regions"
-            }
-          ]
-        },
         {
           "title": "Regions",
           "text": [
@@ -1122,32 +770,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "The Russian olivehttps://en.wikipedia.org/wiki/Elaeagnusangustifolia is typically found along...",
-          "text": [
-            "The [Russian olive](https://en.wikipedia.org/wiki/Elaeagnus_angustifolia) is typically found along the Kazakhstan border."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/russianolive.png",
-              "link": "https://goo.gl/maps/4uayWuR4eLbByvLt6",
-              "alt": "Russia The Russian olivehttps://en.wikipedia.org/wiki/Elaeagnusangustifolia is typically found along..."
-            }
-          ]
-        },
-        {
-          "title": "Lined oak trees, often with a single...",
-          "text": [
-            "**Lined oak trees**, often with a single white stripe around the trunk, are extremely common in Kaliningrad."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/kaliningradtrees.png",
-              "link": "https://goo.gl/maps/qKMUetED6xQTLxwf7",
-              "alt": "Russia Lined oak trees, often with a single..."
-            }
-          ]
-        },
-        {
           "title": "Sparsely planted larches along the road with...",
           "text": [
             "Sparsely **planted larches** along the road with open rolling fields is common in Tatarstan and adjacent federal subjects."
@@ -1157,32 +779,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/tatartrees.png",
               "link": "https://goo.gl/maps/9tK5XfWoYRpQwanBA",
               "alt": "Russia Sparsely planted larches along the road with..."
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Sandy roadsides** are common in Khanty-Mansi and Yamalo-Nenets and adjacent subjects, as well as areas around [Nizhny Novgorod ](https://goo.gl/maps/NSDDrfNaFFCQPF8z5)on the Volga river. Other notable areas are [Karelia](https://goo.gl/maps/qw6yxjAp1TvUTT7S8), [Murmansk](https://goo.gl/maps/t4fzZ21q1MZrQLzG6), and [western Sakha](https://goo.gl/maps/QHWgEJ1kwRXxAEPu7). Beware, however, that sandy roadsides can less commonly be found near rivers in other regions."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/sandyroads.png",
-              "link": "https://maps.app.goo.gl/wWPYyEnJizxSTCTy5",
-              "alt": "Russia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Red soil** is common in the highlighted areas, notably around Izhevsk and Perm, much of Arkhangelsk Oblast, Leningrad Oblast, and Pskov Oblast, and near Volgograd and Astrakhan. Note that this map is by no means exhaustive; red soil can be found almost anywhere in the country near water or iron mines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/redsoil.png",
-              "link": "https://maps.app.goo.gl/o4Zem4m79BcRBUAd9",
-              "alt": "Russia Landscape"
             }
           ]
         },
@@ -1213,58 +809,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "Google Car",
-          "text": [
-            "**Lush** and diverse forests in a **hilly** landscape characterises the noticeably warmer region around Vladivostok. Most of the coverage is overcast and has a white car with a long antenna. Further south, near the tri-border, you will find a more open [rolling hill landscape](https://goo.gl/maps/ErMpfen9KCE4HGHE7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/vladivostokarea.png",
-              "link": "https://goo.gl/maps/jTaoHVhy338mpvur7",
-              "alt": "Russia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The eastern half of the Kolyma Highway going to Magadan features a lot of tall **hills** and **mountains**, usually shrouded in a **haze**. Most of the roads are unpaved and feature **dark gravelly soil**. The haze is not present in the western half."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/magadanlandscape.png",
-              "link": "https://goo.gl/maps/tqqLURWPTNjXw9sp9",
-              "alt": "Russia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A presence of Siberian larches and large mountains on a mostly paved, but sometimes [wide-gravel road](https://goo.gl/maps/ztavuzTw3BXAyNMv6) indicates the main road south of Yakutsk, with [Generation 4 white car](https://goo.gl/maps/4VP2UsVh2FrsQjBg8) appearing north of Berkakit."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/roadtoyakutsk.png",
-              "link": "https://maps.app.goo.gl/bZfDo3ouwhCtNqQh9",
-              "alt": "Russia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Very **hazy coverage** is found east and south of Mirny, especially along the Vilyuy river. The colour of the haze varies, but it is often orange or [white](https://goo.gl/maps/QMfuHapbJnFYAyop6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/sakhahaze.png",
-              "link": "https://goo.gl/maps/uDG4TPTim2cDJeYg6",
-              "alt": "Russia Coverage"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The landscape in Buryatia is very unique, containing open grassy landscape with shrubs and mountains. It is lusher near Baikal, but the mountains persist."
@@ -1287,19 +831,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/buryatiahaze.png",
               "link": "https://goo.gl/maps/6Z3wrbafJNrd62o58",
               "alt": "Russia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The main road of Altai Republic has a black car long antenna driving north **through the Altai Mountains**, often with **foggy or rainy** coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/altairepublic.png",
-              "link": "https://maps.app.goo.gl/XxRFD3abiQUCnqtA8",
-              "alt": "Russia Google Car"
             }
           ]
         },
@@ -1423,19 +954,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "In Generation 3 coverage you will somewhat commonly find unblurred licence plates, featuring a **regional code** on the right side. The codes are generally ordered alphabetically within each [type of federal subject](https://en.wikipedia.org/wiki/Federal_subjects_of_Russia#Types), starting at republics and ending with autonomous okrugs. Therefore, the [Republic of Adygea](https://maps.app.goo.gl/PhX9zVnMQfBCvHQi7) will be represented by 01, and the [Amur Oblast](https://maps.app.goo.gl/AXNwmSJ1vio1pRCo7) by 28, both being the first alphabetical subjects of republics and oblasts respectively. If you encounter a [three digit code](https://maps.app.goo.gl/BiQGFQEG51Xxc7fc7), the second and third digit will form the regional code, in this case 123 becomes 23, for Krasnodar Krai. You may also find the codes written out on the back of [trucks](https://maps.app.goo.gl/NVQNyKpSUXZ3i4LG6) and [vans](https://www.google.com/maps/@56.6511783,66.3012014,3a,15y,5.71h,78.8t/data=!3m6!1e1!3m4!1s8nSDptPKXAhrtGZE6nzskg!2e0!7i13312!8i6656?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/ru_licenceplatecodes.png",
-              "link": "https://www.plonkit.net/images/russia/ru_licenceplatecodes.png",
-              "alt": "Russia Plates"
-            }
-          ]
-        },
-        {
           "title": "These are the bus stops unique to...",
           "text": [
             "These are the bus stops unique to specific federal subjects in Russia. Notably common and memorable ones include Krasnoyarsk Krai, Chuvashia, Tatarstan, and Mari El Republic."
@@ -1462,32 +980,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "Bollards",
-          "text": [
-            "Russian bollards that appear very thin and attached to a stick are usually found in the eastern part of the country, starting around Omsk. Note that [ordinary Russian bollards](https://goo.gl/maps/RnBNJE9kGwChsj9G7) are still plentiful in this part of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/Eastern_bollard.png",
-              "link": "https://maps.app.goo.gl/KRj3vWkaLkH5K2D97",
-              "alt": "Russia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "This **black traffic sign bottom** is primarily found in Stavropol and Chechnya, as well as western Dagestan. Rarely, exceptions can be found in other southern federal subjects such as [Kabardino Balkaria](https://goo.gl/maps/XeKf78CHzYCEtTQX8), but these will typically be uncolored."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/southtrafficsignbottom.png",
-              "link": "https://goo.gl/maps/zwxnrMnKH4jgBTzU6",
-              "alt": "Russia Signs"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "**Clips** on edges of signposts are found in Leningrad and St. Petersburg, and very rarely in Pskov, Novgorod or elsewhere."
@@ -1497,19 +989,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/leningradstpetersburgpedestriansign.png",
               "link": "https://goo.gl/maps/qySyVbfHYLb4HoiB7",
               "alt": "Russia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "**Outer dashed road lines** are usually found throughout Kursk Oblast. An exception can be found in [Tuva Republic](https://goo.gl/maps/h6GYSQrhjBXDWJD39). Rarer exceptions include [the Republic of Karelia](https://goo.gl/maps/PvQvkaH63nHGqvD17), [Primorsky Krai](https://goo.gl/maps/6pXTrSNjaNmVToYF8) and [Khabarovsk Krai](https://goo.gl/maps/34mpJJfXMNBqKnJm9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/kurskroadlines.png",
-              "link": "https://goo.gl/maps/HEcxm3bJHcqDcJ4q8",
-              "alt": "Russia Road Lines"
             }
           ]
         },
@@ -1527,32 +1006,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "These **alternating red and white** poles are mainly found in Ulyanovsk city, but also less commonly in the [greater Nizhny Novgorod area](https://goo.gl/maps/JNLBV3L6cogEaBiCA) as well as somewhat randomly elsewhere in the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/ulyanovskpole.png",
-              "link": "https://goo.gl/maps/NwZMY8wXe9zC7fDL6",
-              "alt": "Russia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **striped red and white** poles are found mostly in Saransk, but also in a few other cities in Mordovia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/saranskpole.png",
-              "link": "https://goo.gl/maps/kfLttxjqBwDdtPxj7",
-              "alt": "Russia Poles"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Some republics of Russia with minority languages use bilingual town entry and directional signs, such as in Bashkortostan and Tatarstan displaying Bashkir and Tatar respectively."
@@ -1566,19 +1019,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "Language",
-          "text": [
-            "**Town names** written in both the Cyrillic and **Latin** alphabets are common near the Baltic border and around Moscow, and to a lesser extent in federal subjects on the Finnish border."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/latintownnames.png",
-              "link": "https://goo.gl/maps/MbMYDGTceL2mav369",
-              "alt": "Russia Language"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "These **brown signs**, pointing to typical tourist attractions, are common in Moscow Oblast and the oblasts bordering it. However, they can also less commonly be seen in city centres or near tourist attractions of [other regions](https://www.google.com/maps/@61.821949,34.3074923,3a,17.8y,22.25h,94.58t/data=!3m6!1e1!3m4!1stZhKu0HYudsYXdctQ9_AyQ!2e0!7i16384!8i8192?entry=ttu)."
@@ -1588,32 +1028,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/browntouristsigns.png",
               "link": "https://goo.gl/maps/pdj5rPVWdodES1eA9",
               "alt": "Russia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Buildings made of **white limestone brick** are indicative of Dagestan, as well as adjacent regions."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/limestonebrick.png",
-              "link": "https://maps.app.goo.gl/Gjowyzxxrf9Wojfa8",
-              "alt": "Russia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Buildings built almost entirely of **red brick** are mostly found south, but other notable exceptions include Magnitogorsk, Orsk, and Omsk."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/redbrick.png",
-              "link": "https://goo.gl/maps/TQrENQEemwc4qTocA",
-              "alt": "Russia Architecture"
             }
           ]
         },
@@ -1640,20 +1054,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/30.png",
               "link": "https://goo.gl/maps/2on5gcGeEgDEG7NJ9",
               "alt": "Russia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "This is the full coverage map of Russia. It can be helpful to know areas where there isn’t any coverage. The coverage is notably very sparse in the east and north.",
-            "You can check out the extent of the official coverage[ on this website](https://sv-map.netlify.app/#base=roadmap&cov=official&zoom=4&center=63.09475846224108%2C101.77734375000001)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/ru_coverage1.png",
-              "link": "https://www.plonkit.net/images/russia/ru_coverage1.png",
-              "alt": "Russia Coverage"
             }
           ]
         },
@@ -1786,32 +1186,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/10.png",
               "link": "https://www.plonkit.net/images/russia/10.png",
               "alt": "Russia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "A large, red brake light is common in Kaliningrad, however it can also be found in some [older coverage](https://goo.gl/maps/bms7QA2bzAr5VLBX8) in western Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/11.png",
-              "link": "https://goo.gl/maps/gfZEabrqUKZDgfiHA",
-              "alt": "Russia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Autumn Generation 3 coverage is common in Kaliningrad, Bryansk, Tula, and Belgorod in western Russia, but Kaliningrad only has autumn coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/12.png",
-              "link": "https://goo.gl/maps/37gLm8BJAfZAUubf9",
-              "alt": "Russia Coverage"
             }
           ]
         },
@@ -1965,19 +1339,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "The road to Okha in northern Sakhalin is unpaved, revealing its very **sandy soil**. The road is surrounded by **short, stunted bushes and trees**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/28.png",
-              "link": "https://goo.gl/maps/s7ZbbiA22SRZxMHR9",
-              "alt": "Russia Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Google Car",
           "text": [
             "The Khabarovsk-Vanino road has a **mountainous landscape** with very **sunny coverage**. It also drives west with a black car with a blurred, long antenna, which helps to confirm."
@@ -2052,19 +1413,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/26.png",
               "link": "https://goo.gl/maps/tmrfzfrMoCE8rFvHA",
               "alt": "Russia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "In the desert-like region west of the Caspian Sea, this completely flat and rural Generation 4 coverage on small poorly-tracked dirt roads can only be found in northern Dagestan and southwestern Astrakhan Oblast."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/ruralgen4desert.png",
-              "link": "https://goo.gl/maps/wLZatgSoH4XRQW3EA",
-              "alt": "Russia Road Lines"
             }
           ]
         },
@@ -2199,19 +1547,6 @@ export const RussiaClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "**Yellow pole plates** attached by a **metal band** are commonly found in Tatarstan. They are found on the majority of poles, but not all."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/39.png",
-              "link": "https://goo.gl/maps/HB79yJrkMnhGpvP69",
-              "alt": "Russia Plates"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "On the main road of Murmansk in generation 4, as well as some roads in Karelia covered in 2018, the vast majority of signposts will have **two yellow bands** wrapped around them."
@@ -2286,19 +1621,6 @@ export const RussiaClue = {
               "url": "https://www.plonkit.net/images/russia/44.png",
               "link": "https://goo.gl/maps/Y7e9A9sXeWnLHApX8",
               "alt": "Russia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "This unique bollard, with a **grey rectangle** and **double red reflectors**, is specific to the P100 in Kostroma Oblast."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/russia/45.png",
-              "link": "https://goo.gl/maps/Mcr4QFiPJLAxVFT6A",
-              "alt": "Russia Bollards"
             }
           ]
         },

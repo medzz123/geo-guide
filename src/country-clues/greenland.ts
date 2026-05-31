@@ -207,46 +207,6 @@ export const GreenlandClue = {
         {
           "title": "Landscape",
           "text": [
-            "The coverage in Greenland is divided into well over fifty small disjoint parts, with different weather conditions, seasons, landmarks and so on. Although the largest concentration is found on the southern half of the **west coast**, coverage can be found scattered along a lot of the coast. Since differentiating between some of them requires a lot of technical information, such as the position of the sun or clouds, this guide will only cover the parts with clear distinctive features, such as a unique Street View vehicle or an easily recognizable mountain.",
-            "Because of the limited coverage, this guide will be structured differently than most other guides. It will be divided into two main sections: one for **land coverage** and one for **boat coverage**. These two sections will each be divided into step 2, for larger towns and boats found in multiple locations, and step 3, for smaller settlements and boats found only in one place."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_coverage.png",
-              "link": "https://www.plonkit.net/images/greenland/gl_coverage.png",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Most locations with coverage will have their own odd and **unique Street View vehicles**, ranging from a [red tractor](https://maps.app.goo.gl/EHBFXWN9aCUpivDLA) to a snowmobile with a [large box](https://maps.app.goo.gl/uZLdPkeR8AV62wox6) at the front."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_vehicles.png",
-              "link": "https://maps.app.goo.gl/9z9ycaPx2UG72yee6",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The Greenlandic landscape is very barren, with **no trees or taller vegetation **and often featuring snow. Mountains and hills are common, with very limited flat areas. On top of that, almost all coverage was taken in coastal areas, so fjords and visible coastlines are very common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_landscape.png",
-              "link": "https://www.google.com/maps/@62.0039014,-49.6662114,3a,75y,32.1h,94.97t,0.41r/data=!3m6!1e1!3m4!1s-sGrkMSkKSrE0u8GiR0AzQ!2e0!7i13312!8i6656",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
             "The city of Sisimiut can be easily recognized by the black snowmobile with side mirrors **pointing straight up**. The coverage is generally very overcast and grey."
           ],
           "images": [
@@ -256,25 +216,51 @@ export const GreenlandClue = {
               "alt": "Greenland Landscape"
             }
           ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The most noticeable feature of the coverage in Aasiaat is the windshield with a **shiny red, white and black **reflection. The large, round side mirrors can also be used to identify the town. The coverage is very sunny and has thick, thawing snow along most of the roads."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/greenland/gl_aasiaat.png",
+              "link": "https://www.google.com/maps/@68.7101754,-52.8388091,2a,90y,259h,56.05t/data=!3m6!1e1!3m4!1sGM7Y-aaCACI_MUVbCCojQA!2e0!7i13312!8i6656",
+              "alt": "Greenland Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Uummannaq has two distinctive features: a **sharp mountain** to the north and a green snowmobile with **large** **black side mirrors**. Neither of the two can be seen on all coverage but at least one can be seen on most."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/greenland/gl_uummannaq.png",
+              "link": "http://google.com/maps/@70.6739544,-52.1279547,3a,90y,69.35h,59.33t,356.48r/data=!3m6!1e1!3m4!1sgdxsb3Bl1CbbhYs93nNJsA!2e0!7i13312!8i6656",
+              "alt": "Greenland Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The coverage in Maniitsoq was taken by a **tractor**, making it very recognizable. The coverage is overcast and fairly snowy."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/greenland/gl_maniitsoq.png",
+              "link": "https://goo.gl/maps/G8rzxwDRpm3A8KWn6",
+              "alt": "Greenland Landscape"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Architecture",
       "tips": [
-        {
-          "title": "Architecture",
-          "text": [
-            "Greenlandic architecture mainly consists of small, **colourful**, simple looking **wooden **houses, which even in cities are typically placed quite sparsely. The major cities have some larger buildings, which normally look fairly minimalistic."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_houses.png",
-              "link": "https://www.plonkit.net/images/greenland/gl_houses.png",
-              "alt": "Greenland Architecture"
-            }
-          ]
-        },
         {
           "title": "Architecture",
           "text": [
@@ -306,19 +292,6 @@ export const GreenlandClue = {
     {
       "title": "Coverage",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "All coverage in Greenland was taken with a **Generation 3 trekker camera**, which was often attached to a variety of vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_trekker.png",
-              "link": "https://maps.app.goo.gl/HRUXfkQntxaS4KYv9",
-              "alt": "Greenland Coverage"
-            }
-          ]
-        },
         {
           "title": "Coverage",
           "text": [
@@ -354,6 +327,19 @@ export const GreenlandClue = {
             {
               "url": "https://www.plonkit.net/images/greenland/gl_narsarsuaq.png",
               "link": "https://www.google.com/maps/@61.1671317,-45.4097747,3a,90y,314.61h,68.74t/data=!3m6!1e1!3m4!1s1JeUkpdblriRy6odNrpBDg!2e0!7i13312!8i6656",
+              "alt": "Greenland Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "Most coverage in Ittoqqortoormiit can be recognized by the brown **wooden box** at the front of the ATV and the driver wearing a **purple beanie**. The ground is mostly grey and stony and the coverage is very sunny."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/greenland/gl_ittoqqortoormiit.png",
+              "link": "https://www.google.com/maps/@70.4875997,-21.9691129,2a,90y,356.18h,84.19t/data=!3m6!1e1!3m4!1sL-12qgscTwjI0iCA-EZYuQ!2e0!7i13312!8i6656",
               "alt": "Greenland Coverage"
             }
           ]
@@ -483,221 +469,12 @@ export const GreenlandClue = {
               "alt": "Greenland overview"
             }
           ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The coverage in Greenland is divided into well over fifty small disjoint parts, with different weather conditions, seasons, landmarks and so on. Although the largest concentration is found on the southern half of the **west coast**, coverage can be found scattered along a lot of the coast. Since differentiating between some of them requires a lot of technical information, such as the position of the sun or clouds, this guide will only cover the parts with clear distinctive features, such as a unique Street View vehicle or an easily recognizable mountain.",
-            "Because of the limited coverage, this guide will be structured differently than most other guides. It will be divided into two main sections: one for **land coverage** and one for **boat coverage**. These two sections will each be divided into step 2, for larger towns and boats found in multiple locations, and step 3, for smaller settlements and boats found only in one place."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_coverage.png",
-              "link": "https://www.plonkit.net/images/greenland/gl_coverage.png",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "All coverage in Greenland was taken with a **Generation 3 trekker camera**, which was often attached to a variety of vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_trekker.png",
-              "link": "https://maps.app.goo.gl/HRUXfkQntxaS4KYv9",
-              "alt": "Greenland Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Most locations with coverage will have their own odd and **unique Street View vehicles**, ranging from a [red tractor](https://maps.app.goo.gl/EHBFXWN9aCUpivDLA) to a snowmobile with a [large box](https://maps.app.goo.gl/uZLdPkeR8AV62wox6) at the front."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_vehicles.png",
-              "link": "https://maps.app.goo.gl/9z9ycaPx2UG72yee6",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Greenlandic architecture mainly consists of small, **colourful**, simple looking **wooden **houses, which even in cities are typically placed quite sparsely. The major cities have some larger buildings, which normally look fairly minimalistic."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_houses.png",
-              "link": "https://www.plonkit.net/images/greenland/gl_houses.png",
-              "alt": "Greenland Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The Greenlandic landscape is very barren, with **no trees or taller vegetation **and often featuring snow. Mountains and hills are common, with very limited flat areas. On top of that, almost all coverage was taken in coastal areas, so fjords and visible coastlines are very common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_landscape.png",
-              "link": "https://www.google.com/maps/@62.0039014,-49.6662114,3a,75y,32.1h,94.97t,0.41r/data=!3m6!1e1!3m4!1s-sGrkMSkKSrE0u8GiR0AzQ!2e0!7i13312!8i6656",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "**Boat trekkers** are very common in Greenland, featuring a variety of different boats."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boats.png",
-              "link": "https://maps.app.goo.gl/facyQEgkg5Vupy8V8",
-              "alt": "Greenland Coverage"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Land coverage",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "While Nuuk is most easily recognized by the **grey Street View car**, it can also be recognized by being the largest city by far."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_nuuk.png",
-              "link": "https://www.google.com/maps/@64.1816978,-51.7109836,3a,90y,29.39h,68.81t/data=!3m6!1e1!3m4!1sKEiI8rrvV-J5nBYEmECROg!2e0!7i13312!8i6656",
-              "alt": "Greenland Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The city of Sisimiut can be easily recognized by the black snowmobile with side mirrors **pointing straight up**. The coverage is generally very overcast and grey."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_sisimiut.png",
-              "link": "https://goo.gl/maps/zPk4A2vs7jWNMBJR9",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Most coverage in Ilulissat can be recognized by the green ATV with black bars and the driver wearing a **beige hat. **Note however that there are some [small sections](https://www.google.com/maps/@?api=1&map_action=pano&pano=MHgi-HGuMNFzyxbnwbMG9g&viewpoint=69.216044%2C-51.120939&heading=309.0825089308934&pitch=-31.444946001086684&fov=133.16482449375943#extra%5Btags%5D=mountains%3A+low&extra%5Btags%5D=car%3A+green%2C+no+%22m%C3%B6ssa%22&extra%5BloadMode%5D=latLng) where the driver does not wear it. The coverage is fairly sunny and bright."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_ilulissat.png",
-              "link": "https://www.google.com/maps/@69.215414,-51.0989825,3a,90y,215.03h,78.77t/data=!3m6!1e1!3m4!1sXv4c_dmlEDYr9u_hIASKMA!2e0!7i13312!8i6656",
-              "alt": "Greenland Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Qaqortoq can be recognized by the **red rectangular car**. The coverage is extremely sunny and the area is greener and less barren than most of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_qaqortoq.png",
-              "link": "https://www.google.com/maps/@60.7187767,-46.0468802,3a,90y,99.27h,71.57t/data=!3m6!1e1!3m4!1sBYKS9CnZ_9h9sv7SpgrQlg!2e0!7i13312!8i6656",
-              "alt": "Greenland Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The most noticeable feature of the coverage in Aasiaat is the windshield with a **shiny red, white and black **reflection. The large, round side mirrors can also be used to identify the town. The coverage is very sunny and has thick, thawing snow along most of the roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_aasiaat.png",
-              "link": "https://www.google.com/maps/@68.7101754,-52.8388091,2a,90y,259h,56.05t/data=!3m6!1e1!3m4!1sGM7Y-aaCACI_MUVbCCojQA!2e0!7i13312!8i6656",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "The coverage in Tasiilaq can be recognized by the ATV with **large grey handguards** on either side. The coverage has a lot of very thin clouds and the area is somewhat green."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_tasiilaq.png",
-              "link": "https://www.google.com/maps/@65.6168991,-37.6468925,3a,90y,180.47h,67.07t/data=!3m6!1e1!3m4!1sNi2xQAbu7QFhyyt8qEIIIw!2e0!7i13312!8i6656",
-              "alt": "Greenland Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Uummannaq has two distinctive features: a **sharp mountain** to the north and a green snowmobile with **large** **black side mirrors**. Neither of the two can be seen on all coverage but at least one can be seen on most."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_uummannaq.png",
-              "link": "http://google.com/maps/@70.6739544,-52.1279547,3a,90y,69.35h,59.33t,356.48r/data=!3m6!1e1!3m4!1sgdxsb3Bl1CbbhYs93nNJsA!2e0!7i13312!8i6656",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Narsaq can be identified by the **thin antenna** seen on the right side of the car. The coverage is very sunny and fairly green."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_narsaq.png",
-              "link": "https://www.google.com/maps/@60.9167485,-46.0524139,3a,90y,168.63h,73.54t/data=!3m6!1e1!3m4!1saOGTALR7r4QJUt_DNxQ5zw!2e0!7i13312!8i6656",
-              "alt": "Greenland Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The coverage in Maniitsoq was taken by a **tractor**, making it very recognizable. The coverage is overcast and fairly snowy."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_maniitsoq.png",
-              "link": "https://goo.gl/maps/G8rzxwDRpm3A8KWn6",
-              "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "The coverage in Narsarsuaq can be recognized by the driver wearing a **black hoodie**. The coverage was taken close to sunset on a very sunny day. There is also a fair amount of small bushes along the road, which is somewhat unusual in Greenland."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_narsarsuaq.png",
-              "link": "https://www.google.com/maps/@61.1671317,-45.4097747,3a,90y,314.61h,68.74t/data=!3m6!1e1!3m4!1s1JeUkpdblriRy6odNrpBDg!2e0!7i13312!8i6656",
-              "alt": "Greenland Coverage"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -721,19 +498,6 @@ export const GreenlandClue = {
               "url": "https://www.plonkit.net/images/greenland/gl_qeqertarsuaq.png",
               "link": "https://www.google.com/maps/@69.2480047,-53.53092,2a,90y,24.45h,64.44t/data=!3m6!1e1!3m4!1s_MhPx0zrXD0c_gBe0NfvQQ!2e0!7i13312!8i6656",
               "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Most coverage in Ittoqqortoormiit can be recognized by the brown **wooden box** at the front of the ATV and the driver wearing a **purple beanie**. The ground is mostly grey and stony and the coverage is very sunny."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_ittoqqortoormiit.png",
-              "link": "https://www.google.com/maps/@70.4875997,-21.9691129,2a,90y,356.18h,84.19t/data=!3m6!1e1!3m4!1sL-12qgscTwjI0iCA-EZYuQ!2e0!7i13312!8i6656",
-              "alt": "Greenland Coverage"
             }
           ]
         },
@@ -764,32 +528,6 @@ export const GreenlandClue = {
           ]
         },
         {
-          "title": "Signs",
-          "text": [
-            "Kangerlussuaq can typically be recognized by the many **streaky clouds** in the sky, combined with the **significant dryness**. The roads near Kangerlussuaq can also be recognized by its [unconventional look](https://goo.gl/maps/aPBPeVSdkdq8d4VD8), with many small bushes, sandy soil with an almost arid climate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_kangerlussuaq.png",
-              "link": "https://www.google.com/maps/@67.0080975,-50.6962695,3a,90y,157.84h,109.3t/data=!3m6!1e1!3m4!1si6jr9OlX0FUR82mwjpVyLQ!2e0!7i13312!8i6656",
-              "alt": "Greenland Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The road east of Kangerlussuaq is easily recognized by the** large white truck**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_e_kangerlussuaq.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=110.68085423645499&map_action=pano&pano=vzD76pqc4ErQZDjwHH9KLw&pitch=-18.582615046973856&viewpoint=67.002825%252C-50.655529#extra%255Btags%255D=car%253A+large%252C+white&extra%255BloadMode%255D=latLng",
-              "alt": "Greenland Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The coverage connecting Sisimiut and Kangerlussuaq is easily recognized by the **thick layer of snow** on and around the road. The sun sets along the road, making the western parts very bright and the eastern parts very dark."
@@ -799,19 +537,6 @@ export const GreenlandClue = {
               "url": "https://www.plonkit.net/images/greenland/gl_w_kangerlussuaq.png",
               "link": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=276.92008079082234&map_action=pano&pano=hMj07a51LCPe_EycBms7-g&pitch=6.224698549303369&viewpoint=66.958607%252C-51.173421#extra%255Btags%255D=sun%253A+w%252C+very+low&extra%255Btags%255D=ground%253A+snow&extra%255BloadMode%255D=latLng",
               "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "To the north of Saattut you can see a wide mountain range **shrouded in clouds**, on the other side of a fjord. The paths covered are mostly dark, muddy dirt roads, and the foliage is mainly yellow grass tufts."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_saattut.png",
-              "link": "https://www.google.com/maps/@70.811864,-51.6313872,3a,90y,352.95h,95.96t/data=!3m6!1e1!3m4!1scDS8k4Ew29Vns3blP7CD_Q!2e0!7i13312!8i6656",
-              "alt": "Greenland Road Lines"
             }
           ]
         },
@@ -877,32 +602,6 @@ export const GreenlandClue = {
               "url": "https://www.plonkit.net/images/greenland/gl_kuummiut.png",
               "link": "https://www.google.com/maps/@65.8654527,-37.0085006,2a,90y,123.18h,105.16t/data=!3m6!1e1!3m4!1szeAwqxbPhJTnebDwJDcDHQ!2e0!7i13312!8i6656",
               "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Unlike most houses in Greenland, the houses in Tiilerilaaq are commonly **grey** rather than colourful. The village can also be recognized by the ground, which is almost entirely made up of smooth, light grey rocks."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_tiilerilaaq.png",
-              "link": "https://www.google.com/maps/@65.8896331,-37.7786783,3a,90y,153.18h,102.06t/data=!3m6!1e1!3m4!1s3nKkDwRISVd3e7KhAiIs9w!2e0!7i13312!8i6656",
-              "alt": "Greenland Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Large, dark grey rocks towering over Niaqornat...",
-          "text": [
-            "Large, **dark grey rocks** towering over Niaqornat can be used to recognize the village."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_niaqornat.png",
-              "link": "https://www.google.com/maps/@70.7900384,-53.6639057,3a,90y,184.83h,111.7t/data=!3m6!1e1!3m4!1sTOlbq0Y2S3qB6ga-0w-SYA!2e0!7i13312!8i6656",
-              "alt": "Greenland Large, dark grey rocks towering over Niaqornat..."
             }
           ]
         },
@@ -984,19 +683,6 @@ export const GreenlandClue = {
               "alt": "Greenland Coverage"
             }
           ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "In Upernavik, the **airport runway** is covered on Street View, making it by far the widest paved road found on Street View in Greenland."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_upernavikrunway.png",
-              "link": "https://goo.gl/maps/CiVwwEA4a91RgWRP6",
-              "alt": "Greenland Road Lines"
-            }
-          ]
         }
       ]
     },
@@ -1013,19 +699,6 @@ export const GreenlandClue = {
               "url": "https://www.plonkit.net/images/greenland/gl_boatwestcoast1.png",
               "link": "https://www.google.com/maps/@68.713121,-52.8785625,2a,90y,330.77h,92.32t/data=!3m6!1e1!3m4!1stX-mOIvh2fLDT-BGGkBvhg!2e0!7i13312!8i6656",
               "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Similar to the previous boat, this one with a **red square cabin** can be found at multiple locations on the west coast, most significantly by and around Akunnaaq."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boatwestcoast2.png",
-              "link": "https://www.google.com/maps/@69.473575,-54.0090546,2a,90y,260.54h,105.85t/data=!3m6!1e1!3m4!1sXj9Sk_g36oSQARB4cw68zw!2e0!7i13312!8i6656",
-              "alt": "Greenland Signs"
             }
           ]
         },
@@ -1056,45 +729,6 @@ export const GreenlandClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "A black and white boat, with a **blue roof**, is found between the towns of Kuummiit and Tasiilaq."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boatkuummiit.png",
-              "link": "https://www.google.com/maps/@65.5929081,-37.4892552,2a,90y,318.8h,92.08t/data=!3m6!1e1!3m4!1ssarbRy0jsFUSLhxKg2-B_g!2e0!7i13312!8i6656",
-              "alt": "Greenland Architecture"
-            }
-          ]
-        },
-        {
-          "title": "This small white boat, with a brown...",
-          "text": [
-            "This small white boat, with a **brown wooden top** and lights and monitoring devices, can be seen between Tiilerilaaq and Tasiilaq."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boatikateq.png",
-              "link": "https://www.google.com/maps/@65.7061097,-37.9529788,2a,90y,358.37h,91.74t/data=!3m6!1e1!3m4!1sSkfEfjjXz9GOeTm8Lou8nQ!2e0!7i13312!8i6656",
-              "alt": "Greenland This small white boat, with a brown..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "A small, **rounded red bow** can be found on a boat going south of Tasiilaq."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boattasiilaq.png",
-              "link": "https://www.google.com/maps/@65.5920905,-37.5892895,2a,90y,161.98h,66.67t/data=!3m6!1e1!3m4!1sYkvpBnwenEoVGVTdvgBqzA!2e0!7i13312!8i6656",
-              "alt": "Greenland Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "This small, **red and black** boat, with multiple people sitting in it, can be found in a fjord far north on the east coast."
@@ -1104,19 +738,6 @@ export const GreenlandClue = {
               "url": "https://www.plonkit.net/images/greenland/gl_boatNE.png",
               "link": "https://www.google.com/maps/@74.4458858,-21.6155703,2a,90y,267.74h,80.47t/data=!3m6!1e1!3m4!1s0NjCimiK6cV59-6BVtYzyQ!2e0!7i13312!8i6656",
               "alt": "Greenland Landscape"
-            }
-          ]
-        },
-        {
-          "title": "This wooden fishing boat is found outside...",
-          "text": [
-            "This **wooden fishing boat **is found outside Ilulissat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boatilulissat.png",
-              "link": "https://www.google.com/maps/@69.2114494,-51.1552805,2a,90y,212.85h,90.39t/data=!3m6!1e1!3m4!1sGS9pNrzVlmKMO4F0fFv3yA!2e0!7i13312!8i6656",
-              "alt": "Greenland This wooden fishing boat is found outside..."
             }
           ]
         },
@@ -1134,32 +755,6 @@ export const GreenlandClue = {
           ]
         },
         {
-          "title": "This large, all white boat can be...",
-          "text": [
-            "This large, **all white** boat can be seen in between Narsarsuaq with the opposing shore."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boatnarsarsuaq.png",
-              "link": "https://www.google.com/maps/@61.1466237,-45.4794865,2a,75y,274.66h,80.45t,0.69r/data=!3m6!1e1!3m4!1sijLOYfBfXeBcazd2n6wssA!2e0!7i13312!8i6656",
-              "alt": "Greenland This large, all white boat can be..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "A **grey** boat is found east of Nuuk."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/greenland/gl_boatnuuk.png",
-              "link": "https://www.google.com/maps/@64.1417206,-51.4017687,2a,90y,315.65h,86.86t/data=!3m6!1e1!3m4!1segxL6nAP4b9_5MW5OtbSaA!2e0!7i13312!8i6656",
-              "alt": "Greenland Regions"
-            }
-          ]
-        },
-        {
           "title": "Google Car",
           "text": [
             "A mostly white boat, with **extremely tall antennas** on the rear can be found going into the fjord east of Nuuk."
@@ -1171,19 +766,6 @@ export const GreenlandClue = {
               "alt": "Greenland Google Car"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends you play this map instead:",
-            "- **A Balanced Greenland - **([map link](https://www.geoguessr.com/maps/62face686a6b3898fa1ca37d)) - 10,000 handpicked locations evenly weighted between 70 unique areas."
-          ],
-          "images": []
         }
       ]
     }

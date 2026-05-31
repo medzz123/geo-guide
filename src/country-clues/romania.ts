@@ -73,12 +73,10 @@ export const RomaniaClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
     "Bollards",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Architecture",
     "Regions",
@@ -99,24 +97,6 @@ export const RomaniaClue = {
               "url": "https://www.plonkit.net/images/romania/ro_dacia.png",
               "link": "https://goo.gl/maps/oVQyRRzaeNiQc1iM9",
               "alt": "Romania Google Car"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Plates",
-      "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Romania uses standard long, **white** European plates with a single **blue strip** on the left."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_licenseplate.png",
-              "link": "https://www.plonkit.net/images/romania/ro_licenseplate.png",
-              "alt": "Romania Plates"
             }
           ]
         }
@@ -178,48 +158,6 @@ export const RomaniaClue = {
         {
           "title": "Poles",
           "text": [
-            "The most common types of utility poles in Romania are **holey poles** with the holes going all the way to the bottom. The holes are typically either quite wide or quite tall.",
-            "NOTE: Poland and Hungary also both use holey poles. [Polish](https://goo.gl/maps/chLemRYUZcz7DDFL6) holey poles do not have holes near the bottom and [Hungarian](https://www.google.com/maps/@47.6425626,20.0330594,3a,75y,313.1h,93.94t/data=!3m6!1e1!3m4!1sKeSZXDk8-kk4EYn1mVYf3Q!2e0!7i16384!8i8192) holey poles generally have smaller holes than in Romania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_holeypole.png",
-              "link": "https://goo.gl/maps/BbXfviWTuSe3G3mDA",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "**Round concrete poles** are also quite common.",
-            "NOTE: These are very similar to poles found in Bulgaria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_undpoles.png",
-              "link": "https://goo.gl/maps/G6uvNCUHkBtGfgxJA",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Trees and poles will often have **white painted bottoms**.",
-            "NOTE: This is also common in Ukraine and parts of Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_whitepaint.png",
-              "link": "https://goo.gl/maps/awJvDpnjiu2YCAci6",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
             "This type of extremely **large yellow pole** sticker is specific to Romania.",
             "Beware that [smaller stickers](https://goo.gl/maps/2Dme6waEUjKguFWWA) are also common and that both [Bulgaria](https://goo.gl/maps/TnBDLBKuq3V8JjLc9) and [Hungary](https://goo.gl/maps/dvBUfMAjvm63LBC17) can have similar ones.",
             "NOTE: The town or city name will typically be written close to the middle of these stickers. In this case Podu Iloaiei is written."
@@ -228,6 +166,20 @@ export const RomaniaClue = {
             {
               "url": "https://www.plonkit.net/images/romania/ro_polesticker.png",
               "link": "https://www.google.com/maps/@47.2158114,27.2663443,3a,23.4y,114.82h,89.75t/data=!3m6!1e1!3m4!1s5D0Z_-G9YQyMHF1LR1toGQ!2e0!7i16384!8i8192?entry=ttu",
+              "alt": "Romania Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Two support bars holding up the metal bar on pole tops, resembling an upside down triangle, can sometimes be found in Romania.",
+            "NOTE: Czechia, Slovakia, Albania and Serbia also feature this pole top."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/romania/ro_trianglepoletop.png",
+              "link": "https://goo.gl/maps/sNjv7tZzxxVfLyXN9",
               "alt": "Romania Poles"
             }
           ]
@@ -288,30 +240,6 @@ export const RomaniaClue = {
               "url": "https://www.plonkit.net/images/romania/ro_blacksignback.png",
               "link": "https://goo.gl/maps/vUnKEU2vkSBUbUFH6",
               "alt": "Romania Signs"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Language",
-      "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "Romanian is a Romance language similar to Italian, containing the following special letters:",
-            "- Ă ă",
-            "- Ș ș",
-            "- Ț ț",
-            "These letters are also found in some other European languages:",
-            "- Â â, used in French, Portuguese and Turkish",
-            "- Î î, used in French, Turkish and Italian"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_language.png",
-              "link": "https://www.plonkit.net/images/romania/ro_language.png",
-              "alt": "Romania Language"
             }
           ]
         }
@@ -534,189 +462,6 @@ export const RomaniaClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "Romania uses standard long, **white** European plates with a single **blue strip** on the left."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_licenseplate.png",
-              "link": "https://www.plonkit.net/images/romania/ro_licenseplate.png",
-              "alt": "Romania Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Romanian is a Romance language similar to Italian, containing the following special letters:",
-            "- Ă ă",
-            "- Ș ș",
-            "- Ț ț",
-            "These letters are also found in some other European languages:",
-            "- Â â, used in French, Portuguese and Turkish",
-            "- Î î, used in French, Turkish and Italian"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_language.png",
-              "link": "https://www.plonkit.net/images/romania/ro_language.png",
-              "alt": "Romania Language"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The most common types of utility poles in Romania are **holey poles** with the holes going all the way to the bottom. The holes are typically either quite wide or quite tall.",
-            "NOTE: Poland and Hungary also both use holey poles. [Polish](https://goo.gl/maps/chLemRYUZcz7DDFL6) holey poles do not have holes near the bottom and [Hungarian](https://www.google.com/maps/@47.6425626,20.0330594,3a,75y,313.1h,93.94t/data=!3m6!1e1!3m4!1sKeSZXDk8-kk4EYn1mVYf3Q!2e0!7i16384!8i8192) holey poles generally have smaller holes than in Romania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_holeypole.png",
-              "link": "https://goo.gl/maps/BbXfviWTuSe3G3mDA",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "**Round concrete poles** are also quite common.",
-            "NOTE: These are very similar to poles found in Bulgaria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_undpoles.png",
-              "link": "https://goo.gl/maps/G6uvNCUHkBtGfgxJA",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Trees and poles will often have **white painted bottoms**.",
-            "NOTE: This is also common in Ukraine and parts of Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_whitepaint.png",
-              "link": "https://goo.gl/maps/awJvDpnjiu2YCAci6",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "This type of extremely **large yellow pole** sticker is specific to Romania.",
-            "Beware that [smaller stickers](https://goo.gl/maps/2Dme6waEUjKguFWWA) are also common and that both [Bulgaria](https://goo.gl/maps/TnBDLBKuq3V8JjLc9) and [Hungary](https://goo.gl/maps/dvBUfMAjvm63LBC17) can have similar ones.",
-            "NOTE: The town or city name will typically be written close to the middle of these stickers. In this case Podu Iloaiei is written."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_polesticker.png",
-              "link": "https://www.google.com/maps/@47.2158114,27.2663443,3a,23.4y,114.82h,89.75t/data=!3m6!1e1!3m4!1s5D0Z_-G9YQyMHF1LR1toGQ!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Two support bars holding up the metal bar on pole tops, resembling an upside down triangle, can sometimes be found in Romania.",
-            "NOTE: Czechia, Slovakia, Albania and Serbia also feature this pole top."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_trianglepoletop.png",
-              "link": "https://goo.gl/maps/sNjv7tZzxxVfLyXN9",
-              "alt": "Romania Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "It is very common to see **waystones** in Romania. They are typically fairly large, with red or blue framing with the road number on the side, or made of actual stone and somewhat rugged-looking. There is also a very small variant which is all white."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_adstones.png",
-              "link": "https://goo.gl/maps/JF79ZuqP1pTPULc7A",
-              "alt": "Romania Signs"
-            }
-          ]
-        },
-        {
-          "title": "While there are many types of roadlines...",
-          "text": [
-            "While there are many types of roadlines in Romania, these outer lines, consisting of **short dashes** with **narrow spaces**, can be a good clue for the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_adlines.png",
-              "link": "https://goo.gl/maps/vvDEgAWWy83Jhzrw6",
-              "alt": "Romania While there are many types of roadlines..."
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Middle lines are often noticeably **thicker** than average. This is especially useful to tell Romania apart from Bulgaria, which generally has [thinner road lines](https://goo.gl/maps/6nK1dEjs41bLrkPt5)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_road_lines.png",
-              "link": "https://goo.gl/maps/LpEu1E3BgmUWUo3A6",
-              "alt": "Romania Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Romanian directional signs are blue, arrow shaped, and have a white border. They will very often display the **road number**, which can be either **red or **[**blue**](https://goo.gl/maps/62EzegUJUrbSQHwQ6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_directionalsigns.png",
-              "link": "https://goo.gl/maps/qvLwKEJp4XvJAVCw7",
-              "alt": "Romania Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The most common type of town entry sign in Romania is a **yellow sign** displaying a speed limit and a city skyline, with a **white sign** displaying the town name below.",
-            "NOTE: The upper sign can also either be [white](https://goo.gl/maps/nAGuvAEn4CDn1iQu5) or [completely absent](https://www.google.com/maps/@43.9295577,23.865666,3a,15y,60.5h,84.85t,358.78r/data=!3m6!1e1!3m4!1sXfkr8gj25si9PKl8IgR9Ew!2e0!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_townentry.png",
-              "link": "https://goo.gl/maps/irNpc2K6AKCA11uv6",
-              "alt": "Romania Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Romanian sign backs are often **black**.",
-            "NOTE: This is also common in Italy, Albania and Germany."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_blacksignback.png",
-              "link": "https://goo.gl/maps/vUnKEU2vkSBUbUFH6",
-              "alt": "Romania Signs"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Romanian chevrons are **red on white**, often with a **yellow frame**.",
@@ -727,20 +472,6 @@ export const RomaniaClue = {
               "url": "https://www.plonkit.net/images/romania/ro_chevron.png",
               "link": "https://goo.gl/maps/YhbpDAkULoAwrhfz5",
               "alt": "Romania Signs"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Romanian bollards are thin and white, with a **red vertical strip** near the top. It is worth noting that bollards in Romania are somewhat rare.",
-            "NOTE: Turkey has a very similar bollard."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_bollard.png",
-              "link": "https://goo.gl/maps/K8CCdAyKfAgDfpBN6",
-              "alt": "Romania Bollards"
             }
           ]
         },
@@ -756,145 +487,12 @@ export const RomaniaClue = {
               "alt": "Romania Signs"
             }
           ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Romanian architecture primarily consists of single-family houses made of stone, typically painted in different pastel colours and with roofs ranging from orange tiles to grey metal. It is also somewhat common to see houses with walls made of [painted square tiles](https://goo.gl/maps/up6x7Wpuc8ovmBk7A) in different patterns."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_architecture.png",
-              "link": "https://goo.gl/maps/tHJ5Sc9yu41SjKrv6",
-              "alt": "Romania Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The Romanian landscape ranges from tall forested mountains and hills in the centre to flat or rolling agricultural landscapes in the south, west and east."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_landscape.png",
-              "link": "https://goo.gl/maps/nKGDnFxQJnYRt18y6",
-              "alt": "Romania Landscape"
-            }
-          ]
-        },
-        {
-          "title": "This type of haystack, typically featuring a...",
-          "text": [
-            "This type of **haystack**, typically featuring a stick going straight through, is very common in Romania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_haystack.png",
-              "link": "https://goo.gl/maps/uHbzkEtLdUkQPMXm7",
-              "alt": "Romania This type of haystack, typically featuring a..."
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Dacia is the most common car brand in Romania, making up more than a quarter of all vehicles in the country.",
-            "NOTE: No other eastern European country has more than 10% Dacias."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_dacia.png",
-              "link": "https://goo.gl/maps/oVQyRRzaeNiQc1iM9",
-              "alt": "Romania Google Car"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "This is an **elevation map** of Romania. The tallest mountains are found in the middle and north of the country, while the south and west are particularly flat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_topography.png",
-              "link": "https://www.plonkit.net/images/romania/ro_topography.png",
-              "alt": "Romania Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Completely flat** agricultural landscapes can be found in the south and west.",
-            "NOTE: If you can see distant hills or mountains to the north, you are likely in the south, and if you see them to the south or east, you are likely in the west."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_flat.png",
-              "link": "https://goo.gl/maps/KkmZhjZYkvGR2nZz8",
-              "alt": "Romania Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "If you see several houses and almost all of them have **orange tiled roofs**, you are likely to be in the western half of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_tiledroofs.png",
-              "link": "https://goo.gl/maps/79Me8TjyVVXhRCeK6",
-              "alt": "Romania Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Similarly, if you see several houses and almost all of them have **metal** or **plastic fake tiled roofs**, you will probably be in the eastern half of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_metalroofsandplasticfaketiles.png",
-              "link": "https://goo.gl/maps/BeQ2EMeJggWHg9VH7",
-              "alt": "Romania Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Villages near the Hungarian border will often be built in the **same style** as villages in Hungary. This style can be summarised as having long, straight streets with single-storey houses being evenly spaced along the road, typically having the short side of the house facing the road. The vast majority of roofs will have orange tiles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_hungarianvillage.png",
-              "link": "https://goo.gl/maps/7tmDUB3Fd1ZtLDn49",
-              "alt": "Romania Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "South of Iași, near the border to Moldova, you can find rolling agricultural valleys with a very specific **north-north-west** to **south-south-east** angle.",
-            "NOTE: Make sure to look for agricultural fields on top of the hills to confirm this region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_eastvalleys.png",
-              "link": "https://goo.gl/maps/p1Xh7RycpT5MViQq7",
-              "alt": "Romania Landscape"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -905,32 +503,6 @@ export const RomaniaClue = {
               "url": "https://www.plonkit.net/images/romania/ro_hungarian.png",
               "link": "https://goo.gl/maps/7n7JwJahPKaVsqEw9",
               "alt": "Romania Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Elaborately **decorated wooden gates** are commonly found in the region of Maramureș."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_maramuresgate.png",
-              "link": "https://goo.gl/maps/9jDbnwWzAEqWgNeq9",
-              "alt": "Romania Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Sunflowers** are primarily found in the far east of the country, and secondly in the far west."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_sunflowers.png",
-              "link": "https://goo.gl/maps/1YFHZVYS2oJURdh67",
-              "alt": "Romania Regions"
             }
           ]
         }
@@ -953,19 +525,6 @@ export const RomaniaClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "The 67C is a mountain road with **all** **yellow road lines**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_67c.png",
-              "link": "https://www.google.com/maps/@45.3551017,23.6507016,3a,90y,178.67h,74.71t/data=!3m6!1e1!3m4!1sDR1XG1S6qs5U-KrtmiFmZA!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Romania Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The 7C is recognisable as going through some of the most **dramatic mountains** in Romania. The highest point on the road is right by the border between Sibiu and Argeș."
@@ -975,19 +534,6 @@ export const RomaniaClue = {
               "url": "https://www.plonkit.net/images/romania/ro_7c.png",
               "link": "https://www.google.com/maps/@45.59196,24.6263706,3a,90y,124.93h,81.93t/data=!3m6!1e1!3m4!1sH6YJZP4ZIOp5rFuCB_aX9Q!2e0!7i16384!8i8192?entry=ttu",
               "alt": "Romania Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "This type of window, shaped like a **squinting eye**, is most commonly found in the city of Sibiu."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/romania/ro_sibiueyes.png",
-              "link": "https://goo.gl/maps/edCzcABfQto3ByQV9",
-              "alt": "Romania Regions"
             }
           ]
         },
@@ -1030,21 +576,6 @@ export const RomaniaClue = {
               "alt": "Romania Landscape"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends the following map instead:",
-            "- **A Balanced Romania **([map link](https://www.geoguessr.com/maps/63e125c558300fd915d01c68)) - 23k+ arbitrarily generated locations in Romania. Not pinpointable.",
-            "In addition, here are some resources to help you practise the Romania:",
-            "- **Plonk It Romania **([map link](https://www.geoguessr.com/maps/661af9b3634807657838b65a)) - This map contains locations for practising each meta in the Plonk It Romania guide from step 2 to 3."
-          ],
-          "images": []
         }
       ]
     }

@@ -78,7 +78,6 @@ export const KazakhstanClue = {
     "Bollards",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Architecture",
     "Coverage",
@@ -107,19 +106,6 @@ export const KazakhstanClue = {
     {
       "title": "Plates",
       "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "When blurred, the standard Kazakh licence plates are mostly white, with a small hint of blue on the left side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/2.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/2.png",
-              "alt": "Kazakhstan Plates"
-            }
-          ]
-        },
         {
           "title": "Plates",
           "text": [
@@ -201,19 +187,6 @@ export const KazakhstanClue = {
     {
       "title": "Bollards",
       "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "A lot of Kazakh infrastructure, from pedestrian signs, poles, houses, to bollards, is very similar to what you see in Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/Russian_Infra_Hint.png",
-              "link": "https://goo.gl/maps/f8m3jyjq9y9K2tzS8",
-              "alt": "Kazakhstan Bollards"
-            }
-          ]
-        },
         {
           "title": "Bollards",
           "text": [
@@ -340,43 +313,8 @@ export const KazakhstanClue = {
       ]
     },
     {
-      "title": "Language",
-      "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "Kazakhstan uses both Cyrillic and Latin alphabets.",
-            "Though sometimes, Russian is used monolingually.",
-            "- The following letters are found in the Kazakh but not Russian alphabet: Ә (Ä), Ғ (Ǵ), Қ (Q), Ң (Ń), Ө (Ö), Ұ (W), Ү (Ü), Һ (H), І (I).",
-            "- Kazakh is related to Turkish, so the Latin text can appear similar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/kz_language.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/kz_language.png",
-              "alt": "Kazakhstan Language"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "Kazakhstan is a big and diverse country, which features a plethora of distinct landscapes like [deserts](https://goo.gl/maps/DWJvw2JjfZTTF2ER9), [grassy steppes](https://goo.gl/maps/FtuwHnxx1cACr5HU9), [mountain passes](https://goo.gl/maps/dnJR7qdEBDQLUkUC9), and [birch forests](https://goo.gl/maps/NTfW9tkDsF2mVbqT8).",
-            "Most strikingly, most of the rural coverage in Kazakhstan is in a very empty, open and mostly flat landscape."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/4.png",
-              "link": "https://goo.gl/maps/2ZRXWjDv81ta425K6",
-              "alt": "Kazakhstan Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -419,6 +357,19 @@ export const KazakhstanClue = {
               "alt": "Kazakhstan Landscape"
             }
           ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "**Sandy **and shrubby **desert-like** landscapes are common in southwestern Kazakhstan."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/kazakhstan/19.png",
+              "link": "https://goo.gl/maps/RaavRUnvoViK259B6",
+              "alt": "Kazakhstan Landscape"
+            }
+          ]
         }
       ]
     },
@@ -456,19 +407,6 @@ export const KazakhstanClue = {
     {
       "title": "Coverage",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "All of the coverage in Kazakhstan was taken with a white pickup truck, which can either be fully visible or mostly blurred."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/3.png",
-              "link": "https://goo.gl/maps/rZ3XDrvPhDHjbVhy8",
-              "alt": "Kazakhstan Coverage"
-            }
-          ]
-        },
         {
           "title": "Coverage",
           "text": [
@@ -635,324 +573,12 @@ export const KazakhstanClue = {
               "alt": "Kazakhstan overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "When blurred, the standard Kazakh licence plates are mostly white, with a small hint of blue on the left side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/2.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/2.png",
-              "alt": "Kazakhstan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Kazakhstan uses both Cyrillic and Latin alphabets.",
-            "Though sometimes, Russian is used monolingually.",
-            "- The following letters are found in the Kazakh but not Russian alphabet: Ә (Ä), Ғ (Ǵ), Қ (Q), Ң (Ń), Ө (Ö), Ұ (W), Ү (Ü), Һ (H), І (I).",
-            "- Kazakh is related to Turkish, so the Latin text can appear similar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/kz_language.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/kz_language.png",
-              "alt": "Kazakhstan Language"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "All of the coverage in Kazakhstan was taken with a white pickup truck, which can either be fully visible or mostly blurred."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/3.png",
-              "link": "https://goo.gl/maps/rZ3XDrvPhDHjbVhy8",
-              "alt": "Kazakhstan Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Kazakhstan is a big and diverse country, which features a plethora of distinct landscapes like [deserts](https://goo.gl/maps/DWJvw2JjfZTTF2ER9), [grassy steppes](https://goo.gl/maps/FtuwHnxx1cACr5HU9), [mountain passes](https://goo.gl/maps/dnJR7qdEBDQLUkUC9), and [birch forests](https://goo.gl/maps/NTfW9tkDsF2mVbqT8).",
-            "Most strikingly, most of the rural coverage in Kazakhstan is in a very empty, open and mostly flat landscape."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/4.png",
-              "link": "https://goo.gl/maps/2ZRXWjDv81ta425K6",
-              "alt": "Kazakhstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "A lot of Kazakh infrastructure, from pedestrian signs, poles, houses, to bollards, is very similar to what you see in Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/Russian_Infra_Hint.png",
-              "link": "https://goo.gl/maps/f8m3jyjq9y9K2tzS8",
-              "alt": "Kazakhstan Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Like Russia, Kazakhstan uses yellow and white...",
-          "text": [
-            "Like Russia, Kazakhstan uses **yellow and white stripes** on their pedestrian crossings. However, unlike Russia the stripes often have white dashes on either side. Sometimes, you can find the [dashes](https://goo.gl/maps/sXKtyw86YGYSEKLY9) without the stripes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/9.png",
-              "link": "https://goo.gl/maps/3Mi2p7jR1KeW1XoS8",
-              "alt": "Kazakhstan Like Russia, Kazakhstan uses yellow and white..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Street Signs in Kazakhstan are often attached to buildings and are **blue **in colour, with white intricate patterns on the top and bottom. They are usually **bilingual or trilingual** and can also contain a **QR code**.",
-            "NOTE: They are often inconsistent, with many designs being found in a single city."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/6.png",
-              "link": "https://maps.app.goo.gl/b3EmA9oRNTjQ4ob67",
-              "alt": "Kazakhstan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Kazakhstan uses a variety of post-Soviet style bollards, as well as ones that resemble Turkish bollards. Notably, the bollards seemingly consisting of two thin bollards attached at a **90° angle** are unique to Kazakhstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/7.png",
-              "link": "https://goo.gl/maps/gi76pxUC4gZeN2ux6",
-              "alt": "Kazakhstan Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The bottom of tree trunks are very often **painted white**.",
-            "NOTE: This is common in several eastern European countries, as well as in parts of Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/8.png",
-              "link": "https://goo.gl/maps/ANcPmXfc6W6q9kVh9",
-              "alt": "Kazakhstan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Unlike neighbouring countries, Kazakhstan primarily uses **yellow and black** chevrons, except on T Intersections, where you will find the more generic [red and white chevrons](https://goo.gl/maps/PBScqLGeZf5WhaJa7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/10.png",
-              "link": "https://goo.gl/maps/wEzLUGufJpVwNdWEA",
-              "alt": "Kazakhstan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Gas pipes are extremely common in Kazakh...",
-          "text": [
-            "Gas pipes are extremely common in Kazakh cities."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/KZ_Pipes.png",
-              "link": "https://goo.gl/maps/TdPVxubp5SYaARVd9",
-              "alt": "Kazakhstan Gas pipes are extremely common in Kazakh..."
-            }
-          ]
-        },
-        {
-          "title": "This ornamental pattern known as the koshkar-muiz...",
-          "text": [
-            "This **ornamental pattern** known as the koshkar-muiz can be found as part of decorations in all kinds of settings in Kazakhstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/5.png",
-              "link": "https://goo.gl/maps/aeqbij7vcqqXyYcm8",
-              "alt": "Kazakhstan This ornamental pattern known as the koshkar-muiz..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Many cities and towns in Kazakhstan have these entrance arcs, which are often quite intricate and ornate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/Screenshot__28778_29.png",
-              "link": "https://goo.gl/maps/sMfbjenxcLdMAZBR9",
-              "alt": "Kazakhstan Regions"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "Coverage in Kazakhstan is fairly limited. While most major roads and cities are covered, coverage on small rural roads is fairly uncommon. As such, knowing which roads have coverage can help narrow down the guess."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/11.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/11.png",
-              "alt": "Kazakhstan Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Kazakhstan can easily be divided into coverage regions based on the season.",
-            "- **Summer **in **western **and** central **Kazakhstan.",
-            "- **Autumn **in the **northeast**.",
-            "- **Winter** in the** southeast.**"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/12.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/12.png",
-              "alt": "Kazakhstan Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Driving directions can help you narrow down...",
-          "text": [
-            "**Driving directions** can help you narrow down your options when you are on a rural road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/Driving_Directions_Map.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/Driving_Directions_Map.png",
-              "alt": "Kazakhstan Driving directions can help you narrow down..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Kazakh area codes are useful to learn, and they generally follow an east to west pattern along three horizontal lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/14.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/14.png",
-              "alt": "Kazakhstan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "You can occasionally spot licence plate codes on the back of [trucks](https://maps.app.goo.gl/tKZW4WNWfm8LC6Bf8) and [buses](https://goo.gl/maps/ShsB6GNeCf3cp4gB6). The codes themselves follow an alphabetical order, with smaller numbers corresponding to regions that start with earlier letters. Note that cars do travel, and as such not all codes are reliable. Buses and smaller utility vehicles are the most reliable."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/15.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/15.png",
-              "alt": "Kazakhstan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "While rarely possible, being able to read the letters under a QR code on a street sign will give you the region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/16.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/16.png",
-              "alt": "Kazakhstan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Kazakhstan is a generally flat country, so getting locations that are hilly or mountainous are useful for narrowing the options.",
-            "For example, the region around Karaganda is often either [quite hilly](https://goo.gl/maps/FjDGLgLundGni8JW9), or you can see [hills in the distance](https://goo.gl/maps/SCZGbpzayibTNtp18).",
-            "Another [notable set of hills](https://goo.gl/maps/8c3KnWMUZDxPyRv69) would be the ones around Aktobe.",
-            "And of course getting bigger mountains will mean you are in the [south](https://goo.gl/maps/5NMT4EMQVSw7s1g27), or [east](https://goo.gl/maps/BdLnnfBacQn6G2XA8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/Terrain_Map_of_kazakhstan.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/Terrain_Map_of_kazakhstan.png",
-              "alt": "Kazakhstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "These **lush birch forests** next to green fields are common in northern Kazakhstan.",
-            "NOTE: This landscape often appears very similar to that found in and around [Omsk Oblast](https://goo.gl/maps/GSSXj16AyYgmrd2L8) in Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/17.png",
-              "link": "https://goo.gl/maps/DXWcypyuT4ycAAPy8",
-              "alt": "Kazakhstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Vast grassy green plains** are found in northwestern Kazakhstan. They are especially common in Akmola and Kostanay regions."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/18.png",
-              "link": "https://goo.gl/maps/KTgpe3A5at44N5Do9",
-              "alt": "Kazakhstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Sandy **and shrubby **desert-like** landscapes are common in southwestern Kazakhstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/19.png",
-              "link": "https://goo.gl/maps/RaavRUnvoViK259B6",
-              "alt": "Kazakhstan Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -1033,34 +659,6 @@ export const KazakhstanClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "The divided section of the **E38** goes **southeast to northwest** from Shymkent to Kyzylorda. The road is made of **asphalt**, and it has **all white road lines**. The landscape varies quite a lot; in the south, it is very [green](https://goo.gl/maps/71g8LgQkJqC4mYJF6) and in the north, it gets [dry, sandy, and shrubby](https://goo.gl/maps/StZ6q6CejmVpK7yg8).",
-            "Driving direction: Both ways"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/25.png",
-              "link": "https://goo.gl/maps/shipQebTjka7isAp7",
-              "alt": "Kazakhstan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The section of the **M36 **going from Karaganda to Almaty can often be recognised by the road being under construction, with a second lane being built. Yellow lines are common. As for the landscape, it’s a wintery dry [steppe](https://en.wikipedia.org/wiki/Steppe), which looks noticeably [orange-brown](https://goo.gl/maps/7KVHpuL59rVgZVNt9).",
-            "Driving direction: **South **from Karaganda."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/26.png",
-              "link": "https://goo.gl/maps/jcDmg59tNtYyNdbaA",
-              "alt": "Kazakhstan Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Between Karaganda and Astana, the **M36 **is now a divided highway, with **yellow outer lines**. The landscape consists of a grassy, sometimes hilly, steppe with an occasional row of trees along the road. Note that the general **southeast to northwest** road angle is important.",
@@ -1075,20 +673,6 @@ export const KazakhstanClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "The** P4/A17** from Astana to Pavlodar is a divided road, generally going **east to west**, through a **hilly steppe landscape** similar to the M36, but is generally less vegetated**. **Most of the road has **outer yellow lines**.",
-            "Driving direction: Both ways"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/28.png",
-              "link": "https://goo.gl/maps/PTiQ8pbB2Lddeh6B8",
-              "alt": "Kazakhstan Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The roads from Kyzylagash to Druzhba feature a unique hilly landscape, which looks **hazy** and [dead](https://goo.gl/maps/n1VjdBCmbX9VsuD7A). On most sections, you will see small mountains either [south](https://goo.gl/maps/71N7jRTVjSDqnhyf8) or [east](https://maps.app.goo.gl/FqttjKAp8RPKJzJ69) of the road.",
@@ -1099,22 +683,6 @@ export const KazakhstanClue = {
               "url": "https://www.plonkit.net/images/kazakhstan/29.png",
               "link": "https://goo.gl/maps/Gea1Y74YinzhydW86",
               "alt": "Kazakhstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The **A26 **goes from Kandyagash to the intersection of M32/E38.",
-            "It has very **bad road quality** throughout, ranging from [poor grainy pavement](https://goo.gl/maps/SutyRPAen8GPgGXP7), to [completely unpaved](https://goo.gl/maps/vAPBAKKBSqP1cY4y5). Apart from the northernmost section, the weather is either cloudy or overcast.",
-            "The landscape consists mostly of flat, semi-arid grassy plains.",
-            "Driving direction: **North **towards Kandyagash. (Mostly)"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/30.png",
-              "link": "https://goo.gl/maps/VsAdsMu2mBuMxHGQ8",
-              "alt": "Kazakhstan Road Lines"
             }
           ]
         },
@@ -1179,85 +747,6 @@ export const KazakhstanClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "These regions/cities have the most useful pole paints you can learn.",
-            "The descriptions will be written from top to bottom:",
-            "- West Kazakhstan Region uses red, white, and black paint.",
-            "- Atyrau Region uses blue, white, and black paint.",
-            "- Akmola region has a very thin layer of red, then white, and a thin layer of black on the bottom.",
-            "- Kostanay uses a thin layer of turqoise, and yellow.",
-            "- Petropavl has a thin layer of white, and light grey.",
-            "- Taraz has red, yellow, and black.",
-            "- Kyzylorda poles have a thin layer of yellow and red, then white.",
-            "- Kyzylorda lamp posts are white, and have turquoise on the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/Kazakhstan_useful_pole_paints_v4.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/Kazakhstan_useful_pole_paints_v4.png",
-              "alt": "Kazakhstan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These pole paints are less useful than the above hint, but still worth learning if you want to master Kazakhstan.",
-            "The descriptions will be written from top to bottom:",
-            "- Rudny has red, yellow, red on the top, with white below it.",
-            "- Kokshetau uses a few designs, but they all have light blue on the bottom, and sometimes, a thin strip, or two, of yellow on top.",
-            "- Shchuchinsk has a thin layer of red, and yellow.",
-            "- Ekibastuz has a thin layer of blue, and white",
-            "- Shymkent poles have a thin layer of yellow and red, then green.",
-            "- Kentau poles have thin layers of blue, yellow, and red, then blue and black below them."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/36.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/36.png",
-              "alt": "Kazakhstan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "These are the most useful to learn bus stops.",
-            "- Atyrau has a **modern design**, with white and** lime/neon green** walls. The bus stop name is prominently written on top.",
-            "- Kostanay uses **simple brown bus stops**, that have a **blue and yellow crest** on one of the glass panes.",
-            "- Petropavl also has brown bus stops, with glass panes on all 3 sides not facing the road. The **roof is angled slightly upwards**.",
-            "- Karaganda uses old looking **turquoise** bus stops, which have a **curved roof**.",
-            "Zhezqazghan has **very wide blue bus stops**, which have **2 sections**; 1 indoors, and one outside. These sections are separated by a door."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/37.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/37.png",
-              "alt": "Kazakhstan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "These cities have buses worth learning.",
-            "- Aktobe uses **orange and black** buses.",
-            "- Zhezqazghan has **orange and white **buses, with “Men ♥ Jezz/Zhez” written on the sides.",
-            "- Astana commonly uses these **white**, **black**, and **green **electric buses.",
-            "- Karaganda uses** turquoise** buses, just like their bus stops.",
-            "- Semey has these **light green** and **white **buses.",
-            "- Almaty uses fully green buses, with white patterns and the city name on the sides. Taraz can use similar buses, but they will have “Taraz” written on the sides instead."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/38.png",
-              "link": "https://www.plonkit.net/images/kazakhstan/38.png",
-              "alt": "Kazakhstan Regions"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "These street signs attached to buildings are generally quite inconsistent, but there are some worth knowing.",
@@ -1271,19 +760,6 @@ export const KazakhstanClue = {
               "url": "https://www.plonkit.net/images/kazakhstan/Kazakhstan_Street_Signs_V3.png",
               "link": "https://www.plonkit.net/images/kazakhstan/Kazakhstan_Street_Signs_V3.png",
               "alt": "Kazakhstan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Yellow boxes **connected to the gas pipes are common outside houses in Shymkent, Turkistan, and Taldykorgan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/42.png",
-              "link": "https://goo.gl/maps/6iy1g2RCDa3wTLJf6",
-              "alt": "Kazakhstan Architecture"
             }
           ]
         },
@@ -1323,32 +799,6 @@ export const KazakhstanClue = {
               "url": "https://www.plonkit.net/images/kazakhstan/41.png",
               "link": "https://goo.gl/maps/QgRWrJZaLaox8Mgy5",
               "alt": "Kazakhstan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Between Kokshetau and Atbasar, the car has a **thin coating of dirt** and dust, which is most visible near the back of the roof."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/49.png",
-              "link": "https://goo.gl/maps/HkqFtvsMUraTFu8x6",
-              "alt": "Kazakhstan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "East of Aktobe, there is a **vertical line of dirt** on the right side of the roof."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kazakhstan/50.png",
-              "link": "https://goo.gl/maps/z4FcHVc7CpP6po76A",
-              "alt": "Kazakhstan Architecture"
             }
           ]
         }

@@ -153,19 +153,6 @@ export const SwedenClue = {
         {
           "title": "Plates",
           "text": [
-            "Swedish **licence plates** are long, white, and have the standard blue EU strip on the left side. Licence plates on taxis have a yellow background instead of white."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/Sweden_License_Plate.png",
-              "link": "https://www.plonkit.net/images/sweden/Sweden_License_Plate.png",
-              "alt": "Sweden Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
             "The highest altitude public road in Sweden, which is a dirt road going straight over a **treeless mountain plateau**, was covered in Generation 4 on a cloudy day during summer.",
             "NOTE: The [highest point](https://maps.app.goo.gl/7qKxyKSU7zahSE3b6) on the road features a parking spot and is right on top of the “Falkvålen” label."
           ],
@@ -182,32 +169,6 @@ export const SwedenClue = {
     {
       "title": "Road Lines",
       "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "On smaller roads, the outer road lines are white and dashed. They are distinctly shorter than the Norwegian dashed lines. In contrast to Norway and Finland, **all** road lines are **white**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vaglinje_liten.png",
-              "link": "https://goo.gl/maps/a1UTXZ6p1msj6tYR9",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The outer road lines on highways look solid from a distance, but are typically divided into **small sections** with a unique pattern, which is different from the solid lines in Finland and Norway. Road lines in Denmark can have a similar pattern, however the individual sections should be [rectangular](https://www.google.se/maps/@55.5061429,9.291442,3a,42.1y,351.24h,40.79t/data=!3m6!1e1!3m4!1sYXulc4vgLFgZ2YVE8d18gQ!2e0!7i16384!8i8192)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vaglinje_motorvag.png",
-              "link": "https://goo.gl/maps/LKskbN8HKCWJBUp68",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
         {
           "title": "Road Lines",
           "text": [
@@ -233,25 +194,38 @@ export const SwedenClue = {
               "alt": "Sweden Road Lines"
             }
           ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "The road to Ritsem can generally be recognised by having a large lake following it on the south, combined with having some of the most **dramatic mountains** seen on Street View in the country. The road is small and **without roadlines**, but still fairly well-paved. It is covered both in summer and in [early spring](https://maps.app.goo.gl/JMCi8nGa6w2UnrR89)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/sweden/ritsem.png",
+              "link": "https://maps.app.goo.gl/cqvPkDsGQTqcThzK8",
+              "alt": "Sweden Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "Most mountain roads in Sweden have been built below the treeline, resulting in small trees being visible on almost all coverage. The only paved road in Sweden above the treeline, with **no visible trees**, can be found on the border between Jämtland and Västerbotten, near the Norwegian border. The coverage was taken during fall, giving the limited vegetation a yellowish brown colour."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/sweden/vildmarksvaegen.png",
+              "link": "https://maps.app.goo.gl/ZDmfr7wDKom6i1ME9",
+              "alt": "Sweden Road Lines"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Bollards",
       "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "Swedish bollards are **black-and-white**, typically with a grey reflector. Reflectors by intersections are commonly [orange](https://www.google.se/maps/@59.8512352,17.453607,3a,15y,166.33h,79.23t/data=!3m6!1e1!3m4!1sCGMaRAFZgTy9i6vPJzOdVw!2e0!7i13312!8i6656) instead. They can be either wedge-shaped, round, or [thin and curved](https://www.google.se/maps/@63.1586703,15.7505356,3a,17.6y,267.59h,81.22t/data=!3m6!1e1!3m4!1sZlG-VuwEFYfbbUAPnZQLUA!2e0!7i16384!8i8192)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/pollare.png",
-              "link": "https://goo.gl/maps/WYuQ1JwxCv1ANoyK9",
-              "alt": "Sweden Bollards"
-            }
-          ]
-        },
         {
           "title": "Bollards",
           "text": [
@@ -288,6 +262,19 @@ export const SwedenClue = {
             {
               "url": "https://www.plonkit.net/images/sweden/pollaretysk.png",
               "link": "https://goo.gl/maps/kZxU8mtRh38diiXP6",
+              "alt": "Sweden Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "**Cylindrical bollards**, with a completely **horizontal black section** near the top, are most commonly found near the west coast and in Värmland and southern Dalarna."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/sweden/pollarerund.png",
+              "link": "https://goo.gl/maps/Hzdpy61j8fyitpG19",
               "alt": "Sweden Bollards"
             }
           ]
@@ -418,24 +405,6 @@ export const SwedenClue = {
     {
       "title": "Language",
       "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "**Swedish** is a North Germanic language that is closely related to Danish and Norwegian. The Swedish alphabet contains the special letters **Å**, **Ä** and **Ö**.",
-            "NOTE: The special letters found in Swedish can also be found in some of the other Northern Germanic languages:",
-            "- Danish uses Å, but not** **Ä or Ö.",
-            "- Norwegian uses Å, but not** **Ä or Ö.",
-            "- Icelandic uses Ö, but not Å or Ä.",
-            "Finnish uses Ä and Ö. Å is also used, but is treated as Swedish. Finnish words are typically longer and often use double vowels, which are very rare in Swedish."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/spr_C3_A5k.png",
-              "link": "https://www.plonkit.net/images/sweden/spr_C3_A5k.png",
-              "alt": "Sweden Language"
-            }
-          ]
-        },
         {
           "title": "Language",
           "text": [
@@ -735,188 +704,6 @@ export const SwedenClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "Swedish **licence plates** are long, white, and have the standard blue EU strip on the left side. Licence plates on taxis have a yellow background instead of white."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/Sweden_License_Plate.png",
-              "link": "https://www.plonkit.net/images/sweden/Sweden_License_Plate.png",
-              "alt": "Sweden Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Swedish** is a North Germanic language that is closely related to Danish and Norwegian. The Swedish alphabet contains the special letters **Å**, **Ä** and **Ö**.",
-            "NOTE: The special letters found in Swedish can also be found in some of the other Northern Germanic languages:",
-            "- Danish uses Å, but not** **Ä or Ö.",
-            "- Norwegian uses Å, but not** **Ä or Ö.",
-            "- Icelandic uses Ö, but not Å or Ä.",
-            "Finnish uses Ä and Ö. Å is also used, but is treated as Swedish. Finnish words are typically longer and often use double vowels, which are very rare in Swedish."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/spr_C3_A5k.png",
-              "link": "https://www.plonkit.net/images/sweden/spr_C3_A5k.png",
-              "alt": "Sweden Language"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "On smaller roads, the outer road lines are white and dashed. They are distinctly shorter than the Norwegian dashed lines. In contrast to Norway and Finland, **all** road lines are **white**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vaglinje_liten.png",
-              "link": "https://goo.gl/maps/a1UTXZ6p1msj6tYR9",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The outer road lines on highways look solid from a distance, but are typically divided into **small sections** with a unique pattern, which is different from the solid lines in Finland and Norway. Road lines in Denmark can have a similar pattern, however the individual sections should be [rectangular](https://www.google.se/maps/@55.5061429,9.291442,3a,42.1y,351.24h,40.79t/data=!3m6!1e1!3m4!1sYXulc4vgLFgZ2YVE8d18gQ!2e0!7i16384!8i8192)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vaglinje_motorvag.png",
-              "link": "https://goo.gl/maps/LKskbN8HKCWJBUp68",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Swedish bollards are **black-and-white**, typically with a grey reflector. Reflectors by intersections are commonly [orange](https://www.google.se/maps/@59.8512352,17.453607,3a,15y,166.33h,79.23t/data=!3m6!1e1!3m4!1sCGMaRAFZgTy9i6vPJzOdVw!2e0!7i13312!8i6656) instead. They can be either wedge-shaped, round, or [thin and curved](https://www.google.se/maps/@63.1586703,15.7505356,3a,17.6y,267.59h,81.22t/data=!3m6!1e1!3m4!1sZlG-VuwEFYfbbUAPnZQLUA!2e0!7i16384!8i8192)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/pollare.png",
-              "link": "https://goo.gl/maps/WYuQ1JwxCv1ANoyK9",
-              "alt": "Sweden Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Snow poles are typically **orange,** with a tall white reflector slightly above the middle of the pole. Some poles have a [second, thinner reflector](https://goo.gl/maps/p7anmAqGD4d4cWpU8) above the normal one.",
-            "NOTE: Finland and Norway both have similar orange snow poles. The reflector on [Finnish poles](https://maps.app.goo.gl/kY4315w9yyRt687A7) is usually much thinner and very close to the top. Norwegian poles typically have either [one](https://maps.app.goo.gl/rLTuiYPRgLYJeuUp7) or [two](https://maps.app.goo.gl/dBmWqWTEEVdaS6A17) slightly thinner reflectors, with one commonly being very close to the [middle](https://www.google.com/maps/@69.2671629,20.5483337,3a,15y,97.03h,80.51t/data=!3m7!1e1!3m5!1sjcbu5SMECpmICprrldDFEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Djcbu5SMECpmICprrldDFEQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D26.576565%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/snostolpe.png",
-              "link": "https://goo.gl/maps/o9YR2TynQoFXYxAc9",
-              "alt": "Sweden Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Swedish utility poles are usually **wooden** and can have a variety of poletops. There is commonly a small black metal cap on the very top, which is only found in Nordic countries.",
-            "NOTE: Norway and Finland also use primarily wooden poles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/elstolpe.png",
-              "link": "https://goo.gl/maps/7jfPnGF6sbvJCa5n8",
-              "alt": "Sweden Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Lamps attached to wooden poles in Sweden are normally mounted slightly **below the** **top **of the pole with a **double bolting**.",
-            "NOTE: Within Scandinavia, [Finland](https://maps.app.goo.gl/LaC1h9f3tY7ovMHDA) also uses double bolting. However, Finland’s lamps are mounted at the top and are much straighter."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/se_lamp.png",
-              "link": "https://maps.app.goo.gl/SPmTFFqBfuNf1QsY6",
-              "alt": "Sweden Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These wooden electricity markers, with a **blue** and a **white stripe** at the top, are often found near utility poles and pylons, and are not found in any other Nordic country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/elmark_C3_B6r.png",
-              "link": "https://maps.app.goo.gl/9E3eCnADrG4mgoZ56",
-              "alt": "Sweden Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Swedish pedestrian signs have **four stripes**. There is notably a version featuring a [female silhouette](https://goo.gl/maps/CQ5b63io5DJoPyxi7).",
-            "NOTE: Finnish and Danish pedestrian signs have five stripes. Norwegian pedestrian signs usually have four stripes, but can also have five."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/herrg_C3_A5rman.png",
-              "link": "https://goo.gl/maps/NmFG8Mcjsm4Fp5dk8",
-              "alt": "Sweden Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Most **directional signs** are blue with a white font and border. A thin arrow shows the direction.",
-            "Yellow signs with a black font and red border are also common. Places showcased on yellow signs are typically very small and thus hard to find on a map.",
-            "NOTE: Norwegian directional signs are yellow or white, and the white arrow on [Finnish signs](https://www.google.com/maps/@60.7722866,25.4511841,3a,15y,300.91h,88.33t/data=!3m7!1e1!3m5!1sQ1aTJO8XBc1Hkb4-DQVc3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DQ1aTJO8XBc1Hkb4-DQVc3g%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D345.10498%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192) is filled in."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vagskylt.png",
-              "link": "https://goo.gl/maps/2tedXrHi1aBy3CRn7",
-              "alt": "Sweden Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Swedish road signs have a **red border** and a **yellow background**.",
-            "NOTE: Finnish road signs have a thin yellow border outside the red one."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vagskyltar.png",
-              "link": "https://goo.gl/maps/b8HHar6D5xA1Y2V77",
-              "alt": "Sweden Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Sweden is the only country in Europe whose chevrons have **yellow arrows** on a **blue **background.",
-            "NOTE: While very rare, yellow on blue chevrons also exist in [Luxembourg](https://www.google.com/maps/@49.6287886,6.1349694,3a,15y,1.97h,71.47t/data=!3m6!1e1!3m4!1s64mNrisMtRf0qKgQ49PAaw!2e0!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/chevron.png",
-              "link": "https://goo.gl/maps/pwpDwG9sTpcsfsF26",
-              "alt": "Sweden Signs"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "On smaller roads, it is common to see these blue signs with a **large white** **M**.",
@@ -972,33 +759,6 @@ export const SwedenClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Houses in the Swedish countryside are most commonly wooden and often painted with a distinct **dark red** [paint](https://en.wikipedia.org/wiki/Falu_red), which is almost exclusively found in Sweden, Norway and Finland.",
-            "Urban architecture is usually modern and made of concrete and bricks, while suburban buildings are commonly freestanding single family houses built of either wood or brick."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/arkitektur.png",
-              "link": "https://goo.gl/maps/qsovxNhaJCSsYr1Q8",
-              "alt": "Sweden Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Sweden has a varied landscape, with a lot of **boreal forests**, small to medium-sized farmlands and many lakes. The northern and western parts of the country are quite mountainous, with long, narrow lakes and rivers, while the southern and eastern parts are generally flatter."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/landskap.png",
-              "link": "https://goo.gl/maps/NHWBZmw5U6SiaMdh9",
-              "alt": "Sweden Landscape"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "This type of traditional wooden fence, made out of thin spaced out vertical tree trunks and slightly diagonal trunks stacked on top of each other, is commonly found in Sweden.",
@@ -1011,146 +771,12 @@ export const SwedenClue = {
               "alt": "Sweden Signs"
             }
           ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The most common car brand in Sweden is **Volvo**, which makes up almost 30% of all passenger cars.",
-            "NOTE: Approximately 10% of all passenger cars in both Norway and Finland are Volvo."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/volvo.png",
-              "link": "https://goo.gl/maps/5hjypFg6hturyxDB7",
-              "alt": "Sweden Google Car"
-            }
-          ]
-        },
-        {
-          "title": "The Swedish church flag has a red...",
-          "text": [
-            "The **Swedish church flag** has a red cross on a yellow background with a crown in the middle, and is often found near churches throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/kyrkflagga.png",
-              "link": "https://www.google.se/maps/@58.7437387,16.738162,3a,15y,231.07h,115.58t/data=!3m7!1e1!3m5!1siTkbN4H2IJwEz-bSLeOyBQ!2e0!5s20220901T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Sweden The Swedish church flag has a red..."
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A **white** street view car with a **long antenna** is featured on a lot of Generation 3 coverage.",
-            "NOTE: A similar car is found on all road coverage in Iceland and is also somewhat common in Finland. While it exists in both Norway and Denmark, it is extremely rare in both."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vitbil.png",
-              "link": "https://goo.gl/maps/9nndZhsoJLZbQabK8",
-              "alt": "Sweden Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Generation 4 coverage in Sweden features three Street View cars: a red, a [white](https://goo.gl/maps/jFYfQX62zK1fawmS8), and a [blue](https://goo.gl/maps/NkeAdUdsDcHsM1i86) car. Each of the cars can be seen with or without a visible antenna.",
-            "NOTE: Only the blue car is found in Norway, Finland and Denmark."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/gen4bil.png",
-              "link": "https://goo.gl/maps/anYXsMZyXGP4p8uB6",
-              "alt": "Sweden Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Sweden has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot.",
-            "NOTE: Most of Northern Europe also has smallcam."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/europe_smallcam.png",
-              "link": "https://maps.app.goo.gl/LMmYcVSVtmNkRM4j8",
-              "alt": "Sweden Coverage"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "**Broad leafed trees**, other than birches, only grow naturally in the southern half of the country, and become increasingly common the further south you get."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/l_C3_B6vtr_C3_A4d.png",
-              "link": "https://goo.gl/maps/jGTwkbnJjemQ33sN7",
-              "alt": "Sweden Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Ferns** are mostly found in southern and central Sweden. It can occasionally be found further north in the east."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/ormbunke.png",
-              "link": "https://goo.gl/maps/gRRT7QJd9mzz4oCz6",
-              "alt": "Sweden Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "While it is possible to see forested mountains in several regions in the country, mountains with **no trees at the top** can only be found in the northwestern parts of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/fjall.png",
-              "link": "https://goo.gl/maps/4o7w3AtGvjEp8A449",
-              "alt": "Sweden Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "This type of vegetation, consisting of thin, **weak-looking boreal trees** and somewhat sandy soil can be found in the far north of Sweden."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/maxnorrvegetation.png",
-              "link": "https://goo.gl/maps/s6TifuFenXiuJVKF6",
-              "alt": "Sweden Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Beech forests**, which can generally be recognised by the barren ground covered in brown leafs, are mainly found in the far south."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/bokskog.png",
-              "link": "https://goo.gl/maps/VXThBpCfoH5jxrDV9",
-              "alt": "Sweden Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -1297,45 +923,6 @@ export const SwedenClue = {
           ]
         },
         {
-          "title": "Traditional Swedish fences are typically made of...",
-          "text": [
-            "Traditional Swedish fences are typically made of thin round tree trunks and branches. However, on Gotland these fences are typically made of larger trunks that have been cut into **sharp-looking wedges**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/gotlandsg%25C3%2583%25C2%25A4rdsg%25C3%2583%25C2%25A5rd.png",
-              "link": "https://maps.app.goo.gl/cTc1ENBtit8zJ2667",
-              "alt": "Sweden Traditional Swedish fences are typically made of..."
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "**Red dirt roads **are mainly found in Dalarna, but can also be found in and around [Kalmar county](https://maps.app.goo.gl/iNr5Hwz9R9n3qFFk6), the border between inland [Norrbotten and Västerbotten](https://maps.app.goo.gl/LcTXCKCnWikCtMo36), and rarely [between lakes Vänern and Vättern](https://maps.app.goo.gl/3cNW4EeYSwH4qBT8A)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/r_C3_B6djord.png",
-              "link": "https://goo.gl/maps/faEtCp65r8HbxMnH9",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Dirt roads which have a **deep grey colour** and are aligned with low, **green grassy vegetation** on either side are commonly found in the northern half of Jämtland. This is mostly found in Generation 4 summer and [Generation 3 fall](https://maps.app.goo.gl/UNRUBAG7jXLcoATR6) coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/gr_C3_A5jord.png",
-              "link": "https://maps.app.goo.gl/pofZqkPaVsScLdr37",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Öland is an **extremely flat** island with a somewhat barren south half with many small bushes, while the [north](https://goo.gl/maps/ptcEZutfK6f7jTEu7) is typically slightly lusher with fewer, but larger bushes and some trees. The island also contains a very large number of small rock walls."
@@ -1371,46 +958,6 @@ export const SwedenClue = {
               "url": "https://www.plonkit.net/images/sweden/metalltak.png",
               "link": "https://www.google.com/maps/@67.6748848,21.6442878,3a,53.6y,54.32h,93.51t/data=!3m6!1e1!3m4!1sSvIal9AIkF9oLKsPPjOVWg!2e0!7i16384!8i8192?entry=ttu",
               "alt": "Sweden Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Houses in Skåne commonly have either a white stone, or a [red brick wall](https://goo.gl/maps/5TZ5nbPgeayZtjgS9) with a **coloured wooden triangle** beneath the roof on the sides. Similar houses with other materials (such as grey brick) for the walls can be found elsewhere in the southern half of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/skanehus.png",
-              "link": "https://goo.gl/maps/NCwMja2eJRXx1wXg9",
-              "alt": "Sweden Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Half-timbered houses** can be found mainly in the southern half of Skåne, but also in the northern half and southern Halland. It can also be found in Visby on rare occasions."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/korsvirke2.png",
-              "link": "https://goo.gl/maps/dj8dUMUdvL6LB3Ed7",
-              "alt": "Sweden Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "A lot of single family houses in Skåne are built out of **red brick**. They typically look slightly older than red brick houses in other parts of the country.",
-            "NOTE: Red brick architecture is also very common in Denmark."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/skanetegel.png",
-              "link": "https://goo.gl/maps/g52SvNWfAkLbcUCJA",
-              "alt": "Sweden Architecture"
             }
           ]
         },
@@ -1563,20 +1110,6 @@ export const SwedenClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "Besides the European highways, there are two types of numbered roads in Sweden, **national roads** (9-99) and **regional roads** (100-404). Numbers typically increase the further northeast you get. These maps are only approximate, since some roads go across many of the regions shown.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/v_C3_A4gnummer_darkmode.webp",
-              "link": "https://www.plonkit.net/images/sweden/v_C3_A4gnummer.png",
-              "alt": "Sweden Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Small **red crosses** marking snowmobile trails can be found throughout the northern half of the country."
@@ -1600,45 +1133,6 @@ export const SwedenClue = {
               "url": "https://www.plonkit.net/images/sweden/dalav_C3_A4g.png",
               "link": "https://goo.gl/maps/VoNExVas8ES2S88u5",
               "alt": "Sweden Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "**Green snow poles** can occasionally be found in the area surrounding Umeå."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/gronasnostolpar.png",
-              "link": "https://goo.gl/maps/PsT4RxJJdBAReUKm8",
-              "alt": "Sweden Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "**Wedge-shaped bollards**, similar to those found in Germany, are most common in the southern regions of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/pollaretysk.png",
-              "link": "https://goo.gl/maps/kZxU8mtRh38diiXP6",
-              "alt": "Sweden Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "**Cylindrical bollards**, with a completely **horizontal black section** near the top, are most commonly found near the west coast and in Värmland and southern Dalarna."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/pollarerund.png",
-              "link": "https://goo.gl/maps/Hzdpy61j8fyitpG19",
-              "alt": "Sweden Bollards"
             }
           ]
         },
@@ -1685,21 +1179,6 @@ export const SwedenClue = {
           ]
         },
         {
-          "title": "Language",
-          "text": [
-            "Some **place name endings** are limited to a certain region. This map shows some common and useful endings.",
-            "Place names are not limited to just villages and towns: local farmsteads and other geographical points of interest are also included.",
-            "The distributions shown on the maps are not 100% definite. Some exceptions exist.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/toponymer_darkmode_v2.png",
-              "alt": "Sweden Language"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "**Sámi bilingual signs** can be found inland in the northern parts of Sweden."
@@ -1723,35 +1202,6 @@ export const SwedenClue = {
               "url": "https://www.plonkit.net/images/sweden/me_C3_A4nkieli.png",
               "link": "https://goo.gl/maps/PcLuX1cTpsixquzC6",
               "alt": "Sweden Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Along the Swedish west coast, and in Skåne, you may find a white Google car with a **blue stripe** on the back.",
-            "NOTE: This car is almost never found outside of Sweden."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/blavitbil.png",
-              "link": "https://goo.gl/maps/X3BVhr5EYgbh1vrP7",
-              "alt": "Sweden Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The first 3-4 (2 in Stockholm) digits of landline phone numbers in Sweden are the **area code**. The map shows the first two digits in every region. Within the regions, the third and fourth digit of area codes typically increase to the northeast.",
-            "NOTE: Mobile phone numbers always begin with 07.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/Phone_numbers_darkmode.png",
-              "link": "https://www.plonkit.net/images/sweden/Phone_numbers.png",
-              "alt": "Sweden Regions"
             }
           ]
         }
@@ -1784,46 +1234,6 @@ export const SwedenClue = {
               "url": "https://www.plonkit.net/images/sweden/99.png",
               "link": "https://www.google.com/maps/@68.1585573,23.0757815,3a,75y,308.55h,79.26t/data=!3m6!1e1!3m4!1sZo-8Pxt65yyRWHueCCZ_eQ!2e0!7i16384!8i8192",
               "alt": "Sweden Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The road to Ritsem can generally be recognised by having a large lake following it on the south, combined with having some of the most **dramatic mountains** seen on Street View in the country. The road is small and **without roadlines**, but still fairly well-paved. It is covered both in summer and in [early spring](https://maps.app.goo.gl/JMCi8nGa6w2UnrR89)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/ritsem.png",
-              "link": "https://maps.app.goo.gl/cqvPkDsGQTqcThzK8",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Most mountain roads in Sweden have been built below the treeline, resulting in small trees being visible on almost all coverage. The only paved road in Sweden above the treeline, with **no visible trees**, can be found on the border between Jämtland and Västerbotten, near the Norwegian border. The coverage was taken during fall, giving the limited vegetation a yellowish brown colour."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/vildmarksvaegen.png",
-              "link": "https://maps.app.goo.gl/ZDmfr7wDKom6i1ME9",
-              "alt": "Sweden Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "The highest altitude public road in Sweden, which is a dirt road going straight over a **treeless mountain plateau**, was covered in Generation 4 on a cloudy day during summer.",
-            "NOTE: The [highest point](https://maps.app.goo.gl/7qKxyKSU7zahSE3b6) on the road features a parking spot and is right on top of the “Falkvålen” label."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/flatruet.png",
-              "link": "https://maps.app.goo.gl/gvwR5cPZuiwVdkwZ8",
-              "alt": "Sweden Plates"
             }
           ]
         },
@@ -2052,33 +1462,6 @@ export const SwedenClue = {
           ]
         },
         {
-          "title": "If you see Västra Götaland bus stops...",
-          "text": [
-            "If you see Västra Götaland bus stops combined with **three blue stripes** as shown in the picture, you are in Kungsbacka municipality.",
-            "NOTE: These same stripes are found on bus stops in all of Halland."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/kungsbackabusstop.png",
-              "link": "https://goo.gl/maps/qu7WJj3xo4JCkmPHA",
-              "alt": "Sweden If you see Västra Götaland bus stops..."
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Trams can be found mostly in **Gothenburg**, secondly in Norrköping and Stockholm, and rarely on Generation 4 coverage in [Lund](https://www.google.se/maps/@55.7155011,13.222239,3a,75y,16.28h,73.57t/data=!3m6!1e1!3m4!1sp9WGu_KdZslw0Y4Aqv0qgw!2e0!7i16384!8i8192)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/sparvagn.png",
-              "link": "https://goo.gl/maps/mYaPyA2naZj6VbUZA",
-              "alt": "Sweden Coverage"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Black bus shelters with this specific design, mainly recognised by the square ridge along the back of the roof, can be found in Västerås and Umeå."
@@ -2224,19 +1607,6 @@ export const SwedenClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "These **small yellow signs** advertising tree felling are commonly found on utility poles and lamp posts in the suburbs of Stockholm. While the phone code for Stockholm is usually written on the signs, it is often difficult to make out [from a distance](https://maps.app.goo.gl/vu1DKvwVwfjsGnEd9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/tr_C3_A4df_C3_A4llningsskylt.png",
-              "link": "https://maps.app.goo.gl/sRaanAaxgpFVjP9G6",
-              "alt": "Sweden Poles"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Sundsvall is known as **Drakstaden** (the Dragon City) in Sweden, which can be seen referenced in the form of dragon statues in the central parts of the city, and on signs."
@@ -2351,19 +1721,6 @@ export const SwedenClue = {
               "url": "https://www.plonkit.net/images/sweden/holmon.png",
               "link": "https://goo.gl/maps/RYqDay3Aq81vpabGA",
               "alt": "Sweden Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Foskrosvägen, on the border between Jämtland and Dalarna, can be recognised by the slightly red dirt on the road, combined with several **water smudges** on the camera. A good way to find the road when scanning is to look for the “Reindeer spot point” right on the county border."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/sweden/foskrosv_C3_A4gen.png",
-              "link": "https://goo.gl/maps/FUoYRhf2pcdWemYK8",
-              "alt": "Sweden Coverage"
             }
           ]
         }

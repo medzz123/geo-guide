@@ -91,20 +91,6 @@ export const NamibiaClue = {
         {
           "title": "Google Car",
           "text": [
-            "All the coverage in Namibia was taken with a white pickup truck with a short antenna on the front. Notably, this antenna will always lean slightly to the left.",
-            "NOTE: No other country in southern Africa has a similar car. The most similar country with this type of car is Oman, however the antenna there will never lean left, but often clearly [to the right](https://maps.app.goo.gl/bwxUiVzL65G2i3d77)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/2.png",
-              "link": "https://maps.app.goo.gl/FLz6EG2oFiey54cMA",
-              "alt": "Namibia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
             "Knowing where the Google car is blurred, will help narrow down your options significantly. Below are some useful use cases:",
             "- In the north, the blurred car is only northwest of [Ondangwa](https://maps.app.goo.gl/3ket3j3jLiuT1ySR7).",
             "- The blurred car on an unpaved road likely places you on one of many [sideroads](https://maps.app.goo.gl/YjAFjGq1fFnfehcR7) of the B1 or other major roads, or in a town.",
@@ -142,20 +128,6 @@ export const NamibiaClue = {
         {
           "title": "Plates",
           "text": [
-            "Namibia primarily uses yellow front and back licence plates. Vanity plates are white, with blue lettering.",
-            "NOTE: Botswana and Namibia are the only countries in southern Africa where yellow rear plates are predominantly found."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/0.png",
-              "link": "https://www.plonkit.net/images/namibia/0.png",
-              "alt": "Namibia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
             "After the road climbs onto the plateau east of Kuibis, the landscape will seem mostly flat until you reach the [intersection with the D432](https://maps.app.goo.gl/LnyJcQw9FVFwQbiRA), but you can notice the road having a [gradual incline](https://maps.app.goo.gl/uKxxvnhYT7HLAqBk7) for long stretches. The soil around is very red in colour, with limited shrubbery or signs of life. The weather is clear, with some clouds far in the distance."
           ],
           "images": [
@@ -171,20 +143,6 @@ export const NamibiaClue = {
     {
       "title": "Road Lines",
       "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "Most roads in Namibia use single **yellow outer lines **and white centre lines.",
-            "NOTE: The other southern African countries also use single yellow outer lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/3.png",
-              "link": "https://maps.app.goo.gl/NSTzQw2GM3XcXHyXA",
-              "alt": "Namibia Road Lines"
-            }
-          ]
-        },
         {
           "title": "Road Lines",
           "text": [
@@ -223,6 +181,20 @@ export const NamibiaClue = {
             {
               "url": "https://www.plonkit.net/images/namibia/29.png",
               "link": "https://maps.app.goo.gl/Ys5Nx1Ru5BtBpoAZ8",
+              "alt": "Namibia Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "This desolate paved road goes in a general E-SE direction through a fairly flat and dry landscape. Small clouds dot the sky. The shrubbery is quite green for the most part, especially in the [east](https://maps.app.goo.gl/J4HCC4RMMBLLk4659), which is also very hilly.",
+            "NOTE: The easiest way to tell it apart from parts of the B4 is the eastwards driving direction on this road, as opposed to westwards on the B4."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/namibia/35.png",
+              "link": "https://maps.app.goo.gl/1jTBYvJfSoZvaTNj7",
               "alt": "Namibia Road Lines"
             }
           ]
@@ -266,22 +238,6 @@ export const NamibiaClue = {
         {
           "title": "Signs",
           "text": [
-            "Namibia uses **green** directional signs with the road number in yellow.",
-            "NOTE: Green directional signs with yellow road numbers are also used in South Africa and the other Southern African countries.",
-            "- Namibia uses A, B, C, D, M, and sometimes F-roads.",
-            "- South Africa uses N and R-roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/5.png",
-              "link": "https://i.imgur.com/vq2Kwki.jpeg",
-              "alt": "Namibia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "D-roads are grouped into four regions based on their **first digit**.",
             "Three-digit road numbers (e.g. [D203](https://maps.app.goo.gl/HJnq9L8fJT87JCJB6)) are found in the far south. As you move further north, you will encounter four-digit numbers beginning with 1, 2 and finally 3."
           ],
@@ -317,6 +273,19 @@ export const NamibiaClue = {
             {
               "url": "https://www.plonkit.net/images/namibia/64.png",
               "link": "https://maps.app.goo.gl/7fLcGm8PLgh44Uk37",
+              "alt": "Namibia Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Oranjemund is a well-off gridded city with almost exactly east to west streets, with an abundance of** planted vegetation** all around the city. Multiple [Norfolk pines](https://maps.app.goo.gl/P3Su4Jd2vpxZqgDCA) can be seen almost everywhere. Streets are well organised with E-W avenues and N-S streets, which can be seen written on [small blue markers](https://maps.app.goo.gl/3pZrSDpLRb4ZCa5E6) next to the gates or on [street signs](https://maps.app.goo.gl/zQgR2ugtF3LkBsoZ7), which have varying designs."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/namibia/68.png",
+              "link": "https://maps.app.goo.gl/Li7PrUx5c7512FKx8",
               "alt": "Namibia Signs"
             }
           ]
@@ -419,20 +388,6 @@ export const NamibiaClue = {
     {
       "title": "Coverage",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "Namibia drives on the **left side** of the road.",
-            "NOTE: This is also true for other countries in southern and eastern Africa. However all Middle Eastern countries with coverage drive on the right side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/1.jpeg",
-              "link": "https://maps.app.goo.gl/xcTAfUCqYWD4ApwTA",
-              "alt": "Namibia Coverage"
-            }
-          ]
-        },
         {
           "title": "Coverage",
           "text": [
@@ -551,259 +506,12 @@ export const NamibiaClue = {
               "alt": "Namibia overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Namibia primarily uses yellow front and back licence plates. Vanity plates are white, with blue lettering.",
-            "NOTE: Botswana and Namibia are the only countries in southern Africa where yellow rear plates are predominantly found."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/0.png",
-              "link": "https://www.plonkit.net/images/namibia/0.png",
-              "alt": "Namibia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Namibia drives on the **left side** of the road.",
-            "NOTE: This is also true for other countries in southern and eastern Africa. However all Middle Eastern countries with coverage drive on the right side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/1.jpeg",
-              "link": "https://maps.app.goo.gl/xcTAfUCqYWD4ApwTA",
-              "alt": "Namibia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "All the coverage in Namibia was taken with a white pickup truck with a short antenna on the front. Notably, this antenna will always lean slightly to the left.",
-            "NOTE: No other country in southern Africa has a similar car. The most similar country with this type of car is Oman, however the antenna there will never lean left, but often clearly [to the right](https://maps.app.goo.gl/bwxUiVzL65G2i3d77)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/2.png",
-              "link": "https://maps.app.goo.gl/FLz6EG2oFiey54cMA",
-              "alt": "Namibia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Most roads in Namibia use single **yellow outer lines **and white centre lines.",
-            "NOTE: The other southern African countries also use single yellow outer lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/3.png",
-              "link": "https://maps.app.goo.gl/NSTzQw2GM3XcXHyXA",
-              "alt": "Namibia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Namibia uses **green** directional signs with the road number in yellow.",
-            "NOTE: Green directional signs with yellow road numbers are also used in South Africa and the other Southern African countries.",
-            "- Namibia uses A, B, C, D, M, and sometimes F-roads.",
-            "- South Africa uses N and R-roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/5.png",
-              "link": "https://i.imgur.com/vq2Kwki.jpeg",
-              "alt": "Namibia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Namibia used to be a German colony, and as such, you can still notice the German influence, most notably in their place names. Some older buildings can have a German style as well."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/4.png",
-              "link": "https://maps.app.goo.gl/Y2nFJTqGq5zxWkqcA",
-              "alt": "Namibia Language"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "You can spot these **small stone bollards** at intersections and on the sides of roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/6.png",
-              "link": "https://maps.app.goo.gl/wjGZsaqNkseoF1ut5",
-              "alt": "Namibia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Round metal bins, often painted green and...",
-          "text": [
-            "Round metal bins, often painted green and white like the Nigerian flag, can be spotted at many rest stops and intersections.",
-            "NOTE: On some roads, the bins are blue and white."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/9.png",
-              "link": "https://maps.app.goo.gl/X78Pg7m4JTdBUkoeA",
-              "alt": "Namibia Round metal bins, often painted green and..."
-            }
-          ]
         }
       ]
     },
     {
       "title": "Region-specific clues",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "The coverage in Namibia is mostly limited to main roads, with only sparse coverage on minor roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/10.png",
-              "link": "https://www.plonkit.net/images/namibia/10.png",
-              "alt": "Namibia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "This map shows pavement type as well as the driving direction on all major roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/11.png",
-              "link": "https://www.plonkit.net/images/namibia/11.png",
-              "alt": "Namibia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Namibian area codes are a simple way to get the right region or city on urban rounds."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/12.png",
-              "link": "https://www.plonkit.net/images/namibia/12.png",
-              "alt": "Namibia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Knowing where the Google car is blurred, will help narrow down your options significantly. Below are some useful use cases:",
-            "- In the north, the blurred car is only northwest of [Ondangwa](https://maps.app.goo.gl/3ket3j3jLiuT1ySR7).",
-            "- The blurred car on an unpaved road likely places you on one of many [sideroads](https://maps.app.goo.gl/YjAFjGq1fFnfehcR7) of the B1 or other major roads, or in a town.",
-            "- The paved [road](https://maps.app.goo.gl/XAwT2QndeUVDCXQZ7) between Nordoewer and Aussenkehr has the car unblurred.",
-            "- Other notable paved roads not north of Windhoek include the [C20](https://maps.app.goo.gl/YbHyk9drxFNRG9Z66), [C22 ](https://maps.app.goo.gl/nwf92i6mjCV5vtJr8)(south of Gobabis), [C23](https://maps.app.goo.gl/Kz9nib6UPgXAL5oz7).",
-            "NOTE: The blurred car strongly correlates with a 2024 copyright. Use with caution."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/12A.png",
-              "link": "https://www.plonkit.net/images/namibia/12A.png",
-              "alt": "Namibia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "D-roads are grouped into four regions based on their **first digit**.",
-            "Three-digit road numbers (e.g. [D203](https://maps.app.goo.gl/HJnq9L8fJT87JCJB6)) are found in the far south. As you move further north, you will encounter four-digit numbers beginning with 1, 2 and finally 3."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/Namibia_D-Roads_Infographic.png",
-              "alt": "Namibia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Roads surrounded by** tall and lush trees** on both sides will generally place you in the north of the country. The more trees and the greener they are, the further north-northeast you should click."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/13.png",
-              "link": "https://maps.app.goo.gl/cgTtFp5QSxsfyovF9",
-              "alt": "Namibia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "A pocket around Oshakati, and to a lesser extent the rest of the north features more **agricultural land** and has very light sandy soil. This map also closely lines up with where you can find the [Hyphaene ](https://maps.app.goo.gl/VFNb81hmYCpw6gNY8)[Petersiana ](https://maps.app.goo.gl/VFNb81hmYCpw6gNY8)[fan palms](https://maps.app.goo.gl/VFNb81hmYCpw6gNY8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/14.png",
-              "link": "https://maps.app.goo.gl/SMy2pH8fmWTahzgJA",
-              "alt": "Namibia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The landscape east of Windhoek closely resembles that of Botswana, with a generally **flat and dry** landscape, featuring** **slightly reddish soil, short **golden grass** and shrubbery, as well as acacia trees."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/15.png",
-              "link": "https://maps.app.goo.gl/9p5xKDLNLppPU5R77",
-              "alt": "Namibia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Dry mountains and hills dominate much of the western and southern parts of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/16.png",
-              "link": "https://maps.app.goo.gl/8XD4rPpHKgqUgPBU6",
-              "alt": "Namibia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Further northwest, you’ll find a somewhat greener region, where the mountains and hills will be covered in shrubbery and trees."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/17.png",
-              "link": "https://maps.app.goo.gl/bJd3LPu5e5iSXNEa6",
-              "alt": "Namibia Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -877,19 +585,6 @@ export const NamibiaClue = {
         {
           "title": "Regions",
           "text": [
-            "Vineyards are exclusively found around Aussenkehr on the South African border in the south."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/23.png",
-              "link": "https://maps.app.goo.gl/QxDqbNcciS2QcEyG6",
-              "alt": "Namibia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "These somewhat baity agricultural fields can be found just west of Mariental."
           ],
           "images": [
@@ -910,61 +605,6 @@ export const NamibiaClue = {
               "url": "https://www.plonkit.net/images/namibia/25.png",
               "link": "https://maps.app.goo.gl/SgrLNm9VAapacYj86",
               "alt": "Namibia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Road B1 south of Grunau is a desolate paved road going generally N-NE through a desert landscape with only very low and dry vegetation."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/26.png",
-              "link": "https://maps.app.goo.gl/H9K9ZD1WTTJmjsEp7",
-              "alt": "Namibia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Outer yellow road lines are missing on the following sections of the B1:",
-            "- Between Grunau and Keetmanshoop, the landscape becomes hillier, and the road quality deteriorates in general.",
-            "- This [small section](https://maps.app.goo.gl/enThcbiWS4e37Xx19) north of Keetmanshoop is cloudy.",
-            "- The [third section](https://maps.app.goo.gl/YS14ugmHJm9DeBqx5) is between Gibeon and Mariental, which is flat, and goes in a N-NE direction."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/27.png",
-              "link": "https://maps.app.goo.gl/4CT9yk2C96GtS9Uw8",
-              "alt": "Namibia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Between Gibeon and Tses, the road has...",
-          "text": [
-            "Between Gibeon and Tses, the road has wider shoulders, and the pavement quality in general is excellent."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/28.png",
-              "link": "https://maps.app.goo.gl/WbvauGR4UyL43JGRA",
-              "alt": "Namibia Between Gibeon and Tses, the road has..."
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The section of road B1 between Mariental and Rehoboth can be recognised by a combination of the generic **arid steppe landscape**, the **paved road**, and mainly the distinct** NW bound road angle**. It can also help to know that the sun is in the SE for this section."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/29.png",
-              "link": "https://maps.app.goo.gl/Ys5Nx1Ru5BtBpoAZ8",
-              "alt": "Namibia Road Lines"
             }
           ]
         },
@@ -1035,20 +675,6 @@ export const NamibiaClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "This desolate paved road goes in a general E-SE direction through a fairly flat and dry landscape. Small clouds dot the sky. The shrubbery is quite green for the most part, especially in the [east](https://maps.app.goo.gl/J4HCC4RMMBLLk4659), which is also very hilly.",
-            "NOTE: The easiest way to tell it apart from parts of the B4 is the eastwards driving direction on this road, as opposed to westwards on the B4."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/35.png",
-              "link": "https://maps.app.goo.gl/1jTBYvJfSoZvaTNj7",
-              "alt": "Namibia Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The B4 east of Luderitz has almost blindingly **bright sandy soil**. The landscape close to the road is generally flat, with hills and mountains in the distance. Close to Luderitz the landscape becomes [much hillier](https://maps.app.goo.gl/UACZ8efgUyMThsrF9). A railway follows the road closely on the south side for most of this section."
@@ -1071,19 +697,6 @@ export const NamibiaClue = {
               "url": "https://www.plonkit.net/images/namibia/Namibia_B4-2.png",
               "link": "https://maps.app.goo.gl/93mCMVJtiDhuySi29",
               "alt": "Namibia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "After the road climbs onto the plateau east of Kuibis, the landscape will seem mostly flat until you reach the [intersection with the D432](https://maps.app.goo.gl/LnyJcQw9FVFwQbiRA), but you can notice the road having a [gradual incline](https://maps.app.goo.gl/uKxxvnhYT7HLAqBk7) for long stretches. The soil around is very red in colour, with limited shrubbery or signs of life. The weather is clear, with some clouds far in the distance."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/38.png",
-              "link": "https://maps.app.goo.gl/iVoPaEwhN5VPzEmm7",
-              "alt": "Namibia Plates"
             }
           ]
         },
@@ -1192,19 +805,6 @@ export const NamibiaClue = {
               "url": "https://www.plonkit.net/images/namibia/46.png",
               "link": "https://maps.app.goo.gl/wL6VUXx7e2iwXz9u9",
               "alt": "Namibia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "The C34 looks like darker streaks of black sand surrounded by more sand as far as the eye can see. Some coastal shrubbery, and even the [coast](https://maps.app.goo.gl/iYzuJD2UtEKEzAh27) can be seen in some parts. [Unique white bollards](https://maps.app.goo.gl/A9USD6ywaLZWggcN8) with two yellow reflectors on the front, and one red in the back can also be seen along the road at regular intervals."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/47.png",
-              "link": "https://maps.app.goo.gl/ys917tUSZ7V6umZy8",
-              "alt": "Namibia Bollards"
             }
           ]
         },
@@ -1327,20 +927,6 @@ export const NamibiaClue = {
           ]
         },
         {
-          "title": "Google Car",
-          "text": [
-            "The C44 is a** wide unpaved sandy road** lined with trees, easily recognised from the general E-SE angle, and the **westbound driving direction**.",
-            "NOTE: The [D3301](https://maps.app.goo.gl/wdf7hyQBdEfnhgXr8), a bit further south looks similar, but the soil is generally much redder, and the car is driving east."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/57.png",
-              "link": "https://maps.app.goo.gl/CvYEeAgLcMqUHZvz7",
-              "alt": "Namibia Google Car"
-            }
-          ]
-        },
-        {
           "title": "Road Lines",
           "text": [
             "The C47 is an **even wider unpaved road**, with slightly** redder soil** when compared to the C44. The road angle on this road is NE bound, with a SW driving direction. You can also look for either a [clear sky](https://maps.app.goo.gl/x2NHYCZsMCs2hKNz7), or [wispy clouds](https://maps.app.goo.gl/cdo4jnSLg1kDQJoz9)."
@@ -1399,20 +985,6 @@ export const NamibiaClue = {
           ]
         },
         {
-          "title": "Signs",
-          "text": [
-            "Windhoek is by far the largest city in Namibia, as well as the richest, with many [high rise buildings](https://maps.app.goo.gl/2FUr1J4JEF7QN7D96) near downtown. Affluent and often gated single family houses are a common sight on the sides of hilly streets, which are often well marked with simple white street signs.",
-            "In the northwest of the city you’ll find the [slums ](https://maps.app.goo.gl/SfddeDfHCm1tL2Ds6)dotting the hills."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/62.png",
-              "link": "https://maps.app.goo.gl/DYcioXTHVP9q34xy9",
-              "alt": "Namibia Signs"
-            }
-          ]
-        },
-        {
           "title": "Road Lines",
           "text": [
             "Gobabis is a big** north-south gridded** city in the desert, with** red soil** permeating the landscape and roads, which are very often unpaved. A faint green ridge is sometimes visible to the north to northwest. The [street signs](https://maps.app.goo.gl/yc9JLDVMMF9166Go7), while rare, are also green, with silver framing on the top and bottom. [Blue bins](https://maps.app.goo.gl/nEKjHa3Md6L2VEtr8) are also a good clue for Gobabis."
@@ -1422,21 +994,6 @@ export const NamibiaClue = {
               "url": "https://www.plonkit.net/images/namibia/63.png",
               "link": "https://maps.app.goo.gl/RVdrwH5FYBjQNk8c6",
               "alt": "Namibia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The coastal cities of Swakopmund and Walvis Bay are **flat **and often have** sandy streets**, with **palms** and Norfolk pines planted around. Street and road signs often have [square-shaped signposts](https://maps.app.goo.gl/wrtSH3P4gsmkEgXy6).",
-            "Road angles can be used to line up parts of the city, but a northeast bound angle is common in both.",
-            "These [white and blue plastic containers](https://maps.app.goo.gl/tqK6dNW6hqXnVhBR9) are common in Swakopmund, as are [yellow lamp posts](https://maps.app.goo.gl/8DgByYnCTwNfJgTG7) in downtown areas."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/64.png",
-              "link": "https://maps.app.goo.gl/7fLcGm8PLgh44Uk37",
-              "alt": "Namibia Signs"
             }
           ]
         },
@@ -1455,19 +1012,6 @@ export const NamibiaClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Langstrand is a small resort town between Swakopmund and Walvis Bay with **pink brick sidewalks** next to essentially every road. The weather is always **overcast **and gloomy."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/66.png",
-              "link": "https://maps.app.goo.gl/stCsjFDmv1B5w3Tp9",
-              "alt": "Namibia Architecture"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "**Light coloured rocky hillsides** are everywhere in the hilly coastal town of Luderitz."
@@ -1477,19 +1021,6 @@ export const NamibiaClue = {
               "url": "https://www.plonkit.net/images/namibia/67.png",
               "link": "https://maps.app.goo.gl/kKEgNqVFjuoe1Vgc7",
               "alt": "Namibia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Oranjemund is a well-off gridded city with almost exactly east to west streets, with an abundance of** planted vegetation** all around the city. Multiple [Norfolk pines](https://maps.app.goo.gl/P3Su4Jd2vpxZqgDCA) can be seen almost everywhere. Streets are well organised with E-W avenues and N-S streets, which can be seen written on [small blue markers](https://maps.app.goo.gl/3pZrSDpLRb4ZCa5E6) next to the gates or on [street signs](https://maps.app.goo.gl/zQgR2ugtF3LkBsoZ7), which have varying designs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/namibia/68.png",
-              "link": "https://maps.app.goo.gl/Li7PrUx5c7512FKx8",
-              "alt": "Namibia Signs"
             }
           ]
         },

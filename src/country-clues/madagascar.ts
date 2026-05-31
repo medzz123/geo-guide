@@ -74,7 +74,6 @@ export const MadagascarClue = {
   "categories": [
     "Google Car",
     "Road Lines",
-    "Signs",
     "Landscape",
     "Coverage",
     "Regions",
@@ -158,40 +157,8 @@ export const MadagascarClue = {
       ]
     },
     {
-      "title": "Signs",
-      "tips": [
-        {
-          "title": "Signs",
-          "text": [
-            "Madagascar has two official languages: **French** and [**Malagasy**](https://en.wikipedia.org/wiki/Malagasy_language), which is written with the Latin alphabet and contains many long, multiple-syllable words.",
-            "NOTE: [English](https://maps.app.goo.gl/1GZYGSBw3AdKn7CF6) can still be found on some commercial signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_language.png",
-              "link": "https://www.plonkit.net/images/madagascar/mg_language.png",
-              "alt": "Madagascar Signs"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "The climate of Madagascar generally varies from extremely dry in the southern and central parts, to tropical in the [north](https://www.google.com/maps/@-13.7504015,48.4654968,2a,90y,187.83h,97.83t/data=!3m6!1e1!3m4!1s7MPvv_lTBLtRL6D9c6PqPg!2e0!7i13312!8i6656)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_dryness.png",
-              "link": "https://goo.gl/maps/oREEK9BsshuXYJMA6",
-              "alt": "Madagascar Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -231,6 +198,19 @@ export const MadagascarClue = {
               "alt": "Madagascar Landscape"
             }
           ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Most of the coverage in Antananarivo was taken on the **side of a hill** looking out over the city, which leads up to the [Queen’s Palace](https://goo.gl/maps/xU94ThbrNVjncEE27), which can be seen near the top of the hill."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/madagascar/mg_antananarivo.png",
+              "link": "https://goo.gl/maps/p2U3GirJTU1HKqxu5",
+              "alt": "Madagascar Landscape"
+            }
+          ]
         }
       ]
     },
@@ -240,52 +220,51 @@ export const MadagascarClue = {
         {
           "title": "Coverage",
           "text": [
-            "All coverage in Madagascar was taken with a **Generation 3 trekker** camera.",
-            "NOTE: While there are some [unusual vehicles](https://maps.app.goo.gl/h5Xb4zMRj5EXpNXw8) seen on some of the coverage, the camera and blur is still the same."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_trekker.png",
-              "link": "https://maps.app.goo.gl/frRWbiv7GeXtx95T7",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Several **boat trekkers** can be found throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_boats.png",
-              "link": "https://maps.app.goo.gl/wbKeUEGWDr4WGSK27",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Most coverage features one or several people walking alongside the trekker. These people can be used both to recognise the country and to regionguess it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_followpeople.png",
-              "link": "https://maps.app.goo.gl/oth6AfGeaPvaQakw6",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
             "The coverage in Ambanja can be recognized by a person wearing a **dark blue T-shirt** and black sunglasses."
           ],
           "images": [
             {
               "url": "https://www.plonkit.net/images/madagascar/mg_ambanja.png",
               "link": "https://goo.gl/maps/E9sPyJ5hmuFaC91e6",
+              "alt": "Madagascar Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "An area with coverage south of Ambiky can be recognized by the large, solitary **green bushes** combined with a very slight red tinge in the dirt. Certain parts of the coverage are [quite wet](https://www.google.com/maps/@-13.551823,48.4587811,2a,90y,113.31h,83.81t/data=!3m6!1e1!3m4!1sQR4WivGckMydCDGxYmxMcQ!2e0!7i13312!8i6656)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/madagascar/mg_ambikyforest.png",
+              "link": "https://goo.gl/maps/xjdwBoDp1CipKKar5",
+              "alt": "Madagascar Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "There are three major sections of coverage along the Sambirano river, most of which can be identified with the single person, wearing a **dark blue** T-shirt and **sunglasses** on their forehead. The same person is also present on Nosy Ambariovato."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/madagascar/mg_sambirano1.png",
+              "link": "https://goo.gl/maps/7ECT8qsFUujiweFL6",
+              "alt": "Madagascar Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "A small section of the coverage by the Sambirano river has two **different people** present on the coverage; one with a red T-shirt and white cap, and one with a [spotted dress](https://goo.gl/maps/1r7p8QfDCBG2oBLG6)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/madagascar/mg_sambirano2.png",
+              "link": "https://goo.gl/maps/B9KNyDUk7Ty78u777",
               "alt": "Madagascar Coverage"
             }
           ]
@@ -420,250 +399,12 @@ export const MadagascarClue = {
               "alt": "Madagascar overview"
             }
           ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "All coverage in Madagascar was taken with a **Generation 3 trekker** camera.",
-            "NOTE: While there are some [unusual vehicles](https://maps.app.goo.gl/h5Xb4zMRj5EXpNXw8) seen on some of the coverage, the camera and blur is still the same."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_trekker.png",
-              "link": "https://maps.app.goo.gl/frRWbiv7GeXtx95T7",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Several **boat trekkers** can be found throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_boats.png",
-              "link": "https://maps.app.goo.gl/wbKeUEGWDr4WGSK27",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Most coverage features one or several people walking alongside the trekker. These people can be used both to recognise the country and to regionguess it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_followpeople.png",
-              "link": "https://maps.app.goo.gl/oth6AfGeaPvaQakw6",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Madagascar has two official languages: **French** and [**Malagasy**](https://en.wikipedia.org/wiki/Malagasy_language), which is written with the Latin alphabet and contains many long, multiple-syllable words.",
-            "NOTE: [English](https://maps.app.goo.gl/1GZYGSBw3AdKn7CF6) can still be found on some commercial signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_language.png",
-              "link": "https://www.plonkit.net/images/madagascar/mg_language.png",
-              "alt": "Madagascar Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The climate of Madagascar generally varies from extremely dry in the southern and central parts, to tropical in the [north](https://www.google.com/maps/@-13.7504015,48.4654968,2a,90y,187.83h,97.83t/data=!3m6!1e1!3m4!1s7MPvv_lTBLtRL6D9c6PqPg!2e0!7i13312!8i6656)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_dryness.png",
-              "link": "https://goo.gl/maps/oREEK9BsshuXYJMA6",
-              "alt": "Madagascar Landscape"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Land coverage",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "Street View in Madagascar is very limited, with a mixture of land and boat coverage, most of which is on or near the west coast. It is worth noting that almost all the coverage was taken using trekkers, with only two exceptions, both of which have a visible, unique Street View car.",
-            "Because of the limited coverage, this guide will be structured differently than most other guides. It will be divided into two main sections: one for **land coverage** and one for **boat coverage**, which in turn is divided into subsections based on region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_coverage.png",
-              "link": "https://www.plonkit.net/images/madagascar/mg_coverage.png",
-              "alt": "Madagascar Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "The coverage in Ambanja can be recognized by a person wearing a **dark blue T-shirt** and black sunglasses."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_ambanja.png",
-              "link": "https://goo.gl/maps/E9sPyJ5hmuFaC91e6",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The coverage on the island of Nosy Ambariovato can be recognized by the **people**, one wearing a blue T-shirt and sunglasses on their forehead, one with a light red T-shirt and one with a [darker red tank top](https://goo.gl/maps/sesxVH8xbgjzWWNt8). There is also a [fourth person](https://www.google.com/maps/@-13.4541161,48.3406304,2a,64.5y,249.26h,65.91t/data=!3m6!1e1!3m4!1sx4Wu5e_usfrumoBchBeMCQ!2e0!7i13312!8i6656) in some of the coverage, wearing a light blue T-shirt. The coverage is very hilly and forested."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_nosyambariovato.png",
-              "link": "https://goo.gl/maps/LLaopm5Cm2AFYsrK8",
-              "alt": "Madagascar Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "There is a **village** by the northern shore of Nosy Ambariovato."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_nosyambariovatotown.png",
-              "link": "https://goo.gl/maps/QksDwurC9U4NjXUH9",
-              "alt": "Madagascar Regions"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Ambiky can be recognized by the large number of **palms** combined with the **brown**, sandy dirt road. In most of the coverage, there is a person walking in front of the trekker with a grey T-shirt and a brown backpack."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_ambikytown.png",
-              "link": "https://goo.gl/maps/qEQJhsjUmyV9XM757",
-              "alt": "Madagascar Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "A beach west of Ambiky can be recognized by the **low trees** combined with low mountains to the northwest."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_ambikybeach.png",
-              "link": "https://goo.gl/maps/aqTtcGGc2REAannR9",
-              "alt": "Madagascar Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "An area with coverage south of Ambiky can be recognized by the large, solitary **green bushes** combined with a very slight red tinge in the dirt. Certain parts of the coverage are [quite wet](https://www.google.com/maps/@-13.551823,48.4587811,2a,90y,113.31h,83.81t/data=!3m6!1e1!3m4!1sQR4WivGckMydCDGxYmxMcQ!2e0!7i13312!8i6656)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_ambikyforest.png",
-              "link": "https://goo.gl/maps/xjdwBoDp1CipKKar5",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "There are three major sections of coverage along the Sambirano river, most of which can be identified with the single person, wearing a **dark blue** T-shirt and **sunglasses** on their forehead. The same person is also present on Nosy Ambariovato."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_sambirano1.png",
-              "link": "https://goo.gl/maps/7ECT8qsFUujiweFL6",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "A small section of the coverage by the Sambirano river has two **different people** present on the coverage; one with a red T-shirt and white cap, and one with a [spotted dress](https://goo.gl/maps/1r7p8QfDCBG2oBLG6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_sambirano2.png",
-              "link": "https://goo.gl/maps/B9KNyDUk7Ty78u777",
-              "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "A couple of atolls on the central west coast can be seen on Street View. The northernmost is the smallest, and is easily recognizable as it only consists of **sand** and you can always see from one shore to the other.",
-            "NOTE: Among the five atolls with land coverage, only the two furthest south appear on the map."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_atollnorth.png",
-              "link": "https://goo.gl/maps/8pEr2QoxVqHv5Cyp9",
-              "alt": "Madagascar Landscape"
-            }
-          ]
-        },
-        {
-          "title": "The other atolls can be recognized by...",
-          "text": [
-            "The other atolls can be recognized by their small size relative to other landmasses and the [**broad leaved palms**](https://goo.gl/maps/56HEtMgavgGcwsjV8) which is rarely found anywhere else in the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_atollsouth.png",
-              "link": "https://goo.gl/maps/zMjGpQNnpkn9Bt937",
-              "alt": "Madagascar The other atolls can be recognized by..."
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Most of the coverage in Antananarivo was taken on the **side of a hill** looking out over the city, which leads up to the [Queen’s Palace](https://goo.gl/maps/xU94ThbrNVjncEE27), which can be seen near the top of the hill."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_antananarivo.png",
-              "link": "https://goo.gl/maps/p2U3GirJTU1HKqxu5",
-              "alt": "Madagascar Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The coverage on the RN8 between Andriamena and Marofandilia can easily be recognized by the large **silver roof rack** on the Street View car. The coverage is very dry and sandy."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_andranomena.png",
-              "link": "https://goo.gl/maps/e3UeZJKNqGMMvfPn9",
-              "alt": "Madagascar Google Car"
-            }
-          ]
-        },
         {
           "title": "Coverage",
           "text": [
@@ -674,32 +415,6 @@ export const MadagascarClue = {
               "url": "https://www.plonkit.net/images/madagascar/mg_andranomenatrekker.png",
               "link": "https://goo.gl/maps/K1v6g3eBSXfCftDs5",
               "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Baobab Avenue is easy to recognize by...",
-          "text": [
-            "Baobab Avenue is easy to recognize by the extremely **broad trunked** baobab trees along the side of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_baobabavenue.png",
-              "link": "https://goo.gl/maps/e9W7SziAobnRgC4Z9",
-              "alt": "Madagascar Baobab Avenue is easy to recognize by..."
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Morondava is most easily recognized by the bald person wearing either a light green or a [light red](https://www.google.com/maps/@-20.2922811,44.2728557,2a,90y,38.6h,75.53t/data=!3m6!1e1!3m4!1sdLo7gIsqBtj0LwG4gDh_PQ!2e0!7i13312!8i6656) striped shirt. It is also one of few towns where the trekker walks on a paved road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_morondavatown.png",
-              "link": "https://goo.gl/maps/THerVSLhcT4G9DSz7",
-              "alt": "Madagascar Road Lines"
             }
           ]
         },
@@ -756,19 +471,6 @@ export const MadagascarClue = {
           ]
         },
         {
-          "title": "Google Car",
-          "text": [
-            "A car with a barely visible **grey metal roof rack** can be seen by Manahy. There are some locations where the car is completely [blurred out](https://www.google.com/maps/@-20.8635885,43.9144054,2a,75y,201.67h,54.09t,3.83r/data=!3m7!1e1!3m5!1sPAQm9O3ZuaHG6QXKk1Yzfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DPAQm9O3ZuaHG6QXKk1Yzfg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D280%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656), where the shape of the blur is the best indication of the area."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_manahycar.png",
-              "link": "https://goo.gl/maps/iTkGBR487YNV7xKG6",
-              "alt": "Madagascar Google Car"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "A piece of coverage, partly taken on a large [**grassy field**](https://goo.gl/maps/eCF98cDJ2mMTrNHV9), and partly on the side of a **sand dune**, can be found south of Manahy."
@@ -778,19 +480,6 @@ export const MadagascarClue = {
               "url": "https://www.plonkit.net/images/madagascar/mg_manahytrekker.png",
               "link": "https://goo.gl/maps/Ncshhyq8bc8jkS4B7",
               "alt": "Madagascar Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "A village with the shore to the **east** can be found north of Andavadoaka."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_nosyratafanika.png",
-              "link": "https://goo.gl/maps/r9nrbKdZ1T9n7fDT6",
-              "alt": "Madagascar Regions"
             }
           ]
         },
@@ -849,32 +538,6 @@ export const MadagascarClue = {
         {
           "title": "Regions",
           "text": [
-            "A blue cart dragged by a **black **cow on the left and a **brown-white **cow on the right can be found south of Andavadoaka."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_cow1.png",
-              "link": "https://goo.gl/maps/9YjEZDy9C2ifNMSs7",
-              "alt": "Madagascar Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Another cart dragged by a **white** cow on the left and a **black and white cow** on the right can be found just south of Andavadoaka."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_cow2.png",
-              "link": "https://goo.gl/maps/WUs69U3cWT9uMevy7",
-              "alt": "Madagascar Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "A small seaside village, with little to **no visible people** can be found in the northern end of the bay, south of Andavadoaka."
           ],
           "images": [
@@ -908,19 +571,6 @@ export const MadagascarClue = {
               "url": "https://www.plonkit.net/images/madagascar/mg_velondriaketrekker3.png",
               "link": "https://goo.gl/maps/qQeNKpxietji1FW97",
               "alt": "Madagascar Coverage"
-            }
-          ]
-        },
-        {
-          "title": "A cluster of fishing nets can be...",
-          "text": [
-            "A cluster of **fishing nets** can be found in the bay."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_velondriakenets.png",
-              "link": "https://goo.gl/maps/UitR6Mq17nB4GaXp8",
-              "alt": "Madagascar A cluster of fishing nets can be..."
             }
           ]
         },
@@ -1007,19 +657,6 @@ export const MadagascarClue = {
     {
       "title": "Boat coverage",
       "tips": [
-        {
-          "title": "A white boat, containing many people, can...",
-          "text": [
-            "A white boat, containing **many people**, can be found going around the island of Nosy Ambariovato."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/madagascar/mg_z_nosyambariovato.png",
-              "link": "https://goo.gl/maps/UF32nTMUhZTBCHHo9",
-              "alt": "Madagascar A white boat, containing many people, can..."
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [

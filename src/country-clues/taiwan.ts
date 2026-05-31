@@ -73,7 +73,6 @@ export const TaiwanClue = {
   ],
   "categories": [
     "Google Car",
-    "Road Lines",
     "Bollards",
     "Poles",
     "Signs",
@@ -129,37 +128,6 @@ export const TaiwanClue = {
       ]
     },
     {
-      "title": "Road Lines",
-      "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "Roads in Taiwan generally feature **double yellow** middle lines with single white outer lines. Thinner roads sometimes use [single dashed yellow lines](https://www.google.com/maps/@24.190668,120.5867726,3a,42.8y,208.23h,66.98t/data=!3m6!1e1!3m4!1sdNcXxnPJ8NIgkICUleOrEQ!2e0!7i16384!8i8192?entry=ttu) instead."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/ui_remover__281_29.png",
-              "link": "https://maps.app.goo.gl/zz7PZpGX5U9FLnjJ8",
-              "alt": "Taiwan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Roads with outside white road lines and **no middle lines** at all are common. In the absence of better clues, this type of road line can be a very good way to identify Taiwan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/outsidelines.png",
-              "link": "https://www.google.com/maps/@25.0488425,121.1802262,3a,48.8y,218.03h,64.49t/data=!3m7!1e1!3m5!1sTMGN75LfLTwGJIlAmMuFCw!2e0!5s20230401T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Road Lines"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Bollards",
       "tips": [
         {
@@ -181,20 +149,6 @@ export const TaiwanClue = {
     {
       "title": "Poles",
       "tips": [
-        {
-          "title": "Poles",
-          "text": [
-            "Poles almost always feature these **black and yellow** diagonal-striped markings that run all the way to the bottom.",
-            "NOTE: Similar markings can be seen in [South Korea](https://www.google.com/maps/@36.1050385,128.4118405,3a,18.9y,354.87h,62.54t,0.72r/data=!3m6!1e1!3m4!1sfnv3wLOv1V2RQUZuioxNXA!2e0!7i13312!8i6656?entry=ttu). However, the markings are much shorter and do not run all the way to the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/ui_remover.png",
-              "link": "https://www.google.com/maps/@23.6049083,120.259091,3a,30.1y,233.26h,68.16t,359.24r/data=!3m6!1e1!3m4!1so2FkyEYG4PFUpeVCcbKfPA!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Poles"
-            }
-          ]
-        },
         {
           "title": "Poles",
           "text": [
@@ -238,27 +192,25 @@ export const TaiwanClue = {
               "alt": "Taiwan Poles"
             }
           ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "These **green square stickers** are typically seen on every pole in Chiayi City."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/taiwan/chiayigreensquare.png",
+              "link": "https://www.google.com/maps/@23.4831979,120.4490411,3a,17.5y,189.89h,74.83t/data=!3m6!1e1!3m4!1sCgop-Z96Wiq5DnQsbhZipg!2e0!7i16384!8i8192?entry=ttu",
+              "alt": "Taiwan Poles"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Signs",
       "tips": [
-        {
-          "title": "Signs",
-          "text": [
-            "Taiwan uses **Traditional Chinese**. It is one of the most complex scripts visible on street view, with intricate characters that consist of many strokes.",
-            "NOTE: Hong Kong also uses traditional Chinese characters on signage.",
-            "!!Japanese uses some Chinese characters (kanji), meaning the script can look somewhat similar. However, Japanese will also have a considerable amount of more simplified looking characters (katakana and hiragana)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/Traditional_Chinese.png",
-              "link": "https://www.plonkit.net/images/taiwan/Traditional_Chinese.png",
-              "alt": "Taiwan Signs"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -295,6 +247,19 @@ export const TaiwanClue = {
             {
               "url": "https://www.plonkit.net/images/taiwan/county_roads.png",
               "link": "https://www.plonkit.net/images/taiwan/county_roads.png",
+              "alt": "Taiwan Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "In Yilan, you can find these **rich multiple-story villas**.They come in all types of designs and are often gated."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/taiwan/yilanhouse.png",
+              "link": "https://www.google.com/maps/@24.7139253,121.7094211,3a,30.2y,317.46h,98.49t,1r/data=!3m6!1e1!3m4!1sI608aax0IBEnnCPF20g2jQ!2e0!7i16384!8i8192?entry=ttu",
               "alt": "Taiwan Signs"
             }
           ]
@@ -472,20 +437,6 @@ export const TaiwanClue = {
       "title": "Other",
       "tips": [
         {
-          "title": "Taiwan drives on the right side of...",
-          "text": [
-            "Taiwan drives on the **right** side of the road.",
-            "NOTE: Japan and Hong Kong drive on the left."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/tw_driving_side.png",
-              "link": "https://goo.gl/maps/srhytVL7ERZJCypJ9",
-              "alt": "Taiwan Taiwan drives on the right side of..."
-            }
-          ]
-        },
-        {
           "title": "Red outer lines that indicate no parking...",
           "text": [
             "**Red outer lines** that indicate no parking are common in Taiwan, especially in cities. This is essentially unique to the country."
@@ -521,6 +472,20 @@ export const TaiwanClue = {
               "url": "https://www.plonkit.net/images/taiwan/ditch.png",
               "link": "https://www.google.com/maps/@?api=1&fov=29.849899962146317&heading=158.9925346215639&map_action=pano&pano=qOwIHhAAZ-qWnAdH-_xAAQ&pitch=-18.36025889027559&viewpoint=23.645132%252C120.318074#extra%255BloadMode%255D=latLng",
               "alt": "Taiwan Concrete drainage ditches are commonly found on..."
+            }
+          ]
+        },
+        {
+          "title": "Norfolk island pines Araucaria heterophyllahttps://en.wikipedia.org/wiki/Araucariaheterophylla are extremely...",
+          "text": [
+            "**Norfolk island pines** ([Araucaria heterophylla](https://en.wikipedia.org/wiki/Araucaria_heterophylla)) are extremely common in the county of Penghu, especially in tightly-packed rows next to roads.",
+            "NOTE: While these trees can be found on the main island as well, they are usually never found in such close proximity."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/taiwan/norfolk.png",
+              "link": "https://www.google.com/maps/@23.572366,119.6160389,3a,75y,9.45h,116.47t/data=!3m6!1e1!3m4!1sE_h77VQOoGs7186T51Pt-A!2e0!7i16384!8i8192?entry=ttu",
+              "alt": "Taiwan Norfolk island pines Araucaria heterophyllahttps://en.wikipedia.org/wiki/Araucariaheterophylla are extremely..."
             }
           ]
         }
@@ -540,303 +505,12 @@ export const TaiwanClue = {
               "alt": "Taiwan overview"
             }
           ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Taiwan uses **Traditional Chinese**. It is one of the most complex scripts visible on street view, with intricate characters that consist of many strokes.",
-            "NOTE: Hong Kong also uses traditional Chinese characters on signage.",
-            "!!Japanese uses some Chinese characters (kanji), meaning the script can look somewhat similar. However, Japanese will also have a considerable amount of more simplified looking characters (katakana and hiragana)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/Traditional_Chinese.png",
-              "link": "https://www.plonkit.net/images/taiwan/Traditional_Chinese.png",
-              "alt": "Taiwan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Poles almost always feature these **black and yellow** diagonal-striped markings that run all the way to the bottom.",
-            "NOTE: Similar markings can be seen in [South Korea](https://www.google.com/maps/@36.1050385,128.4118405,3a,18.9y,354.87h,62.54t,0.72r/data=!3m6!1e1!3m4!1sfnv3wLOv1V2RQUZuioxNXA!2e0!7i13312!8i6656?entry=ttu). However, the markings are much shorter and do not run all the way to the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/ui_remover.png",
-              "link": "https://www.google.com/maps/@23.6049083,120.259091,3a,30.1y,233.26h,68.16t,359.24r/data=!3m6!1e1!3m4!1so2FkyEYG4PFUpeVCcbKfPA!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Taiwan drives on the right side of...",
-          "text": [
-            "Taiwan drives on the **right** side of the road.",
-            "NOTE: Japan and Hong Kong drive on the left."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/tw_driving_side.png",
-              "link": "https://goo.gl/maps/srhytVL7ERZJCypJ9",
-              "alt": "Taiwan Taiwan drives on the right side of..."
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Roads in Taiwan generally feature **double yellow** middle lines with single white outer lines. Thinner roads sometimes use [single dashed yellow lines](https://www.google.com/maps/@24.190668,120.5867726,3a,42.8y,208.23h,66.98t/data=!3m6!1e1!3m4!1sdNcXxnPJ8NIgkICUleOrEQ!2e0!7i16384!8i8192?entry=ttu) instead."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/ui_remover__281_29.png",
-              "link": "https://maps.app.goo.gl/zz7PZpGX5U9FLnjJ8",
-              "alt": "Taiwan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Roads with outside white road lines and **no middle lines** at all are common. In the absence of better clues, this type of road line can be a very good way to identify Taiwan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/outsidelines.png",
-              "link": "https://www.google.com/maps/@25.0488425,121.1802262,3a,48.8y,218.03h,64.49t/data=!3m7!1e1!3m5!1sTMGN75LfLTwGJIlAmMuFCw!2e0!5s20230401T000000!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Red outer lines that indicate no parking...",
-          "text": [
-            "**Red outer lines** that indicate no parking are common in Taiwan, especially in cities. This is essentially unique to the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/redroadlines.png",
-              "link": "https://www.google.com/maps/@25.0280885,121.54464,3a,88.1y,98.61h,52.37t/data=!3m6!1e1!3m4!1srMiMHM6lKKI2jzc8ibv9Kw!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Red outer lines that indicate no parking..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Taiwan uses **black on yellow** chevrons."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/chevron.png",
-              "link": "https://www.google.com/maps/@24.1194114,121.2593406,3a,22.8y,120.28h,83.78t/data=!3m6!1e1!3m4!1sEkyDOpq16xgbBxjRpaMx3Q!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Signs"
-            }
-          ]
-        },
-        {
-          "title": "These mirrors with orange hoods are frequently...",
-          "text": [
-            "These **mirrors with orange hoods** are frequently featured in intersections and bends."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/mirror.png",
-              "link": "https://www.google.com/maps/@24.0844358,120.5100334,3a,63.9y,265.94h,77.15t,360r/data=!3m6!1e1!3m4!1skQcYTchwydCehBHAWqqhzQ!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan These mirrors with orange hoods are frequently..."
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Taiwan uses these bollards with either two or three **circular reflectors** on a black rectangle.",
-            "You can also find these **lollipop** looking reflectors on guardrails, similar to the designs found in [Japan](https://goo.gl/maps/JvYoen6Zsh9iptr16)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/reflector.png",
-              "link": "https://www.google.com/maps/@22.7415577,120.6818697,3a,17.5y,273.83h,80.72t/data=!3m6!1e1!3m4!1sNooUr8VjAZ_bTLJWJmAZLQ!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Concrete drainage ditches are commonly found on...",
-          "text": [
-            "**Concrete drainage ditches** are commonly found on the side of roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/ditch.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=29.849899962146317&heading=158.9925346215639&map_action=pano&pano=qOwIHhAAZ-qWnAdH-_xAAQ&pitch=-18.36025889027559&viewpoint=23.645132%252C120.318074#extra%255BloadMode%255D=latLng",
-              "alt": "Taiwan Concrete drainage ditches are commonly found on..."
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **distribution transformers** that look like boxes are frequently found in Taiwan, especially in urban areas.They are mostly painted in dark green or grey."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/distribution_transformer.png",
-              "link": "https://www.google.com/maps/@24.9596255,121.2791865,3a,15y,303.81h,80.11t,0.51r/data=!3m6!1e1!3m4!1spQ0TKKTWWQJQpc_BH6iSEg!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Architecture in Taiwan varies in designs, ranging from cramped, multiple-story housing to flat, single-story houses with backyards. Many residential buildings have a very **boxy** look. A lot of walls are covered in **tiles**, usually white. Sheds made out of tin are also featured, commonly painted in a light green colour."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/architecture.png",
-              "link": "https://www.google.com/maps/@23.6737139,120.4755997,3a,90y,345.8h,110.27t/data=!3m6!1e1!3m4!1sfeaWdk6MhszZbsR17r1RKw!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "In Generation 3 coverage, you can find this **black car with a long antenna** and a red brake light in the middle, similar to the one you can see in Russia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/black_car.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=39.655785544123624&heading=270.2719670870637&map_action=pano&pano=HzSowDoV1Jwny1Bcrt0fWw&pitch=-32.31653839969921&viewpoint=23.495022%252C120.213014",
-              "alt": "Taiwan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "You can also find this Generation 3 car with a **very large blur** that covers the entire car and almost looks like low-cam.",
-            "Note that this is not the same as low-cam: the camera is still at a normal height, meaning you see the world around you from a normal vantage point."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/wide_blur.png",
-              "link": "https://www.google.com/maps/@23.0597872,120.4636665,3a,75y,5.82h,41.54t,359.96r/data=!3m6!1e1!3m4!1sdOBZYczTU1Uy_NrXzTEikg!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Taiwan Google Car"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and county-specific clues",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "This is a map of the **counties of Taiwan**. Importantly, Taiwan has a couple of smaller islands and island groups with coverage that are fairly far away from the main island. It is important to be aware of these, as they often catch beginning players off-guard. These include:",
-            "- Kinmen close to the coast of mainland China.",
-            "- Lienchiang (Matsu Islands), also close to the coast of mainland China.",
-            "- Penghu in the middle of the Taiwan Strait.",
-            "- Green Island and Orchid Island, southeast of the main island. These two islands belong to Taitung County."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/Taiwan_administrative_divisions.png",
-              "link": "https://www.plonkit.net/images/taiwan/Taiwan_administrative_divisions.png",
-              "alt": "Taiwan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Taiwan telephone numbers are 10 digits, with the first two digits indicating the **area code**. Area codes range from 02 to 08, increasing as you go south.",
-            "_This image was provided by DrizzleMayFiddle._",
-            "NOTE: Oftentimes the area code will be written within parentheses. Mobile numbers start with 09."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/a-more-detailed-taiwan-area-code-map.webp",
-              "alt": "Taiwan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Taiwan’s **National Freeway system** is organised so that odd numbers represent north-south roads and even numbers represent east-west. Generally, numbers also increase moving west to east and north to south. The 1 and the 3 are by far the longest, running across the west coast.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/twfreeway.png",
-              "link": "https://www.plonkit.net/images/taiwan/twfreeway.png",
-              "alt": "Taiwan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "These signs indicate Township roads, with the character written **before** or **above** the road number indicating the county.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/county_roads.png",
-              "link": "https://www.plonkit.net/images/taiwan/county_roads.png",
-              "alt": "Taiwan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Many poles in Taiwan feature these **blue plaques** with strings of letters and numbers that act as precise coordinates.",
-            "For an example of how to read the plaques in-game, the only thing that is useful here is the string “E3264”. “BE08” can further narrow down the position but is not practical in-game.",
-            "“E” refers to the 50x80km rectangle from this map.",
-            "“3264” means that within the rectangle, we are 32% eastward and 64% northward.",
-            "[This article](https://wiki.osgeo.org/wiki/Taiwan_Power_Company_grid#1.C3.971m) explains how the string “BE08” can be further used to narrow down the exact coordinates of the telephone pole."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/taiwan_electricity.png",
-              "link": "https://www.plonkit.net/images/taiwan/taiwan_electricity.png",
-              "alt": "Taiwan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The central western plain of Taiwan mainly consists of **flat** to low rolling plains. It is common to find crops and other farmland in this area."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/westplains.png",
-              "link": "https://www.google.com/maps/@23.7383313,120.3613537,3a,90y,21.46h,89.67t/data=!3m6!1e1!3m4!1s_x_SgRn2_oE9g0ep4AUnNA!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The central-eastern region that covers two-thirds of Taiwan consists of **forested mountains**.",
-            "The central mountain range that runs all the way to the south of the island is made up of tall mountains and rugged valleys. At high elevations, the vegetation can look **less tropical** and feature temperate or even coniferous trees."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/Taiwan_mountains.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16425621379778&heading=106.01728864934859&map_action=pano&pano=i0qmlq4yRrW8nijmx_-WWQ&pitch=16.11754826005931&viewpoint=24.442656%252C121.384829#extra%255BloadMode%255D=latLng",
-              "alt": "Taiwan Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -934,20 +608,6 @@ export const TaiwanClue = {
           ]
         },
         {
-          "title": "Norfolk island pines Araucaria heterophyllahttps://en.wikipedia.org/wiki/Araucariaheterophylla are extremely...",
-          "text": [
-            "**Norfolk island pines** ([Araucaria heterophylla](https://en.wikipedia.org/wiki/Araucaria_heterophylla)) are extremely common in the county of Penghu, especially in tightly-packed rows next to roads.",
-            "NOTE: While these trees can be found on the main island as well, they are usually never found in such close proximity."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/norfolk.png",
-              "link": "https://www.google.com/maps/@23.572366,119.6160389,3a,75y,9.45h,116.47t/data=!3m6!1e1!3m4!1sE_h77VQOoGs7186T51Pt-A!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Norfolk island pines Araucaria heterophyllahttps://en.wikipedia.org/wiki/Araucariaheterophylla are extremely..."
-            }
-          ]
-        },
-        {
           "title": "These leafless trees are most frequently seen...",
           "text": [
             "These **leafless** trees are most frequently seen in Penghu."
@@ -1001,86 +661,6 @@ export const TaiwanClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "Old and **disorganised** housing units as well as tall **dingy-looking** apartment blocks are frequently seen in the urban areas of northern Taiwan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/messyapartment.png",
-              "link": "https://www.google.com/maps/@25.045765,121.4493062,3a,75y,167.88h,123.04t,359.53r/data=!3m6!1e1!3m4!1sI9DCHhvhN-Wn-wQVNjDR3g!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Taoyuan features these **red brick** and sometimes red tile apartment buildings.",
-            "NOTE: They can also be commonly spotted in the greater Taipei area and rarely in other urban areas but are most common in Taoyuan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/redbrick.png",
-              "link": "https://www.google.com/maps/@24.9983105,121.3179924,3a,71.7y,285.32h,133.54t/data=!3m6!1e1!3m4!1s7Yp2NHS5rMox8k8y3PYhzA!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "In Yilan, you can find these **rich multiple-story villas**.They come in all types of designs and are often gated."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/yilanhouse.png",
-              "link": "https://www.google.com/maps/@24.7139253,121.7094211,3a,30.2y,317.46h,98.49t,1r/data=!3m6!1e1!3m4!1sI608aax0IBEnnCPF20g2jQ!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "White-tinged **cream coloured houses** are frequently seen in Penghu."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/creamhouse.png",
-              "link": "https://www.google.com/maps/@23.5793154,119.5707718,3a,75y,207.06h,98.05t,1.59r/data=!3m6!1e1!3m4!1sJW6sAC04D1MT_FVSqMGjuw!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "You can find these small, **traditional-looking** houses in Kinmen."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/kinmenhouse.png",
-              "link": "https://www.google.com/maps/@24.4408451,118.3957123,3a,75y,174.68h,88.57t,359.78r/data=!3m6!1e1!3m4!1sNZoNJT8PE9AFNFuw6O3taA!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Taiwan Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Similar to the blue plaques found on utility poles, Taiwan also features **stickers** to ID the locations of **lamps**. These can be found on both lampposts and utility poles with lamps attached to them.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/lamppoststickers.png",
-              "link": "https://www.plonkit.net/images/taiwan/lamppoststickers.png",
-              "alt": "Taiwan Poles"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Pavement with **white speckles** is commonly found along the east coast."
@@ -1090,20 +670,6 @@ export const TaiwanClue = {
               "url": "https://www.plonkit.net/images/taiwan/speckly.png",
               "link": "https://www.google.com/maps/@23.7706034,121.4565307,3a,42.7y,163.71h,63.87t,0.1r/data=!3m6!1e1!3m4!1s4BOo0UkbPXcgMkbC_CVfIg!2e0!7i16384!8i8192?entry=ttu",
               "alt": "Taiwan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Kinmen often features lampposts with **red and white** diagonal stripes.",
-            "NOTE: Red and white striped markings are also found on the main island, especially in cities and urban areas."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/redwhitestripe.png",
-              "link": "https://goo.gl/maps/LM98rJbGE6etym2z5",
-              "alt": "Taiwan Regions"
             }
           ]
         },
@@ -1121,19 +687,6 @@ export const TaiwanClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "In Yunlin, you can find poles with a **thicker support** below the pole top."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/yunlin_pole.png",
-              "link": "https://www.google.com/maps/@23.6305734,120.205481,3a,15y,44.87h,113.25t/data=!3m6!1e1!3m4!1sFSwWPGEpgeT3zAv_klVJtw!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Poles"
-            }
-          ]
-        },
-        {
           "title": "Many traffic control boxes in Changhua County...",
           "text": [
             "Many traffic control boxes in Changhua County are marked with large **yellow stickers**. You will find these boxes at intersections."
@@ -1143,19 +696,6 @@ export const TaiwanClue = {
               "url": "https://www.plonkit.net/images/taiwan/changhua_intersection.png",
               "link": "https://maps.app.goo.gl/CB9o41BrNmGdTLtg9",
               "alt": "Taiwan Many traffic control boxes in Changhua County..."
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **green square stickers** are typically seen on every pole in Chiayi City."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/chiayigreensquare.png",
-              "link": "https://www.google.com/maps/@23.4831979,120.4490411,3a,17.5y,189.89h,74.83t/data=!3m6!1e1!3m4!1sCgop-Z96Wiq5DnQsbhZipg!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Taiwan Poles"
             }
           ]
         },
@@ -1282,19 +822,6 @@ export const TaiwanClue = {
               "url": "https://www.plonkit.net/images/taiwan/hualienplains.png",
               "link": "https://www.google.com/maps/@23.7288461,121.4614661,3a,90y,235.93h,99.92t/data=!3m6!1e1!3m4!1sfEjk7yGzDRrGOpP1AjQM_w!2e0!7i13312!8i6656?entry=ttu",
               "alt": "Taiwan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A **green train car** can be found in east Chiayi around Alishan National Forest."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/taiwan/greentraincar.png",
-              "link": "https://www.google.com/maps/@23.519065,120.8062334,3a,90y,64.27h,26.27t,0.46r/data=!3m6!1e1!3m4!1sljeKvQgSkPSGgueboDle2Q!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Taiwan Google Car"
             }
           ]
         },

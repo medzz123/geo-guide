@@ -21,24 +21,6 @@ const Command = () => {
     <Detail
       navigationTitle="Random Country Clue"
       markdown={getClueMarkdown(clue)}
-      metadata={
-        <Detail.Metadata>
-          <Detail.Metadata.Label
-            title="Country"
-            text={clue.name}
-            icon={Icon.Globe}
-          />
-          <Detail.Metadata.TagList title="Categories">
-            {clue.categories.length ? (
-              clue.categories.map((category) => (
-                <Detail.Metadata.TagList.Item key={category} text={category} />
-              ))
-            ) : (
-              <Detail.Metadata.TagList.Item text="Clues" />
-            )}
-          </Detail.Metadata.TagList>
-        </Detail.Metadata>
-      }
       actions={
         <ActionPanel>
           <Action

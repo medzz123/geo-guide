@@ -73,10 +73,8 @@ export const NetherlandsClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
     "Bollards",
-    "Poles",
     "Signs",
     "Language",
     "Landscape",
@@ -99,25 +97,6 @@ export const NetherlandsClue = {
               "url": "https://www.plonkit.net/images/netherlands/Black_car_glitch.png",
               "link": "https://goo.gl/maps/3Kmbe5adzr5RxfAPA",
               "alt": "Netherlands Google Car"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Plates",
-      "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "The Netherlands has long, **yellow licence plates** with the standard European blue strip on the left. Dutch taxis have blue plates.",
-            "NOTE: The only other countries in Europe with yellow licence plates are Luxembourg and the UK. For the UK, only the back plates are yellow, and they often lack the blue strip. In addition, some older coverage in France features the French yellow back plates. In Denmark, you can find yellow plates on commercial vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Netherlands_plate.png",
-              "link": "https://www.plonkit.net/images/netherlands/Netherlands_plate.png",
-              "alt": "Netherlands Plates"
             }
           ]
         }
@@ -160,20 +139,6 @@ export const NetherlandsClue = {
         {
           "title": "Bollards",
           "text": [
-            "The Netherlands has a simple, white **bollard** with a red reflector.",
-            "NOTE: On rare occasions, you can find round [French-style bollards](https://goo.gl/maps/vTgbpvfX35mcng4k8) with a red band and a pointed top. A difference with French bollards is that the red wrap usually does not go all the way around the bollard."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Dutch_bollard.png",
-              "link": "https://goo.gl/maps/x8RkQr3mT4Q6H5pG6",
-              "alt": "Netherlands Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
             "Some road markers (“**hectometre markers**”) have province-specific designs. This only applies to markers for regional N-roads, which have road numbers in yellow boxes.",
             "Not all N-road markers have province-specific designs: some just have a generic design that can be found nationwide.",
             "The A-roads all have the same signs and are recognizable because the road number is in a red box.",
@@ -185,25 +150,6 @@ export const NetherlandsClue = {
               "url": "https://www.plonkit.net/images/netherlands/Hectometer_roads_with_attribution.png",
               "link": "https://www.plonkit.net/images/netherlands/Hectometer_roads_with_attribution.png",
               "alt": "Netherlands Bollards"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Poles",
-      "tips": [
-        {
-          "title": "Poles",
-          "text": [
-            "The Netherlands usually **does not have any utility poles**. You might see larger power lines like the ones shown in the image, but essentially never any street-level smaller utility poles.",
-            "NOTE: Belgium does use utility poles somewhat commonly."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Lack_of_utility_poles.png",
-              "link": "https://goo.gl/maps/QyQkNvZxF6immhQp7",
-              "alt": "Netherlands Poles"
             }
           ]
         }
@@ -276,20 +222,6 @@ export const NetherlandsClue = {
         {
           "title": "Language",
           "text": [
-            "**Dutch** is a Germanic language. It features a lot of double vowels. Typical letter clusters are ij, ieuw and oe. “IJ“ written as one capitalised letter is also unique to the language.",
-            "NOTE: Dutch is also used in the region of Flanders, which comprises the northern half of Belgium."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/nl_language.png",
-              "link": "https://www.plonkit.net/images/netherlands/nl_language.png",
-              "alt": "Netherlands Language"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
             "Almost all of the land belonging to the province of Flevoland was reclaimed from the sea in the mid-20th century. As a result, the province has a distinct, **man-made** look: extremely straight roads and large crop fields dominate the landscape. Wind turbines are common. In urban areas, there are no historical buildings.",
             "NOTE: The only exception to this description is the town of Urk, which is situated on a former island now surrounded by the rest of the province’s man-made [polder](https://en.wikipedia.org/wiki/Polder) landscape."
           ],
@@ -306,20 +238,6 @@ export const NetherlandsClue = {
     {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "The Netherlands is extraordinarily **flat**. In most of the country, you will get no more than a few metres of elevation. Large swathes of the country are reclaimed land that is at or even below sea level.",
-            "NOTE: The most major exception to this is the south of Limburg, where you can get low hills. Another place with some amount of hills is De Veluwe in central Gelderland province."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Flat_landscape.png",
-              "link": "https://goo.gl/maps/YSfJxTNe16fTG5B4A",
-              "alt": "Netherlands Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -355,6 +273,21 @@ export const NetherlandsClue = {
             {
               "url": "https://www.plonkit.net/images/netherlands/Limburg_hills.png",
               "link": "https://goo.gl/maps/xCxLmLzo4mYqNHfe9",
+              "alt": "Netherlands Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The **Veluwe** area is unusually forested for Dutch standards. Some parts feature a very slight amount of elevation.",
+            "Some parts of the Veluwe feature old-growth forest, [heath](https://en.wikipedia.org/wiki/Heath) or sandy soil. This area can [look odd](https://goo.gl/maps/6pZWyZjMDKwaZoGh6) and unlike the rest of the Netherlands if you have never seen it before.",
+            "NOTE: Some other natural areas in the Netherlands can have a similar look, but the Veluwe is by far the largest."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/netherlands/Veluwe.png",
+              "link": "https://goo.gl/maps/oyccR5kBgJgQwpHu5",
               "alt": "Netherlands Landscape"
             }
           ]
@@ -585,237 +518,6 @@ export const NetherlandsClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "The Netherlands has long, **yellow licence plates** with the standard European blue strip on the left. Dutch taxis have blue plates.",
-            "NOTE: The only other countries in Europe with yellow licence plates are Luxembourg and the UK. For the UK, only the back plates are yellow, and they often lack the blue strip. In addition, some older coverage in France features the French yellow back plates. In Denmark, you can find yellow plates on commercial vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Netherlands_plate.png",
-              "link": "https://www.plonkit.net/images/netherlands/Netherlands_plate.png",
-              "alt": "Netherlands Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Dutch** is a Germanic language. It features a lot of double vowels. Typical letter clusters are ij, ieuw and oe. “IJ“ written as one capitalised letter is also unique to the language.",
-            "NOTE: Dutch is also used in the region of Flanders, which comprises the northern half of Belgium."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/nl_language.png",
-              "link": "https://www.plonkit.net/images/netherlands/nl_language.png",
-              "alt": "Netherlands Language"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "The Netherlands has a simple, white **bollard** with a red reflector.",
-            "NOTE: On rare occasions, you can find round [French-style bollards](https://goo.gl/maps/vTgbpvfX35mcng4k8) with a red band and a pointed top. A difference with French bollards is that the red wrap usually does not go all the way around the bollard."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Dutch_bollard.png",
-              "link": "https://goo.gl/maps/x8RkQr3mT4Q6H5pG6",
-              "alt": "Netherlands Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The Netherlands usually **does not have any utility poles**. You might see larger power lines like the ones shown in the image, but essentially never any street-level smaller utility poles.",
-            "NOTE: Belgium does use utility poles somewhat commonly."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Lack_of_utility_poles.png",
-              "link": "https://goo.gl/maps/QyQkNvZxF6immhQp7",
-              "alt": "Netherlands Poles"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The Netherlands is extraordinarily **flat**. In most of the country, you will get no more than a few metres of elevation. Large swathes of the country are reclaimed land that is at or even below sea level.",
-            "NOTE: The most major exception to this is the south of Limburg, where you can get low hills. Another place with some amount of hills is De Veluwe in central Gelderland province."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Flat_landscape.png",
-              "link": "https://goo.gl/maps/YSfJxTNe16fTG5B4A",
-              "alt": "Netherlands Landscape"
-            }
-          ]
-        },
-        {
-          "title": "In addition, the Netherlands is a very...",
-          "text": [
-            "In addition, the Netherlands is a very water-rich country. The country has innumerous **waterways**. Canals and ditches next to the road are common. Water management is an important facet of Dutch infrastructure, so you will often see [dikes](https://en.wikipedia.org/wiki/Levee) (low earthen walls to protect against water), dams and bridges."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Water_landscape.png",
-              "link": "https://goo.gl/maps/uqiRncfL4wFvLTJ56",
-              "alt": "Netherlands In addition, the Netherlands is a very..."
-            }
-          ]
-        },
-        {
-          "title": "Many rural roads are lined by rows...",
-          "text": [
-            "Many rural roads are **lined by rows of trees**.",
-            "NOTE: This is also common in Poland."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Tree-lined_roads_2.png",
-              "link": "https://goo.gl/maps/YfTitjNAmk1NQcm97",
-              "alt": "Netherlands Many rural roads are lined by rows..."
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "The Netherlands has a high amount of urban planning, and as a result tends to have a **very organised look**. Road infrastructure is well-maintained. Suburbs are usually master-planned and typically feature row houses."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Urban_planning.png",
-              "link": "https://goo.gl/maps/exPDu6pKSnyTqf1v8",
-              "alt": "Netherlands Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Like most of Europe, the Netherlands has **all-white** road lines. Many roads have dashed outside lines. Sometimes, you can find unique [green middle lines](https://goo.gl/maps/hFMtuu8BBeGNQbiPA)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Road_lines.png",
-              "link": "https://goo.gl/maps/WMNmjt7FP5rHDDdUA",
-              "alt": "Netherlands Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Many Dutch roads are flanked by **bicycle paths**. Different designs exist, but a very common one is a reddish-pink lane.",
-            "Cycling is one of the most common modes of transportation in the Netherlands. You will see cyclists and bicycles everywhere."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Bicycle_path_2.png",
-              "link": "https://goo.gl/maps/iRsaXy19rs7sZCBQA",
-              "alt": "Netherlands Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Brick roads** are common in the Netherlands, both in rural and urban areas. The brick pattern shown in the image is especially common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Brick_roads.png",
-              "link": "https://goo.gl/maps/GQMqzaurD6mHzoqA9",
-              "alt": "Netherlands Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Most Dutch **sidewalks** use the same type of square grey tiles and offset tiling pattern. In some historic areas, you might find smaller [brick sidewalks](https://goo.gl/maps/57mi9meFyFNVCbun9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Sidewalks.png",
-              "link": "https://goo.gl/maps/ymYJ3mCFQUPYgNcd7",
-              "alt": "Netherlands Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The Netherlands has very recognizable **speed bumps**. They usually have white warning stripes that alternate between long and short. The example image is on a brick road, but they also occur on [asphalt roads](https://goo.gl/maps/QsuN5WtHsjZ2EoeJ9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Speed_bump.png",
-              "link": "https://goo.gl/maps/mT3GjNSRvQ2NPihX7",
-              "alt": "Netherlands Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Many rural roads feature a sort of **brick rumble strip** on the sides. This is fairly unique to the Netherlands and a good way to identify the country in very rural rounds."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Rumble_strip_v2.png",
-              "link": "https://goo.gl/maps/gE7BEhtiWJTNb72F7",
-              "alt": "Netherlands Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Street signs are almost always **blue with white lettering**. Very rarely, you can find [yellow](https://goo.gl/maps/yMhbRKLJK1QuyEs68), [white](https://goo.gl/maps/8TuTmC7n7oLw8qAS9) or [green](https://goo.gl/maps/W3BrcUwTrYA4TeMC8) street signs.",
-            "The Dutch word for street is **straat**. Other common road name endings are -weg, -laan, -pad, and -plein. However, if you see a blue sign with the word ‘fietspad’, do not search for it; it simply means ‘bicycle path’.",
-            "NOTE: Street signs in Belgium come in a variety of colours and usually mention the municipality, which is rare in the Netherlands."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Street_sign.png",
-              "link": "https://goo.gl/maps/MaWxHPk5LrcR6m1JA",
-              "alt": "Netherlands Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Dutch **direction signs** are blue with white lettering. Signs for bicyclists are [white with a red border](https://goo.gl/maps/Ym8jxRtVRgdeJFgf6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Direction_signs.png",
-              "link": "https://www.google.com/maps/@52.4952465,5.0704956,3a,37.7y,90.59h,106.8t,0.51r/data=!3m6!1e1!3m4!1s81rwpbd8HyoQjIMLTVsYbQ!2e0!7i16384!8i8192",
-              "alt": "Netherlands Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Dutch **town entry signs** are blue. The signs sometimes have very [elaborate designs](https://goo.gl/maps/XAfoVPzYZfX83KoS9), often with frames and additional signs.",
-            "NOTE: Often, these signs list the municipality they are in, after the word ‘gemeente’ (gem). Many municipalities are named after larger towns or cities in the vicinity, which can help a lot with scanning."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Town_sign.png",
-              "link": "https://www.google.com/maps/@52.1089484,5.7102493,3a,38.7y,17.09h,84.08t/data=!3m6!1e1!3m4!1sKTsgIL7ZIEJoEgGG1x9NEg!2e0!7i16384!8i8192",
-              "alt": "Netherlands Signs"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Dutch **road markers** are green. Many list the road number in a small yellow or red box.",
@@ -870,19 +572,6 @@ export const NetherlandsClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "On some roads, especially in rural areas, you might find these distinctive **striped barriers**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Dutch_road_barrier.png",
-              "link": "https://goo.gl/maps/LPW1woZLx9Q9p4v69",
-              "alt": "Netherlands Regions"
-            }
-          ]
-        },
-        {
           "title": "Architecture",
           "text": [
             "**Brick architecture** is very common in the Netherlands. Many buildings feature red-brownish-coloured bricks. Roofs often have orange or dark grey tiles.",
@@ -908,99 +597,12 @@ export const NetherlandsClue = {
               "alt": "Netherlands Signs"
             }
           ]
-        },
-        {
-          "title": "Windmills, both traditional water or grain mills,...",
-          "text": [
-            "**Windmills**, both traditional water or grain mills, and modern [wind power turbines](https://goo.gl/maps/opan2kvhD6DRGkRU9), are common in the Netherlands."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Windmills.png",
-              "link": "https://goo.gl/maps/KADMGYAZivi5cpuE9",
-              "alt": "Netherlands Windmills, both traditional water or grain mills,..."
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Some Generation 4 coverage has a car blur glitch where the **black back of the Google car** is visible."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Black_car_glitch.png",
-              "link": "https://goo.gl/maps/3Kmbe5adzr5RxfAPA",
-              "alt": "Netherlands Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "The Netherlands also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot.",
-            "NOTE: Most of Western Europe also has smallcam."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/europe_smallcam.png",
-              "link": "https://maps.app.goo.gl/u2DBkgBC4a5RnqF18",
-              "alt": "Netherlands Coverage"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and province-specific clues",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "Dutch landline phone numbers start with a three- or four-digit **area code**. These are geographically grouped, except for the ones that start with 07, and two of the 02 codes.",
-            "NOTE: Dutch mobile phone numbers start with 06, which is a code that is not used for any of the landline area codes.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Area_codes_of_the_Netherlands.png",
-              "link": "https://www.plonkit.net/images/netherlands/Area_codes_of_the_Netherlands.png",
-              "alt": "Netherlands Regions"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Some road markers (“**hectometre markers**”) have province-specific designs. This only applies to markers for regional N-roads, which have road numbers in yellow boxes.",
-            "Not all N-road markers have province-specific designs: some just have a generic design that can be found nationwide.",
-            "The A-roads all have the same signs and are recognizable because the road number is in a red box.",
-            "Bollards sometimes feature **kilometre stickers**, which are also limited to specific regions.",
-            "_You can click on the image to enlarge it. Image provided by Timzkii._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Hectometer_roads_with_attribution.png",
-              "link": "https://www.plonkit.net/images/netherlands/Hectometer_roads_with_attribution.png",
-              "alt": "Netherlands Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "All Dutch provinces have their own flag. However, most of these are very rarely seen in the wild. The major exceptions to this are the flags of **Friesland** and **Noord-Brabant**.",
-            "In addition, you can sometimes see the unofficial but very popular flag of the Achterhoek cultural region in the east of Gelderland.",
-            "For a full list of all provincial flags, you can view [this Wikipedia page](https://en.wikipedia.org/wiki/Flags_of_provinces_of_the_Netherlands)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Regional_flags_darkmode.png",
-              "link": "https://www.plonkit.net/images/netherlands/Regional_flags.png",
-              "alt": "Netherlands Regions"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -1013,100 +615,6 @@ export const NetherlandsClue = {
               "url": "https://www.plonkit.net/images/netherlands/Frisian_language.png",
               "link": "https://goo.gl/maps/VhnjVZbvU6y7UHp57",
               "alt": "Netherlands Signs"
-            }
-          ]
-        },
-        {
-          "title": "This long, vertically arranged white sticker with...",
-          "text": [
-            "This long, vertically arranged white sticker with three to four digits is found on street lights in Limburg."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/nl_limburgstreetlightsticker.png",
-              "link": "https://maps.app.goo.gl/VAXna2ekKmvC6QCP7",
-              "alt": "Netherlands This long, vertically arranged white sticker with..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Similarly to Limburg, North Brabant also has white stickers on their street lights, however it is horizontally arranged and only has one or two digits."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/nl_nbstreetlightsticker.png",
-              "link": "https://maps.app.goo.gl/34dHXax9uT9FSa3Y8",
-              "alt": "Netherlands Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Most of the **west and north** is at or below sea-level. As a result, most of this region’s countryside has a distinct [“**polder**” landscape](https://en.wikipedia.org/wiki/Polder): the landscape is marshy, often with a large amount of small waterways."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Polder_landscape.png",
-              "link": "https://goo.gl/maps/h2WLheRg28ZdoU7C6",
-              "alt": "Netherlands Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Conversely, the **south and the east** tends to have a more typical flat European farmland look. Waterways are still common, but the landscape can look less marshy."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/South_and_Eastern_landscape.png",
-              "link": "https://goo.gl/maps/KbrXqrG16nmXQziS9",
-              "alt": "Netherlands Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "While most of the Netherlands is very flat, Southern Limburg has some **low hills**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Limburg_hills.png",
-              "link": "https://goo.gl/maps/xCxLmLzo4mYqNHfe9",
-              "alt": "Netherlands Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The **Veluwe** area is unusually forested for Dutch standards. Some parts feature a very slight amount of elevation.",
-            "Some parts of the Veluwe feature old-growth forest, [heath](https://en.wikipedia.org/wiki/Heath) or sandy soil. This area can [look odd](https://goo.gl/maps/6pZWyZjMDKwaZoGh6) and unlike the rest of the Netherlands if you have never seen it before.",
-            "NOTE: Some other natural areas in the Netherlands can have a similar look, but the Veluwe is by far the largest."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Veluwe.png",
-              "link": "https://goo.gl/maps/oyccR5kBgJgQwpHu5",
-              "alt": "Netherlands Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Almost all of the land belonging to the province of Flevoland was reclaimed from the sea in the mid-20th century. As a result, the province has a distinct, **man-made** look: extremely straight roads and large crop fields dominate the landscape. Wind turbines are common. In urban areas, there are no historical buildings.",
-            "NOTE: The only exception to this description is the town of Urk, which is situated on a former island now surrounded by the rest of the province’s man-made [polder](https://en.wikipedia.org/wiki/Polder) landscape."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Flevoland.png",
-              "link": "https://goo.gl/maps/gDJj6zpa5QbMJBuy9",
-              "alt": "Netherlands Language"
             }
           ]
         },
@@ -1246,19 +754,6 @@ export const NetherlandsClue = {
               "url": "https://www.plonkit.net/images/netherlands/Westland_Greenhouses.png",
               "link": "https://goo.gl/maps/QTfEob3QKgUJabgd7",
               "alt": "Netherlands Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "In the southern part of the Veluwe, in** National Park De Hoge Veluwe**, you can find a trekker that is recognizable because the Google employee’s brown hair is visible."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/netherlands/Veluwe_trekker.png",
-              "link": "https://goo.gl/maps/PLHbeWgwdhzkZmWm6",
-              "alt": "Netherlands Coverage"
             }
           ]
         },

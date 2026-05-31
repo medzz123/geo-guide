@@ -92,23 +92,6 @@ export const JapanClue = {
         {
           "title": "Google Car",
           "text": [
-            "The appearance of the standard Japanese Google car is often **black and white**. You may find it in [black](https://www.google.com/maps/@39.545526,140.3963943,3a,75y,199.92h,63.31t/data=!3m7!1e1!3m5!1sULSsNXwYSpwiLMrI-UT9Sg!2e0!5s20120901T000000!7i13312!8i6656?entry=ttu) or rarely with an [antenna](https://goo.gl/maps/4eZr42n9iQuCjk9f9).",
-            "In addition, due to privacy reasons, the camera is intentionally set lower to the ground. This is known as **low-cam**. You can identify it by:",
-            "- Looking downwards. The blur will be noticeably larger.",
-            "- The road will look wider, and objects will be viewed from a lower perspective.",
-            "NOTE: The only other country that always has low-cam is [Switzerland](https://goo.gl/maps/NgSfAc8sDEh4reQy7). It can also be seen in Generation 4 coverage in [Sri Lanka](https://goo.gl/maps/DisPbnfvKkJdXc3TA). Also, the car will be blurred in Switzerland."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/3.png",
-              "link": "https://goo.gl/maps/odTCEn4Q1yXZwbge9",
-              "alt": "Japan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
             "[Giant butterbur](https://en.wikipedia.org/wiki/Petasites_japonicus) (commonly referred to as cabbage) is abundant in **Hokkaido** and some northern prefectures. Plants found south of Hokkaido often have [smaller leaves](https://goo.gl/maps/H79sWvJQ7NUy5EWe9). It is often found growing along the roadside.",
             "NOTE: Cabbage is also found on the island of [Sakhalin](https://goo.gl/maps/cDP6L1rjVAQxszS46), Russia. However, the Google car will not have low-cam there."
           ],
@@ -334,20 +317,6 @@ export const JapanClue = {
         {
           "title": "Signs",
           "text": [
-            "Japanese is written with a mixture of **three main systems**: kanji and two syllabic scripts: hiragana and katakana. Formal signs and texts will mostly use kanji and hiragana. The kanji system is directly borrowed from Chinese and thus looks very similar, while the syllabic scripts are more loosely inspired by Chinese. Hiragana generally looks simpler than Chinese characters, many of the symbols have loops, which are not present in Chinese. The shapes are also typically slightly softer than the shapes present in most kanji.",
-            "_You can learn more about hiragana, katakana and kanji in the region guessing section, learning frequent terms and names._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/5.png",
-              "link": "https://www.plonkit.net/images/japan/5.png",
-              "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "Japanese architecture has many distinct and expressive styles, with many unique buildings. These can range from [traditional](https://goo.gl/maps/aUpwpwffnDBSAmHT6) country houses, regional designs, [modern](https://goo.gl/maps/zGecH29hE49UmfW57) large cities, [coastal](https://goo.gl/maps/EXtb15cfQano1fwK7) reinforced buildings, and anything in between.",
             "_You can learn more about different types of architecture and styles in the region guessing section._"
           ],
@@ -386,6 +355,23 @@ export const JapanClue = {
             {
               "url": "https://www.plonkit.net/images/japan/15.png",
               "link": "https://goo.gl/maps/6PsFbdz9gtDyGWbs9",
+              "alt": "Japan Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Some frequently seen infrastructure in Japan consists of:",
+            "- This unique [stop sign](https://goo.gl/maps/RYbbcM52HxH5rjvB6).",
+            "- A school [pedestrian crossing](https://maps.app.goo.gl/kp1Biy8pumCZtfsu5).",
+            "- And these traffic [mirrors](https://goo.gl/maps/RvMvRRrnmGWL4Z9CA).",
+            "While many infrastructural clues exist, these three are very common, and may very well help you identify Japan on a difficult round."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/japan/16.png",
+              "link": "https://goo.gl/maps/qFGTwrDqnHvFUxa28",
               "alt": "Japan Signs"
             }
           ]
@@ -531,37 +517,6 @@ export const JapanClue = {
         {
           "title": "Regions",
           "text": [
-            "Japan consists of three main terms used to identify land, groupings and borders: Islands, Regions and Prefectures.",
-            "- [**Islands**](https://th.bing.com/th/id/R.7efa01a909fe9fb8de92cac3188595c5?rik=lzOfSo4f%2f7xViQ&pid=ImgRaw&r=0): The four main islands that make up the country of Japan. From the top they are: Hokkaido, Honshu, Shikoku and Kyushu.",
-            "- [**Regions**](https://imgur.com/iHUwgky): Some islands are further broken down into groupings of prefectures.",
-            "- [**Prefectures**](https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg): These form the currently 47 different subdivisions within the country.",
-            "Many of these names are used in this guide, on maps, and when referring to areas of Japan. Therefore, it is recommended to learn and become comfortable with each category, and the titles within."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/2.png",
-              "link": "https://www.plonkit.net/images/japan/2.png",
-              "alt": "Japan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Japan drives on the **left** **hand **side of the road.",
-            "NOTE: Hong Kong drives on the left hand side of the road, same as Japan. South Korea and Taiwan drive on the right hand side instead."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/4.png",
-              "link": "https://goo.gl/maps/1rpP5aVgpPeruGDy5",
-              "alt": "Japan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "**Retaining walls** can be an excellent clue for Japan in rural areas with little to no information."
           ],
           "images": [
@@ -584,25 +539,39 @@ export const JapanClue = {
               "alt": "Japan Regions"
             }
           ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Most regions in Japan have unique **guy wires**.",
+            "NOTE: Only the most consistent ones are on this map."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/japan/jp_guywires_copy.png",
+              "link": "https://www.plonkit.net/images/japan/20.png",
+              "alt": "Japan Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "These **grey “insulator-esque” blocks**, which wires are fed through, can be found in the regions of Chubu, Kansai, Chugoku, Shikoku, and very rarely in Hokkaido."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/japan/36.png",
+              "link": "https://maps.app.goo.gl/JD4uh4T6KvfAtnf78",
+              "alt": "Japan Poles"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Other",
       "tips": [
-        {
-          "title": "Katakana is mainly used for loan words,...",
-          "text": [
-            "Katakana is mainly used for loan words, and are thus common to find in commercials. They are generally quite simple, with a lot of geometrical shapes rather than the more artistic shapes present in hiragana and kanji."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/6.png",
-              "link": "https://www.plonkit.net/images/japan/6.png",
-              "alt": "Japan Katakana is mainly used for loan words,..."
-            }
-          ]
-        },
         {
           "title": "You can narrow down the prefecture you...",
           "text": [
@@ -660,308 +629,12 @@ export const JapanClue = {
               "alt": "Japan overview"
             }
           ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Japan consists of three main terms used to identify land, groupings and borders: Islands, Regions and Prefectures.",
-            "- [**Islands**](https://th.bing.com/th/id/R.7efa01a909fe9fb8de92cac3188595c5?rik=lzOfSo4f%2f7xViQ&pid=ImgRaw&r=0): The four main islands that make up the country of Japan. From the top they are: Hokkaido, Honshu, Shikoku and Kyushu.",
-            "- [**Regions**](https://imgur.com/iHUwgky): Some islands are further broken down into groupings of prefectures.",
-            "- [**Prefectures**](https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg): These form the currently 47 different subdivisions within the country.",
-            "Many of these names are used in this guide, on maps, and when referring to areas of Japan. Therefore, it is recommended to learn and become comfortable with each category, and the titles within."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/2.png",
-              "link": "https://www.plonkit.net/images/japan/2.png",
-              "alt": "Japan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The appearance of the standard Japanese Google car is often **black and white**. You may find it in [black](https://www.google.com/maps/@39.545526,140.3963943,3a,75y,199.92h,63.31t/data=!3m7!1e1!3m5!1sULSsNXwYSpwiLMrI-UT9Sg!2e0!5s20120901T000000!7i13312!8i6656?entry=ttu) or rarely with an [antenna](https://goo.gl/maps/4eZr42n9iQuCjk9f9).",
-            "In addition, due to privacy reasons, the camera is intentionally set lower to the ground. This is known as **low-cam**. You can identify it by:",
-            "- Looking downwards. The blur will be noticeably larger.",
-            "- The road will look wider, and objects will be viewed from a lower perspective.",
-            "NOTE: The only other country that always has low-cam is [Switzerland](https://goo.gl/maps/NgSfAc8sDEh4reQy7). It can also be seen in Generation 4 coverage in [Sri Lanka](https://goo.gl/maps/DisPbnfvKkJdXc3TA). Also, the car will be blurred in Switzerland."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/3.png",
-              "link": "https://goo.gl/maps/odTCEn4Q1yXZwbge9",
-              "alt": "Japan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Japan drives on the **left** **hand **side of the road.",
-            "NOTE: Hong Kong drives on the left hand side of the road, same as Japan. South Korea and Taiwan drive on the right hand side instead."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/4.png",
-              "link": "https://goo.gl/maps/1rpP5aVgpPeruGDy5",
-              "alt": "Japan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Japanese is written with a mixture of **three main systems**: kanji and two syllabic scripts: hiragana and katakana. Formal signs and texts will mostly use kanji and hiragana. The kanji system is directly borrowed from Chinese and thus looks very similar, while the syllabic scripts are more loosely inspired by Chinese. Hiragana generally looks simpler than Chinese characters, many of the symbols have loops, which are not present in Chinese. The shapes are also typically slightly softer than the shapes present in most kanji.",
-            "_You can learn more about hiragana, katakana and kanji in the region guessing section, learning frequent terms and names._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/5.png",
-              "link": "https://www.plonkit.net/images/japan/5.png",
-              "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Katakana is mainly used for loan words,...",
-          "text": [
-            "Katakana is mainly used for loan words, and are thus common to find in commercials. They are generally quite simple, with a lot of geometrical shapes rather than the more artistic shapes present in hiragana and kanji."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/6.png",
-              "link": "https://www.plonkit.net/images/japan/6.png",
-              "alt": "Japan Katakana is mainly used for loan words,..."
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "On the left hand side you can find the pronunciation and meaning of eight of the most commonly featured kanji in town and city names. Learning to recognise these can make finding cities considerably easier.",
-            "On the right you see the shape and pronunciation of the cardinal directions and the shape of some kanji commonly found at the end of place names. If you see the kanji for prefecture or city, chances are you will be able to find it fairly quickly. Wards are typically findable granted you know the city, while towns are often fairly difficult to locate.",
-            "NOTE: Most of these kanji have alternative, less common pronunciations."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/7.png",
-              "link": "https://www.plonkit.net/images/japan/7.png",
-              "alt": "Japan Language"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Japanese architecture has many distinct and expressive styles, with many unique buildings. These can range from [traditional](https://goo.gl/maps/aUpwpwffnDBSAmHT6) country houses, regional designs, [modern](https://goo.gl/maps/zGecH29hE49UmfW57) large cities, [coastal](https://goo.gl/maps/EXtb15cfQano1fwK7) reinforced buildings, and anything in between.",
-            "_You can learn more about different types of architecture and styles in the region guessing section._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/8.png",
-              "link": "https://goo.gl/maps/wM1xqAHv1ptekU2x7",
-              "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Japan mostly uses these **round concrete** poles, which have these screw-like extensions. Other information can often be found on or attached to the pole including:",
-            "- Electrical plates.",
-            "- Guy-wires.",
-            "- Pole reflectors.",
-            "Therefore, they are a key asset in region guessing Japan.",
-            "_You can learn more about plates, reflectors, and guy-wires in the region guessing section._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/9.png",
-              "link": "https://goo.gl/maps/1zHvtpquCDfZ1MaA9",
-              "alt": "Japan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "You can find a variety of pole reflectors in Japan. They are typically short and **do not **touch the ground. Common patterns found all across Japan include:",
-            "- Yellow [vertical stripes](https://goo.gl/maps/7BqmnkTQC1MVKsfy7).",
-            "- Yellow [diagonal stripes](https://goo.gl/maps/y7e5UtxMuFbPtM2LA).",
-            "- Vertical or diagonal [white stripes](https://maps.app.goo.gl/9oGeT8mpLgDfZjYK7).",
-            "NOTE: The [Taiwanese variant](https://goo.gl/maps/t6yb5Q4LZtRinPRQ7) has diagonal stripes that reach the ground. The [South Korean ones](https://goo.gl/maps/pcSbJznpLXenKtWX9) have diagonal, thicker stripes.",
-            "_You can learn more about the different regional reflectors in the region guessing section._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/10.png",
-              "link": "https://goo.gl/maps/ktpx5k8gscjBLT2U8",
-              "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Japan uses a standard **short white** licence plate with green text. You will often see a different short yellow version with black text issued to “light automobiles”, otherwise known as Kei Cars."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/11.png",
-              "link": "https://www.plonkit.net/images/japan/11.png",
-              "alt": "Japan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Japan has three common variations of road lines. They are as follows:",
-            "- The most common being white, solid outer lines with a [dashed white](https://goo.gl/maps/ydLiQ19hdgbTekD86) middle line.",
-            "- White solid sidelines with a [yellow solid](https://goo.gl/maps/mPCxbst43hVaZXcP6) middle line.",
-            "- White solid sidelines with [yellow and white](https://goo.gl/maps/Vcdsq6sH8EQkhnUp6) middle lines.",
-            "While you may find other, more rare combinations, Japan will never have yellow outside road lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/12.png",
-              "link": "https://goo.gl/maps/hRHrPi9F5fcnrsAJA",
-              "alt": "Japan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Japan usually uses simple white bollards with **circular reflector(s)** on the top. However, sometimes these bollards are [black](https://goo.gl/maps/cejvLnBS8MeHHbuU8), or have [other extensions](https://goo.gl/maps/DaSsHqZhpkmU3Duq8). They can also have the city or prefecture written on it in kanji.",
-            "_You can learn more about the bollards and kanji in the region guessing section._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/13.png",
-              "link": "https://goo.gl/maps/sWw71hqmJwYbek9f6",
-              "alt": "Japan Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Japan generally uses these simple, **white** guardrails.",
-            "_You can learn more about the exceptions in the region guessing section._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/14.png",
-              "link": "https://goo.gl/maps/UeN6H9tb5nC5hhv56",
-              "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Prefecture roads are identified by their **hexagonal-shaped** shields. The prefecture is often written under the road number in kanji. While the shield design remains, other variations can be found:",
-            "- On [prefectural highway shields](https://goo.gl/maps/6PsFbdz9gtDyGWbs9) (with kanji).",
-            "- On directional [intersection](https://goo.gl/maps/jsWfsJUW3r7JjE8v5) signs.",
-            "- Or on small, directional [arrow](https://goo.gl/maps/WrtbZh2DYQ6B4YYh7) signs.",
-            "As multiple prefectures can have the same road number, it is recommended to first find the prefecture you are in."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/15.png",
-              "link": "https://goo.gl/maps/6PsFbdz9gtDyGWbs9",
-              "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Some frequently seen infrastructure in Japan consists of:",
-            "- This unique [stop sign](https://goo.gl/maps/RYbbcM52HxH5rjvB6).",
-            "- A school [pedestrian crossing](https://maps.app.goo.gl/kp1Biy8pumCZtfsu5).",
-            "- And these traffic [mirrors](https://goo.gl/maps/RvMvRRrnmGWL4Z9CA).",
-            "While many infrastructural clues exist, these three are very common, and may very well help you identify Japan on a difficult round."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/16.png",
-              "link": "https://goo.gl/maps/qFGTwrDqnHvFUxa28",
-              "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Retaining walls** can be an excellent clue for Japan in rural areas with little to no information."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/17.png",
-              "link": "https://goo.gl/maps/s5JbkirV8CYYjgKw7",
-              "alt": "Japan Regions"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and prefecture-specific clues",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "**Area codes** are commonly found throughout the country and increase to the south.",
-            "NOTE: Area codes ending with a 0 are often not regional, most notably 0120."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/jp_areacodes_darkmode.png",
-              "alt": "Japan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Every region in Japan features a **distinct plate** on their utility poles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/21.png",
-              "link": "https://www.plonkit.net/images/japan/21.png",
-              "alt": "Japan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The **pole reflector pads** vary by region in Japan. But generic designs can be found nationwide."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/Japan%2520Pole%2520Reflector.jpg",
-              "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "You can narrow down the prefecture you...",
-          "text": [
-            "You can narrow down the prefecture you are in based on the style of [**road diamond**](https://maps.app.goo.gl/NS6jWyqSa1zRFmTd6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/39.png",
-              "link": "https://www.plonkit.net/images/japan/39.png",
-              "alt": "Japan You can narrow down the prefecture you..."
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -972,60 +645,6 @@ export const JapanClue = {
               "url": "https://www.plonkit.net/images/japan/37.png",
               "link": "https://www.plonkit.net/images/japan/37.png",
               "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Most regions in Japan have unique **guy wires**.",
-            "NOTE: Only the most consistent ones are on this map."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/jp_guywires_copy.png",
-              "link": "https://www.plonkit.net/images/japan/20.png",
-              "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "You may sometimes find an **orange arrow** located above the top most pole plate in Chugoku."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/22.png",
-              "link": "https://goo.gl/maps/eAAFvQmmADNf3J6C9",
-              "alt": "Japan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **orange and black bands **wrapped around poles can often be found in Shikoku."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/23.png",
-              "link": "https://goo.gl/maps/Uu2qrKToJgsdxNYs8",
-              "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These attachments with an approximately **120-degree angle **can commonly be found on poles in Kansai.",
-            "NOTE: Sometimes there is no angle, and instead just an [angled downward attachment](https://maps.app.goo.gl/LM3HD3nFCYj27xMUA)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/24.png",
-              "link": "https://maps.app.goo.gl/1fmpUUkAKqwshL7f9",
-              "alt": "Japan Poles"
             }
           ]
         },
@@ -1103,34 +722,6 @@ export const JapanClue = {
         {
           "title": "Poles",
           "text": [
-            "The transformers in Chubu, which often have painted **yellow numbers** and **black “tap” connectors**, are either attached with [**large** **triangle and horizontal bars**](https://maps.app.goo.gl/HGLz9BBt5ixtvtPCA), or these [**thin metal brackets**](https://maps.app.goo.gl/8kXAdcaVBaDhy2v56)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/30.png",
-              "link": "https://maps.app.goo.gl/HGLz9BBt5ixtvtPCA",
-              "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The transformers in Kansai have either a **straight **or **zigzag bar** mounted on the **bottom** of a **square**. The transformer(s) will be mounted on the sides of that same square.",
-            "While this is uncommon, the bar and transformer(s) may be mounted on a [**vertical bar**](https://maps.app.goo.gl/kHToBhThugutvWjY9), rather than a square.",
-            "NOTE: While Tohoku may have a square attachment as well, the bar will be mounted on the **top** rather than the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/31.png",
-              "link": "https://maps.app.goo.gl/5VXH183VYs6v4NuWA",
-              "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
             "The transformers in Chugoku, which have a **cross-shaped bar** attached in the **middle** of the pole, mounted by a **full triangle**, will have a **long horizontal **or [**short vertical**](https://maps.app.goo.gl/C47yQpCXaFeQ5sARA)** insulator(s)** at the end.",
             "A white sticker will often be stuck to the bottom of the transformer with **red numbers**. They may also be painted on the **side**."
           ],
@@ -1178,19 +769,6 @@ export const JapanClue = {
             {
               "url": "https://www.plonkit.net/images/japan/35.png",
               "link": "https://maps.app.goo.gl/qLoT3tpzg29zoAws9",
-              "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **grey “insulator-esque” blocks**, which wires are fed through, can be found in the regions of Chubu, Kansai, Chugoku, Shikoku, and very rarely in Hokkaido."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/36.png",
-              "link": "https://maps.app.goo.gl/JD4uh4T6KvfAtnf78",
               "alt": "Japan Poles"
             }
           ]
@@ -1289,47 +867,6 @@ export const JapanClue = {
               "url": "https://www.plonkit.net/images/japan/46.png",
               "link": "https://goo.gl/maps/EpwKVE4UXme6WtAS8",
               "alt": "Japan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "This flat, white bollard, found on the island of Kyushu and in Yamaguchi Prefecture, will have a **series of separated orange reflectors** on one side, and the same white on the opposite.",
-            "NOTE: Rarely, you may find similar bollards in Hokkaido. However, both sides will have orange reflectors."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/40.png",
-              "link": "https://goo.gl/maps/Ya9ccr3PW7DDrgpA7",
-              "alt": "Japan Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Some bollards on the island of Shikoku can have a** black stripe** just under the reflector. They can be found normally, attached to [guardrails](https://goo.gl/maps/dMX9b98ZsCAwWVm27) or [walls](https://goo.gl/maps/ibVKyN6TkXVVCgNm7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/41.png",
-              "link": "https://goo.gl/maps/heorE3E5xJFhGBT67",
-              "alt": "Japan Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "This **thick**, white bollard, found in the Tohoku region, will have an **octagonal** reflector, and **yellow stripe** just underneath. In addition, you can find the same bollard, but with a [rectangular](https://goo.gl/maps/csG4xahLJ65kQnSf6) top.",
-            "Finally, there are two other variations. You can find a black [octagonal](https://maps.app.goo.gl/Sfi2HnuEoh8LvJNW6), and [rectangular](https://goo.gl/maps/DaNEMrzzZ1K42SsW9) version. They are often found on National Highways or Expressways and can have the number printed on them."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/42.png",
-              "link": "https://goo.gl/maps/R5aeT18Vmf3Hd73HA",
-              "alt": "Japan Bollards"
             }
           ]
         },
@@ -1468,19 +1005,6 @@ export const JapanClue = {
           ]
         },
         {
-          "title": "Landscape",
-          "text": [
-            "Vertical traffic lights can be found in Hokkaido, and along the northwestern coast. The usual [horizontal traffic lights](https://goo.gl/maps/wL83475gQqPcevLW9) can be found everywhere else."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/60.png",
-              "link": "https://goo.gl/maps/yEHadQiwBBJpUH9s6",
-              "alt": "Japan Landscape"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "These specific **black **signs with **two yellow circles** are found in Kagawa. Other variations can be seen, including them [stacked](https://goo.gl/maps/vu57GaqMEYEVbA8h6) on top of each other, or with an [arrow attached](https://goo.gl/maps/ijaCjxnsvDk9ohwZ7) above."
@@ -1496,51 +1020,6 @@ export const JapanClue = {
         {
           "title": "Landscape",
           "text": [
-            "Kerosine tanks, otherwise known as “Claymores”, can be found more commonly the further **north** you go. They are abundant in Hokkaido, but can be found in prefectures south of it, or in high elevation mountainous areas."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/62.png",
-              "link": "https://maps.app.goo.gl/UoWFLnAqM869yckC9",
-              "alt": "Japan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Hot water, gas and propane tanks can be found more frequently in **northern** prefectures or high elevation mountainous areas. Here are a few common variations you can find:",
-            "- The standard [hot water tank](https://goo.gl/maps/WPocxwCcZguGUn9z7).",
-            "- [Covered](https://goo.gl/maps/JDeGep9WhjT672Gb6) propane tanks.",
-            "- [Exposed](https://goo.gl/maps/ZinuXP8pGdw2bmi89) propane tanks.",
-            "- These [cylindrical](https://goo.gl/maps/kGsvLXq7p4ekVuw39) tanks.",
-            "- And finally, these [circular](https://goo.gl/maps/8esQoGWDtj3uAwvi8) tripod tanks.",
-            "Moreover, these are even more common in rural towns or villages, where major water or gas lines are unavailable."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/63.png",
-              "link": "https://goo.gl/maps/zMmW8ZMv71WRfEGk8",
-              "alt": "Japan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Snow prevention roads, known as ‘Shosetsu’, are found mainly in northwest coastal prefectures. They appear as **tiny circles **in the pavement, and spray warm underground water to clear snow."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/64.png",
-              "link": "https://goo.gl/maps/bXJ28xTjNUTeBdQX8",
-              "alt": "Japan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
             "Cycling routes in **Ehime** use an outside white, with an inside **blue **line. They are more commonly found along the coast but may be found further inland too.",
             "While exceptions do exist, and can be found in other prefectures, they are the extreme minority."
           ],
@@ -1549,19 +1028,6 @@ export const JapanClue = {
               "url": "https://www.plonkit.net/images/japan/65.png",
               "link": "https://goo.gl/maps/84ow9jzo7dmP6iBU8",
               "alt": "Japan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "These unique **red-tiled** roofs are most commonly found in **Chugoku**, especially in the prefectures of Hiroshima and Shimane."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/66.png",
-              "link": "https://maps.app.goo.gl/JNPhZA8GpkyKo4Bs7",
-              "alt": "Japan Architecture"
             }
           ]
         },
@@ -1589,20 +1055,6 @@ export const JapanClue = {
               "url": "https://www.plonkit.net/images/japan/77.png",
               "link": "https://maps.app.goo.gl/ZJNhYgy5tcVHuTBWA",
               "alt": "Japan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "[Giant butterbur](https://en.wikipedia.org/wiki/Petasites_japonicus) (commonly referred to as cabbage) is abundant in **Hokkaido** and some northern prefectures. Plants found south of Hokkaido often have [smaller leaves](https://goo.gl/maps/H79sWvJQ7NUy5EWe9). It is often found growing along the roadside.",
-            "NOTE: Cabbage is also found on the island of [Sakhalin](https://goo.gl/maps/cDP6L1rjVAQxszS46), Russia. However, the Google car will not have low-cam there."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/68.png",
-              "link": "https://goo.gl/maps/Xyh7eC6Fcqnr7ZEk8",
-              "alt": "Japan Google Car"
             }
           ]
         },
@@ -1721,19 +1173,6 @@ export const JapanClue = {
       "title": "Spotlight",
       "tips": [
         {
-          "title": "Architecture",
-          "text": [
-            "You can find these ‘[Shisa](https://goo.gl/maps/q8uCFQh6YheQ7BdU8)’ guardian lions and house plaques with these [specific characters](https://goo.gl/maps/8sY6Txd3QyUTAKWG8) in Okinawa. The colour and shapes of both can vary."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/78.png",
-              "link": "https://goo.gl/maps/2mR9bPLcbSuzYBNY7",
-              "alt": "Japan Architecture"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Agricultural fields with red soil are commonly found on several southern islands, most notably on the islands of [Miyakojima ](https://maps.app.goo.gl/p3GiNrHi8rpRptJRA)and [Ishigaki](https://maps.app.goo.gl/DLokgg7yYsaN5yev5) in southern Okinawa."
@@ -1796,20 +1235,6 @@ export const JapanClue = {
               "url": "https://www.plonkit.net/images/japan/82.png",
               "link": "https://maps.app.goo.gl/HnmwJN3dPqd46vj18",
               "alt": "Japan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "There are a variety of **trekkers and tripods**, covering a vast amount of locations which span over multiple prefectures and regions.",
-            "_Due to the enormous volume of information on this topic, and it being too large to be contained in this guide, we recommend this [resource ](https://docs.google.com/document/d/1aw4BL8DRiwLA59pK7_0MX6d70m5xj9uyd21oDqAlGzw/edit)to learn more about the various trekkers._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/japan/83.png",
-              "link": "https://maps.app.goo.gl/EvybAqsgtmCheR3D9",
-              "alt": "Japan Coverage"
             }
           ]
         }

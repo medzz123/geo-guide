@@ -73,7 +73,6 @@ export const KenyaClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
     "Signs",
     "Landscape",
@@ -85,34 +84,6 @@ export const KenyaClue = {
     {
       "title": "Google Car",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "Kenya has many unique Google cars, almost all of which will have visible car meta. In [Generation 3](https://maps.app.goo.gl/QLPW9sAjLhsxu5MaA) you will typically see a car with a roof rack and a **snorkel**. In Generation 4 you will always have a large pickup truck, which will either be [white](https://maps.app.goo.gl/htXLWiHsQrwrCr7q6) or grey. The grey car comes in two slightly [different variations](https://maps.app.goo.gl/KaoocmA3frEjAkAK8), of which one can either be with or [without a snorkel](https://maps.app.goo.gl/pjJDqH9pggvP1onn9).",
-            "It is the only country other than Mongolia with a snorkel.",
-            "NOTE: You can see National Park Cars in other countries with a snorkel on the front of the vehicle. Each vehicle will have its own distinct look."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_2Bcars.png",
-              "link": "https://maps.app.goo.gl/K5vZqpUio7f4ByUK6",
-              "alt": "Kenya Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "On a lot of the coverage you will see a grey Toyota SUV following the Street View car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_2Bfollow_2Bcar.png",
-              "link": "https://maps.app.goo.gl/6H21wEqpiRH2HyXr9",
-              "alt": "Kenya Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -139,22 +110,33 @@ export const KenyaClue = {
               "alt": "Kenya Google Car"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Plates",
-      "tips": [
+        },
         {
-          "title": "Plates",
+          "title": "Google Car",
           "text": [
-            "Kenya uses **long white** front licence plates. The rear counterpart is **square** and **yellow**."
+            "This Generation 3 black car with a small snorkel is mostly found in the **east **of the country. You can also see it north and south of Nairobi.",
+            "NOTE: Most Generation 3 coverage has been overridden by Generation 4."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_License_Plate.png",
-              "link": "https://www.plonkit.net/images/kenya/Kenya_License_Plate.png",
-              "alt": "Kenya Plates"
+              "url": "https://www.plonkit.net/images/kenya/Small_Snorkel_And_Black_Car.png",
+              "link": "https://goo.gl/maps/d7nwSXwnkFkt7VL79",
+              "alt": "Kenya Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "Kenya has mostly **Generation 4 **coverage covered by a large grey Google car, with or without a snorkel. There are many metas regarding Generation 4, too many in fact to break down here.",
+            "RESOURCE: Therefore, please use [this document](https://docs.google.com/document/d/1QXVADp15uUR2yvRPkFIPVR1gOmxh81gXj_q_7_v0wHQ/edit#). It covers this area in depth, and was created by snowf_lake.",
+            "_Key meta information can be found in the tips below. Other less extensive, but still noteworthy car meta, can be found in the spotlight section._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/kenya/round.png",
+              "link": "https://goo.gl/maps/GoTyd6EZ1DStuQcC9",
+              "alt": "Kenya Google Car"
             }
           ]
         }
@@ -326,19 +308,6 @@ export const KenyaClue = {
         {
           "title": "Regions",
           "text": [
-            "This mobile network brand named **Safaricom **is unique to Kenya, and almost every city has one location."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Safaricom.png",
-              "link": "https://goo.gl/maps/QtpfkJ74agGdeuNJ8",
-              "alt": "Kenya Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "Nairobi is the largest city in the country, and capital of Kenya. It is the only city to have a considerable amount of **skyscrapers**,** **and is highly developed. It is densely populated, and is surrounded by small, poor settlements."
           ],
           "images": [
@@ -379,19 +348,6 @@ export const KenyaClue = {
       "title": "Other",
       "tips": [
         {
-          "title": "Outer lines in Kenya will always be...",
-          "text": [
-            "Outer lines in Kenya will always be solid white, while inner lines will be yellow and either solid or dashed."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Road_Lines.png",
-              "link": "https://goo.gl/maps/UUUdLrUMp4b6Q4pVA",
-              "alt": "Kenya Outer lines in Kenya will always be..."
-            }
-          ]
-        },
-        {
           "title": "Many species of eucalyptus are commonly found...",
           "text": [
             "Many species of **eucalyptus **are commonly found in Kenya. They can be identified by their long, often clumped leaves, and smooth bark.",
@@ -421,250 +377,12 @@ export const KenyaClue = {
               "alt": "Kenya overview"
             }
           ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Kenya has many unique Google cars, almost all of which will have visible car meta. In [Generation 3](https://maps.app.goo.gl/QLPW9sAjLhsxu5MaA) you will typically see a car with a roof rack and a **snorkel**. In Generation 4 you will always have a large pickup truck, which will either be [white](https://maps.app.goo.gl/htXLWiHsQrwrCr7q6) or grey. The grey car comes in two slightly [different variations](https://maps.app.goo.gl/KaoocmA3frEjAkAK8), of which one can either be with or [without a snorkel](https://maps.app.goo.gl/pjJDqH9pggvP1onn9).",
-            "It is the only country other than Mongolia with a snorkel.",
-            "NOTE: You can see National Park Cars in other countries with a snorkel on the front of the vehicle. Each vehicle will have its own distinct look."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_2Bcars.png",
-              "link": "https://maps.app.goo.gl/K5vZqpUio7f4ByUK6",
-              "alt": "Kenya Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "On a lot of the coverage you will see a grey Toyota SUV following the Street View car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_2Bfollow_2Bcar.png",
-              "link": "https://maps.app.goo.gl/6H21wEqpiRH2HyXr9",
-              "alt": "Kenya Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Kenya uses **long white** front licence plates. The rear counterpart is **square** and **yellow**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_License_Plate.png",
-              "link": "https://www.plonkit.net/images/kenya/Kenya_License_Plate.png",
-              "alt": "Kenya Plates"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "This mobile network brand named **Safaricom **is unique to Kenya, and almost every city has one location."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Safaricom.png",
-              "link": "https://goo.gl/maps/QtpfkJ74agGdeuNJ8",
-              "alt": "Kenya Regions"
-            }
-          ]
-        },
-        {
-          "title": "Outer lines in Kenya will always be...",
-          "text": [
-            "Outer lines in Kenya will always be solid white, while inner lines will be yellow and either solid or dashed."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Road_Lines.png",
-              "link": "https://goo.gl/maps/UUUdLrUMp4b6Q4pVA",
-              "alt": "Kenya Outer lines in Kenya will always be..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Directional signs are **green **with a white border and text. They often display road numbers in white or [yellow](https://goo.gl/maps/DqEYtasj9mwbfE3G7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_Directional_Signs.png",
-              "link": "https://maps.app.goo.gl/zXLsKs69MeETYywL7",
-              "alt": "Kenya Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "While infrequent, road signs in Kenya will mostly be **red and white**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_Road_Signs.png",
-              "link": "https://goo.gl/maps/ABs9tkzKUjYF1dYM8",
-              "alt": "Kenya Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Upon closer inspection of signs, billboards and posters, you will notice that the **county name** is often written. Therefore, knowledge of Kenyan counties can be extremely useful in region guessing.",
-            "_You can practise Kenyan counties using the quiz in the resource section._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_Counties.png",
-              "link": "https://goo.gl/maps/as7Nnf6VRktWVWy48",
-              "alt": "Kenya Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "These **repurposed vans** can be found all over Kenya.",
-            "NOTE: While these vans can also be found in Uganda, the [design](https://goo.gl/maps/zn7PBhoaiJuyv6Ju7) of the vehicle wrap is clearly different."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Repurposed_Vans.png",
-              "link": "https://goo.gl/maps/TY8m26XSS8aeMvYw7",
-              "alt": "Kenya Signs"
-            }
-          ]
-        },
-        {
-          "title": "Many species of eucalyptus are commonly found...",
-          "text": [
-            "Many species of **eucalyptus **are commonly found in Kenya. They can be identified by their long, often clumped leaves, and smooth bark.",
-            "NOTE: Eucalyptus trees can be found in other countries. Use this information to help reinforce your country guess."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_Eucalyptus.png",
-              "link": "https://goo.gl/maps/NirkuGUdSLtodPQf9",
-              "alt": "Kenya Many species of eucalyptus are commonly found..."
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "While the vast majority of Kenyan car coverage has a visible Street View car, it is possible to find Generation 3 coverage with **no visible car**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Generation_3_No_Car_Meta.png",
-              "link": "https://goo.gl/maps/n24uXbQiVwqcnhRs5",
-              "alt": "Kenya Google Car"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional/county-specific clues",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "Most of the coverage in Kenya outside of the southwest is limited to **main roads**.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Kenya_Coverage_Map.png",
-              "link": "https://www.plonkit.net/images/kenya/Kenya_Coverage_Map.png",
-              "alt": "Kenya Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The natural formation of land has great diversity between regions. The east and large portions of the north are extremely flat. In contrast, the further southwest you travel, the higher the elevation becomes on average.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/kenya_topo.png",
-              "link": "https://www.plonkit.net/images/kenya/kenya_topo.png",
-              "alt": "Kenya Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Kenya has distinct regional climates. Some of these include:",
-            "- [Humid](https://goo.gl/maps/ikoiFyXWzkoo89Yd6)",
-            "- [Semi-Arid](https://goo.gl/maps/8pKMM9UmiABeQ5JWA)",
-            "- [Arid ](https://goo.gl/maps/WM987ahC4aCCZtLB9)",
-            "- [Very-Arid](https://goo.gl/maps/cysAiN7mGE66ZSJ97)",
-            "As regions vary, this means that there will be many transitional climates. Use this as a guide to quickly determine the general area to assist with region guessing.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Regional_Climates.png",
-              "link": "https://www.plonkit.net/images/kenya/Regional_Climates.png",
-              "alt": "Kenya Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This Generation 3 grey car with a large snorkel is mostly found in the **west**, but can also be found in the Mombasa and Nairobi areas, and regions east of Nairobi near Kitui.",
-            "NOTE: Most Generation 3 coverage has been overridden by Generation 4."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Big_Snorkel_And_Grey_Car.png",
-              "link": "https://goo.gl/maps/QtPb9J1JoiQwtkm66",
-              "alt": "Kenya Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This Generation 3 black car with a small snorkel is mostly found in the **east **of the country. You can also see it north and south of Nairobi.",
-            "NOTE: Most Generation 3 coverage has been overridden by Generation 4."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Small_Snorkel_And_Black_Car.png",
-              "link": "https://goo.gl/maps/d7nwSXwnkFkt7VL79",
-              "alt": "Kenya Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Kenya has mostly **Generation 4 **coverage covered by a large grey Google car, with or without a snorkel. There are many metas regarding Generation 4, too many in fact to break down here.",
-            "RESOURCE: Therefore, please use [this document](https://docs.google.com/document/d/1QXVADp15uUR2yvRPkFIPVR1gOmxh81gXj_q_7_v0wHQ/edit#). It covers this area in depth, and was created by snowf_lake.",
-            "_Key meta information can be found in the tips below. Other less extensive, but still noteworthy car meta, can be found in the spotlight section._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/round.png",
-              "link": "https://goo.gl/maps/GoTyd6EZ1DStuQcC9",
-              "alt": "Kenya Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -676,32 +394,6 @@ export const KenyaClue = {
               "url": "https://www.plonkit.net/images/kenya/A109.png",
               "link": "https://goo.gl/maps/gUtyJ4ydJvK3VrBz9",
               "alt": "Kenya Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Mombasa and the other coastal towns are easily identified from the **white sandy soil, **palm trees and coastal feel."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Mombasa.png",
-              "link": "https://maps.app.goo.gl/BYHSy8Qixt4dX9pd8",
-              "alt": "Kenya Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The far west areas of the country that are northwest and southwest of Kisumu are the most agricultural parts of the country. You will often see **farms**, grassy hills, and tall **eucalyptus **trees in this region of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/Landscape_-_Far_West.png",
-              "link": "https://goo.gl/maps/f64sZyt7Ka6ZkuYq5",
-              "alt": "Kenya Landscape"
             }
           ]
         },
@@ -765,19 +457,6 @@ export const KenyaClue = {
       "title": "Spotlight",
       "tips": [
         {
-          "title": "Road Lines",
-          "text": [
-            "The B9 in the Northeast is entirely unpaved and has bright **reddish orange dirt **with many trees surrounding the road. Most of it is very flat, but the coverage at the western end of the road can have hills and mountains. The soil also transitions into a more sandy colour."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/B9.png",
-              "link": "https://goo.gl/maps/GLNTc8Z5H4yiwPGs9",
-              "alt": "Kenya Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The A2 between Isiolo and Marsabit has many plants alongside the road and you will often see **large mountains **in the distance. The stretch going through Namunyak Wildlife Conservation Trust will have a very large mountain range to the west."
@@ -826,19 +505,6 @@ export const KenyaClue = {
               "url": "https://www.plonkit.net/images/kenya/Kenya_Western_C34.png",
               "link": "https://goo.gl/maps/RKX9fuf7LWnPz4PbA",
               "alt": "Kenya Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Nairobi is the largest city in the country, and capital of Kenya. It is the only city to have a considerable amount of **skyscrapers**,** **and is highly developed. It is densely populated, and is surrounded by small, poor settlements."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/ke_nairobi.png",
-              "link": "https://goo.gl/maps/A4VDgPZKkDx5287K6",
-              "alt": "Kenya Regions"
             }
           ]
         },
@@ -934,35 +600,6 @@ export const KenyaClue = {
               "alt": "Kenya Google Car"
             }
           ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "This stretch of the B8 just north of Kibaoni has many **succulents **on the side of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kenya/ke_succulents.png",
-              "link": "https://goo.gl/maps/r1HJAHo83KyoPe53A",
-              "alt": "Kenya Regions"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends you play these maps instead:",
-            "- **A Balanced Kenya **([map link](https://www.geoguessr.com/maps/638188a2ce5dad8d44eb9cae)) - A well balanced, computer generated map of Kenya with over 50,000 locations.",
-            "In addition, here are some resources to help you practise Kenya:",
-            "- **Plonk It Kenya** ([map link](https://www.geoguessr.com/maps/64063eef856ea5c65c390e7f)) - This map contains locations for practising each meta in the Plonk It Kenya guide from step 2 to 3.",
-            "- **Kenyan Counties - Map Quiz **([quiz link](https://geo.emily.bz/map-quiz/kenya/counties)) - A resource to help you learn the Kenyan counties."
-          ],
-          "images": []
         }
       ]
     }

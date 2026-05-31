@@ -349,14 +349,13 @@ export const UnitedStatesClue = {
         {
           "title": "Signs",
           "text": [
-            "The US uses **American English** spelling (e.g. center, color).",
-            "In addition, the US primarily uses the [imperial system](https://en.wikipedia.org/wiki/Imperial_units) for measurements. For example, speed and distance are measured in **miles**. You will also often see feet and inches on signs, indicating the height of bridges.",
-            "NOTE: This is useful to distinguish between the English-speaking parts of Canada, where British English spelling and (usually) the [metric system](https://en.wikipedia.org/wiki/Metric_system) are used. For example, Canada measures speed in kilometres."
+            "American **yield signs** are shaped like an upside down triangle with a red border, with a white field with the word ‘YIELD’.",
+            "NOTE: [Canadian](https://goo.gl/maps/zBwtzhBVjPgtw1628) yield signs look similar, but lack the ‘YIELD’ text."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/united-states/americanspelling.png",
-              "link": "https://goo.gl/maps/LgpbYzyE4qgZWZMq5",
+              "url": "https://www.plonkit.net/images/united-states/yield_sign.png",
+              "link": "https://goo.gl/maps/MwCckHK7LUsDDGir9",
               "alt": "United States of America Signs"
             }
           ]
@@ -364,14 +363,13 @@ export const UnitedStatesClue = {
         {
           "title": "Signs",
           "text": [
-            "**Generation 2** coverage is **rare** in the US. If you have a Generation 2 location in a North American setting, you are more likely to be in Canada.",
-            "The exception to this is Alaska, and to a lesser extent Hawaii, which have a fair amount of Generation 2. You can also rarely see generation 2 in rural areas of the deep south.",
-            "**Generation 3** coverage is also significantly less common than in Canada."
+            "American one-way signs are usually a **horizontal black rectangle** with a **white arrow** inside of it. These signs will also always have the words ‘ONE WAY’ printed on them. In cities, they are a white vertical rectangle with the words ‘ONE WAY’ on them and an arrow underneath.",
+            "NOTE: [Canadian](https://goo.gl/maps/f9n6jHbEQJFrNY5e6) one-way signs are of the same shape and colour, but might not have the words ‘ONE WAY’ on them."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/united-states/cameragens_2025.png",
-              "link": "https://goo.gl/maps/yFJraAXttNzm95JU7",
+              "url": "https://www.plonkit.net/images/united-states/one_way_road_signs_final.png",
+              "link": "https://goo.gl/maps/mdAKe6XzpRdz1Ex9A",
               "alt": "United States of America Signs"
             }
           ]
@@ -379,13 +377,13 @@ export const UnitedStatesClue = {
         {
           "title": "Signs",
           "text": [
-            "Road signs in the US tend to use **more words** compared to their Canadian counterparts. A good example are railway crossing signs, which feature the literal words ‘railway crossing’ on them. In Canada, these signs are typically blank.",
-            "This tendency is also noticeable on [yellow diamond warning signs](https://goo.gl/maps/ySfoRRrDjUqSRSub6). In Canada, the words will usually be on a rectangular sign below the yellow diamond, which would have a diagram on it instead."
+            "**Parking indicator signs** in the US are typically white metal signs with red, green, or black text. They may include specific information about when you can park on said road, and arrows indicating where parking is (or is not) allowed.",
+            "NOTE: [Canadian](https://goo.gl/maps/WWt6d3SRhG4B61Q19) parking signs use similar styles and colours, but typically are less ‘wordy,’ instead using more symbols when applicable."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/united-states/wordysigns.png",
-              "link": "https://goo.gl/maps/SsgYdVaJLsSGXsxu7",
+              "url": "https://www.plonkit.net/images/united-states/us_parking_singage.png",
+              "link": "https://goo.gl/maps/86LoDjTdAV4cBjsc9",
               "alt": "United States of America Signs"
             }
           ]
@@ -393,14 +391,13 @@ export const UnitedStatesClue = {
         {
           "title": "Signs",
           "text": [
-            "The US uses the phrase ‘**Speed Limit**’ on their speed signs.",
-            "The numbers on American speed signs are usually lower than that of Canada’s, since they use miles instead of kilometres. In addition, speed limits ending in 5 are more common in the US.",
-            "NOTE: [Canada](https://goo.gl/maps/zVYUCX62g3ENJct2A) uses the word ‘Maximum’ on their speed signs."
+            "Large highways in the US use large, rectangular, **green metal signs** with curved edges and white text to mark highway exits, distances to nearby towns, and the names of upcoming roads (mainly in cities).",
+            "NOTE: [Canadian](https://goo.gl/maps/JBuxw1mVSSq1cRy37) highway signs have a similar appearance, but will typically have squared edges, instead of curved edges."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/united-states/speedsign.png",
-              "link": "https://goo.gl/maps/GjBjnrwJLoSmfyRR6",
+              "url": "https://www.plonkit.net/images/united-states/exit_signage.png",
+              "link": "https://goo.gl/maps/F7e7sMKEDctfy4Rz6",
               "alt": "United States of America Signs"
             }
           ]
@@ -716,134 +713,6 @@ export const UnitedStatesClue = {
         {
           "title": "Signs",
           "text": [
-            "The US uses **American English** spelling (e.g. center, color).",
-            "In addition, the US primarily uses the [imperial system](https://en.wikipedia.org/wiki/Imperial_units) for measurements. For example, speed and distance are measured in **miles**. You will also often see feet and inches on signs, indicating the height of bridges.",
-            "NOTE: This is useful to distinguish between the English-speaking parts of Canada, where British English spelling and (usually) the [metric system](https://en.wikipedia.org/wiki/Metric_system) are used. For example, Canada measures speed in kilometres."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/americanspelling.png",
-              "link": "https://goo.gl/maps/LgpbYzyE4qgZWZMq5",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Generation 2** coverage is **rare** in the US. If you have a Generation 2 location in a North American setting, you are more likely to be in Canada.",
-            "The exception to this is Alaska, and to a lesser extent Hawaii, which have a fair amount of Generation 2. You can also rarely see generation 2 in rural areas of the deep south.",
-            "**Generation 3** coverage is also significantly less common than in Canada."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/cameragens_2025.png",
-              "link": "https://goo.gl/maps/yFJraAXttNzm95JU7",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Road signs in the US tend to use **more words** compared to their Canadian counterparts. A good example are railway crossing signs, which feature the literal words ‘railway crossing’ on them. In Canada, these signs are typically blank.",
-            "This tendency is also noticeable on [yellow diamond warning signs](https://goo.gl/maps/ySfoRRrDjUqSRSub6). In Canada, the words will usually be on a rectangular sign below the yellow diamond, which would have a diagram on it instead."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/wordysigns.png",
-              "link": "https://goo.gl/maps/SsgYdVaJLsSGXsxu7",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The US uses the phrase ‘**Speed Limit**’ on their speed signs.",
-            "The numbers on American speed signs are usually lower than that of Canada’s, since they use miles instead of kilometres. In addition, speed limits ending in 5 are more common in the US.",
-            "NOTE: [Canada](https://goo.gl/maps/zVYUCX62g3ENJct2A) uses the word ‘Maximum’ on their speed signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/speedsign.png",
-              "link": "https://goo.gl/maps/GjBjnrwJLoSmfyRR6",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Triangular yellow signs** with the phrase ‘No Passing Zone’ are exclusive to the US."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/nopassingzone.png",
-              "link": "https://goo.gl/maps/pJS3NcXAn5nD1Nu87",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "American **yield signs** are shaped like an upside down triangle with a red border, with a white field with the word ‘YIELD’.",
-            "NOTE: [Canadian](https://goo.gl/maps/zBwtzhBVjPgtw1628) yield signs look similar, but lack the ‘YIELD’ text."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/yield_sign.png",
-              "link": "https://goo.gl/maps/MwCckHK7LUsDDGir9",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "American one-way signs are usually a **horizontal black rectangle** with a **white arrow** inside of it. These signs will also always have the words ‘ONE WAY’ printed on them. In cities, they are a white vertical rectangle with the words ‘ONE WAY’ on them and an arrow underneath.",
-            "NOTE: [Canadian](https://goo.gl/maps/f9n6jHbEQJFrNY5e6) one-way signs are of the same shape and colour, but might not have the words ‘ONE WAY’ on them."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/one_way_road_signs_final.png",
-              "link": "https://goo.gl/maps/mdAKe6XzpRdz1Ex9A",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Parking indicator signs** in the US are typically white metal signs with red, green, or black text. They may include specific information about when you can park on said road, and arrows indicating where parking is (or is not) allowed.",
-            "NOTE: [Canadian](https://goo.gl/maps/WWt6d3SRhG4B61Q19) parking signs use similar styles and colours, but typically are less ‘wordy,’ instead using more symbols when applicable."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_parking_singage.png",
-              "link": "https://goo.gl/maps/86LoDjTdAV4cBjsc9",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Large highways in the US use large, rectangular, **green metal signs** with curved edges and white text to mark highway exits, distances to nearby towns, and the names of upcoming roads (mainly in cities).",
-            "NOTE: [Canadian](https://goo.gl/maps/JBuxw1mVSSq1cRy37) highway signs have a similar appearance, but will typically have squared edges, instead of curved edges."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/exit_signage.png",
-              "link": "https://goo.gl/maps/F7e7sMKEDctfy4Rz6",
-              "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "Leading up to exits on large highways you commonly see large, **blue rectangular signs** with white text, highlighting services, such as food, lodging and petrol, that are available at the upcoming highway exit.",
             "NOTE: Canada uses [similar signs](https://goo.gl/maps/14FARb11GKUu4sBG6) on some of their highways."
           ],
@@ -870,131 +739,6 @@ export const UnitedStatesClue = {
           ]
         },
         {
-          "title": "White and orange fibre optic cable markers...",
-          "text": [
-            "White and orange **fibre optic cable markers** are almost unique to the US.",
-            "NOTE: On very rare occasions, they can be found in Canada."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/fibre_line.png",
-              "link": "https://goo.gl/maps/1dmhevu6t4bokFrt9",
-              "alt": "United States of America White and orange fibre optic cable markers..."
-            }
-          ]
-        },
-        {
-          "title": "This is an example of the most...",
-          "text": [
-            "This is an example of the most common type of **orange construction barrel** in the United States. They are made out of orange plastic with horizontal white stripes and a black rubber base. They are usually used to block off lanes to traffic during times of road construction."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_construction_barrel.png",
-              "link": "https://maps.app.goo.gl/44BmStfLHch56idv9",
-              "alt": "United States of America This is an example of the most..."
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The US uses **yellow middle lines** and white outer lines. Double middle lines are the most common.",
-            "On divided roads, the outer line closest to the median will be yellow, and the other lines will usually be white.",
-            "NOTE: Double middle lines are less common in Canada, but not rare – use this meta with caution. Furthermore, yellow road lines are very rare in Europe."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/road_lines.png",
-              "link": "https://goo.gl/maps/z2RcLtw1NR2Q6oEw7",
-              "alt": "United States of America Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Interstate highways, US highways, and some state...",
-          "text": [
-            "Interstate highways, US highways, and some state roads have **rumble strips** in each edge of the road; which are small indentations in the pavement perpendicular to the road. These can be located on the outside edges of the road and in between lanes on multi-lane highways.",
-            "NOTE: Rumble strips may appear in Canada, but are much more rare."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/rumble_strips.png",
-              "link": "https://goo.gl/maps/KSHqJEN8fzFL3tFH6",
-              "alt": "United States of America Interstate highways, US highways, and some state..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Small, rectangular manufactured homes**, also known as mobile or ‘trailer’ homes, are popular in rural areas of the US. In general, mobile homes are more common in the Southeast but they can be seen anywhere in the country.",
-            "NOTE: This style of home can sometimes be seen in Canada, but to a much lesser extent."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/mobile_home.png",
-              "link": "https://goo.gl/maps/yXGJAmyPaSubBN6G7",
-              "alt": "United States of America Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Baptist churches** are very common in the United States. Similar to mobile homes, these are more common in the Southern Plains and Southeast United States, but can be found in all 50 states.",
-            "NOTE: Baptist churches are rare in Canada."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/baptist_church.png",
-              "link": "https://goo.gl/maps/pKT4MGVu4HQEdrqM6",
-              "alt": "United States of America Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Pictured here is a group of **gas stations** and **convenience store** chains that operate **in the United States**, but **not in Canada**. This is not a comprehensive list, but some of the most common American-only chains. Regional gas station chains are found near the end of the ‘Step 2’ section of this guide.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/american_gas_station_only_chains.png",
-              "link": "https://www.plonkit.net/images/united-states/american_gas_station_only_chains.png",
-              "alt": "United States of America Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Pictured here is a group of **restaurant chains** that operate **in the United States**, but **not in Canada** (Chick Fil A is the only exception with a few locations in the [Toronto area](https://goo.gl/maps/QyrJsJaecJSyupZSA).) This is not a comprehensive list, but some of the most common American-only chains. Regional restaurant chains are found at the end of the ‘Step 2’ section of this guide.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/american_food_chains.png",
-              "link": "https://www.plonkit.net/images/united-states/american_food_chains.png",
-              "alt": "United States of America Regions"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "In addition to having less Generation 3 coverage than Canada, the side mirrors are also blurred out differently: While they generally appear as two peaks in Canadian Gen 3 coverage, you will mostly see a **single peak** in the US."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/gen3_blurs.png",
-              "link": "https://maps.app.goo.gl/Qef4CPWaMgbMwPhCA",
-              "alt": "United States of America Coverage"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "In the US and Canada, especially at large intersections, **long metal bars** with **stop lights** attached to them hang over the street. These bars also commonly have street signs, highway signs, or other signs attached to them."
@@ -1017,33 +761,6 @@ export const UnitedStatesClue = {
               "url": "https://www.plonkit.net/images/united-states/us_signposts.png",
               "link": "https://goo.gl/maps/iAPGhdGNJr8xbPAJ7",
               "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "North America primarily uses **wooden utility poles**.",
-            "Several European countries also primarily use wooden utility poles. However, a concrete pole in particular is mostly associated with Europe."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/poles.png",
-              "link": "https://goo.gl/maps/nAay19LWNowETBEu8",
-              "alt": "United States of America Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "This style of **insulator**, that is raised slightly **on top** of the utility pole, can be a good clue for the US and Canada. It is not typically found in Europe. It is especially apparent on simple poles with a single insulator."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/na_insulator_final.png",
-              "link": "https://goo.gl/maps/TWLRvCGsgnDgxz6E6",
-              "alt": "United States of America Poles"
             }
           ]
         },
@@ -1086,33 +803,6 @@ export const UnitedStatesClue = {
               "alt": "United States of America Regions"
             }
           ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "**Generation 3** coverage in the US and Canada generally has **no visible antenna**. This can be helpful to distinguish it from Europe in low-info rounds. Some European Generation 3 coverage has no visible antenna, but most of it does.",
-            "There is an important exception: in national parks in the US, you can find a Generation 3 car with a [stubby antenna](https://goo.gl/maps/6nngRLvsmvVm7SPS8) with diagonal coils around it. Still, this specific type of antenna is not found in Europe."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_vs_eu_antennas.png",
-              "link": "https://goo.gl/maps/mRjS1quRsYQVLze69",
-              "alt": "United States of America Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Both the US and Canada also have Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. When the car isn’t blurred properly, you will usually see a mirror sticking out on the right side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/Smallcam_NA_.png",
-              "link": "https://maps.app.goo.gl/AjkvvSmiNw5WaHzk7",
-              "alt": "United States of America Google Car"
-            }
-          ]
         }
       ]
     },
@@ -1134,35 +824,6 @@ export const UnitedStatesClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "The US, as well as most of the Americas, uses short licence plates, in contrast to longer European ones. Each US state has their own **unique licence plate** design. Some of these are recognizable through the blur, and are thus worth learning. Around half of the states also do not require front plates, which can also be useful in determining the state.",
-            "_You can click on the image to enlarge it. [Here](/images/united-states/us_licenceplates_map_2025.png) you can also find a map showing the locations of each plate._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_licenceplates_2025.png",
-              "alt": "United States of America Plates"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Interstate Highways** are divided highways that often span large areas of the United States. Even-numbered Interstates run west to east, with the lowest numbers along the Gulf Coast and Mexico border. Odd-numbered highways run south to north, with the lowest numbers along the West Coast.",
-            "**US Highways** are also typically long roads that are sometimes (but not always) divided. The numbering system is generally the inverse of Interstate Highways, with low odd-numbered highways located along the East Coast and low even-numbered highways located close to the Canadian border in the north of the country.",
-            "NOTE: There are generally more exceptions to the US Highway numbering system than the Interstate Highway numbering system, in terms of placement.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_highway_map_final.png",
-              "link": "https://www.plonkit.net/images/united-states/us_highway_map_final.png",
-              "alt": "United States of America Landscape"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "US telephone numbers start with a three-digit **area code**. While these area codes are not clustered by initial digits, they are useful to learn.",
@@ -1173,49 +834,6 @@ export const UnitedStatesClue = {
               "url": "https://www.plonkit.net/images/united-states/US_area_codes_map.jfif",
               "link": "https://www.plonkit.net/images/united-states/US_area_codes_map.jfif",
               "alt": "United States of America Regions"
-            }
-          ]
-        },
-        {
-          "title": "Each of the 50 states has its...",
-          "text": [
-            "Each of the 50 states has its own **state flag**. These appear frequently enough that they are worth learning.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_stateflags_v2.png",
-              "alt": "United States of America Each of the 50 states has its..."
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Shown here is a **topographic map** of the US.",
-            "Most significant elevation is in the west: here you will find large mountain ranges, but also more flat, high plateaus. Some parts have lower elevation: good examples are the [Central Valley](https://en.wikipedia.org/wiki/Central_Valley_(California)) and [Imperial Valley](https://en.wikipedia.org/wiki/Imperial_Valley,_California) in California.",
-            "Elevation in the east is generally much lower. The most significant amount of elevation is found in the [Appalachians](https://en.wikipedia.org/wiki/Appalachian_Mountains), low mountain ranges running through the eastern and northeastern US. Good examples of hills in otherwise fairly flat regions are the [Driftless Area](https://en.wikipedia.org/wiki/Driftless_Area) in the Midwest, and [The Ozarks](https://en.wikipedia.org/wiki/Ozarks) in Missouri and Arkansas.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/US_topographic_map.png",
-              "link": "https://www.plonkit.net/images/united-states/US_topographic_map.png",
-              "alt": "United States of America Plates"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "This is a **forest density map** of the contiguous United States. Eastern and Northern regions of the country typically have much denser tree cover than Western and Southwestern regions.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/forest_coverage.jpg",
-              "link": "https://www.plonkit.net/images/united-states/forest_coverage.jpg",
-              "alt": "United States of America Landscape"
             }
           ]
         },
@@ -1255,34 +873,6 @@ export const UnitedStatesClue = {
               "url": "https://www.plonkit.net/images/united-states/canola_oil.png",
               "link": "https://goo.gl/maps/qycm4B3NgJwquibV8",
               "alt": "United States of America Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Cotton** is a crop that produces large fields of **fluffy white flowers**. It is most commonly produced in coastal Southeast States, the Lower Mississippi River Valley, Western Texas, and parts of California and Arizona. You can click [here](https://ers.usda.gov/sites/default/files/_laserfiche/Charts/99698/CottonAcreage2017.png?v=95859) for a more detailed map.",
-            "NOTE: When cotton is not fully grown (earlier in the year) cotton fields often look like [this](https://maps.app.goo.gl/KfHaonkY71zhSDfe7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/updated_cotton_image.png",
-              "link": "https://goo.gl/maps/hnPEetcJCVwDrLEb7",
-              "alt": "United States of America Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Rice** production only occurs in a few areas of the US, so it is very useful for region guessing. It is typically grown in large, flat fields that resemble low prairies. It is only grown in north-central California and the Lower Mississippi River Valley in Arkansas, Louisiana, Texas, and Mississippi. You can click [here](https://ipad.fas.usda.gov/rssiws/al/crop_production_maps/US/USA_Rice.png) for a more detailed map.",
-            "NOTE: When rice is not fully grown, rice fields often look similar to [this](https://maps.app.goo.gl/e5TVrT3jBQg4Mgrb7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/rice_production_final.png",
-              "link": "https://maps.app.goo.gl/RnrSjJ1NhQYggACDA",
-              "alt": "United States of America Landscape"
             }
           ]
         },
@@ -1526,19 +1116,6 @@ export const UnitedStatesClue = {
           ]
         },
         {
-          "title": "Language",
-          "text": [
-            "Spanish moss, appearing as **greyish white drapes**, can sometimes be seen on trees in the deep south."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/spanishmoss.png",
-              "link": "https://goo.gl/maps/79kW4uw1vvMW9QpG9",
-              "alt": "United States of America Language"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "**Agricultural golden fields** can commonly be seen in eastern Washington.",
@@ -1740,34 +1317,6 @@ export const UnitedStatesClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "Yellow lines with a noticeably **larger gap** in between them are most common in Texas, Arkansas, Louisiana, Mississippi, and Oregon. They can also be found to a lesser extent in Washington, Alabama, and Michigan.",
-            "NOTE: Wide middle lines can also rarely appear in other states, so consider other clues before guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/9wide_lines_updated.png",
-              "link": "https://goo.gl/maps/Kth32BFRi9HxHa7T6",
-              "alt": "United States of America Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Some roads in West Virginia, Virginia, and Maryland use middle yellow lines that are thicker than [traditional](https://goo.gl/maps/sawqJcR8YeWq3Pzr6) yellow road lines.",
-            "NOTE: These are not present on all roads in these states, and can be found elsewhere, so use this tip in conjunction with other clues."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/10thick_road_lines_final.png",
-              "link": "https://goo.gl/maps/mvbnX1gh9NHboapk7",
-              "alt": "United States of America Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Speed signs in Oregon often simply have the word ‘**Speed**’ instead of the standard ‘Speed Limit’."
@@ -1783,32 +1332,6 @@ export const UnitedStatesClue = {
         {
           "title": "Road Lines",
           "text": [
-            "A **black stripe** can sometimes be seen in between the two yellow, middle road lines in California."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/12werwerwerwer.png",
-              "link": "https://goo.gl/maps/mrfVRvZGKMbD9AbZ7",
-              "alt": "United States of America Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Utility poles in California usually have markings at the bottom of the pole that consist of **3 yellow stripes**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/13cali_fstriped.png",
-              "link": "https://goo.gl/maps/UDPJyRCPfsQx6pQ89",
-              "alt": "United States of America Poles"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
             "Some small roads in California and Kentucky **lack a middle yellow line**; instead only feature solid white lines on each side of the road.",
             "NOTE: This can rarely be seen in other [states](https://maps.app.goo.gl/bvP2cchCZ3qoYhAC8)."
           ],
@@ -1817,59 +1340,6 @@ export const UnitedStatesClue = {
               "url": "https://www.plonkit.net/images/united-states/plonkit%2520cali%2520kentucky%2520roadlines.png",
               "link": "https://goo.gl/maps/XGkHpyRQavqx8rv86",
               "alt": "United States of America Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "This bollard is found in **Nevada**. It consists of a reflector on a thin stick. The reflector is a vertical rectangle that consists of a white field surrounded by a black outline."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/15Nevada_bollard.png",
-              "link": "https://maps.app.goo.gl/KruoYymExNDZW5Pq6",
-              "alt": "United States of America Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "The most common type of roadside bollard in South Dakota and Montana features a **dark metal post **with a **white diamond** on each side of the top.",
-            "NOTE: These bollards can be found to a lesser extent in other western states."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_sdmontanabollard.png",
-              "link": "https://goo.gl/maps/bRPsP1kJKHGdPL956",
-              "alt": "United States of America Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Roadside bollards in Wyoming often feature a dark metal pole with a white circular reflector at the top. The **top** of the metal pole is sometimes painted **white or grey**, which is unique to Wyoming."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_wyomingbollard.png",
-              "link": "https://maps.app.goo.gl/LLNwUukSG8GBdnWP8",
-              "alt": "United States of America Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "The state of Washington uses bollards that consist of a [white](https://maps.app.goo.gl/JWXyCzVvNiAQ4NVV8) or [brown](https://maps.app.goo.gl/rCAieVzcSH1mrbST9) post with a white rectangle on the front of the bollard, and** two smaller white or silver squares **on the back of the bollard."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/washingtonbollard.png",
-              "link": "https://maps.app.goo.gl/rCAieVzcSH1mrbST9",
-              "alt": "United States of America Bollards"
             }
           ]
         },
@@ -1977,19 +1447,6 @@ export const UnitedStatesClue = {
               "url": "https://www.plonkit.net/images/united-states/22Wisconsin_ATV_route_sign.png",
               "link": "https://goo.gl/maps/AuYVaRffPWvSX3cf8",
               "alt": "United States of America Signs"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "A rectangular **white** metal plate, with an orange rectangle and diamond, can be seen on most poles in Wisconsin and the Upper Peninsula of Michigan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/23us_wisconsinmichiganpolesticker.png",
-              "link": "https://www.google.com/maps/@43.0893323,-89.501544,3a,15y,296.26h,79.14t/data=!3m6!1e1!3m4!1sjpD-_khPr--pv5urQu8dPA!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "United States of America Plates"
             }
           ]
         },
@@ -2264,19 +1721,6 @@ export const UnitedStatesClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Buildings with very **large, sloped roofs** are most common in the states of Oklahoma, Texas, and Louisiana. They can also be seen in neighbouring states to a lesser extent."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/us_texashouse.png",
-              "link": "https://goo.gl/maps/azi7P8Ua1weP9wNt9",
-              "alt": "United States of America Architecture"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Houses in coastal New England often feature **shingle walls**, which are layered wood panels overlapping each other.",
@@ -2287,20 +1731,6 @@ export const UnitedStatesClue = {
               "url": "https://www.plonkit.net/images/united-states/43jonnys_second_house.png",
               "link": "https://maps.app.goo.gl/werRxqc1JVy8RENk6",
               "alt": "United States of America Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Older **three story wooden houses**, also called ‘[stacked triplexes](https://en.wikipedia.org/wiki/Three-decker_(house)),’ are very common in urban areas of the Northeast. They are most prevalent in New York, Connecticut, Rhode Island, and Massachusetts.",
-            "NOTE: These types of houses are also somewhat common in cities in [Atlantic Canada](https://maps.app.goo.gl/XKdZcqHCu2YhDXZp7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/three-decker.png",
-              "link": "https://maps.app.goo.gl/X2wyDo2XqCABfCL77",
-              "alt": "United States of America Architecture"
             }
           ]
         },
@@ -2318,33 +1748,6 @@ export const UnitedStatesClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Buildings with **red metal rooftops** are most commonly found in the Mid-South and Southern Appalachia states of Virginia, West Virginia, Ohio, Kentucky, Tennessee, Arkansas, and North Carolina.",
-            "NOTE: These types of rooftops can be found in other areas, so use other clues before guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/45metal_roof1.png",
-              "link": "https://goo.gl/maps/xGxn93ZdZUTzVeim7",
-              "alt": "United States of America Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Very narrow, one-storey** houses made out of wood are called ‘shotgun houses.’ They are most common in and around New Orleans (LA,) Houston (TX,) Louisville (KY,) and the state of Mississippi."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/46shotgun_house_maybe.png",
-              "link": "https://goo.gl/maps/7f8AGZeG2Ltu9BmY8",
-              "alt": "United States of America Architecture"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Pueblo Revival style houses are commonly seen in New Mexico. They are typically constructed of adobe or brick and concrete. They have **rounded edges** and **flat roofs**, and are usually sand-brown in colour.",
@@ -2355,19 +1758,6 @@ export const UnitedStatesClue = {
               "url": "https://www.plonkit.net/images/united-states/47Pueblo_Style_home_hint.png",
               "link": "https://goo.gl/maps/TKEAzqGqeygzcNAdA",
               "alt": "United States of America Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Spanish Colonial Revival Architecture can be categorised as buildings with **lightly-coloured stucco walls** and **red clay-tile roofs**. They can be found in the desert southwest states of California, Nevada, Arizona, and Texas. You can also find similar types of buildings in Florida and coastal Georgia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/spanish_revival_updated.png",
-              "link": "https://goo.gl/maps/geZGWJjxfZ1n4T3QA",
-              "alt": "United States of America Language"
             }
           ]
         },
@@ -2736,20 +2126,6 @@ export const UnitedStatesClue = {
     {
       "title": "Spotlight",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "As part of a promotional campaign, the TransAmerica Trail from Oregon to North Carolina was covered by a **Ford Bronco**. The car can recognised by its unblurred black roof and red hood, and is mostly found on unpaved rural roads.",
-            "Looking [backwards](https://maps.app.goo.gl/Zb8pFNSX2FFoRmK98), you will see two other Ford SUVs escorting the camera car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/united-states/fordbronco.png",
-              "link": "https://maps.app.goo.gl/agYjaFJTJbMiN38C7",
-              "alt": "United States of America Google Car"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [

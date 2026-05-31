@@ -73,7 +73,6 @@ export const NepalClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
     "Bollards",
     "Poles",
@@ -89,20 +88,6 @@ export const NepalClue = {
     {
       "title": "Google Car",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "All of the road coverage in Nepal was taken with what’s commonly referred to as **“shitcam”**, which is a low-quality camera that can typically be recognised by the brownish colours and often, but not always, by a large circular blur covering the Street View car.",
-            "NOTE: Shitcam coverage is also very common in India and can rarely be found in Bangladesh and Sri Lanka."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/3.png",
-              "link": "https://maps.app.goo.gl/NeHUe6k8rd8vbyUv6",
-              "alt": "Nepal Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -148,22 +133,17 @@ export const NepalClue = {
               "alt": "Nepal Google Car"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Plates",
-      "tips": [
+        },
         {
-          "title": "Plates",
+          "title": "Google Car",
           "text": [
-            "Nepali licence plates are typically fairly long, with the most common design being white. Private vehicles use red plates, while public vehicles use black ones."
+            "If the blue car has an antenna, you will be around Pokhara."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/nepal/2.png",
-              "link": "https://www.plonkit.net/images/nepal/2.png",
-              "alt": "Nepal Plates"
+              "url": "https://www.plonkit.net/images/nepal/401.png",
+              "link": "https://maps.app.goo.gl/yTEdznu6YVkDyNZX6",
+              "alt": "Nepal Google Car"
             }
           ]
         }
@@ -224,20 +204,6 @@ export const NepalClue = {
         {
           "title": "Poles",
           "text": [
-            "Nepal typically uses square concrete poles in the flat areas, and thin metallic poles in the mountainous regions. The poletops vary, but it is often some kind of trident.",
-            "The concrete pole with a [trident pole top and triangle supports](https://maps.app.goo.gl/ZpwKw2HMY3K4QkQy9) is unique to Nepal. Another common pole almost unique to Nepal is a concrete square pole with [2 vertical insulators](https://maps.app.goo.gl/RBVJCNrtq2enZDS47) on the sides with a wide gap between them. Other poles can often appear very similar to poles in India."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/6.png",
-              "link": "https://maps.app.goo.gl/GWpSEh7AQaMRxWPH9",
-              "alt": "Nepal Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
             "Poles with a **cross** attached near the top are common in the east."
           ],
           "images": [
@@ -266,20 +232,6 @@ export const NepalClue = {
     {
       "title": "Signs",
       "tips": [
-        {
-          "title": "Signs",
-          "text": [
-            "Nepal uses the **Devanagari script**, which can be recognised by the line going through the top of each word and the straight vertical lines found in the majority of all letters.",
-            "NOTE: The characters ङ and especially ङ्ग are much more common in Nepali than in Hindi/Marathi. It is also quite common to find [native Devanagari numbers](https://maps.app.goo.gl/iZWe7Td5ovENJDEF7) on signage in Nepal, which is very rare in India."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/np_language.png",
-              "link": "https://www.plonkit.net/images/nepal/5.jpeg",
-              "alt": "Nepal Signs"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -560,19 +512,6 @@ export const NepalClue = {
       "title": "Other",
       "tips": [
         {
-          "title": "Nepal drives on the left side of...",
-          "text": [
-            "Nepal drives on the** left side** of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/4.jpeg",
-              "link": "https://maps.app.goo.gl/WUw8YEL73XrHcKwz6",
-              "alt": "Nepal Nepal drives on the left side of..."
-            }
-          ]
-        },
-        {
           "title": "This type of white-painted Buddhist stupa, sometimes...",
           "text": [
             "This type of **white-painted Buddhist stupa**, sometimes with painted eyes on the sides, are only found in Nepal."
@@ -614,238 +553,12 @@ export const NepalClue = {
               "alt": "Nepal overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Nepali licence plates are typically fairly long, with the most common design being white. Private vehicles use red plates, while public vehicles use black ones."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/2.png",
-              "link": "https://www.plonkit.net/images/nepal/2.png",
-              "alt": "Nepal Plates"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "All of the road coverage in Nepal was taken with what’s commonly referred to as **“shitcam”**, which is a low-quality camera that can typically be recognised by the brownish colours and often, but not always, by a large circular blur covering the Street View car.",
-            "NOTE: Shitcam coverage is also very common in India and can rarely be found in Bangladesh and Sri Lanka."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/3.png",
-              "link": "https://maps.app.goo.gl/NeHUe6k8rd8vbyUv6",
-              "alt": "Nepal Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Nepal drives on the left side of...",
-          "text": [
-            "Nepal drives on the** left side** of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/4.jpeg",
-              "link": "https://maps.app.goo.gl/WUw8YEL73XrHcKwz6",
-              "alt": "Nepal Nepal drives on the left side of..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Nepal uses the **Devanagari script**, which can be recognised by the line going through the top of each word and the straight vertical lines found in the majority of all letters.",
-            "NOTE: The characters ङ and especially ङ्ग are much more common in Nepali than in Hindi/Marathi. It is also quite common to find [native Devanagari numbers](https://maps.app.goo.gl/iZWe7Td5ovENJDEF7) on signage in Nepal, which is very rare in India."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/np_language.png",
-              "link": "https://www.plonkit.net/images/nepal/5.jpeg",
-              "alt": "Nepal Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Nepal typically uses square concrete poles in the flat areas, and thin metallic poles in the mountainous regions. The poletops vary, but it is often some kind of trident.",
-            "The concrete pole with a [trident pole top and triangle supports](https://maps.app.goo.gl/ZpwKw2HMY3K4QkQy9) is unique to Nepal. Another common pole almost unique to Nepal is a concrete square pole with [2 vertical insulators](https://maps.app.goo.gl/RBVJCNrtq2enZDS47) on the sides with a wide gap between them. Other poles can often appear very similar to poles in India."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/6.png",
-              "link": "https://maps.app.goo.gl/GWpSEh7AQaMRxWPH9",
-              "alt": "Nepal Poles"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Nepal commonly uses **outer yellow road lines** that are either [dashed](https://maps.app.goo.gl/QEJcARP1NNPetPwS8) or [solid](https://maps.app.goo.gl/sAwmxo23B4o9Hc4m7), with dashed white lines in the middle of bigger roads. Solid outer yellows are very common in eastern Bagmati province."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/7.png",
-              "link": "https://maps.app.goo.gl/QEJcARP1NNPetPwS8",
-              "alt": "Nepal Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Nepal mainly uses **black-and-white striped concrete bollards** that often have a **red marking** on the top. The amount of stripes vary from 3 to 5."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/8.png",
-              "link": "https://maps.app.goo.gl/RERdSiRq7CkuNh4x5",
-              "alt": "Nepal Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "You will see **flat agricultural areas** in the south as well as high altitude **mountain roads** in the northern half of Nepal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/9.png",
-              "link": "https://maps.app.goo.gl/2TsRKHKYw3Qyij1P8",
-              "alt": "Nepal Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Most buildings are either colorful blocky multi-story structures or small houses with painted concrete, red brick, or thatched looking walls, with either a tiled or tin roof. As part of the building facade, you will often spot [triangle shaped decorations](https://maps.app.goo.gl/YV9ysBvzpGBpQdwJ9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/10.jpeg",
-              "link": "https://maps.app.goo.gl/kPjC91QHEQa1Q6H4A",
-              "alt": "Nepal Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Nepal uses black-and-white striped signposts.",
-            "NOTE: Within South and Southeast Asia, India, Bhutan, Bangladesh, Sri Lanka and Malaysia also use black-and-white striped signposts."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/11.png",
-              "link": "https://maps.app.goo.gl/uVeg1kKMRwrxGnSs5",
-              "alt": "Nepal Signs"
-            }
-          ]
-        },
-        {
-          "title": "This type of white-painted Buddhist stupa, sometimes...",
-          "text": [
-            "This type of **white-painted Buddhist stupa**, sometimes with painted eyes on the sides, are only found in Nepal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/np_1stupa.png",
-              "link": "https://goo.gl/maps/rfsL8Fktu1GAgBSa6",
-              "alt": "Nepal This type of white-painted Buddhist stupa, sometimes..."
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "Districts can show up on addresses, often in English as well."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/12.jpeg",
-              "link": "https://www.plonkit.net/images/nepal/12.jpeg",
-              "alt": "Nepal Language"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The area in the far south close to the Indian border is almost completely flat, while the central and northern parts are very high altitude and very mountainous."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/13.jpeg",
-              "link": "https://www.plonkit.net/images/nepal/13.jpeg",
-              "alt": "Nepal Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The western hills can be recognised by the **dry landscape**, with a lot of exposed hillsides lacking vegetation."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/14.png",
-              "link": "https://maps.app.goo.gl/154kHkAzK5gVvsMy9",
-              "alt": "Nepal Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Areca Palms** can be recognised by their very thin trunk and a small crown. They are mainly found in the southeast."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/15.png",
-              "link": "https://maps.app.goo.gl/BtotMyJx7MhdyZhp9",
-              "alt": "Nepal Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Canola, **a crop with bright yellow flowers, is mostly found in a few southern pockets in the western half of Nepal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/16.png",
-              "link": "https://maps.app.goo.gl/cjveN4vyMxWTPz3b7",
-              "alt": "Nepal Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Chir Pines**, which can be identified from their generally smooth-looking conical or spherical crowns with very long needles, are found everywhere in the mountains, but are much more common in the west, and near Kathmandu.",
-            "NOTE: The eastern region is generally greener than the west."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/Nepal_Chir_Pines__282_29.png",
-              "link": "https://maps.app.goo.gl/LisJQMTs73smU8W69",
-              "alt": "Nepal Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -857,19 +570,6 @@ export const NepalClue = {
               "url": "https://www.plonkit.net/images/nepal/18.png",
               "link": "https://maps.app.goo.gl/o21FfPhw2kgRsXAH8",
               "alt": "Nepal Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Japanese cedar trees, which are only found in far eastern Nepal, can typically be recognised by their significant height combined with their narrow, fluffy-looking crowns."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/19.png",
-              "link": "https://maps.app.goo.gl/gZuPb6tbhhCZyJA78",
-              "alt": "Nepal Signs"
             }
           ]
         },
@@ -943,71 +643,6 @@ export const NepalClue = {
         {
           "title": "Architecture",
           "text": [
-            "Roofs made from sheets of** corrugated metal** are most common between Birgunj and Janakpur."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/25.png",
-              "link": "https://maps.app.goo.gl/pwZYAB8zc7kG7iSYA",
-              "alt": "Nepal Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Roofs that have a **railing** along the sides of the roofs, usually made of dark concrete, are found in some parts of western Nepal. They are most common in the Tulsipur valley, where the railings sometimes have a [stair shape](https://maps.app.goo.gl/ikhV9mfvD98582v9A). The easternmost region where they’re found is the plains by Kawasoti. The westernmost regions often have lower quality “railings”, sometimes consisting of a few sticks."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/26.png",
-              "link": "https://maps.app.goo.gl/LZJU2G6yWZhKvRPH6",
-              "alt": "Nepal Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Gable ends decorated by **carvings of gods**, goddesses, and other religious symbols, usually painted in a golden colour, are mostly around Kawasoti, west of Bharatpur."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/27.png",
-              "link": "https://maps.app.goo.gl/WZ3BbdCwTHmPzezj8",
-              "alt": "Nepal Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Fences of varying build quality, made of mainly sticks, are most commonly found in the eastern plains of Nepal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/28.png",
-              "link": "https://maps.app.goo.gl/rjCrZUic2LJejBgp8",
-              "alt": "Nepal Regions"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "In the far east, you will mainly see roofs made of sheet metal with a triangular \"window\" just below the ridge of the roof, and an outwards sloping section below it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/29.png",
-              "link": "https://maps.app.goo.gl/xN4rYQRsxnS8dxQe6",
-              "alt": "Nepal Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
             "Large hip roofs made of sheet metal with a small protrusion just below the ridge are found around Biratnagar in the east."
           ],
           "images": [
@@ -1063,32 +698,6 @@ export const NepalClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "Poles with a **cross** attached near the top are common in the east."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/35.png",
-              "link": "https://maps.app.goo.gl/K5xo8wwu2asGtiE78",
-              "alt": "Nepal Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "In Kathmandu, you’ll find poles with an asymmetrical crossbar, which has a triangular attachment on top of it, as well as a support bar below it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/36.png",
-              "link": "https://maps.app.goo.gl/eHBKW9KZr4pjfmYB7",
-              "alt": "Nepal Poles"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "While the most common water tank colours in Nepal are green and black, which are found everywhere, **yellow** ones are mainly found in the east."
@@ -1098,65 +707,6 @@ export const NepalClue = {
               "url": "https://www.plonkit.net/images/nepal/37.png",
               "link": "https://maps.app.goo.gl/9tMocKoYq42WPrHq8",
               "alt": "Nepal Regions"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "An orange google car can be found around:",
-            "- Nepalgunj in the west",
-            "- Madi, south of Bharatpur in the central south",
-            "- Biratnagar in the east",
-            "- Birtamod in the far east."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/38.png",
-              "link": "https://maps.app.goo.gl/BnuG4TBJjqUomAbB7",
-              "alt": "Nepal Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "An orange car with a blue ribbon on the front is found around Biratnagar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/39.png",
-              "link": "https://maps.app.goo.gl/HjHdaUo8vaGNsj3m9",
-              "alt": "Nepal Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A blue car is found around:",
-            "- Pokhara, under the Nepal label",
-            "- Birgunj, southwest of Kathmandu",
-            "- Malangawa, near the Indian border southeast of Kathmandu."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/40.png",
-              "link": "https://maps.app.goo.gl/YNimQQt3x62JrcHk6",
-              "alt": "Nepal Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "If the blue car has an antenna, you will be around Pokhara."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/401.png",
-              "link": "https://maps.app.goo.gl/yTEdznu6YVkDyNZX6",
-              "alt": "Nepal Google Car"
             }
           ]
         },
@@ -1281,19 +831,6 @@ export const NepalClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "This sketchy yellow/orange dirt road can be recognised from the high elevation landscape with the high elevation oaks. It can be found northeast of Phungling in far northeastern Nepal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/49.png",
-              "link": "https://maps.app.goo.gl/P8bbSc6ruJBNRUGF6",
-              "alt": "Nepal Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "This dirt track in a northwestbound valley can be recognised by the **snowcapped mountains** to the northwest. You can find it north of the Khaptad national park in western Nepal."
@@ -1303,19 +840,6 @@ export const NepalClue = {
               "url": "https://www.plonkit.net/images/nepal/50.png",
               "link": "https://maps.app.goo.gl/Qbamxsuj4icA8DFH7",
               "alt": "Nepal Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Trekker coverage in Nepal is limited to the **northeast** of the country, in the general area southwest of Mount Everest."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/np_2coverage.png",
-              "link": "https://www.plonkit.net/images/nepal/np_2coverage.png",
-              "alt": "Nepal Coverage"
             }
           ]
         },
@@ -1355,19 +879,6 @@ export const NepalClue = {
               "url": "https://www.plonkit.net/images/nepal/np_forestlinenearnamchebazar.png",
               "link": "https://goo.gl/maps/2Wr74N91hiVmZGNw6",
               "alt": "Nepal Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Namche Bazar is by far the **largest** and **most densely populated** settlement with trekker coverage. There is also some coverage [looking down on the town](https://www.google.com/maps/@27.8056067,86.71193,2a,90y,112.78h,82.14t/data=!3m6!1e1!3m4!1s9HNBGJ7FGOq9a4fOPyvWcg!2e0!7i13312!8i6656?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/np_namchebazar.png",
-              "link": "https://goo.gl/maps/SAgi2e46wTXK9EAH6",
-              "alt": "Nepal Coverage"
             }
           ]
         },
@@ -1447,19 +958,6 @@ export const NepalClue = {
               "url": "https://www.plonkit.net/images/nepal/np_forestbrightovercast.png",
               "link": "https://goo.gl/maps/QQWRuNgYsfRodesC6",
               "alt": "Nepal Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "The coverage from Monjo up to Namche Bazar is also within the same valley, however here the coverage is mostly **sunny** and bright."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/np_forestclear.png",
-              "link": "https://goo.gl/maps/uMvURN13Gp1KezaF6",
-              "alt": "Nepal Coverage"
             }
           ]
         },
@@ -1660,19 +1158,6 @@ export const NepalClue = {
           ]
         },
         {
-          "title": "Closing in on the final trek toward...",
-          "text": [
-            "Closing in on the final trek toward Everest, you get a view of this wide, **high-altitude river valley**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/nepal/np_beautifulvalleyno1700.png",
-              "link": "https://goo.gl/maps/SCdJgCEFrrvMkN9i8",
-              "alt": "Nepal Closing in on the final trek toward..."
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Slightly east of Namche Bazar, you can find this very overcast trail following the mountainside. There are still some trees around, and the trail is noticeably **higher** above the valley than other overcast sections with trees."
@@ -1749,24 +1234,6 @@ export const NepalClue = {
               "alt": "Nepal Landscape"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends the following maps instead:",
-            "- **AI Gen Nepal** ([map link](https://www.geoguessr.com/maps/689cdc023c5ba8c7cb2a1506)) - AI generated map with 100k+ locations.",
-            "In addition, here are some resources to help you practise Nepal:",
-            "- **Plonk It Nepal **([map link](https://www.geoguessr.com/maps/694a06117e7100873f4ae9e9)) - This map contains locations for practising each meta in the Plonk It Nepal guide from step 2 to 3.",
-            "- **Nepal Districts quiz **([link)](https://helloquiz.app/quiz/76OmKMLxjr6Y) - Learn the Nepali districts in English.",
-            "- **Nepal Districts in Nepali quiz **([link](https://helloquiz.app/quiz/KA5eNZKO1il1)) - Learn the Nepali districts in Nepali.",
-            "- **Devanagari letters quiz **([link](https://helloquiz.app/quiz/ekWztxoVOoqZ)) - Learn to read Nepali."
-          ],
-          "images": []
         }
       ]
     }

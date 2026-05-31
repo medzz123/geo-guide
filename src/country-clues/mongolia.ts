@@ -73,12 +73,9 @@ export const MongoliaClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
-    "Bollards",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Coverage",
     "Regions",
@@ -88,19 +85,6 @@ export const MongoliaClue = {
     {
       "title": "Google Car",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "Mongolia very often has a visible Street View car as all of Mongolian coverage was driven with a large pickup truck. The truck can have several features such as a **tent **on top, **red** **side-view mirrors**, a **snorkel,** and **roof-racks.** All of these can be of help in identifying Mongolia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._cars.png",
-              "link": "https://www.google.com/maps/@47.9471,107.454371,3a,133.2y,6.4h,64.16t/data=!3m4!1e1!3m2!1swkaW-DRHfDyiYfvRFHZbsA!2e0",
-              "alt": "Mongolia Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -140,22 +124,18 @@ export const MongoliaClue = {
               "alt": "Mongolia Google Car"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Plates",
-      "tips": [
+        },
         {
-          "title": "Plates",
+          "title": "Google Car",
           "text": [
-            "Mongolian licence plates are mostly white with a hint of **red** on the left side from the [Soyombo symbol](https://en.wikipedia.org/wiki/Soyombo_symbol)."
+            "The roof racks of the Street View car are very useful as they can effectively split Mongolia in half. The presence of **rubber inlays** in the roof racks are generally found in the **west**, while **empty roof racks** are generally found in the **east**.",
+            "_You can click on the map to enlarge it._"
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/mongolia/1._licenceplate.jpeg",
-              "link": "https://www.plonkit.net/images/mongolia/1._licenceplate.jpeg",
-              "alt": "Mongolia Plates"
+              "url": "https://www.plonkit.net/images/mongolia/2._carrubberinlays.png",
+              "link": "https://www.plonkit.net/images/mongolia/2._carrubberinlays.png",
+              "alt": "Mongolia Google Car"
             }
           ]
         }
@@ -221,24 +201,6 @@ export const MongoliaClue = {
       ]
     },
     {
-      "title": "Bollards",
-      "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "Mongolia uniquely features white **bowling-pin shaped bollards** with two red stripes around the top."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._bollard.png",
-              "link": "https://goo.gl/maps/8QWwFTRm3GdMW1i36",
-              "alt": "Mongolia Bollards"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Poles",
       "tips": [
         {
@@ -290,40 +252,8 @@ export const MongoliaClue = {
       ]
     },
     {
-      "title": "Language",
-      "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "Mongolia primarily uses **Cyrillic **script, though [Latin](https://www.google.com/maps/@47.912178,106.980081,3a,17.5y,297.7h,98.09t/data=!3m4!1e1!3m2!1s5Bf-6kOlFPU1X7Sd37ewaw!2e0) and [traditional Mongolian](https://www.google.com/maps/@49.0335237,111.6546939,2a,63.5y,344.76h,97.65t/data=!3m6!1e1!3m4!1s3xuVpyvGy0UEgWOxX2rmTA!2e0!7i13312!8i6656?entry=ttu) script can also occasionally be seen. Mongolian Cyrillic contains the letters **Ɵ** and **Ү**,** **which do not exist in the Russian alphabet. Additionally, the use of **double vowels**,** **such as aa, ƟƟ or ЭЭ, is common in Mongolian.",
-            "NOTE: The letters **Ɵ** and **Ү **also exist in the Kyrgyz and Kazakh languages."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._language.png",
-              "link": "https://www.plonkit.net/images/mongolia/1._language.png",
-              "alt": "Mongolia Language"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "Mongolia can typically be identified by the **steppe biomes** found across the country. While some forested areas are found in Mongolia, most of the country features empty grasslands or deserts with a characteristic **lack of trees**. It is not uncommon to find rugged, rocky or rolling hills as well as rivers and lakes across Mongolia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._landscapes.png",
-              "link": "https://goo.gl/maps/L1szF87VMQ4nhju7A",
-              "alt": "Mongolia Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -360,6 +290,19 @@ export const MongoliaClue = {
             {
               "url": "https://www.plonkit.net/images/mongolia/2._unpavedgrassyfields.png",
               "link": "https://goo.gl/maps/Vpvfucc2cd1we6769",
+              "alt": "Mongolia Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "There are several areas with off-road **desert **coverage in southern Mongolia. Most of this coverage is directly south or east of the town of Mandalgovi."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/mongolia/2._unpaveddesert.png",
+              "link": "https://goo.gl/maps/LKNfK1gVWwR86qrb6",
               "alt": "Mongolia Landscape"
             }
           ]
@@ -557,241 +500,12 @@ export const MongoliaClue = {
               "alt": "Mongolia overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Mongolian licence plates are mostly white with a hint of **red** on the left side from the [Soyombo symbol](https://en.wikipedia.org/wiki/Soyombo_symbol)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._licenceplate.jpeg",
-              "link": "https://www.plonkit.net/images/mongolia/1._licenceplate.jpeg",
-              "alt": "Mongolia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Mongolia primarily uses **Cyrillic **script, though [Latin](https://www.google.com/maps/@47.912178,106.980081,3a,17.5y,297.7h,98.09t/data=!3m4!1e1!3m2!1s5Bf-6kOlFPU1X7Sd37ewaw!2e0) and [traditional Mongolian](https://www.google.com/maps/@49.0335237,111.6546939,2a,63.5y,344.76h,97.65t/data=!3m6!1e1!3m4!1s3xuVpyvGy0UEgWOxX2rmTA!2e0!7i13312!8i6656?entry=ttu) script can also occasionally be seen. Mongolian Cyrillic contains the letters **Ɵ** and **Ү**,** **which do not exist in the Russian alphabet. Additionally, the use of **double vowels**,** **such as aa, ƟƟ or ЭЭ, is common in Mongolian.",
-            "NOTE: The letters **Ɵ** and **Ү **also exist in the Kyrgyz and Kazakh languages."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._language.png",
-              "link": "https://www.plonkit.net/images/mongolia/1._language.png",
-              "alt": "Mongolia Language"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Mongolia very often has a visible Street View car as all of Mongolian coverage was driven with a large pickup truck. The truck can have several features such as a **tent **on top, **red** **side-view mirrors**, a **snorkel,** and **roof-racks.** All of these can be of help in identifying Mongolia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._cars.png",
-              "link": "https://www.google.com/maps/@47.9471,107.454371,3a,133.2y,6.4h,64.16t/data=!3m4!1e1!3m2!1swkaW-DRHfDyiYfvRFHZbsA!2e0",
-              "alt": "Mongolia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Mongolia can typically be identified by the **steppe biomes** found across the country. While some forested areas are found in Mongolia, most of the country features empty grasslands or deserts with a characteristic **lack of trees**. It is not uncommon to find rugged, rocky or rolling hills as well as rivers and lakes across Mongolia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._landscapes.png",
-              "link": "https://goo.gl/maps/L1szF87VMQ4nhju7A",
-              "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Mongolia uniquely features white **bowling-pin shaped bollards** with two red stripes around the top."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._bollard.png",
-              "link": "https://goo.gl/maps/8QWwFTRm3GdMW1i36",
-              "alt": "Mongolia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Mongolian infrastructure has clear Russian influence. Wooden poles with supporting stone blocks, [white lamp posts](https://www.google.com/maps/@46.677839,113.270184,3a,64.1y,330.3h,92.79t/data=!3m4!1e1!3m2!1sAv0lfNtDl5QLj3rxCnkYzA!2e0), and [three-striped** **pedestrian crossing signs](https://www.google.com/maps/@50.2393538,106.2025013,2a,60y,95.51h,75.52t/data=!3m6!1e1!3m4!1sXUNd4wtT71dkoiStvdsI-Q!2e0!7i13312!8i6656?entry=ttu) are common to see.",
-            "Unique to Mongolia is the** **[**“ЗОГС”**](https://www.google.com/maps/@50.2286946,106.2131419,2a,15y,73.91h,86.02t/data=!3m6!1e1!3m4!1sDbSJ2KjqHFeQw_Vx-Muhyg!2e0!7i13312!8i6656?entry=ttu)** stop sign**.",
-            "NOTE: Each town has unique lamp post designs, so learning them can be quite useful."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._infrastructure.png",
-              "link": "https://goo.gl/maps/9PQz4ZE2JqpcadDz9",
-              "alt": "Mongolia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Mongolian neighbourhoods are very frequently separated by...",
-          "text": [
-            "Mongolian neighbourhoods are very frequently separated by **dirt alleys **and wooden fences."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._neighbourhoods.png",
-              "link": "https://www.google.com/maps/@47.47954,101.438107,3a,113.4y,255.6h,89.69t/data=!3m4!1e1!3m2!1sH9-UgAdcCf7ANOqQ_nfLxQ!2e0",
-              "alt": "Mongolia Mongolian neighbourhoods are very frequently separated by..."
-            }
-          ]
-        },
-        {
-          "title": "White, round yurts are the traditional dwelling...",
-          "text": [
-            "White, round **yurts** are the traditional dwelling of nomadic families in Mongolia, and are often seen all around the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/1._yurts.png",
-              "link": "https://goo.gl/maps/7tFEYEJ3yBdYER3C9",
-              "alt": "Mongolia White, round yurts are the traditional dwelling..."
-            }
-          ]
-        },
-        {
-          "title": "It is very common to see large...",
-          "text": [
-            "It is very common to see** **large **herds of animals** in Mongolia, including horses, yaks, cows, sheep, goats, and camels."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/kKnwJLa.png",
-              "link": "https://www.google.com/maps/@50.5179715,100.1170732,2a,90y,228.4h,86.41t/data=!3m6!1e1!3m4!1sNqz_KldLGYEHdRRowCeNig!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Mongolia It is very common to see large..."
-            }
-          ]
-        },
-        {
-          "title": "Decorated piles of stones, known as ovooshttps://en.wikipedia.org/wiki/Ovoo,...",
-          "text": [
-            "Decorated piles of stones, known as **[ovoos](https://en.wikipedia.org/wiki/Ovoo)**, are used as ceremonial markers or shrines throughout Mongolia and are common to see."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/Ovoo.png",
-              "link": "https://maps.app.goo.gl/1nMUzoe7gLdqdq1m9",
-              "alt": "Mongolia Decorated piles of stones, known as ovooshttps://en.wikipedia.org/wiki/Ovoo,..."
-            }
-          ]
         }
       ]
     },
     {
       "title": "Region-specific clues",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "Mongolia has very **limited coverage**, mainly along highways and in large towns. Learning which roads and towns have coverage can be very useful. The highest coverage density can be found around the capital of Ulaanbaatar.",
-            "NOTE: Mongolia has lots of hidden coverage that will generally not be discussed in the guide.",
-            "_You can click on the map to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/Mongolia_Coverage_Map.png",
-              "link": "https://www.plonkit.net/images/mongolia/Mongolia_Coverage_Map.png",
-              "alt": "Mongolia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Driving directions can be a very useful clue for narrowing down your location in Mongolia. In general, the driving direction tends to be **away** from Ulaanbaatar.",
-            "_You can click on the map to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/h1ToRlG.png",
-              "link": "https://www.plonkit.net/images/mongolia/h1ToRlG.png",
-              "alt": "Mongolia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Mongolia has a very flat landscape in the [east](https://www.google.com/maps/@47.73666,115.619004,3a,133.2y,131.8h,89.73t/data=!3m4!1e1!3m2!1sPMeGOJzhTczd2N48yJO0SA!2e0) and in the [south](https://www.google.com/maps/@44.625866,110.189335,3a,133.2y,106.3h,88.33t/data=!3m4!1e1!3m2!1suf4vmx84-FxMBRMs_8-nXw!2e0), with rolling hills in the [north](https://www.google.com/maps/@49.670421,107.38073,3a,133.2y,14.0h,90.81t/data=!3m4!1e1!3m2!1sJUXSwULUB8Oyo71A1jzpjw!2e0), and large mountains and rocky hills being common in the [west](https://www.google.com/maps/@47.3651208,91.9735923,2a,90y,233.82h,91.68t/data=!3m6!1e1!3m4!1saI5LPmTsTzRoYr99i_qoHg!2e0!7i16384!8i8192?entry=ttu).",
-            "_You can click on the map to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._topography.png",
-              "link": "https://www.plonkit.net/images/mongolia/2._topography.png",
-              "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "You can find **forests**, typically surrounded by grassy fields, all around northern Mongolia. Generally these will be Siberian Larches, with pines and birches being common as well."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._forests.png",
-              "link": "https://www.google.com/maps/@49.805178,107.656488,3a,133.2y,261.5h,94.39t/data=!3m4!1e1!3m2!1sQWpewDBRr3knruhZypPOHw!2e0",
-              "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Small dirt tracks within flat, **vast grassy fields** are mainly found in far eastern Mongolia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._unpavedgrassyfields.png",
-              "link": "https://goo.gl/maps/Vpvfucc2cd1we6769",
-              "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "There are several areas with off-road **desert **coverage in southern Mongolia. Most of this coverage is directly south or east of the town of Mandalgovi."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._unpaveddesert.png",
-              "link": "https://goo.gl/maps/LKNfK1gVWwR86qrb6",
-              "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "There are a couple of **paved desert roads** in southern Mongolia.",
-            "_You can learn more about these roads later in the guide._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/poT2rdx.png",
-              "link": "https://goo.gl/maps/v2rrwJ7orAt9aVYK9",
-              "alt": "Mongolia Road Lines"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -815,19 +529,6 @@ export const MongoliaClue = {
               "url": "https://www.plonkit.net/images/mongolia/b4whMyy.png",
               "link": "https://maps.app.goo.gl/ncqLHYiKEzt4VLQbA",
               "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Lakes and rivers are much more common in western Mongolia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/rxHdQCE.png",
-              "link": "https://www.google.com/maps/@48.1765869,99.7438341,2a,90y,139.9h,86.01t/data=!3m6!1e1!3m4!1szdYOpec0WWXVKZK0aOevQQ!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Mongolia Regions"
             }
           ]
         },
@@ -899,32 +600,6 @@ export const MongoliaClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "The Choir Highway is the longest covered paved road in Mongolia, running from [Nalaikh](https://www.google.com/maps/@47.77658,107.232478,3a,133.2y,171.4h,93.00t/data=!3m4!1e1!3m2!1sFWvQqwHIvkCGtHsoz1mhYA!2e0) down to [Zamiin-Uud](https://www.google.com/maps/@43.716706,111.904061,3a,133.2y,314.6h,93.81t/data=!3m4!1e1!3m2!1sZbWIuL1uDQQ2yFg9dpxsnw!2e0) on the Chinese border, and is **mostly desert**. The dry brown soil, lack of vegetation, clear skies, and general flatness are all characteristic of this road. Additionally, a [railroad](https://www.google.com/maps/@45.718626,109.503585,3a,17.5y,216.0h,91.07t/data=!3m4!1e1!3m2!1sQf6QlyXzxFZUV3dC4ir_1Q!2e0) runs along the entire highway, which can be seen **west **of the highway north of Sainshand, and **east **of the highway south of Sainshand. Between the towns of Sainshand and Erdene there is some [overcast coverage](https://www.google.com/maps/@44.7715611,110.4184031,3a,90y,294.3h,90t/data=!3m6!1e1!3m4!1s8C5NF-mzJwNxjCkq1w7yfQ!2e0!7i13312!8i6656?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/AGIWp9v.png",
-              "link": "https://goo.gl/maps/3s6VfGEfM6mCkA8L6",
-              "alt": "Mongolia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The other main desert highway in Mongolia runs through Mandalgovi, and can be differentiated from the Choir Highway by its **cloudy skies**, darker pavement, and deep blue tent instead of the tentless car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._desertmandalgovi.png",
-              "link": "https://www.google.com/maps/@45.5471635,105.8464778,2a,90y,44.5h,84.98t/data=!3m6!1e1!3m4!1skfPagXXQ_JMtU4jQbOmMLw!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Mongolia Google Car"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The Mandalgovi Highway runs south of the capital and was covered during a blizzard, making it **extremely snowy and foggy.** It also has a deep blue tent, which is found along this entire road, and a flat landscape which can differentiate it from other snowy roads."
@@ -934,74 +609,6 @@ export const MongoliaClue = {
               "url": "https://www.plonkit.net/images/mongolia/2._snowymandalgovi.png",
               "link": "https://goo.gl/maps/qK63H3My8Y15v7Cw5",
               "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The Millenium Road runs just west of the town of Lun, and has **late fall coverage**, combined with a dry climate that gives it characteristic **orange short grass**. The silver tent, clear skies, and general flatness with low rolling hills also help in identifying this road. The sun gradually sets as the car continues west until it becomes [sunset](https://maps.app.goo.gl/hx7e4vH93sGE2rws9) at the end of the road.",
-            "NOTE: At the end of the road, the car continues travelling northwest up to Murun on [off-road dirt trails](https://maps.app.goo.gl/KRZwwNuzZgr3XcJq6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._milleniumroad.png",
-              "link": "https://www.google.com/maps/@47.846901,104.261694,3a,133.2y,273.4h,90.00t/data=!3m4!1e1!3m2!1sZ40lQt4D5NhAs5koWTg34g!2e0",
-              "alt": "Mongolia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The Darkhan-Erdenet highway can be identified by the low rolling hills, tall **transmission towers**, and occasional [crop fields](https://www.google.com/maps/@49.199075,104.896833,3a,80.7y,327.2h,92.95t/data=!3m4!1e1!3m2!1sfLxOZ--sUVPnO4LI6oW8Mg!2e0) in the area. Additionally, most of the highway has **winter coverage** with the tentless car, light snow, and yellow grass. Beware that [summer coverage](https://www.google.com/maps/@49.115086,105.367769,3a,133.2y,119.6h,96.08t/data=!3m4!1e1!3m2!1sQyoCUbxBQtmvvlBhuYG0KA!2e0) can occasionally appear in the eastern half of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._darkhan-erdenet.png",
-              "link": "https://www.google.com/maps/@49.1380051,105.2854567,3a,90y,95.3h,87.73t/data=!3m6!1e1!3m4!1s1qTN2TFvZRknCW4vV701og!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Mongolia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The highway connecting the towns of Chinggis and Baruun-Urt stands out as one of the only **paved highways in the east**. It is considerably cloudy and the road seems freshly paved, making it a **very dark road**, combined with a mostly flat landscape."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._chinggis-baruun-urt.png",
-              "link": "https://www.google.com/maps/@46.762467,112.948232,3a,133.2y,302.6h,83.43t/data=!3m4!1e1!3m2!1sDZoXGbvX54e_fh3ZUrYBdA!2e0",
-              "alt": "Mongolia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "A **railroad** can be seen along almost the entire road to the town of Khuder in the north. It is usually very close to the road, but can occasionally be [quite far away](https://maps.app.goo.gl/VjrDU3HJC4rxDiMm8), in which case it can still be identified by the mound it is built upon. In the western half of this road, the [river](https://maps.app.goo.gl/zWSGEW8T86HyXKVo8) to the south can also be seen.",
-            "Keep in mind that this railroad does not appear on the map."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._y_C3_B6r_C3_B6_C3_B6.png",
-              "link": "https://www.google.com/maps/@49.8139723,106.5085284,2a,90y,136.08h,89.53t/data=!3m6!1e1!3m4!1sq5N8MFQiPLUD4reiFV7s0g!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Mongolia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The roof racks of the Street View car are very useful as they can effectively split Mongolia in half. The presence of **rubber inlays** in the roof racks are generally found in the **west**, while **empty roof racks** are generally found in the **east**.",
-            "_You can click on the map to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._carrubberinlays.png",
-              "link": "https://www.plonkit.net/images/mongolia/2._carrubberinlays.png",
-              "alt": "Mongolia Google Car"
             }
           ]
         },
@@ -1048,20 +655,6 @@ export const MongoliaClue = {
               "url": "https://www.plonkit.net/images/mongolia/2._careasternroofrackstraps.png",
               "link": "https://www.plonkit.net/images/mongolia/2._careasternroofrackstraps.png",
               "alt": "Mongolia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "The tent will have **red tensioner straps** at the front around the city of Chinggis.",
-            "NOTE: The [Chinggis-Baganuur highway](https://www.google.com/maps/@47.4391543,109.8378335,2a,75y,315.09h,87.08t/data=!3m6!1e1!3m4!1sN5SDK-MiT4-1G-o13E9Auw!2e0!7i13312!8i6656?entry=ttu) (in grey) is almost entirely hidden coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._carchinggisstraps.png",
-              "link": "https://www.google.com/maps/@47.320447,110.658322,3a,70.0y,79.7h,50.54t/data=!3m4!1e1!3m2!1syMBgH3Pa2frV7zOD0myV5Q!2e0",
-              "alt": "Mongolia Coverage"
             }
           ]
         },
@@ -1123,19 +716,6 @@ export const MongoliaClue = {
         {
           "title": "Regions",
           "text": [
-            "If the grey tent has **hook straps** **angled downwards**, you should be in southwestern Mongolia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/2._carsouthwesterntent.png",
-              "link": "https://www.google.com/maps/@45.984283,93.270605,3a,133.2y,227.2h,75.91t/data=!3m4!1e1!3m2!1sIh3bG11dAH1EQquIipKrVw!2e0",
-              "alt": "Mongolia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "If the grey tent has **no hooks** on the left side and is **billowing **from the wind, you will be on the road between [Khovd](https://www.google.com/maps/@48.006503,91.646571,3a,133.2y,1.7h,88.38t/data=!3m4!1e1!3m2!1sMsFFaJ9MaNromzBp_vlv9g!2e0) and [Ölgii](https://www.google.com/maps/@48.951014,89.961985,3a,133.2y,334.3h,71.90t/data=!3m4!1e1!3m2!1s0aKD-w7PKQ7UbFVu3IHyPw!2e0) or around the town of [Tugrug](https://www.google.com/maps/@47.419796,92.225821,3a,132.7y,6.9h,80.61t/data=!3m4!1e1!3m2!1sR4YoP4G5lntn_0X9WJLaQA!2e0)."
           ],
           "images": [
@@ -1183,33 +763,6 @@ export const MongoliaClue = {
               "url": "https://www.plonkit.net/images/mongolia/eastgen4car_v2.png",
               "link": "https://maps.app.goo.gl/KvsWK5bp6S2JJzYs6",
               "alt": "Mongolia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Generation 4 coverage in **western Mongolia** uses a **silver pick-up truck** with a big light blue tent. Different variations of the tent can be useful for narrowing down the region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/PpcNWbE.png",
-              "link": "https://maps.app.goo.gl/GjaGxHbHw8ECvnyB7",
-              "alt": "Mongolia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "The tent with 2 straps and a **single knot** in the straps covers most of northwestern Mongolia.",
-            "NOTE: Occasionally, camera stitching can [hide the knot](https://maps.app.goo.gl/pFWZ5yX4uJE56xoA9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/M20IPWi.png",
-              "link": "https://maps.app.goo.gl/odAqTQcdMap9hJYYA",
-              "alt": "Mongolia Coverage"
             }
           ]
         },
@@ -1309,33 +862,6 @@ export const MongoliaClue = {
               "url": "https://www.plonkit.net/images/mongolia/3._townsukhbaataraltanbulag.png",
               "link": "https://www.google.com/maps/@50.231402,106.210842,3a,133.2y,144.3h,93.66t/data=!3m4!1e1!3m2!1sa16kbLtmsPfGfD9MrlJYPw!2e0",
               "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Chinggis is a major town in the east with **red straps** on the front of the tent. It is a fairly dry and flat town with small hills to the north, and somewhat cloudy skies.",
-            "NOTE: [Dundburd](https://maps.app.goo.gl/9qUP3nu9x7J9cFPe7) and [Bayan-Ovoo](https://maps.app.goo.gl/Wwja52Hjp9o9FdnL7) are the only other towns with the same tent, but are much smaller towns with no paved roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/3._townchinggis.png",
-              "link": "https://www.google.com/maps/@47.319951,110.645821,3a,133.2y,113.9h,89.24t/data=!3m4!1e1!3m2!1sgYly4pvzsnusNk2A3QIVhw!2e0",
-              "alt": "Mongolia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Choibalsan is the only major city to have several **concrete roads**. In most parts of the city there is a visible **smoke stack**, which is in the southeast corner of the city. It appears to have just rained as the roads are slightly wet and the sky is overcast. Additionally, you may occasionally find [unique pedestrian signs](https://www.google.com/maps/@48.071051,114.53028,3a,17.5y,333.1h,85.63t/data=!3m4!1e1!3m2!1srKpPHHlyC9nza3yV3IaZ3w!2e0) with a short figure over three stripes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/3._townchoibalsan.png",
-              "link": "https://goo.gl/maps/xC5BBV4M3EKYccQh9",
-              "alt": "Mongolia Signs"
             }
           ]
         },
@@ -1497,19 +1023,6 @@ export const MongoliaClue = {
               "url": "https://www.plonkit.net/images/mongolia/3._townhatgal.png",
               "link": "https://www.google.com/maps/@50.452804,100.170608,3a,133.2y,26.5h,93.21t/data=!3m4!1e1!3m2!1sbXpcbgeeyty8vhtOEDDk9A!2e0",
               "alt": "Mongolia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The small, hilly town of Tosontsengel, frequently has **red-tinted roads** and uses these unique lamp posts that have a **wavy design**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/mongolia/sKQTvDR.png",
-              "link": "https://maps.app.goo.gl/dTpZUAcdSt8jnRsM9",
-              "alt": "Mongolia Signs"
             }
           ]
         },

@@ -90,20 +90,6 @@ export const BoliviaClue = {
         {
           "title": "Google Car",
           "text": [
-            "Bolivia only has Generation 3 camera coverage. All of the country was covered by a solid **white Google car with no antenna**.",
-            "NOTE: In Latin America, white cars with no antenna can also be found in Peru and Chile."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_googlecar.png",
-              "link": "https://goo.gl/maps/X9z2xwXd73tvwmSQ7",
-              "alt": "Bolivia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
             "On the southwesternmost section of Ruta 4, you can usually see the **Nevado Sajama**, an isolated snow-capped volcano that is very distinct and unlike any other mountain in Bolivia.",
             "When you see Sajama, you will always be south of Callapa and the Desaguadero River. However, you will not always be able to see it on this section of the road, as it is often hidden by hills.",
             "NOTE: The only other place where you can see Nevado Sajama is coverage in the National Park, which is recognizable by its unique Google car."
@@ -152,19 +138,6 @@ export const BoliviaClue = {
         {
           "title": "Plates",
           "text": [
-            "Bolivia has **short, white licence plates** with blue text. The blue text can be hard to see through the blur, so plates might appear as plain white."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_licenceplate.png",
-              "link": "https://www.plonkit.net/images/bolivia/1_licenceplate.png",
-              "alt": "Bolivia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
             "The **Altiplano** (“high plain”) is an immense highland plateau that dominates most of western Bolivia. It is covered in grasslands that range from green to arid. Some parts are suitable for [agriculture](https://goo.gl/maps/KmBznqSbPKfSGGBF6), whereas other parts are [extremely dry](https://goo.gl/maps/cr2y2FLrMe2nne7R6). Grass growing in [tufts](https://goo.gl/maps/j7Tb5hpmkUkxZ8Bt6) is common (sometimes referred to as “Bolivian hedgehogs” in the community).",
             "NOTE: While it is generally fairly flat, you will often see [hills and mountains](https://goo.gl/maps/NYUhe5JZvzW1EZTF6) around you. However, as a general rule, the road itself will be mostly flat."
           ],
@@ -198,33 +171,6 @@ export const BoliviaClue = {
         {
           "title": "Road Lines",
           "text": [
-            "**Middle road lines** can be all-yellow, yellow and white, or all-white, while **outer road lines** are always white.",
-            "NOTE: Road lines in Chile are always all-white or all-yellow, never a combination of the two. In Peru, you can find roads having outer lines with no middle line. Such outer line-only roads are very rare in Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_roadlines.png",
-              "link": "https://goo.gl/maps/cnqmpu75r6LhU9pz5",
-              "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Bolivia has a lot of standard asphalt roads, but **concrete slab roads** are also fairly common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_concreteroads.png",
-              "link": "https://goo.gl/maps/VpSJ5NB675vWiC4VA",
-              "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
             "Coverage in Bolivia is **very limited**, both in geographic scope and the density of roads covered.",
             "Only the central and central-western parts of the country have coverage. Most coverage is found in and around the six main cities of La Paz or El Alto, Cochabamba, Oruro, Sucre, Potosi, and Santa Cruz.",
             "These aforementioned six cities have in-depth side-street coverage. Outside these cities, coverage is mostly limited to main roads. Beware that “main road” is a relative concept in Bolivia: many of these, even some that are marked yellow on the map, have large unpaved sections."
@@ -246,6 +192,35 @@ export const BoliviaClue = {
             {
               "url": "https://www.plonkit.net/images/bolivia/2_santacruzunpaved.png",
               "link": "https://goo.gl/maps/kmYtQkCkTm4mEfcq6",
+              "alt": "Bolivia Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "Ruta 1 west of El Alto is a paved road that runs through green grasslands. The road itself is mostly flat, but you will usually see hills nearby. On the road, you will often see **numbers marked in white paint**.",
+            "Near the western end of the road, close to Desaguadero and the border with Peru, you will be able to see Lake Titicaca [to your north](https://goo.gl/maps/36TPhoLYEQC9t3SX8).",
+            "NOTE: This road can look very similar to Ruta 2 northwest of El Alto. Road angles can help if you are not sure."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bolivia/road_Ruta_1_Tiwanaku.png",
+              "link": "https://goo.gl/maps/nVQpcJsz9QXVHpWU7",
+              "alt": "Bolivia Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "The N Yungas Road (also popularly known as **Death Road**), is a bendy, small and unpaved road, high up in the mountains east of La Paz. The vegetation is very tropical. The coverage in the southern part of the road is very foggy. True to its unofficial name, this road looks like a very dangerous drive. You can sometimes see some [daring cyclists](https://goo.gl/maps/paLV6Q6yFCrpgxHn7).",
+            "NOTE: The northern half of this road looks [less foggy and dangerous](https://goo.gl/maps/qrdtAg2G1jLGSWGP7). However, it should still be recognizable, as it is the only dirt road meandering through jungle hills in Bolivia."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bolivia/road_Death_road.png",
+              "link": "https://goo.gl/maps/1nnJbj2oembgAu6p8",
               "alt": "Bolivia Road Lines"
             }
           ]
@@ -414,20 +389,6 @@ export const BoliviaClue = {
         {
           "title": "Architecture",
           "text": [
-            "Many buildings in Bolivia consist of** large red bricks**. Buildings often have an ‘unfinished' look.",
-            "NOTE: This style of architecture is also common in parts of Peru."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_redbrick.png",
-              "link": "https://goo.gl/maps/Mf5uxrCFCNQPEQWw5",
-              "alt": "Bolivia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
             "Downtown La Paz is the only place in Bolivia where you will find **very tall buildings** (10+ storeys)."
           ],
           "images": [
@@ -460,6 +421,19 @@ export const BoliviaClue = {
             {
               "url": "https://www.plonkit.net/images/bolivia/cities_El_Alto_neo_andean.png",
               "link": "https://goo.gl/maps/KXwqZiNaczHtnD9Y9",
+              "alt": "Bolivia Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "Sucre has a well-preserved **historic city centre**, with lots of old colonial buildings. The downtown area can be recognized by the white walls, orange tiled roofs, and generally more historic look than other places in Bolivia."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bolivia/cities_Sucre_architecture.png",
+              "link": "https://goo.gl/maps/eAnC1SXTuPN8qLcx8",
               "alt": "Bolivia Architecture"
             }
           ]
@@ -616,291 +590,12 @@ export const BoliviaClue = {
               "alt": "Bolivia overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Bolivia has **short, white licence plates** with blue text. The blue text can be hard to see through the blur, so plates might appear as plain white."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_licenceplate.png",
-              "link": "https://www.plonkit.net/images/bolivia/1_licenceplate.png",
-              "alt": "Bolivia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Bolivia only has Generation 3 camera coverage. All of the country was covered by a solid **white Google car with no antenna**.",
-            "NOTE: In Latin America, white cars with no antenna can also be found in Peru and Chile."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_googlecar.png",
-              "link": "https://goo.gl/maps/X9z2xwXd73tvwmSQ7",
-              "alt": "Bolivia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Many buildings in Bolivia consist of** large red bricks**. Buildings often have an ‘unfinished' look.",
-            "NOTE: This style of architecture is also common in parts of Peru."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_redbrick.png",
-              "link": "https://goo.gl/maps/Mf5uxrCFCNQPEQWw5",
-              "alt": "Bolivia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "**Middle road lines** can be all-yellow, yellow and white, or all-white, while **outer road lines** are always white.",
-            "NOTE: Road lines in Chile are always all-white or all-yellow, never a combination of the two. In Peru, you can find roads having outer lines with no middle line. Such outer line-only roads are very rare in Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_roadlines.png",
-              "link": "https://goo.gl/maps/cnqmpu75r6LhU9pz5",
-              "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Bolivia has a lot of standard asphalt roads, but **concrete slab roads** are also fairly common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_concreteroads.png",
-              "link": "https://goo.gl/maps/VpSJ5NB675vWiC4VA",
-              "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "There are also a lot of cobblestone...",
-          "text": [
-            "There are also a lot of **cobblestone roads**. These roads often have a specific pattern, with several neat lines of stones separating the more disorganised cobblestones in between."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_cobblestoneroad.png",
-              "link": "https://goo.gl/maps/qHWJvrAvTgmVTPaX8",
-              "alt": "Bolivia There are also a lot of cobblestone..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Bolivia typically uses **bulky, white square signposts**.",
-            "NOTE: Peru typically uses black and white striped “zebra” signposts."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_signpost.png",
-              "link": "https://goo.gl/maps/qfL2gmq2qiVWiv8E6",
-              "alt": "Bolivia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Guardrails sometimes feature **yellow and black **markings. These markings always have the yellow stripes on the outside.",
-            "NOTE: Peru has similar markings. However, in Peru, the markings have the inverse colour scheme: the black stripes are always on the outside."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_guardrailmarking.png",
-              "link": "https://goo.gl/maps/gHKUzNvXsCzv8jaJ6",
-              "alt": "Bolivia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Two types of **utility poles** are common in Bolivia:",
-            "- Round concrete poles, often with small pinholes near the top.",
-            "- Wooden poles.",
-            "Poles in Bolivia are very inconsistent and should not be relied on too much. Poles can have a variety of pole tops. On rare occasions, you can find [Argentina-style concrete poles](https://goo.gl/maps/UythNAbXVFHvDYp56)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_poles.png",
-              "link": "https://goo.gl/maps/4e96N5ehWsKUJnuWA",
-              "alt": "Bolivia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Many wooden utility poles, particularly in the eastern parts of Bolivia’s Street View coverage, are noticeably **curvy **and look like they are made from locally sourced tree trunks.",
-            "NOTE: While you may see slightly bent poles in other places, extremely curvy poles are a very good clue for Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_scuffedpole.png",
-              "link": "https://goo.gl/maps/CkCekdbSNXo6E1TF6",
-              "alt": "Bolivia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Kilometre markers** are black and white. The top part is black and features the abbreviation ‘Km’, while the bottom part is white and shows the distance. These markers do not have road numbers.",
-            "NOTE: They can look somewhat similar to Argentinian road markers, especially from a distance. The main difference is that the markers in Argentina feature a road number."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_kmmarker.png",
-              "link": "https://goo.gl/maps/BaXvQMB5kT2ADpf77",
-              "alt": "Bolivia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Many Bolivians wear traditional clothing, especially women....",
-          "text": [
-            "Many Bolivians wear **traditional clothing**, especially women. Folk dress for women typically consists of bowler hats, colourful shawls, and big pleated skirts ([pollera](https://en.wikipedia.org/wiki/Pollera#Bolivia_and_Peru)).",
-            "NOTE: Similar folk dress can sometimes be found in parts of Peru, especially those close to Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_clothes.png",
-              "link": "https://goo.gl/maps/Nj9PrsNN3bsXP7ah8",
-              "alt": "Bolivia Many Bolivians wear traditional clothing, especially women...."
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "At the time Bolivia was covered by Street View, its ruling political party was the Movimiento al Socialismo (**MAS**). Political graffiti often features the words MAS and **Evo**, short for then-president Evo Morales.",
-            "Additionally, many random objects are painted in the party’s colours: **black, white, and a large blue field**. This distinctive colour scheme is a good clue for Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_MASandEVO.png",
-              "link": "https://goo.gl/maps/WNrao9dSkTZ7oSCw5",
-              "alt": "Bolivia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Bolivia has a **second official flag**, called the [Wiphala](https://en.wikipedia.org/wiki/Wiphala). It is a square patchwork of seven diagonally arranged colours. It is sometimes seen on government buildings and project signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_wiphala.png",
-              "link": "https://goo.gl/maps/wvp21xUpa1UHkHwf9",
-              "alt": "Bolivia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "In urban areas, you will often see ads for the telecom company **Tigo**, with its distinct blue logo. Crucially, this company does not operate in Peru, meaning it can help you solve urban 50-50s.",
-            "NOTE: This company does operate in several other Latin American countries, so only use this tip to differentiate between Peru and Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_tigo.png",
-              "link": "https://maps.app.goo.gl/hgvybMtF11nXFK4H6",
-              "alt": "Bolivia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "If all else fails, and you have a tough 50-50, it can help to look at the colour of the rocks and soil, which often have a distinct **reddish tint** in Bolivia, more so than the other Andean countries.",
-            "This information should be used with a fair amount of caution, as there are many variables. Only use it when you have no other clues available."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/1_redrocks.png",
-              "link": "https://goo.gl/maps/KgAzAFqvBLUqthLC9",
-              "alt": "Bolivia Landscape"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "Coverage in Bolivia is **very limited**, both in geographic scope and the density of roads covered.",
-            "Only the central and central-western parts of the country have coverage. Most coverage is found in and around the six main cities of La Paz or El Alto, Cochabamba, Oruro, Sucre, Potosi, and Santa Cruz.",
-            "These aforementioned six cities have in-depth side-street coverage. Outside these cities, coverage is mostly limited to main roads. Beware that “main road” is a relative concept in Bolivia: many of these, even some that are marked yellow on the map, have large unpaved sections."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/2_coveragemap.png",
-              "link": "https://www.plonkit.net/images/bolivia/2_coveragemap.png",
-              "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "The **Altiplano** (“high plain”) is an immense highland plateau that dominates most of western Bolivia. It is covered in grasslands that range from green to arid. Some parts are suitable for [agriculture](https://goo.gl/maps/KmBznqSbPKfSGGBF6), whereas other parts are [extremely dry](https://goo.gl/maps/cr2y2FLrMe2nne7R6). Grass growing in [tufts](https://goo.gl/maps/j7Tb5hpmkUkxZ8Bt6) is common (sometimes referred to as “Bolivian hedgehogs” in the community).",
-            "NOTE: While it is generally fairly flat, you will often see [hills and mountains](https://goo.gl/maps/NYUhe5JZvzW1EZTF6) around you. However, as a general rule, the road itself will be mostly flat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/2_altiplano.png",
-              "link": "https://goo.gl/maps/H5fnKKWWQggFrZDK6",
-              "alt": "Bolivia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The grasslands of the Altiplano tend to look more **lush** in the more northern half: the area close to El Alto and La Paz.",
-            "NOTE: Due to seasonal coverage, there are some exceptions to this, but in general this is a good rule of thumb to distinguish between the different parts of the Altiplano."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/2_greenaltiplano.png",
-              "link": "https://goo.gl/maps/rbrzceWKYh31VB6W7",
-              "alt": "Bolivia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Conversely, the Altiplano looks more **arid** in the more southern half: around Oruro, and the roads going southwest towards Chile.",
-            "NOTE: There is one major exception to this: one driving side of the divided part of Ruta 1 looks somewhat green all the way up to Oruro (due to this coverage being captured in a different season)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/2_aridaltiplano.png",
-              "link": "https://goo.gl/maps/jdqEiFzvqpYhtoFD6",
-              "alt": "Bolivia Landscape"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -920,20 +615,6 @@ export const BoliviaClue = {
         {
           "title": "Landscape",
           "text": [
-            "If you are surrounded by tall mountains, you are likely in the Andes, which goes roughly northwest to southeast in between the Altiplano and the Amazon rainforest.",
-            "NOTE: The Altiplano has several [smaller](https://maps.app.goo.gl/xg1B6p6zANJpMNSF9) and [solitary](https://maps.app.goo.gl/pi1ydWitmQto2HLa6) mountains."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/Bolivia_mountains.png",
-              "link": "https://maps.app.goo.gl/BWxtZzqV5ovoocZn7",
-              "alt": "Bolivia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
             "The area east of the Andes is very **green and tropical**, with lots of **agriculture** – especially around Santa Cruz. This area is mostly very flat, though you will see [large hills](https://goo.gl/maps/hmDHHLaabGBL3bnV8) on some of the roads closer to the Andes. The soil tends to have a pink colour."
           ],
           "images": [
@@ -943,51 +624,12 @@ export const BoliviaClue = {
               "alt": "Bolivia Landscape"
             }
           ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Within this tropical area, coverage on **unpaved roads** is only found around Santa Cruz. These roads again prominently have the pink soil that is very characteristic of the area east of Andes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/2_santacruzunpaved.png",
-              "link": "https://goo.gl/maps/kmYtQkCkTm4mEfcq6",
-              "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Aside from being a useful identifier for the country, **cobblestone roads** are mainly found in and southeast of Cochabamba. They also appear around Sucre and, very rarely, in La Paz."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cobblestone_roads_distribution.png",
-              "link": "https://maps.app.goo.gl/nujoA76LzWnSh3d86",
-              "alt": "Bolivia Regions"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Spotlight",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "La Paz and El Alto are **twin cities** that together form one big metropolitan area. However, despite being located right next to each other, they each have a very different look. See the tips below for more information."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cities_elaltolapaz.png",
-              "link": "https://maps.app.goo.gl/KXk8Vq7X3tVJXjBQ9",
-              "alt": "Bolivia Regions"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -1002,19 +644,6 @@ export const BoliviaClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Downtown La Paz is the only place in Bolivia where you will find **very tall buildings** (10+ storeys)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cities_Downtown_La_Paz.png",
-              "link": "https://goo.gl/maps/CSkdt4xvTtUfXXLY7",
-              "alt": "Bolivia Architecture"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "In many parts of La Paz, you can see these heavily eroded, **pillar-like rock formations** on the hillsides. They consist of a very recognizable yellow-beige sandstone.",
@@ -1025,59 +654,6 @@ export const BoliviaClue = {
               "url": "https://www.plonkit.net/images/bolivia/cities_La_Paz_sandstone.png",
               "link": "https://goo.gl/maps/MJqNzn9jGtL9THyU6",
               "alt": "Bolivia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "El Alto is situated on a very **flat, highland plateau**. It looks much drier and dustier than La Paz. The layout of its streets is also more regular and grid-like.",
-            "The city appears like an unending mess of semi-finished red brick buildings, even more so than other cities in Bolivia. Some neighbourhoods have a very rundown, desolate look."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cities_El_Alto_vibe.png",
-              "link": "https://goo.gl/maps/7JkbZai57cibdKPh7",
-              "alt": "Bolivia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "This type of pavement, consisting of rectangular **grey bricks **with slightly wavy edges, is very common in El Alto."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cities_El_Alto_pavement.png",
-              "link": "https://goo.gl/maps/ay4tNhy2zJr9cnD36",
-              "alt": "Bolivia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "In El Alto, you can sometimes see a local type of architecture referred to as [**Neo-Andean**](https://en.wikipedia.org/wiki/Neo-Andean). Buildings in this style are colourful, with elaborate, futuristic-looking façades. The style is really unique and is almost completely limited to El Alto."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cities_El_Alto_neo_andean.png",
-              "link": "https://goo.gl/maps/KXwqZiNaczHtnD9Y9",
-              "alt": "Bolivia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Gates and doors in El Alto are...",
-          "text": [
-            "Gates and doors in El Alto are sometimes painted with a **gradient pattern**, usually dark green to light green, or red to yellow."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cities_El_Alto_gradient_doors.png",
-              "link": "https://goo.gl/maps/TayPWDNTakpNQXPh9",
-              "alt": "Bolivia Gates and doors in El Alto are..."
             }
           ]
         },
@@ -1123,19 +699,6 @@ export const BoliviaClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Sucre has a well-preserved **historic city centre**, with lots of old colonial buildings. The downtown area can be recognized by the white walls, orange tiled roofs, and generally more historic look than other places in Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/cities_Sucre_architecture.png",
-              "link": "https://goo.gl/maps/eAnC1SXTuPN8qLcx8",
-              "alt": "Bolivia Architecture"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Potosí is also situated in a very **hilly** landscape, like Sucre. However, its landscape is much more **arid**, with little to no trees atop the hills."
@@ -1176,21 +739,6 @@ export const BoliviaClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "Ruta 1 west of El Alto is a paved road that runs through green grasslands. The road itself is mostly flat, but you will usually see hills nearby. On the road, you will often see **numbers marked in white paint**.",
-            "Near the western end of the road, close to Desaguadero and the border with Peru, you will be able to see Lake Titicaca [to your north](https://goo.gl/maps/36TPhoLYEQC9t3SX8).",
-            "NOTE: This road can look very similar to Ruta 2 northwest of El Alto. Road angles can help if you are not sure."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/road_Ruta_1_Tiwanaku.png",
-              "link": "https://goo.gl/maps/nVQpcJsz9QXVHpWU7",
-              "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The section of Ruta 3 around Pongo, northeast of La Paz, can easily be recognised by the breathtaking views of **enormous mountains**, which are often surrounded by low-hanging clouds. The mountains are also recognizable by their [dark grey rocks](https://goo.gl/maps/vr7NDxSPDkjH5tbKA) lightly covered in greenish grass."
@@ -1200,20 +748,6 @@ export const BoliviaClue = {
               "url": "https://www.plonkit.net/images/bolivia/road_Ruta_3_epic_mountains.png",
               "link": "https://goo.gl/maps/WUos5kiFmmzZ52Jz5",
               "alt": "Bolivia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The N Yungas Road (also popularly known as **Death Road**), is a bendy, small and unpaved road, high up in the mountains east of La Paz. The vegetation is very tropical. The coverage in the southern part of the road is very foggy. True to its unofficial name, this road looks like a very dangerous drive. You can sometimes see some [daring cyclists](https://goo.gl/maps/paLV6Q6yFCrpgxHn7).",
-            "NOTE: The northern half of this road looks [less foggy and dangerous](https://goo.gl/maps/qrdtAg2G1jLGSWGP7). However, it should still be recognizable, as it is the only dirt road meandering through jungle hills in Bolivia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/road_Death_road.png",
-              "link": "https://goo.gl/maps/1nnJbj2oembgAu6p8",
-              "alt": "Bolivia Road Lines"
             }
           ]
         },
@@ -1300,20 +834,6 @@ export const BoliviaClue = {
           ]
         },
         {
-          "title": "Coverage",
-          "text": [
-            "The section of Ruta 7 between Mairana and the outskirts of Santa Cruz has coverage with a camera bug that causes a **visual glitch**. It is a distinctive, neon-like discoloration, that (depending on the road angle) is usually more or less to your north.",
-            "NOTE: This glitch can also rarely be found in some limited areas [in and around Santa Cruz](https://goo.gl/maps/gzShbw98LU89oBtr8). In these areas, the glitch is often [not as severe](https://goo.gl/maps/f32GeQXxUbt7VYFK7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/road_Ruta_7_visual_glitch.png",
-              "link": "https://goo.gl/maps/bEMgujAbmKz7JJrr8",
-              "alt": "Bolivia Coverage"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The roads around the town of Mataral have recognizable coverage: a **very green, hilly** landscape, and **sunny weather** with only a couple of clouds. While the hills are very green, the vegetation is not very dense, and quite low.",
@@ -1324,19 +844,6 @@ export const BoliviaClue = {
               "url": "https://www.plonkit.net/images/bolivia/road_Mataral_area.png",
               "link": "https://goo.gl/maps/tRKDrsqLVPQovyt3A",
               "alt": "Bolivia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "In the aforementioned Mataral area, you will often see large **cacti** hiding between the bushes, as well as **trees with yellow flowers**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/road_Mataral_plants.png",
-              "link": "https://goo.gl/maps/s9VkGCjDbssQaxvH7",
-              "alt": "Bolivia Regions"
             }
           ]
         },
@@ -1380,21 +887,6 @@ export const BoliviaClue = {
           ]
         },
         {
-          "title": "Google Car",
-          "text": [
-            "On the southwesternmost section of Ruta 4, you can usually see the **Nevado Sajama**, an isolated snow-capped volcano that is very distinct and unlike any other mountain in Bolivia.",
-            "When you see Sajama, you will always be south of Callapa and the Desaguadero River. However, you will not always be able to see it on this section of the road, as it is often hidden by hills.",
-            "NOTE: The only other place where you can see Nevado Sajama is coverage in the National Park, which is recognizable by its unique Google car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/road_Sajama.png",
-              "link": "https://goo.gl/maps/FhzWLiRgEThYUfqp7",
-              "alt": "Bolivia Google Car"
-            }
-          ]
-        },
-        {
           "title": "Road Lines",
           "text": [
             "The section of Ruta 6 between Tarabuco and Zudáñez is paved with **extremely light-coloured concrete**, bordering on white. This pavement is very recognizable and unique to this road."
@@ -1404,34 +896,6 @@ export const BoliviaClue = {
               "url": "https://www.plonkit.net/images/bolivia/road_Ruta_6_white_concrete.png",
               "link": "https://goo.gl/maps/URiWdT23X84Y61HS9",
               "alt": "Bolivia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Between the villages of Villa Vitalina and Coipasa, there is an isolated stretch of coverage where the Google car drove through **extremely arid** desert terrain. This small road is located close to the southwestern end of Ruta 12, near the Chilean border. It can be hard to spot on the map, because it blends in with the salt flat.",
-            "Closer to Villa Vitalina, the car drove over the [salt flat](https://goo.gl/maps/8e9bmY6Fiih6gB5e9). Closer to Coipasa, the car drove on an unpaved dirt road, where you can see [cone-shaped volcanic hills](https://goo.gl/maps/vGForqRVdK6vjo9V7). In both parts, there is virtually no vegetation."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/road_Coipasa_road.png",
-              "link": "https://goo.gl/maps/8e9bmY6Fiih6gB5e9",
-              "alt": "Bolivia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "**Sajama National Park** was covered by this unique Google car: it has a black roof rack with a series of metal bars.",
-            "The coverage is on an unpaved road surrounded by fluffy bushes. The Nevado Sajama volcano is always [visible](https://goo.gl/maps/31GHyyrBPvTCCVtF7). The car briefly drove through the small village of [Tomarapi](https://goo.gl/maps/9V7ug4DXpnJbr6CW6), which can be recognized by its traditional buildings with adobe walls and thatched roofs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/bolivia/road_Sajama_car.png",
-              "link": "https://goo.gl/maps/ogDPXucBXBxhyHhG8",
-              "alt": "Bolivia Google Car"
             }
           ]
         }

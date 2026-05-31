@@ -168,35 +168,6 @@ export const AustraliaClue = {
         {
           "title": "Road Lines",
           "text": [
-            "Australia uses almost exclusively **white road lines**, with a few rare exceptions in alpine regions such as Mount Kosciuszko and Mount Hotham.",
-            "NOTE: If you are considering guessing in Australia, but see yellow outside lines or a yellow middle line, you will probably be in South Africa or New Zealand respectively. Note that New Zealand can have all white road lines as well."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/round.png",
-              "link": "https://goo.gl/maps/M3bySs59KJcMP7HY9",
-              "alt": "Australia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Outside lines in Australia sometimes feature **rumble strips** that look like small white stripes perpendicular to the road line.",
-            "NOTE: Northern Territory roads very rarely have rumble strips.",
-            "In addition, you can find similar rumble strips in New Zealand."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/au_strips.webp",
-              "link": "https://goo.gl/maps/M3bySs59KJcMP7HY9",
-              "alt": "Australia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
             "The Nullarbor Highway (Latin for “no tree”) can be easily recognized thanks to the flatness, overall grey look and **very low vegetation**.",
             "NOTE: Use the road angle or road lines to determine whether you are on the WA or SA side."
           ],
@@ -220,26 +191,41 @@ export const AustraliaClue = {
               "alt": "Australia Road Lines"
             }
           ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "The Sturt Highway from Wentworth to Wagga Wagga can have **triple **broken centre lines.",
+            "NOTE: Triple broken centre lines can also be found on other major roads in NSW, such as the Gwydir Highway. However, they are most common on the Sturt Highway."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/australia/stu_highway.png",
+              "link": "https://goo.gl/maps/q35yxva5Cw8XhHq79",
+              "alt": "Australia Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "All-**yellow **road lines can be seen on roads around Mount Kosciuszko.",
+            "In addition, a unique white truck with a **snorkel**, and cab guard can be found.",
+            "NOTE: All yellow road lines can also be found in other alpine areas in Victoria and New South Wales, so make sure to look at the landscape and other clues."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/australia/mount_kozzy.png",
+              "link": "https://goo.gl/maps/Mf4KsfTjzFQogBKF9",
+              "alt": "Australia Road Lines"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Bollards",
       "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "Australian bollards are white, with a **red reflector** on the front, and a grey reflector on the back.",
-            "NOTE: New Zealand uses a bollard where the red reflector wraps around the back, meaning the reflector goes from end to end while the Australian one stops in the middle."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Australian_bollard.png",
-              "link": "https://maps.app.goo.gl/tQZAm5mdPmnrx4Dv7",
-              "alt": "Australia Bollards"
-            }
-          ]
-        },
         {
           "title": "Bollards",
           "text": [
@@ -348,20 +334,6 @@ export const AustraliaClue = {
         {
           "title": "Signs",
           "text": [
-            "**Gum trees (eucalyptus)** are by far the most common type of tree in Australia. Their bark is typically light-coloured, with puffy puffy clusters of leaves.",
-            "NOTE: Their look may vary significantly, depending on your location within the country. More details can be found in the region-guessing section."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Eucalyptus.png",
-              "link": "https://goo.gl/maps/Sp1sr1jqg55ZHowi8",
-              "alt": "Australia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "**Give-way signs** in Australia have a white border and black text.",
             "NOTE: New Zealand’s give-way signs use red, instead of black, text. Give-way signs are very rarely seen in South Africa."
           ],
@@ -395,6 +367,20 @@ export const AustraliaClue = {
             {
               "url": "https://www.plonkit.net/images/australia/au_green_signs.webp",
               "link": "https://goo.gl/maps/mAR5QG2cMaeXgfLa8",
+              "alt": "Australia Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Australian speed limit signs have black text in a red circle on a large white **rectangle**.",
+            "NOTE: New Zealand speed limit signs normally do not have the white rectangular background."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/australia/Speed_limit_sign.png",
+              "link": "https://goo.gl/maps/pSMZ7d3C1VAaXMFK8",
               "alt": "Australia Signs"
             }
           ]
@@ -525,20 +511,6 @@ export const AustraliaClue = {
       "title": "Other",
       "tips": [
         {
-          "title": "Australia drives on the left. NOTE: A...",
-          "text": [
-            "Australia drives on the **left**.",
-            "NOTE: A handful of other countries also drive on the left. See [this](/images/australia/rightleftdrive.png) infographic for more information."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Untitled_design17.png",
-              "link": "https://goo.gl/maps/sictV8eDrPFwncMCA",
-              "alt": "Australia Australia drives on the left. NOTE: A..."
-            }
-          ]
-        },
-        {
           "title": "These fire hydrants with red painted tops...",
           "text": [
             "These fire hydrants with **red painted tops** are unique to Victoria."
@@ -583,176 +555,12 @@ export const AustraliaClue = {
               "alt": "Australia overview"
             }
           ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Gum trees (eucalyptus)** are by far the most common type of tree in Australia. Their bark is typically light-coloured, with puffy puffy clusters of leaves.",
-            "NOTE: Their look may vary significantly, depending on your location within the country. More details can be found in the region-guessing section."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Eucalyptus.png",
-              "link": "https://goo.gl/maps/Sp1sr1jqg55ZHowi8",
-              "alt": "Australia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Australian bollards are white, with a **red reflector** on the front, and a grey reflector on the back.",
-            "NOTE: New Zealand uses a bollard where the red reflector wraps around the back, meaning the reflector goes from end to end while the Australian one stops in the middle."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Australian_bollard.png",
-              "link": "https://maps.app.goo.gl/tQZAm5mdPmnrx4Dv7",
-              "alt": "Australia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Australia drives on the left. NOTE: A...",
-          "text": [
-            "Australia drives on the **left**.",
-            "NOTE: A handful of other countries also drive on the left. See [this](/images/australia/rightleftdrive.png) infographic for more information."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Untitled_design17.png",
-              "link": "https://goo.gl/maps/sictV8eDrPFwncMCA",
-              "alt": "Australia Australia drives on the left. NOTE: A..."
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Australia uses almost exclusively **white road lines**, with a few rare exceptions in alpine regions such as Mount Kosciuszko and Mount Hotham.",
-            "NOTE: If you are considering guessing in Australia, but see yellow outside lines or a yellow middle line, you will probably be in South Africa or New Zealand respectively. Note that New Zealand can have all white road lines as well."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/round.png",
-              "link": "https://goo.gl/maps/M3bySs59KJcMP7HY9",
-              "alt": "Australia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Outside lines in Australia sometimes feature **rumble strips** that look like small white stripes perpendicular to the road line.",
-            "NOTE: Northern Territory roads very rarely have rumble strips.",
-            "In addition, you can find similar rumble strips in New Zealand."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/au_strips.webp",
-              "link": "https://goo.gl/maps/M3bySs59KJcMP7HY9",
-              "alt": "Australia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Give-way signs** in Australia have a white border and black text.",
-            "NOTE: New Zealand’s give-way signs use red, instead of black, text. Give-way signs are very rarely seen in South Africa."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Untitled_design_11.png",
-              "link": "https://goo.gl/maps/cDox6vGf596ZST6x6",
-              "alt": "Australia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Australia uses **white on black** and **black on yellow** chevrons."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/au_chevrons.png",
-              "link": "https://goo.gl/maps/9sCEseLdoKUZkg5c9",
-              "alt": "Australia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Green **signs with white arrows on either side can be seen at intersections which show nearby towns or cities. A number indicating the number of **kilometres **away the town can sometimes be seen."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/au_green_signs.webp",
-              "link": "https://goo.gl/maps/mAR5QG2cMaeXgfLa8",
-              "alt": "Australia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Australian speed limit signs have black text in a red circle on a large white **rectangle**.",
-            "NOTE: New Zealand speed limit signs normally do not have the white rectangular background."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Speed_limit_sign.png",
-              "link": "https://goo.gl/maps/pSMZ7d3C1VAaXMFK8",
-              "alt": "Australia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A **long** antenna can be seen in Generation 3 coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/au_antenna.webp",
-              "link": "https://maps.app.goo.gl/AMmux64ttZrhFgzw8",
-              "alt": "Australia Google Car"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and state-specific clues",
       "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Different states use **different **licence plate designs, which can be somewhat visible through the blur."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/aus_license_plates.png",
-              "link": "https://www.plonkit.net/images/australia/aus_license_plates.png",
-              "alt": "Australia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Australian phone numbers are 8 digits with a 2-digit area code in front. A map of these by state can be seen here. Keep in mind, **not all** phone numbers will include an area code in front of it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Phone_codes.png",
-              "link": "https://www.plonkit.net/images/australia/Phone_codes.png",
-              "alt": "Australia Regions"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -765,61 +573,6 @@ export const AustraliaClue = {
               "url": "https://www.plonkit.net/images/australia/jfjjjfjfj.png",
               "link": "https://www.plonkit.net/images/australia/jfjjjfjfj.png",
               "alt": "Australia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The iconic **Stobie pole**, made of steel and concrete, is specific to South Australia. The [pole tops](https://goo.gl/maps/Le5eiGxw9bRT1UQJA) (trident or rotated letter “E”) are also unique.",
-            "NOTE: A few thousand of these poles can be found in other states, most notably Tasmania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Stobie_pole.png",
-              "link": "https://goo.gl/maps/cAq7aUL4LsWx4FLu7",
-              "alt": "Australia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **rusty metal poles**, containing several holes, are unique to the Northern Territory.",
-            "NOTE: These poles can also sometimes be found in some areas of northern WA, such as Wyndham."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/NT_poles.png",
-              "link": "https://goo.gl/maps/KWHXiSoh7D7NkqxW8",
-              "alt": "Australia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "According to a [2006 review](https://era.daf.qld.gov.au/id/eprint/3071/2/dpiandena_timber_pole_review06-sec.pdf#page=37), 64% of all **concrete poles** are located in the state of Victoria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Vic_concrete_pole.png",
-              "link": "https://goo.gl/maps/9dp7cSAc3mhACorp6",
-              "alt": "Australia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "A **trident**-like pole top can sometimes be seen in Western Australia and Victoria.",
-            "NOTE: All 3 insulators must be connected to the crossbar. This [link ](https://maps.app.goo.gl/LLZCJkuNYMoqU13m6)shows a non trident pole, as the middle insulator is connected to the pole itself."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/WA_and_Vic_trident_poles.png",
-              "link": "https://goo.gl/maps/TPMQCEM9NqK8yX226",
-              "alt": "Australia Poles"
             }
           ]
         },
@@ -914,60 +667,6 @@ export const AustraliaClue = {
               "url": "https://www.plonkit.net/images/australia/WA_pole_stuff.png",
               "link": "https://goo.gl/maps/sPDGwJ1sUTYQcGfy9",
               "alt": "Australia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Reflectors that are **shorter **in height than the regular ones are most common in Queensland and South Australia.",
-            "NOTE: Short reflectors can be found in every state, but are much less common outside of QLD and SA."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/short_bollard.png",
-              "link": "https://goo.gl/maps/pAwfjre9m8xADsZt8",
-              "alt": "Australia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Bollards with **brown paint** at the bottom are most commonly found in Western Australia.",
-            "NOTE: Brown paint at the bottom of [exposed bollards](https://goo.gl/maps/KuQaRmJgbJ6kBUda7) can also rarely be seen in other states, however the brown section will not be as large."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/WA_bollard.png",
-              "link": "https://goo.gl/maps/JeyFvsHRQNBTNBMn9",
-              "alt": "Australia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "These black-and-white **stripy **bollards are unique to Western Australia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/WA_stripy_bollard.png",
-              "link": "https://goo.gl/maps/vkjDBeh2NK2ddor2A",
-              "alt": "Australia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "This **black-and-yellow** bollard is exclusive to Queensland."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/qld_bollard.png",
-              "link": "https://goo.gl/maps/5oSGGEohoSaXHgWS8",
-              "alt": "Australia Bollards"
             }
           ]
         },
@@ -1068,33 +767,6 @@ export const AustraliaClue = {
         {
           "title": "Regions",
           "text": [
-            "Roads that start with the letter **‘C’ **are only found in Victoria and Tasmania. In addition, South Australia has some C roads near the border with Victoria.",
-            "NOTE: Since these are smaller and less major roads, Generation 1 or 2 is common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/lol.png",
-              "link": "https://goo.gl/maps/P1Cyr8bhfQKBdGCZ6",
-              "alt": "Australia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "South Australia is the only Australian state that uses a **25 **speed limit in **school **zones."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/SA_school_zone.png",
-              "link": "https://goo.gl/maps/eqeeJkjJo1mguXeA6",
-              "alt": "Australia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "Within Australia, a speed limit of **130 km/h** can only be found in the Northern Territory."
           ],
           "images": [
@@ -1184,33 +856,6 @@ export const AustraliaClue = {
           ]
         },
         {
-          "title": "These fire hydrants with red painted tops...",
-          "text": [
-            "These fire hydrants with **red painted tops** are unique to Victoria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Vic_fire_hydrants.png",
-              "link": "https://goo.gl/maps/UScNqqXvfFwJXkJM6",
-              "alt": "Australia These fire hydrants with red painted tops..."
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Western Australia, and especially the Perth area, is known for its **reddish-orange soil**.",
-            "NOTE: Although this is very useful, there are numerous areas in WA with light soil, and conversely there are areas in other states with reddish-orange soil."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/WA_red_soil.png",
-              "link": "https://goo.gl/maps/CByWBq1n7TS3thW57",
-              "alt": "Australia Landscape"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "These **brush plants** are commonly seen in Western Australia."
@@ -1224,19 +869,6 @@ export const AustraliaClue = {
           ]
         },
         {
-          "title": "Landscape",
-          "text": [
-            "The vegetation in the area surrounding **Darwin** is extremely distinct. It features dark red soil, as well as rich green grass and trees. The tree trunks are typically black."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Darwin_landscape.png",
-              "link": "https://goo.gl/maps/85L51ETBL965S9hn9",
-              "alt": "Australia Landscape"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "**Termite mounds** can sometimes be seen in the Northern Territory and rarely northern WA and QLD. They appear as brown, spiky formations rising out of the ground."
@@ -1246,35 +878,6 @@ export const AustraliaClue = {
               "url": "https://www.plonkit.net/images/australia/Termite_mounds_2.png",
               "link": "https://goo.gl/maps/2LT9marVZG38Y6vv8",
               "alt": "Australia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The area around Warramboo in SA to Madura in WA has a unique landscape. Vegetation is quite **dry **and is made up of shrubs and **wide crowned eucalyptus**. In addition, the soil is sandy with a slight orange tint.",
-            "The dry area east of Adelaide and into northwestern Victoria has a similar landscape, with the same vegetation but usually with [**whiter soil**](https://goo.gl/maps/rFiSFVLVUJcF4kGt5).",
-            "NOTE: The soil gets more red in the WA side. Redder soil can also be seen more inland on the Victorian side around Mildura. In addition, the Nullarbor Highway has a distinct landscape."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/fry_eggs_on_the_road.png",
-              "link": "https://goo.gl/maps/pMJS3exZbaa8zfyD6",
-              "alt": "Australia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Lush green or golden **fields can be found in this band from the south of the Yorke Peninsula to Echuca. In the SA side, the landscape should be drier than the Victorian side and more wide crowned eucalyptus can be seen. On the Victorian side, the trees generally have more leaves and are taller.",
-            "NOTE: The area near Mount Gambier has a distinct landscape. For more information, see below."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Green_landscape.png",
-              "link": "https://goo.gl/maps/LtUSqyqp6m8a2uog8",
-              "alt": "Australia Landscape"
             }
           ]
         },
@@ -1342,38 +945,6 @@ export const AustraliaClue = {
               "url": "https://www.plonkit.net/images/australia/NT_no_gen_2_with_minimap.png",
               "link": "https://goo.gl/maps/9qD3QhA83u2EtxKA9",
               "alt": "Australia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Australia is home to dozens of **rare Google cars**, which can usually be found in natural reserves.",
-            "Most rare Google cars with **snorkels **are located in New South Wales and the Australian Capital Territory. The [snorkels](https://en.wikipedia.org/wiki/Vehicle_snorkel) are dark grey or black extensions to the side of the car, to keep the engine dry when submerged in water.",
-            "NOTE: The only snorkels outside NSW and ACT are found on two cars in Western Australia ([1](https://goo.gl/maps/wFgk2iGZBaQLe2nN8) and [2](https://goo.gl/maps/Em5BHeArvFHzkiJ29)).",
-            "_GeoHints has a complete overview of all rare cars, which can be found on [this page](https://geohints.com/meta/googleVehicles/cars)._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Snorkel_cars.png",
-              "link": "https://goo.gl/maps/dZBj1XFQxYPfX37j6",
-              "alt": "Australia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "For country streak purposes, Christmas Island and...",
-          "text": [
-            "For country streak purposes, Christmas Island and Cocos (Keeling) Islands **are counted** as part of Australia. For example, clicking Australia on Christmas Island counts as a country streak.",
-            "These islands have **unique cars** which makes them easily identifiable.",
-            "_Plonk It has a more in-depth guide to Christmas Island [here](https://www.plonkit.net/christmas-island)._",
-            "_Plonk It has a more in-depth guide to Cocos (Keeling) Islands [here](https://www.plonkit.net/cocos-islands)._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/Island_cars_2.png",
-              "link": "https://www.plonkit.net/images/australia/Island_cars_2.png",
-              "alt": "Australia For country streak purposes, Christmas Island and..."
             }
           ]
         }
@@ -1476,74 +1047,6 @@ export const AustraliaClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "The Nullarbor Highway (Latin for “no tree”) can be easily recognized thanks to the flatness, overall grey look and **very low vegetation**.",
-            "NOTE: Use the road angle or road lines to determine whether you are on the WA or SA side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/au_nullarbor.png",
-              "link": "https://goo.gl/maps/Mih6F8nXikmw8hi96",
-              "alt": "Australia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "On most of the Northern Territory section of the Barkly Highway and a small part of the Queensland section, a **wire **can be seen on the left side of the car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/wire.png",
-              "link": "https://maps.app.goo.gl/EFhncZqkuyuHeS8Q7",
-              "alt": "Australia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Dorat Road (23) in the Northern Territory can be easily recognized thanks to its distinct Darwin area landscape and **lack** of road lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/dorat_road.png",
-              "link": "https://goo.gl/maps/7AeYeW96TpyQ2dVi6",
-              "alt": "Australia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The Sturt Highway from Wentworth to Wagga Wagga can have **triple **broken centre lines.",
-            "NOTE: Triple broken centre lines can also be found on other major roads in NSW, such as the Gwydir Highway. However, they are most common on the Sturt Highway."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/stu_highway.png",
-              "link": "https://goo.gl/maps/q35yxva5Cw8XhHq79",
-              "alt": "Australia Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The Stuart Highway from Alice Springs to around Pimba, SA can be easily recognized by its **bright orange** dirt, short trees and blue car Generation 4.",
-            "NOTE: Use the road angle and whether there are [rumble strips](https://goo.gl/maps/71LHNi6HTXB6VwCt8) to determine whether you are in NT or SA. Rumble strips are much rarer on the NT side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/stuart.png",
-              "link": "https://goo.gl/maps/qmm6m7rTxazFcmBM7",
-              "alt": "Australia Google Car"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "You can sometimes see **sloped **kerbs in Perth, where it gradually declines to the road, whilst in other cities kerbs go [straight down](https://goo.gl/maps/a74CJ2mpxo428N3X6) at a 90 degree angle."
@@ -1566,21 +1069,6 @@ export const AustraliaClue = {
               "url": "https://www.plonkit.net/images/australia/au_melbournepolesticker.png",
               "link": "https://goo.gl/maps/fBzWxt2yXicYyJM16",
               "alt": "Australia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "All-**yellow **road lines can be seen on roads around Mount Kosciuszko.",
-            "In addition, a unique white truck with a **snorkel**, and cab guard can be found.",
-            "NOTE: All yellow road lines can also be found in other alpine areas in Victoria and New South Wales, so make sure to look at the landscape and other clues."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/australia/mount_kozzy.png",
-              "link": "https://goo.gl/maps/Mf4KsfTjzFQogBKF9",
-              "alt": "Australia Road Lines"
             }
           ]
         },

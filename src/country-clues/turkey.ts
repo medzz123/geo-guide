@@ -78,7 +78,6 @@ export const TurkeyClue = {
     "Bollards",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Architecture",
     "Coverage",
@@ -123,19 +122,6 @@ export const TurkeyClue = {
         {
           "title": "Plates",
           "text": [
-            "Turkey uses the same licence plates as most of Europe: they are long and white, with a **blue strip** on the left."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_licenceplate.png",
-              "link": "https://www.plonkit.net/images/turkey/tr_licenceplate.png",
-              "alt": "Turkey Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
             "In the European part of Turkey, except Istanbul, utility poles, and other electrical infrastructure, will have a 6 digit code, which is often seen on a small pole plate under the yellow electricity warning plate."
           ],
           "images": [
@@ -151,19 +137,6 @@ export const TurkeyClue = {
     {
       "title": "Road Lines",
       "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "The colour of Turkish road lines is somewhat inconsistent. Most roads simply have white road lines. However, it is not uncommon to see yellow road lines. These roads can have [fully yellow lines](https://goo.gl/maps/NDYQg17SRma1M8VY9), or a [combination of yellow and white lines](https://goo.gl/maps/kVzg32BeNHnxXNhb8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_roadlines.png",
-              "link": "https://goo.gl/maps/Y1jTNnVnJ6gTWr9n6",
-              "alt": "Turkey Road Lines"
-            }
-          ]
-        },
         {
           "title": "Road Lines",
           "text": [
@@ -196,21 +169,6 @@ export const TurkeyClue = {
     {
       "title": "Bollards",
       "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "Turkish **bollards** have a simple design: rectangular, plain white, and with a red reflector on the front. They are thin when seen from the side.",
-            "There is a rare [yellow](https://maps.app.goo.gl/TDsyYaBcT9Hpmbpk9) version, seen in some areas with high snowfall.",
-            "NOTE: Romania has similar bollards. However, bollards are relatively rare in Romania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_bollard.png",
-              "link": "https://goo.gl/maps/vJsmH4MHfe8u57B98",
-              "alt": "Turkey Bollards"
-            }
-          ]
-        },
         {
           "title": "Bollards",
           "text": [
@@ -298,29 +256,6 @@ export const TurkeyClue = {
               "url": "https://www.plonkit.net/images/turkey/tr_directionalsigns.png",
               "link": "https://goo.gl/maps/W4m2vDDmwBdvxCAV9",
               "alt": "Turkey Signs"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Language",
-      "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "The Turkish language has a fairly unique look. It uses the following special characters:",
-            "- Ç ç and Ş ş with a [cedilla](https://en.wikipedia.org/wiki/Cedilla) (“hook” below the letter).",
-            "- Ö ö and Ü ü with an [umlaut](https://en.wikipedia.org/wiki/Umlaut_(diacritic)) (two dots).",
-            "- Ğ ğ with a [breve](https://en.wikipedia.org/wiki/Breve).",
-            "- Dotless I ı. This letter in particular is noteworthy, as it is essentially unique to Turkish. In case you are confused: this is similar to the letter i, but without a dot when written in lowercase.",
-            "- Capital İ with a dot."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_language.png",
-              "link": "https://www.plonkit.net/images/turkey/tr_language.png",
-              "alt": "Turkey Language"
             }
           ]
         }
@@ -561,19 +496,6 @@ export const TurkeyClue = {
       "title": "Other",
       "tips": [
         {
-          "title": "Many roads have pavement with a grainy...",
-          "text": [
-            "Many roads have pavement with a grainy “**salt and pepper**” texture."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_saltandpepper.png",
-              "link": "https://goo.gl/maps/vpzLcfJkyY77wkui8",
-              "alt": "Turkey Many roads have pavement with a grainy..."
-            }
-          ]
-        },
-        {
           "title": "Divided highways are extremely common, especially compared...",
           "text": [
             "**Divided highways** are extremely common, especially compared to other Mediterranean countries."
@@ -630,158 +552,6 @@ export const TurkeyClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "Turkey uses the same licence plates as most of Europe: they are long and white, with a **blue strip** on the left."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_licenceplate.png",
-              "link": "https://www.plonkit.net/images/turkey/tr_licenceplate.png",
-              "alt": "Turkey Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The Turkish language has a fairly unique look. It uses the following special characters:",
-            "- Ç ç and Ş ş with a [cedilla](https://en.wikipedia.org/wiki/Cedilla) (“hook” below the letter).",
-            "- Ö ö and Ü ü with an [umlaut](https://en.wikipedia.org/wiki/Umlaut_(diacritic)) (two dots).",
-            "- Ğ ğ with a [breve](https://en.wikipedia.org/wiki/Breve).",
-            "- Dotless I ı. This letter in particular is noteworthy, as it is essentially unique to Turkish. In case you are confused: this is similar to the letter i, but without a dot when written in lowercase.",
-            "- Capital İ with a dot."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_language.png",
-              "link": "https://www.plonkit.net/images/turkey/tr_language.png",
-              "alt": "Turkey Language"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Turkish **bollards** have a simple design: rectangular, plain white, and with a red reflector on the front. They are thin when seen from the side.",
-            "There is a rare [yellow](https://maps.app.goo.gl/TDsyYaBcT9Hpmbpk9) version, seen in some areas with high snowfall.",
-            "NOTE: Romania has similar bollards. However, bollards are relatively rare in Romania."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_bollard.png",
-              "link": "https://goo.gl/maps/vJsmH4MHfe8u57B98",
-              "alt": "Turkey Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The colour of Turkish road lines is somewhat inconsistent. Most roads simply have white road lines. However, it is not uncommon to see yellow road lines. These roads can have [fully yellow lines](https://goo.gl/maps/NDYQg17SRma1M8VY9), or a [combination of yellow and white lines](https://goo.gl/maps/kVzg32BeNHnxXNhb8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_roadlines.png",
-              "link": "https://goo.gl/maps/Y1jTNnVnJ6gTWr9n6",
-              "alt": "Turkey Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Many roads have pavement with a grainy...",
-          "text": [
-            "Many roads have pavement with a grainy “**salt and pepper**” texture."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_saltandpepper.png",
-              "link": "https://goo.gl/maps/vpzLcfJkyY77wkui8",
-              "alt": "Turkey Many roads have pavement with a grainy..."
-            }
-          ]
-        },
-        {
-          "title": "Divided highways are extremely common, especially compared...",
-          "text": [
-            "**Divided highways** are extremely common, especially compared to other Mediterranean countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_divided.png",
-              "link": "https://goo.gl/maps/uG7eY44ViTznRigq9",
-              "alt": "Turkey Divided highways are extremely common, especially compared..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Turkish chevrons are typically **red on white**. Beware that there are some other [regional variants](https://goo.gl/maps/c53U4ydsoRYVxGhk9).",
-            "Usually, the tip of the arrow does not touch the edge of the chevron. Some chevrons have a [neon yellow border](https://goo.gl/maps/h52NSmYxDJA77zVD8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_chevron.png",
-              "link": "https://goo.gl/maps/YQnd7NLQpnNw44q36",
-              "alt": "Turkey Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "On intersections, you can often find this distinctive **black and yellow** chevron, with multiple arrows that point upward."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_chevron2.png",
-              "link": "https://goo.gl/maps/rb6kRgiqproQUWFE6",
-              "alt": "Turkey Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Sometimes, you can see these **narrow chevrons** that have a red and white colour scheme.",
-            "NOTE: Almost identical chevrons can be found in [South Africa](https://www.google.com/maps/@-31.9255787,26.9327084,3a,15y,260.14h,77.09t/data=!3m7!1e1!3m5!1safeEbQeUOh2C-t3z0hfx6Q!2e0!5s20230401T000000!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_chevron1.png",
-              "link": "https://goo.gl/maps/Ai1JLo8zhvg4NCKF7",
-              "alt": "Turkey Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Direction signs use a very distinct font that can often be recognised by the noticeably **wide letter spaces**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_directionalsigns.png",
-              "link": "https://goo.gl/maps/W4m2vDDmwBdvxCAV9",
-              "alt": "Turkey Signs"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Snow poles usually feature a colour sequence of black-orange-black-white from top to bottom, with small red reflectors."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_snowpole.png",
-              "link": "https://goo.gl/maps/cupTkRgXiDKx2LJt7",
-              "alt": "Turkey Bollards"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Stop signs have the word “**DUR**” written on them. This is unique to Turkey."
@@ -809,144 +579,12 @@ export const TurkeyClue = {
               "alt": "Turkey Signs"
             }
           ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Metal poles, either in the shape of a **ladder** or with a **mesh** pattern, are extremely common in Turkey."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_pole.png",
-              "link": "https://goo.gl/maps/i4r3FcX5N9hDQzgs6",
-              "alt": "Turkey Poles"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "In the **Generation 3** coverage, the Google car **never has an antenna**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_gen3noantenna.png",
-              "link": "https://goo.gl/maps/gpEXoAqh8raW3xar7",
-              "alt": "Turkey Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The **Generation 4** coverage in Turkey typically features a **white Google car**. Usually, only a tiny sliver of the back of the car is visible. The car can have a short antenna, or [no antenna](https://goo.gl/maps/cDZNhkcAjdTX5zw89) at all."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_gen4car.png",
-              "link": "https://goo.gl/maps/GsRJayyumGYmmju3A",
-              "alt": "Turkey Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "A **grey pickup truck** can be found in some Generation 4 coverage.",
-            "NOTE: Similar pickup trucks can also be found in [Senegal](https://maps.app.goo.gl/qVLNzZSjP3uTWXcg8) and [Kenya](https://maps.app.goo.gl/ggiEBc94DWL7BQwp7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_pickuptruck.png",
-              "link": "https://maps.app.goo.gl/Ebd2AVU36nUc1NNF9",
-              "alt": "Turkey Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Turkey also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/Turkey_Smallcam.png",
-              "link": "https://maps.app.goo.gl/e5EJ3feR9vWbaYz38",
-              "alt": "Turkey Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The Turkish landscape ranges from arid in the [southeast](https://goo.gl/maps/LjNc6hYmCyfbay51A) to a Mediterranean landscape in the [southwest](https://goo.gl/maps/gEzXWMtN6TYYx4GG7). In the [north](https://goo.gl/maps/odAj9owBhLGwSmBH7) you will often find a more forested and lush landscape. The most typical landscape is semi-arid, either rolling or flat, with vast agricultural fields, containing very limited vegetation other than crops.",
-            "Beware that Turkey is a very naturally diverse country with many landscapes that are not mentioned in this tip."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_landscape.png",
-              "link": "https://goo.gl/maps/eXQf5WpzjEQE2dh29",
-              "alt": "Turkey Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Tall and somewhat square apartment blocks are...",
-          "text": [
-            "Tall and somewhat square **apartment blocks** are very common in Turkey."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_apartmentblocks.png",
-              "link": "https://goo.gl/maps/DWQkLUfxdgnn5fUdA",
-              "alt": "Turkey Tall and somewhat square apartment blocks are..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Turkey is a Muslim-majority country, and as such mosques can be found in most towns. In particular, tall [**minarets**](https://en.wikipedia.org/wiki/Minaret) are extremely common and a good clue for the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_mosque.png",
-              "link": "https://goo.gl/maps/s8NDvpw9Go8Ezbvx5",
-              "alt": "Turkey Regions"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Brick pavement** is very common in urban areas, and the bricks will typically have the shape shown in the image."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_brickpavement.png",
-              "link": "https://goo.gl/maps/m6zfUb5Lx2osZgxg9",
-              "alt": "Turkey Architecture"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Region-specific clues",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "Turkish **area codes** follow a fairly easy to learn pattern and can be very useful to get the general region. Most notably, the first digit of area codes are ordered from 2 in the west to 4 in the east.",
-            "NOTE: Phone codes starting with 5 are not regional."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_areacodes_nobg.png",
-              "alt": "Turkey Regions"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -974,20 +612,6 @@ export const TurkeyClue = {
           ]
         },
         {
-          "title": "Landscape",
-          "text": [
-            "Generation 4 **truck coverage** is mainly found in the far east of the country and along the southern coast, with smaller pockets in the west and around Kastamonu.",
-            "For a more detailed look, see this [document](https://docs.google.com/document/d/1VJQSEVVZxJHJebLwgQ2aEoS6ML0MENral7g-IiCnRlg/)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/turkeytruckdistibution_credit_to_vols_jezuz.png",
-              "link": "https://maps.app.goo.gl/fRi7xv5DFxRNGQqm8",
-              "alt": "Turkey Landscape"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Northern Turkey tends to be significantly **lusher** and **more forested** than the rest of the country."
@@ -1010,59 +634,6 @@ export const TurkeyClue = {
               "url": "https://www.plonkit.net/images/turkey/tr_northeast.png",
               "link": "https://goo.gl/maps/3bJjrEbqhmAYbatH8",
               "alt": "Turkey Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Turkish pines** ([pinus brutia](https://en.wikipedia.org/wiki/Pinus_brutia)) are mainly found near the Mediterranean coast.",
-            "NOTE: Turkish pines can appear very similar to [Aleppo pines](https://en.wikipedia.org/wiki/Pinus_halepensis), which are uncommon in Turkey, but are often found in [other Mediterranean countries](https://www.google.com/maps/@41.0385689,0.4753459,3a,48.5y,144.08h,92.16t/data=!3m6!1e1!3m4!1shQfy4LKJz9mGqNx8fa89MA!2e0!7i13312!8i6656?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_pines.png",
-              "link": "https://goo.gl/maps/9ovS9sPtcHdmigWy5",
-              "alt": "Turkey Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Tea plantations** are common in the province of Rize."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_rizetea.png",
-              "link": "https://goo.gl/maps/QZpfT8iBvzxonRwu6",
-              "alt": "Turkey Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Olive trees** are mainly found on the Mediterranean coast."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_olives.png",
-              "link": "https://goo.gl/maps/sZnqtdNofT1jUjXc9",
-              "alt": "Turkey Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Sunflowers** are mainly found in northwestern Turkey."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_sunflowers.png",
-              "link": "https://www.google.com/maps/@40.1570685,34.6725306,3a,47.7y,268.05h,80.12t,0.12r/data=!3m6!1e1!3m4!1s8JwvYfrDtSsWI3zM6RnQlw!2e0!7i16384!8i8192?entry=ttu",
-              "alt": "Turkey Regions"
             }
           ]
         },
@@ -1106,19 +677,6 @@ export const TurkeyClue = {
           ]
         },
         {
-          "title": "Dark, volcanic rocks are commonly found between...",
-          "text": [
-            "Dark, **volcanic rocks** are commonly found between the cities of Şanlıurfa and Diyarbakır."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_blackstones.png",
-              "link": "https://goo.gl/maps/KBat19kwZeAmfeEAA",
-              "alt": "Turkey Dark, volcanic rocks are commonly found between..."
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "River valleys surrounded by steep, **barren and rocky cliff sides** can be found between the cities of Erzurum and Artvin and in the [southeast](https://goo.gl/maps/zDhSPCWVAnGq3Ms18) near the city of Hakkâri."
@@ -1132,20 +690,6 @@ export const TurkeyClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "**Tiled roofs** are mostly found in the western two thirds of the country.",
-            "Note that for this and the following roof-related tips to be reliable, the majority of all visible roofs should preferably be of that type."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_tiledroofs.png",
-              "link": "https://goo.gl/maps/M1fFRrJ1wT7CMqcj6",
-              "alt": "Turkey Architecture"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "**Flat roofs** are mostly found in the southeast and to a lesser extent along the south coast."
@@ -1155,32 +699,6 @@ export const TurkeyClue = {
               "url": "https://www.plonkit.net/images/turkey/tr_flatroofs.png",
               "link": "https://goo.gl/maps/YtLZLBGAdaPt8nda7",
               "alt": "Turkey Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Metal roofs** are most common in the east."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_metalroofs.png",
-              "link": "https://goo.gl/maps/RyUM1gqESkYEDiMC8",
-              "alt": "Turkey Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Sheet metal roofs shaped like **low pyramids** are mainly found far east, particularly in the general area surrounding Lake Van."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_pyramidmetalroof.png",
-              "link": "https://goo.gl/maps/3WiR6NCdykeqLtRh7",
-              "alt": "Turkey Architecture"
             }
           ]
         },
@@ -1220,20 +738,6 @@ export const TurkeyClue = {
               "url": "https://www.plonkit.net/images/turkey/tr_chevronblackonyellow.png",
               "link": "https://goo.gl/maps/dnVaEoQ2WCfTGuZD6",
               "alt": "Turkey Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Four-lane divided highways with **no divider**, other than double middle road lines, are almost exclusively found in the eastern half of the country.",
-            "Beware that divided highways with [clear dividers](https://goo.gl/maps/SLzhkGpReMShmtDt9), such as guardrails, can still be found in the east."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_eastdivider.png",
-              "link": "https://goo.gl/maps/vgE5NejjjYyc8UR29",
-              "alt": "Turkey Road Lines"
             }
           ]
         },
@@ -1286,19 +790,6 @@ export const TurkeyClue = {
               "url": "https://www.plonkit.net/images/turkey/tr_watertanksphere.png",
               "link": "https://maps.app.goo.gl/vN2VozWbCXPbUvUPA",
               "alt": "Turkey Regions"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "In the European part of Turkey, except Istanbul, utility poles, and other electrical infrastructure, will have a 6 digit code, which is often seen on a small pole plate under the yellow electricity warning plate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/Turkey%2520European%2520Pole%2520Plates.png",
-              "link": "https://maps.app.goo.gl/gL2TRPecD7ggyqjj7",
-              "alt": "Turkey Plates"
             }
           ]
         },
@@ -1413,32 +904,6 @@ export const TurkeyClue = {
           ]
         },
         {
-          "title": "Coverage",
-          "text": [
-            "Road D525 south of Söke is a completely straight road going south-south-west to north-north-east with winter Generation 3 coverage. Along the road you will typically find a large amount of reed."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_d525.png",
-              "link": "https://goo.gl/maps/yRjxXvLUnmBtDhwA8",
-              "alt": "Turkey Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Along the western shore of Lake Beyşehir and [Lake Eğirdir](https://goo.gl/maps/9R4Hc6UMzMLLTn7g6) you can find this small single lane road with jagged, exposed rock and [Turkish pines](https://en.m.wikipedia.org/wiki/Pinus_brutia) to the west. These two can be differentiated by the road west of Lake Eğirdir having a middle road line."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/turkey/tr_lakebeysehir.png",
-              "link": "https://goo.gl/maps/NHzpaqhFs9g1JHSj6",
-              "alt": "Turkey Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "These light blue and grey **touristic signs** which are either arrow shaped or rectangular with a half circle on the top can be found on the island of Bozcaada."
@@ -1504,22 +969,6 @@ export const TurkeyClue = {
               "alt": "Turkey Signs"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends the following maps instead:",
-            "- **AI Generated Türkiye** ([map link](https://www.geoguessr.com/maps/65f033d3d34dd58742aaffc1)) - 60k+ AI-generated locations made by members of the Turkish Geoguessr community.",
-            "- **A Balanced Turkey** ([map link](https://www.geoguessr.com/maps/61fb2314990720000141ecc9)) - 100k+ AI-generated locations balanced with coverage density and a reasonable urban-rural distribution in mind.",
-            "In addition, here are some resources to help you practise Turkey:",
-            "- **Plonk It Turkey **([map link](https://www.geoguessr.com/maps/6619e8f3073f663c21b40f44)) - This map contains locations for practising each meta in the Plonk It Turkey guide from step 2 to 3."
-          ],
-          "images": []
         }
       ]
     }

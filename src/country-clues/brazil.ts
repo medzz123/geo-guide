@@ -77,7 +77,6 @@ export const BrazilClue = {
     "Road Lines",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Architecture",
     "Coverage",
@@ -152,19 +151,6 @@ export const BrazilClue = {
         {
           "title": "Plates",
           "text": [
-            "Licence plates in Brazil were **white **until 2018. Now, a **white plate with a blue stripe** on top is used. Red is still used for commercial vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Brazil_License_Plate.png",
-              "link": "https://www.plonkit.net/images/brazil/Brazil_License_Plate.png",
-              "alt": "Brazil Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
             "Similar to the Bahia and Pernambuco poles, Goiás poles also use **long, yellow pole paint **with a black paint code, but it always starts with a number. They also have a rarer yellow on black pole ID, which can be either paint or a plate."
           ],
           "images": [
@@ -197,6 +183,19 @@ export const BrazilClue = {
             {
               "url": "https://www.plonkit.net/images/brazil/ma_pole_code_2.png",
               "link": "https://goo.gl/maps/m1C4VJGayQW7W9S46",
+              "alt": "Brazil Plates"
+            }
+          ]
+        },
+        {
+          "title": "Plates",
+          "text": [
+            "The vast majority of poles in Mato Grosso, Mato Grosso do Sul, Pará, Amapá, Rio Grande do Norte, Pernambuco and Santa Catarina have the **lamp arm attached** to the pole, as opposed to it being attached with a plate, which is much more common generally."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/brazil/br_mtmslamps.png",
+              "link": "https://goo.gl/maps/8VWUFbJQQtn6SnTa7",
               "alt": "Brazil Plates"
             }
           ]
@@ -240,20 +239,6 @@ export const BrazilClue = {
         {
           "title": "Poles",
           "text": [
-            "The most common poles in Brazil have some resemblance to a **ladder **in the bottom portion. They are rectangular, have long segments running through the bottom, and small holes near the top.",
-            "NOTE: Paraguay uses similar poles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/ladders.png",
-              "link": "https://www.google.com/maps/@-24.9571126,-53.4509432,3a,90y,210.01h,106.39t/data=!3m6!1e1!3m4!1s5lhJHp3bn7bMpsWZg81SCA!2e0!7i16384!8i8192",
-              "alt": "Brazil Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
             "Alongside ladder poles, **round poles** can often be found across the south of Brazil, especially São Paulo. These poles are cylindrical and made of concrete.",
             "NOTE: This map and the following wooden pole map was created using statistical analysis of semi-urban and rural locations. 434 locations of 3 poles per location were used across 16 states that were thought to have mixed poles. Regardless of the state, the centre of large cities will often have round poles."
           ],
@@ -291,26 +276,25 @@ export const BrazilClue = {
               "alt": "Brazil Poles"
             }
           ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Markings on poles are used by the electricity companies to identify them. This pole ID is **long**, **yellow** **pole paint **with a black code. The ones that start with a letter are found in Bahia and Pernambuco."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/brazil/BA_and_PE_Code.png",
+              "link": "https://goo.gl/maps/F1YUU4dL2MCrDFVK9",
+              "alt": "Brazil Poles"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Signs",
       "tips": [
-        {
-          "title": "Signs",
-          "text": [
-            "Most Brazilian road signs have the backs painted **black**.",
-            "NOTE: This is also common in Paraguay."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Black_sign_back.png",
-              "link": "https://goo.gl/maps/143MAmoWube3G7rt6",
-              "alt": "Brazil Signs"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -349,22 +333,17 @@ export const BrazilClue = {
               "alt": "Brazil Signs"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Language",
-      "tips": [
+        },
         {
-          "title": "Language",
+          "title": "Signs",
           "text": [
-            "**Portuguese **is spoken in Brazil, as opposed to most Latin American countries which speak Spanish. Compared to Spanish, some essential differences are that Portuguese uses -ão rather than -ón, -ch/-lh instead of -ll and -nh instead of -ñ."
+            "**Postcodes (CEP) **are seen frequently on [street signs](https://goo.gl/maps/7RAf4dB5LnHm3PT36) in Brazil (though sometimes hard to read). The first two numbers will depict an area, a state or multiple states. The numbers go anti-clockwise from São Paulo, ending in Rio Grande do Sul."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/brazil/Portuguese.png",
-              "link": "https://www.plonkit.net/images/brazil/Portuguese.png",
-              "alt": "Brazil Language"
+              "url": "https://www.plonkit.net/images/brazil/cepcodes.png",
+              "link": "https://www.plonkit.net/images/brazil/cepcodes.png",
+              "alt": "Brazil Signs"
             }
           ]
         }
@@ -373,20 +352,6 @@ export const BrazilClue = {
     {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "Soil in most of Brazil is distinctly **red**. It can range from a [light pink](https://goo.gl/maps/n8fe3fywheFqKCTPA) around Mato Grosso to a deep maroon near the Paraná river. The soil is usually not red in the North East, or in the majority of Rio Grande do Sul, however.",
-            "NOTE: Parts of Paraguay and the nearby Argentine province of Misiones have deep red soil, as well a handful of other regions around the world."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/soil.png",
-              "link": "https://goo.gl/maps/f7ioYhJZuhKPRrFa6",
-              "alt": "Brazil Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -422,6 +387,19 @@ export const BrazilClue = {
             {
               "url": "https://www.plonkit.net/images/brazil/amazon.png",
               "link": "https://goo.gl/maps/eiS8scMBj8Z6nHmm8",
+              "alt": "Brazil Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Acre has a unique landscape of **small grass hills** and sparsely growing trees. The roads often do not cut around the hills like in most of Brazil, but ride the hills instead. A similar landscape can also be seen near Maraba in the state of Pará."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/brazil/acre.png",
+              "link": "https://goo.gl/maps/zaUQ57C3VCLVxVaQ6",
               "alt": "Brazil Landscape"
             }
           ]
@@ -677,325 +655,12 @@ export const BrazilClue = {
               "alt": "Brazil overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Licence plates in Brazil were **white **until 2018. Now, a **white plate with a blue stripe** on top is used. Red is still used for commercial vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Brazil_License_Plate.png",
-              "link": "https://www.plonkit.net/images/brazil/Brazil_License_Plate.png",
-              "alt": "Brazil Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Portuguese **is spoken in Brazil, as opposed to most Latin American countries which speak Spanish. Compared to Spanish, some essential differences are that Portuguese uses -ão rather than -ón, -ch/-lh instead of -ll and -nh instead of -ñ."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Portuguese.png",
-              "link": "https://www.plonkit.net/images/brazil/Portuguese.png",
-              "alt": "Brazil Language"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Soil in most of Brazil is distinctly **red**. It can range from a [light pink](https://goo.gl/maps/n8fe3fywheFqKCTPA) around Mato Grosso to a deep maroon near the Paraná river. The soil is usually not red in the North East, or in the majority of Rio Grande do Sul, however.",
-            "NOTE: Parts of Paraguay and the nearby Argentine province of Misiones have deep red soil, as well a handful of other regions around the world."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/soil.png",
-              "link": "https://goo.gl/maps/f7ioYhJZuhKPRrFa6",
-              "alt": "Brazil Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The most common poles in Brazil have some resemblance to a **ladder **in the bottom portion. They are rectangular, have long segments running through the bottom, and small holes near the top.",
-            "NOTE: Paraguay uses similar poles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/ladders.png",
-              "link": "https://www.google.com/maps/@-24.9571126,-53.4509432,3a,90y,210.01h,106.39t/data=!3m6!1e1!3m4!1s5lhJHp3bn7bMpsWZg81SCA!2e0!7i16384!8i8192",
-              "alt": "Brazil Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Most Brazilian road signs have the backs painted **black**.",
-            "NOTE: This is also common in Paraguay."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Black_sign_back.png",
-              "link": "https://goo.gl/maps/143MAmoWube3G7rt6",
-              "alt": "Brazil Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Blue road markers** with the road number and kilometre can be seen on the sides of roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/blue.png",
-              "link": "https://goo.gl/maps/Deg85umMeQ4MGHzn8",
-              "alt": "Brazil Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Brazil uses **yellow **on **black **chevrons, as opposed to most of South America, which use black on yellow chevrons."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Untitled_design32.png",
-              "link": "https://goo.gl/maps/MKFEtgz85v7epbvv7",
-              "alt": "Brazil Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Roads in Brazil will usually feature **double yellow** middle lines, with white outer lines. Roads can occasionally have a [single dashed yellow line](https://goo.gl/maps/c8XDntyn1zgp9gah9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/doubleyellow.png",
-              "link": "https://goo.gl/maps/NLfa3R3x6HeYKjPi6",
-              "alt": "Brazil Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "There are frequently **white painted kerbs** on Brazilian roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/whitekerbs.png",
-              "link": "https://goo.gl/maps/S1CB98FhhmfFSwMz6",
-              "alt": "Brazil Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Many houses throughout Brazil have **orange tiled roofs**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/redtile.png",
-              "link": "https://goo.gl/maps/KcYzQgBDhLRRpNAC6",
-              "alt": "Brazil Architecture"
-            }
-          ]
-        },
-        {
-          "title": "It is fairly common to see transparent...",
-          "text": [
-            "It is fairly common to see **transparent satellite dishes**, which within Latin America is generally unique to Brazil."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/transparentdish.png",
-              "link": "https://goo.gl/maps/K7nxFxHKUmx418Ec7",
-              "alt": "Brazil It is fairly common to see transparent..."
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Blue Fortlev water tanks **are often seen on Brazilian roofs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/watertanks.png",
-              "link": "https://goo.gl/maps/Yx7jVHxygB8Mquoj9",
-              "alt": "Brazil Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "In Generation 3 coverage, you can see two different cars:",
-            "- A white car with a [**stubby antenna**](https://goo.gl/maps/NhuDAxCVQ9TjhSUF7). There is a diagonal coil wrapped around the antenna.",
-            "- A white car with [**no antenna**](https://goo.gl/maps/nKHjWrdrmbWcUULn6).",
-            "The car’s colour is not always visible, meaning you will often see either just the stubby antenna, or no hints of the car at all.",
-            "The stubby antenna with a diagonal coil can also be found in Ecuador, Colombia, and Mexico."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/gen3.png",
-              "link": "https://www.plonkit.net/images/brazil/gen3.png",
-              "alt": "Brazil Google Car"
-            }
-          ]
-        },
-        {
-          "title": "The Generation 4 cars you can find...",
-          "text": [
-            "The Generation 4 cars you can find in Brazil have a visible front, and have one of the following three colour patterns:",
-            "- [**Blue**](https://goo.gl/maps/cX9hiLoFAWmSxYLp8)",
-            "- [**White with a blue stripe**](https://goo.gl/maps/8m72fEE5hMYAQKF27)",
-            "- [**White**](https://goo.gl/maps/fkcFJmPtRwACz2Jv7)"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/gen4.png",
-              "link": "https://www.plonkit.net/images/brazil/gen4.png",
-              "alt": "Brazil The Generation 4 cars you can find..."
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Brazil also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front.",
-            "NOTE: Brazil, Peru and Argentina are the only South American countries with smallcam."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Smallcam_Brazil.png",
-              "link": "https://maps.app.goo.gl/ZDE2DDVr5TS4zGn77",
-              "alt": "Brazil Coverage"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and state-specific clues",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "Most of the coverage in Brazil is along the **eastern **half, with only sparse coverage in the Amazon.",
-            "It is useful for beginning players to start forming a rough mental map of where the (limited) coverage is in the western half. When you get Amazonian rounds, this can prevent you from wildly plonking hundreds of kilometres away from the nearest road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/br_coverage.png",
-              "link": "https://www.plonkit.net/images/brazil/br_coverage.png",
-              "alt": "Brazil Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Area codes** are common to see in Brazil. They are often notated using parentheses, or at minimum as two separate numbers. Phone numbers are sometimes without area codes, and without them will be 8 numbers long for landline and 9 for mobile.",
-            "The pattern for each of the states is very learnable and useful. The area codes are grouped by first digit, so even just learning those can already help a lot. Notably, area codes ending in 1 will always be around major cities and state capitals."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Brasil_-_C_C3_B3digos_de__C3_A1rea_DDD.png",
-              "link": "https://www.plonkit.net/images/brazil/Brasil_-_C_C3_B3digos_de__C3_A1rea_DDD.png",
-              "alt": "Brazil Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Each Brazilian state has a **two-letter acronym**. These show up most prominently in the numbers of state roads (found on kilometre markers). They can also be found in other contexts however.",
-            "The state acronyms show up when you zoom out a little bit on Google maps, which is also possible in the minimap while in-game. However, for quick and or competitive games, it can be very useful to learn them by heart anyway, as this can help a lot with eliminating scanning time."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/State_acronyms.png",
-              "link": "https://www.plonkit.net/images/brazil/State_acronyms.png",
-              "alt": "Brazil Regions"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Postcodes (CEP) **are seen frequently on [street signs](https://goo.gl/maps/7RAf4dB5LnHm3PT36) in Brazil (though sometimes hard to read). The first two numbers will depict an area, a state or multiple states. The numbers go anti-clockwise from São Paulo, ending in Rio Grande do Sul."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/cepcodes.png",
-              "link": "https://www.plonkit.net/images/brazil/cepcodes.png",
-              "alt": "Brazil Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Shown here is an **elevation map** of Brazil. It can help to have a rough mental map of where you can find mountains, and which regions are more flat. The highest mountains are generally found near the southeastern coast."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Brazil_topo.png",
-              "link": "https://www.plonkit.net/images/brazil/Brazil_topo.png",
-              "alt": "Brazil Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Northeastern Brazil can be identified by its **dry soil, shrubs and succulents** (the [Caatinga](https://en.wikipedia.org/wiki/Caatinga) landscape). In rainy season coverage, the shrubs are still recognisable, but can be deceptively green."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/caatinga.png",
-              "link": "https://goo.gl/maps/j1cCqLxKWXdAenr68",
-              "alt": "Brazil Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The **Amazon** is a dense rainforest that comprises 40% of Brazil’s total area. Not many roads are within it, but those that are, mostly go through either biodiverse forest or grassy hills with sparse trees."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/amazon.png",
-              "link": "https://goo.gl/maps/eiS8scMBj8Z6nHmm8",
-              "alt": "Brazil Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Acre has a unique landscape of **small grass hills** and sparsely growing trees. The roads often do not cut around the hills like in most of Brazil, but ride the hills instead. A similar landscape can also be seen near Maraba in the state of Pará."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/acre.png",
-              "link": "https://goo.gl/maps/zaUQ57C3VCLVxVaQ6",
-              "alt": "Brazil Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -1049,19 +714,6 @@ export const BrazilClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "These distinct trees, called **Paraná pines**, have long horizontal branches with leaves only at the end. They grow mainly in the southern Brazilian states of Paraná, Santa Catarina, and Rio Grande do Sul."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/paranapine.png",
-              "link": "https://goo.gl/maps/DRkDJASiJ3va7ejTA",
-              "alt": "Brazil Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Coconut palm trees have long leaves, **can grow very tall, and have thin trunks**. They are common across the north eastern states and sometimes further west or south along the coast.",
@@ -1076,19 +728,6 @@ export const BrazilClue = {
           ]
         },
         {
-          "title": "Carnaúba palms have short but strong, fan-like...",
-          "text": [
-            "Carnaúba palms have short but strong, **fan-like leaves** and a trunk that is smooth at the top and spiked at the bottom. They are common in Ceará but are also in Piauí and Rio Grande do Norte."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/carnauba.png",
-              "link": "https://goo.gl/maps/akhtASxxFEmjphJZ6",
-              "alt": "Brazil Carnaúba palms have short but strong, fan-like..."
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Babassu palms have long, robust leaves comprised of many leaflets. Trunk length can vary from short to tall. They are found throughout the Amazon, or more rarely, down the east coast."
@@ -1098,19 +737,6 @@ export const BrazilClue = {
               "url": "https://www.plonkit.net/images/brazil/babassu.png",
               "link": "https://goo.gl/maps/BpwS7ZX9JGf2GL9JA",
               "alt": "Brazil Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Açai palms produce fruits that are popular...",
-          "text": [
-            "Açai palms produce fruits that are popular globally. Most of these palms are found near Belem, but can be seen across the Amazon. They are distinct in the way the **leaflets droop downward** along with their unusually thin trunks."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/acai.png",
-              "link": "https://goo.gl/maps/dWhR34GopEFGbvy6A",
-              "alt": "Brazil Açai palms produce fruits that are popular..."
             }
           ]
         },
@@ -1168,19 +794,6 @@ export const BrazilClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "**Eucalyptus Grandis**, when fully grown, is a very tall tree with plantations all over Brazil. You can find them in both large and very small plantations., as well as randomly growing anywhere. You can see them all over the south, but there are some large plantations in Amapá too."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/trees2.png",
-              "link": "https://goo.gl/maps/rzfG527SvLMXiGHg9",
-              "alt": "Brazil Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "**Sugarcane plantations** are by far most common in the state of São Paulo, and in the coastal north east states, especially Alagoas and Pernambuco."
@@ -1222,86 +835,6 @@ export const BrazilClue = {
         {
           "title": "Poles",
           "text": [
-            "Alongside ladder poles, **round poles** can often be found across the south of Brazil, especially São Paulo. These poles are cylindrical and made of concrete.",
-            "NOTE: This map and the following wooden pole map was created using statistical analysis of semi-urban and rural locations. 434 locations of 3 poles per location were used across 16 states that were thought to have mixed poles. Regardless of the state, the centre of large cities will often have round poles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Brazil_Round_Poles_2.png",
-              "link": "https://www.plonkit.net/images/brazil/Brazil_Round_Poles_2.png",
-              "alt": "Brazil Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Some states also use **wooden poles**. They are most commonly seen in Rio Grande do Sul, Roraima, Amazonas, and Rio de Janeiro."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/Brazil_Pole_Wooden.png",
-              "link": "https://www.plonkit.net/images/brazil/Brazil_Pole_Wooden.png",
-              "alt": "Brazil Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Brazil often uses **supports **on its electricity poles that connect the crossbar to the stem of the pole. The frequency of pole supports varies greatly state-to-state. It is notably rare in the northeast.",
-            "NOTE: This tip only works for poles that have a crossbar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/br_polesupport.png",
-              "link": "https://www.plonkit.net/images/brazil/br_polesupport.png",
-              "alt": "Brazil Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Markings on poles are used by the electricity companies to identify them. This pole ID is **long**, **yellow** **pole paint **with a black code. The ones that start with a letter are found in Bahia and Pernambuco."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/BA_and_PE_Code.png",
-              "link": "https://goo.gl/maps/F1YUU4dL2MCrDFVK9",
-              "alt": "Brazil Poles"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Similar to the Bahia and Pernambuco poles, Goiás poles also use **long, yellow pole paint **with a black paint code, but it always starts with a number. They also have a rarer yellow on black pole ID, which can be either paint or a plate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/GO_code.png",
-              "link": "https://goo.gl/maps/M2cYpviU5PsZ9S8c8",
-              "alt": "Brazil Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "This **small yellow or orange plate** attached onto the pole by thin metal or zip tie is found in Rio Grande do Norte and Pernambuco. This ID is usually much higher up the pole in Pernambuco than in Rio Grande do Norte."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/RN_code.png",
-              "link": "https://goo.gl/maps/fCRXbKrzDHWLN9KG9",
-              "alt": "Brazil Plates"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
             "Pole IDs in Paraná are usually made up of **black paint** and yellow or white painted text."
           ],
           "images": [
@@ -1309,19 +842,6 @@ export const BrazilClue = {
               "url": "https://www.plonkit.net/images/brazil/Parana_pole_paint_id.png",
               "link": "https://goo.gl/maps/GAgiqiwUX5veFbYz7",
               "alt": "Brazil Poles"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Most poles in Maranhão have a **small beige plate with numbers** built into the surface of the pole. This pole ID can be found in Pará and Piauí more rarely."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/ma_pole_code_2.png",
-              "link": "https://goo.gl/maps/m1C4VJGayQW7W9S46",
-              "alt": "Brazil Plates"
             }
           ]
         },
@@ -1564,19 +1084,6 @@ export const BrazilClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Brazil often uses metal trash baskets outside houses. In Acre and Rondônia, however, it is much more common to see them made of **concrete**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/concrete_bins.png",
-              "link": "https://maps.app.goo.gl/nC9UK3828x2ovmmy7",
-              "alt": "Brazil Architecture"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "Lamps in Minas Gerais and Goias will often feature **two parts** to them. They can also be found in** **Rio Grande do Norte, Ceará, Rio Grande do Sul as well as the Federal District."
@@ -1599,19 +1106,6 @@ export const BrazilClue = {
               "url": "https://www.plonkit.net/images/brazil/PRLamps2.png",
               "link": "https://goo.gl/maps/NV56XDz9w8mX5gy19",
               "alt": "Brazil Regions"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "The vast majority of poles in Mato Grosso, Mato Grosso do Sul, Pará, Amapá, Rio Grande do Norte, Pernambuco and Santa Catarina have the **lamp arm attached** to the pole, as opposed to it being attached with a plate, which is much more common generally."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/br_mtmslamps.png",
-              "link": "https://goo.gl/maps/8VWUFbJQQtn6SnTa7",
-              "alt": "Brazil Plates"
             }
           ]
         },
@@ -1694,19 +1188,6 @@ export const BrazilClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Some roads in Acre are made of **red brick**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/acreroad.png",
-              "link": "https://goo.gl/maps/CKLk3b2yvemvhmh9A",
-              "alt": "Brazil Architecture"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "Cobblestone roads with **randomly sized stones** are most common in southeast Rio Grande do Sul and Minas Gerais."
@@ -1783,32 +1264,6 @@ export const BrazilClue = {
               "url": "https://www.plonkit.net/images/brazil/piauiroad.png",
               "link": "https://goo.gl/maps/TNgnZM7sdfKtnUg89",
               "alt": "Brazil Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "In all Generation 4 coverage in Amapá, the front right of the camera is **smudged**. In addition, all Generation 4 coverage in Amapá features the white car with the blue stripe."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/amapasmudge.png",
-              "link": "https://goo.gl/maps/tLuoeuV2xauC5Uoc7",
-              "alt": "Brazil Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "You can often see **rifts** in Alagoas Generation 3 coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/alagoas.png",
-              "link": "https://goo.gl/maps/mYF2DQyC48f62Dk76",
-              "alt": "Brazil Coverage"
             }
           ]
         },
@@ -1975,45 +1430,6 @@ export const BrazilClue = {
           ]
         },
         {
-          "title": "Coverage",
-          "text": [
-            "Northwest Rio Grande do Sul has coverage with this **camera glitch** in Generation 3."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/rgds_glitch.png",
-              "link": "https://goo.gl/maps/Cf2H26uN5Mzs7Mjr7",
-              "alt": "Brazil Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The 364 through Acre is very recognisable due to the **rollercoaster-like landscape and road**: the road uniquely rides the hills rather than snaking around them. There is usually no traffic, and is covered mostly by Generation 3 with an antenna."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/acre364.png",
-              "link": "https://goo.gl/maps/5sVgqaCwywpYD1SG9",
-              "alt": "Brazil Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The Amazonas 319 has a very lush, bright green and tropical landscape, as it **cuts through the Amazon rainforest**. The road is flat and mostly unpaved, featuring bright orange soil. However, closer to Manaus the road becomes paved. There are wooden or ladder poles alongside the entire stretch. It is covered by the blue Generation 4 car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/brazil/amazon319.png",
-              "link": "https://goo.gl/maps/SbhHdZNnQw6tWps3A",
-              "alt": "Brazil Google Car"
-            }
-          ]
-        },
-        {
           "title": "Google Car",
           "text": [
             "The Pará section of the 163 is often **hilly, curvy, dry, and sometimes hazy**. It has a wide range of amazonian vegetation. The road is frequently trafficked, usually by transportation trucks. It is covered by the blue Generation 4 car."
@@ -2064,24 +1480,6 @@ export const BrazilClue = {
               "alt": "Brazil Landscape"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends you play these maps instead:",
-            "- **A Balanced Brazil** ([map link](https://www.geoguessr.com/maps/61df8477a94f5d0001ef9f2c)) - The main Brazil map. If you are looking to learn and streak Brazil, A Balanced Brazil is used in official Plonk It records, and is recommended to play.",
-            "- **Brazil City Streaks** ([map link](https://www.geoguessr.com/maps/6361915c9101c6d54c89f780)) - If you want to practise distinguishing between urban areas.",
-            "- **Dirty Brazil** ([map link](https://www.geoguessr.com/maps/63f3c7c7be7bda29cf4872df)) - A map focusing on extremely rural coverage, with mostly dirt roads.",
-            "In addition, here are some resources to help you practise Brazil:",
-            "- **Plonk It Brazil** ([map link](https://www.geoguessr.com/maps/6463d22e69666cb4d28fbc09)) - This map contains locations for practising each meta in the Plonk It Brazil guide from step 2 to 3.",
-            "- **Brazil Area Codes** ([map link](https://www.geoguessr.com/maps/6284d238e52ac884bb36938a)) - Play this map to practise the various Brazilian area codes."
-          ],
-          "images": []
         }
       ]
     }

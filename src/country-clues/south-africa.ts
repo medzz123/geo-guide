@@ -89,21 +89,6 @@ export const SouthAfricaClue = {
         {
           "title": "Google Car",
           "text": [
-            "**Generation 2 coverage** is quite common in the country.",
-            "It can be recognized by the large circular car blur and the halo-like colour distortion in the sky.",
-            "NOTE: On the continent of Africa, Generation 2 is only found in South Africa."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Untitled_design20.png",
-              "link": "https://goo.gl/maps/XqWT42XwZiJEuyMo8",
-              "alt": "South Africa Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
             "All Generation 4 coverage in South Africa was taken by a blue Street View car with a short antenna.",
             "NOTE: The antenna is sometimes [hidden by the blur](https://maps.app.goo.gl/fKdBXrspbEe8CeaF9)."
           ],
@@ -179,36 +164,6 @@ export const SouthAfricaClue = {
     {
       "title": "Road Lines",
       "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "On most roads, South Africa utilizes single **yellow outer lines **and white centre lines.",
-            "NOTE: The other southern African countries of Botswana, Eswatini, Lesotho and Namibia also use single yellow outer lines.",
-            "!!Australia practically never uses yellow outer lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Road_lines.png",
-              "link": "https://goo.gl/maps/PZEPspfKq7MzcU5e6",
-              "alt": "South Africa Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "South Africa occasionally features unique white **triple centre lines** with 2 solid lines on the outside and a dashed line on the inside.",
-            "You may also sometimes encounter another unique triple centre line, consisting of two white lines with one yellow line in the middle. These centre lines are usually found on larger main roads.",
-            "NOTE: The only other countries where you will find road lines like these are the other southern African countries of Botswana, Eswatini, Lesotho and Namibia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Centre_road_lines.png",
-              "link": "https://goo.gl/maps/fRFunLCiewnC2WRu9",
-              "alt": "South Africa Road Lines"
-            }
-          ]
-        },
         {
           "title": "Road Lines",
           "text": [
@@ -304,21 +259,6 @@ export const SouthAfricaClue = {
         {
           "title": "Signs",
           "text": [
-            "South Africa has **11 official languages**: English, Afrikaans, and various Bantu languages. English is the [lingua franca](https://en.wikipedia.org/wiki/Lingua_franca) and therefore appears most often on signage.",
-            "**Afrikaans** is a Germanic language that is closely related to Dutch. Common Afrikaans place name suffixes are -fontein, -kraal, -kop, -dorp, -nek, and -berg or -burg. While Afrikaans is most commonly spoken in the [western half](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/South_Africa_2011_Afrikaans_speakers_proportion_map.svg/2337px-South_Africa_2011_Afrikaans_speakers_proportion_map.svg.png) of the country, you will find Afrikaans place names all over South Africa, meaning that it is not useful for region-guessing.",
-            "NOTE: Afrikaans is rare to non-existent in Eswatini and Lesotho. It is also abundantly rare in Botswana, but has some limited presence in the form of place names."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Languages.png",
-              "link": "https://goo.gl/maps/8NC2RPaLNrtFU6KG9",
-              "alt": "South Africa Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "South Africa uses **green** directional signs with the road number in yellow.",
             "NOTE: Green directional signs with yellow road numbers are also used in Lesotho, Eswatini, Botswana and Namibia. Here, the format of road numbers is useful:",
             "-!!N and R-roads are exclusive to South Africa.",
@@ -359,6 +299,20 @@ export const SouthAfricaClue = {
             {
               "url": "https://www.plonkit.net/images/south-africa/Chevrons.png",
               "link": "https://www.google.com/maps/@-27.6459683,29.9637312,3a,23.6y,269.72h,92.5t/data=!3m6!1e1!3m4!1sqCbWO9PZqF6bTC1Dote2dA!2e0!7i16384!8i8192",
+              "alt": "South Africa Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "A map of major highways in South Africa. On road signs, the **letter ‘N’ **should appear in front of the highway number. On Google Maps, however, the letter ‘N’ will not be present. Instead, a **blue pentagon** with the number will be displayed.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/south-africa/Map_of_the_National_Roads_of_South_Africa_with_labels.svg1.png",
+              "link": "https://www.plonkit.net/images/south-africa/Map_of_the_National_Roads_of_South_Africa_with_labels.svg1.png",
               "alt": "South Africa Signs"
             }
           ]
@@ -449,20 +403,6 @@ export const SouthAfricaClue = {
         {
           "title": "Regions",
           "text": [
-            "South Africa drives on the **left.**",
-            "NOTE: A handful of other countries also drive on the left. See [this](/images/south-africa/rightleftdrive.png) infographic for more information."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Untitled_design19.png",
-              "link": "https://goo.gl/maps/y6p5aJHV4PbdJuC96",
-              "alt": "South Africa Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "**Telephone numbers** are 10 digits long. The first three digits of landline numbers are the area code. The first digit is always a zero; the second and third digits give you the area. The area codes are geographically grouped, so even learning just the first digit is useful.",
             "NOTE: Mobile phone numbers start with 06–08. These numbers are not specific to an area.",
             "_You can click on the image to enlarge it._",
@@ -502,6 +442,14 @@ export const SouthAfricaClue = {
               "alt": "South Africa Regions"
             }
           ]
+        },
+        {
+          "title": "Practice Resources",
+          "text": [
+            "In addition, here are some resources to help you practise South Africa:",
+            "- **Plonk It South Africa** ([map link](https://www.geoguessr.com/maps/6929025bb05048c95545baa6)) - This map contains locations for practising each meta in the Plonk It South Africa guide from step 2 to 3."
+          ],
+          "images": []
         }
       ]
     },
@@ -550,215 +498,12 @@ export const SouthAfricaClue = {
               "alt": "South Africa overview"
             }
           ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "South Africa drives on the **left.**",
-            "NOTE: A handful of other countries also drive on the left. See [this](/images/south-africa/rightleftdrive.png) infographic for more information."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Untitled_design19.png",
-              "link": "https://goo.gl/maps/y6p5aJHV4PbdJuC96",
-              "alt": "South Africa Regions"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "On most roads, South Africa utilizes single **yellow outer lines **and white centre lines.",
-            "NOTE: The other southern African countries of Botswana, Eswatini, Lesotho and Namibia also use single yellow outer lines.",
-            "!!Australia practically never uses yellow outer lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Road_lines.png",
-              "link": "https://goo.gl/maps/PZEPspfKq7MzcU5e6",
-              "alt": "South Africa Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "South Africa occasionally features unique white **triple centre lines** with 2 solid lines on the outside and a dashed line on the inside.",
-            "You may also sometimes encounter another unique triple centre line, consisting of two white lines with one yellow line in the middle. These centre lines are usually found on larger main roads.",
-            "NOTE: The only other countries where you will find road lines like these are the other southern African countries of Botswana, Eswatini, Lesotho and Namibia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Centre_road_lines.png",
-              "link": "https://goo.gl/maps/fRFunLCiewnC2WRu9",
-              "alt": "South Africa Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "**Generation 2 coverage** is quite common in the country.",
-            "It can be recognized by the large circular car blur and the halo-like colour distortion in the sky.",
-            "NOTE: On the continent of Africa, Generation 2 is only found in South Africa."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Untitled_design20.png",
-              "link": "https://goo.gl/maps/XqWT42XwZiJEuyMo8",
-              "alt": "South Africa Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "South Africa has **11 official languages**: English, Afrikaans, and various Bantu languages. English is the [lingua franca](https://en.wikipedia.org/wiki/Lingua_franca) and therefore appears most often on signage.",
-            "**Afrikaans** is a Germanic language that is closely related to Dutch. Common Afrikaans place name suffixes are -fontein, -kraal, -kop, -dorp, -nek, and -berg or -burg. While Afrikaans is most commonly spoken in the [western half](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/South_Africa_2011_Afrikaans_speakers_proportion_map.svg/2337px-South_Africa_2011_Afrikaans_speakers_proportion_map.svg.png) of the country, you will find Afrikaans place names all over South Africa, meaning that it is not useful for region-guessing.",
-            "NOTE: Afrikaans is rare to non-existent in Eswatini and Lesotho. It is also abundantly rare in Botswana, but has some limited presence in the form of place names."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Languages.png",
-              "link": "https://goo.gl/maps/8NC2RPaLNrtFU6KG9",
-              "alt": "South Africa Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The most common type of pole in South Africa features 1 to 5 horizontal bars with thin white insulators that resemble rows of birds, which is why they are referred to as “**bird poles**” in the community.",
-            "NOTE: South Africa has a wide variety of other poles and pole tops. Some of these are (mostly) limited to a certain region; you can learn more about them in the region guessing section."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Bird_poles.png",
-              "link": "https://goo.gl/maps/YQM6WCLhGe9JSFjF6",
-              "alt": "South Africa Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "South Africa uses **green** directional signs with the road number in yellow.",
-            "NOTE: Green directional signs with yellow road numbers are also used in Lesotho, Eswatini, Botswana and Namibia. Here, the format of road numbers is useful:",
-            "-!!N and R-roads are exclusive to South Africa.",
-            "-!!A and B-roads are exclusive to Botswana, Lesotho and Namibia. In addition to this, Namibia uses C, D, M and F roads.",
-            "-!!MR-roads are exclusive to Eswatini."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Untitled_design21.png",
-              "link": "https://goo.gl/maps/yPsAPQtb2NMuCNUn8",
-              "alt": "South Africa Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "South Africa utilizes **triangular warning signs** with a red border and a white background.",
-            "NOTE: The four other southern African countries use similar warning signs.",
-            "!!Australia and New Zealand use yellow diamond-shaped warning signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Road_signs2.png",
-              "link": "https://goo.gl/maps/B7vRADKR5v46k1eP9",
-              "alt": "South Africa Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "South Africa uses **white-and-red **chevrons. You can find a similar chevron pattern below directional signs.",
-            "In addition, unique-looking [small, thin chevrons](https://goo.gl/maps/UtnQqFLqBe9EupxC6) with one arrow are common next to roads.",
-            "NOTE: The thin chevrons can also be found in the other southern African countries of Botswana, Eswatini, Lesotho and Namibia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Chevrons.png",
-              "link": "https://www.google.com/maps/@-27.6459683,29.9637312,3a,23.6y,269.72h,92.5t/data=!3m6!1e1!3m4!1sqCbWO9PZqF6bTC1Dote2dA!2e0!7i16384!8i8192",
-              "alt": "South Africa Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Suburban houses in and around large cities will often be surrounded by **high walls,** fences, and gates** **to deter criminals."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/round.png",
-              "link": "https://goo.gl/maps/NQ85iFE8dDyfCu9N8",
-              "alt": "South Africa Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "All Generation 4 coverage in South Africa was taken by a blue Street View car with a short antenna.",
-            "NOTE: The antenna is sometimes [hidden by the blur](https://maps.app.goo.gl/fKdBXrspbEe8CeaF9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/za_gen4car.png",
-              "link": "https://maps.app.goo.gl/sBHArMggFytawrkg9",
-              "alt": "South Africa Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "South Africa also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, but with a short antenna on the back."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/ZA_smallcam.png",
-              "link": "https://maps.app.goo.gl/b4CkMe1HGYo6WBX1A",
-              "alt": "South Africa Google Car"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and province-specific clues",
       "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Each province features a **different **licence plate design, which can be somewhat visible through the blur. Most notably Free State or KwaZulu-Natal, which have a slight green tint and blue tint respectively.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/ZA-map21.png",
-              "link": "https://www.plonkit.net/images/south-africa/ZA-map21.png",
-              "alt": "South Africa Plates"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "A map of major highways in South Africa. On road signs, the **letter ‘N’ **should appear in front of the highway number. On Google Maps, however, the letter ‘N’ will not be present. Instead, a **blue pentagon** with the number will be displayed.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Map_of_the_National_Roads_of_South_Africa_with_labels.svg1.png",
-              "link": "https://www.plonkit.net/images/south-africa/Map_of_the_National_Roads_of_South_Africa_with_labels.svg1.png",
-              "alt": "South Africa Signs"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -770,61 +515,6 @@ export const SouthAfricaClue = {
               "url": "https://www.plonkit.net/images/south-africa/ZA-map24.png",
               "link": "https://www.plonkit.net/images/south-africa/ZA-map24.png",
               "alt": "South Africa Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Telephone numbers** are 10 digits long. The first three digits of landline numbers are the area code. The first digit is always a zero; the second and third digits give you the area. The area codes are geographically grouped, so even learning just the first digit is useful.",
-            "NOTE: Mobile phone numbers start with 06–08. These numbers are not specific to an area.",
-            "_You can click on the image to enlarge it._",
-            "_Image provided by dbldk._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/ZA_Phone_Code_Map.png",
-              "link": "https://www.plonkit.net/images/south-africa/ZA_Phone_Code_Map.png",
-              "alt": "South Africa Regions"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Poles with 3 bars forming the letter **‘A’**, with the bottom insulators being attached at the edges of a horizontal bar, can be found almost exclusively in Western Cape, and rarely in bordering provinces."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/WC_A_shape_pole_tops.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=22.73829921101389&heading=332.5033709376211&map_action=pano&pano=mY8M7wVWWThD2uA690qV9A&pitch=15.910918567816381&viewpoint=-33.637241%252C18.774357#extra%255BloadMode%255D=latLng",
-              "alt": "South Africa Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "A similar poletop can be found in Eastern Cape, however the A-shape is noticeably wider and the bottom insulators are attached directly to the ‘A’ rather than a horizontal bar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/EC_Pole_hint.png",
-              "link": "https://maps.app.goo.gl/wj6SYoDE6XeRPPUx5",
-              "alt": "South Africa Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "**Trident pole tops** are almost unique to KwaZulu-Natal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Kwasulu_Natal_Pole_TOp.png",
-              "link": "https://maps.app.goo.gl/PWvuMSk6zdEQ5nZC8",
-              "alt": "South Africa Poles"
             }
           ]
         },
@@ -895,19 +585,6 @@ export const SouthAfricaClue = {
           ]
         },
         {
-          "title": "You can find this grainy, almost Texas-like...",
-          "text": [
-            "You can find this **grainy**, almost Texas-like pavement with a hint of **pink **in Limpopo."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Limpopo_Pavement_Hint.png",
-              "link": "https://maps.app.goo.gl/BK8dZY2oDg5eKJeQ9",
-              "alt": "South Africa You can find this grainy, almost Texas-like..."
-            }
-          ]
-        },
-        {
           "title": "Poles",
           "text": [
             "Big **bird nests** on top of poles are commonly seen in the northern part of the Northern Cape Province."
@@ -917,74 +594,6 @@ export const SouthAfricaClue = {
               "url": "https://www.plonkit.net/images/south-africa/za_birdsnest.png",
               "link": "https://maps.app.goo.gl/8X1wdjUvpif6zAmZA",
               "alt": "South Africa Poles"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Power plants** are often seen in between the town of Secunda and eMalahleni in Mpumalanga."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/za_powerplants.png",
-              "link": "https://maps.app.goo.gl/GCqofiNoqSbKUyTQ9",
-              "alt": "South Africa Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The northeast of the country can look very dry and somewhat barren, with a lot of orange or red soil. You will often see hills or mountains covered in shrubs.",
-            "NOTE: Depending on the season, the coverage can change drastically from [dry](https://maps.app.goo.gl/XsQme5RXp7jB2U1p6) to [very green](https://maps.app.goo.gl/hLARbuFeBKWx6hot7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/za_nw.png",
-              "link": "https://www.google.com/maps/@-24.2702596,29.5504879,3a,75y,69.54h,88.17t/data=!3m6!1e1!3m4!1sz-Kl67SRWKngSrNBRuV0pA!2e0!7i16384!8i8192",
-              "alt": "South Africa Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Unique **rocky**, treeless mountains can be seen in Western Cape, with most of the mountains having tall, steep sides and sharp peaks.",
-            "NOTE: Similar mountains can be seen in and around Lesotho."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/za_wc_mountains.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=64.97781551109878&heading=289.0628013397157&map_action=pano&pano=s9KVHtMkU_ta5Jg-znPVyg&pitch=8.033117502464137&viewpoint=-33.699448%252C19.209159#extra%255BloadMode%255D=latLng",
-              "alt": "South Africa Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Vineyards are almost exclusively found in** Western Cape**, mostly in valleys near the coast. You can also commonly find them near Upington, in Northern Cape."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/ZA_vineyards_hint.png",
-              "link": "https://goo.gl/maps/PKwtG8AJA5orUS7G8",
-              "alt": "South Africa Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "A dry landscape with red soil is typically found in the Northern Cape.",
-            "NOTE: This [map](https://upload.wikimedia.org/wikipedia/commons/c/c8/Koppen-Geiger_Map_ZAF_present.svg) is a useful guide in guessing based on the climate of South Africa."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Indicator-template-ZA6.png",
-              "link": "https://goo.gl/maps/67Rk6J45AvyRhTjd6",
-              "alt": "South Africa Landscape"
             }
           ]
         },
@@ -1016,20 +625,6 @@ export const SouthAfricaClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "**Tree plantations** that consist mostly of pine** **are common to the west of Eswatini, and some to the south in KwaZulu-Natal.",
-            "NOTE: Pine tree plantations are typically seen within the country of Eswatini itself."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Indicator-template-ZA3.png",
-              "link": "https://goo.gl/maps/CW7M148hyUdpk2Rf6",
-              "alt": "South Africa Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "**Grassy rolling hills** are generally located in the coastal area of Western Cape between Cape Town and George, and just north of Cape Town. Tall ridges are usually visible to the north or east."
@@ -1052,35 +647,6 @@ export const SouthAfricaClue = {
               "url": "https://www.plonkit.net/images/south-africa/Indicator-template-ZA8.png",
               "link": "https://goo.gl/maps/n3H8Qu5es73GTxzA7",
               "alt": "South Africa Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A **camouflage **car with black side mirrors and roof racks can be seen in Kruger National Park, on the Mozambique border.",
-            "NOTE: The Park now also has generation 4 coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Kruger_car.png",
-              "link": "https://goo.gl/maps/RJSCwLwTGv5Y6C5K8",
-              "alt": "South Africa Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The landscape around Kruger National Park is generally flat, with a **savannah **climate and dry vegetation. You will not see any agriculture and the vegetation is mostly made up of grasses, with small trees dotting the landscape. Red soil can also be seen below the grass.",
-            "In addition, this distinctive [directional waystone](https://goo.gl/maps/C4VRQ6v1PyAStJUz7) is commonly found at many junctions.",
-            "NOTE: Within the coverage of the park, you will mostly find unpaved gravel roads or small and paved roads without road lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Kruger_NP_Hint.png",
-              "link": "https://goo.gl/maps/jEszFugxz6w3Qmwq5",
-              "alt": "South Africa Road Lines"
             }
           ]
         }
@@ -1117,19 +683,6 @@ export const SouthAfricaClue = {
           ]
         },
         {
-          "title": "While this lamp and arm can be...",
-          "text": [
-            "While this lamp and arm can be found uncommonly across the country, Durban uniquely has this** bump** on the top. You may, however, still see the standard lamp and arm."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Durban_lamps.png",
-              "link": "https://goo.gl/maps/RYcGypBva4v5GijT6",
-              "alt": "South Africa While this lamp and arm can be..."
-            }
-          ]
-        },
-        {
           "title": "Poles",
           "text": [
             "Poles or any public infrastructure will often be plastered with **dodgy adverts** for abortion services or penis enlargement pills in and around Gauteng, in particular in Johannesburg and Emalahleni."
@@ -1139,33 +692,6 @@ export const SouthAfricaClue = {
               "url": "https://www.plonkit.net/images/south-africa/poleads2.png",
               "link": "https://goo.gl/maps/XotFHYA8aVCsVsaYA",
               "alt": "South Africa Poles"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The section of the **R360 north of Bokspits**, next to the Botswana border, has asphalt with a recognizable reddish tint. The landscape is arid and features dry greyish trees, shrubs and long golden grass. The road runs in a general north to south direction.",
-            "NOTE: Asphalt with a reddish tint can be found on other roads and the southern part of the R360. However, the landscape north of Bokspits looks predominantly like this."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/R360_northern2.png",
-              "link": "https://goo.gl/maps/bxSKj32eNuSWk8kz6",
-              "alt": "South Africa Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "The distinct **Table Mountain**, located west of Cape Town, can be recognized by its prominent three-kilometre plateau. It is flanked by Devil’s Peak, which is more pyramidal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/south-africa/Cape_Town_Table_Mountain.png",
-              "link": "https://goo.gl/maps/rQt5tssC6Q5oPSbDA",
-              "alt": "South Africa Plates"
             }
           ]
         },
@@ -1181,19 +707,6 @@ export const SouthAfricaClue = {
               "alt": "South Africa Landscape"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "In addition, here are some resources to help you practise South Africa:",
-            "- **Plonk It South Africa** ([map link](https://www.geoguessr.com/maps/6929025bb05048c95545baa6)) - This map contains locations for practising each meta in the Plonk It South Africa guide from step 2 to 3."
-          ],
-          "images": []
         }
       ]
     }

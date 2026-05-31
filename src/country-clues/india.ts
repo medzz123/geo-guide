@@ -80,7 +80,6 @@ export const IndiaClue = {
     "Language",
     "Landscape",
     "Architecture",
-    "Coverage",
     "Regions",
     "Other"
   ],
@@ -88,20 +87,6 @@ export const IndiaClue = {
     {
       "title": "Google Car",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "The vast majority of the coverage in India was taken with what’s commonly referred to as “shitcam”, which is a **low-quality camera** that can typically be recognised by the brownish colours and often, but not always, by a large circular blur covering the Street View car.",
-            "NOTE: Within Asia, Nepal is also entirely “shitcam”, while it’s also common in Cambodia and can rarely be seen in Sri Lanka and Bangladesh."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_shitcam.png",
-              "link": "https://goo.gl/maps/72iSAvoELCGHYoC36",
-              "alt": "India Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -249,19 +234,6 @@ export const IndiaClue = {
         {
           "title": "Signs",
           "text": [
-            "While most of India is covered in shitcam, there is also a significant amount of **Generation 3 trekkers** throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_gen3.png",
-              "link": "https://www.google.com/maps/@28.3597213,75.5836665,3a,90y,33.87h,71.53t/data=!3m6!1e1!3m4!1svwLubjQkMOT3owdrmGl1VQ!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "India Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "**English** is also an official language in India and can be seen on a lot of signage."
           ],
           "images": [
@@ -299,25 +271,25 @@ export const IndiaClue = {
               "alt": "India Signs"
             }
           ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "[Japanese cedar trees](https://en.wikipedia.org/wiki/Cryptomeria) can typically be recognised by their significant height combined with their narrow, fluffy-looking crowns. They are most commonly found near the border of Sikkim and West Bengal, as well as in Meghalaya."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/india/in_japaneseredcedar.png",
+              "link": "https://goo.gl/maps/NVdXAhrowoGqTKnS9",
+              "alt": "India Signs"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Language",
       "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "A wide variety of scripts can be found in India. Most of them can be used to narrow down the region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_scripts.png",
-              "link": "https://www.plonkit.net/images/india/in_scripts.png",
-              "alt": "India Language"
-            }
-          ]
-        },
         {
           "title": "Language",
           "text": [
@@ -353,6 +325,19 @@ export const IndiaClue = {
             {
               "url": "https://www.plonkit.net/images/india/in_languagepunjabi.png",
               "link": "https://www.plonkit.net/images/india/in_languagepunjabi.png",
+              "alt": "India Language"
+            }
+          ]
+        },
+        {
+          "title": "Language",
+          "text": [
+            "**Gujarati**, found in Gujarat, has a script with several similarities to the Hindi script, however it notably lacks the horizontal line at the top of every word."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/india/in_languagegujarati.png",
+              "link": "https://www.plonkit.net/images/india/in_languagegujarati.png",
               "alt": "India Language"
             }
           ]
@@ -476,24 +461,6 @@ export const IndiaClue = {
       ]
     },
     {
-      "title": "Coverage",
-      "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "All the Generation 4 coverage in India was taken using the smallcam, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/Smallcam_India.png",
-              "link": "https://maps.app.goo.gl/Eg7twaY1pJcxKuhD9",
-              "alt": "India Coverage"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Regions",
       "tips": [
         {
@@ -554,19 +521,6 @@ export const IndiaClue = {
       "title": "Other",
       "tips": [
         {
-          "title": "India drives on the left side of...",
-          "text": [
-            "India drives on the **left side** of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_leftdrive.png",
-              "link": "https://goo.gl/maps/Hv56NAKUdpxjJkpV8",
-              "alt": "India India drives on the left side of..."
-            }
-          ]
-        },
-        {
           "title": "In Bihar, and less commonly Jharkhand, you...",
           "text": [
             "In Bihar, and less commonly Jharkhand, you may find trees with **four red and white stripes** painted near the bottom."
@@ -604,6 +558,19 @@ export const IndiaClue = {
               "alt": "India Goa and Kerala are two of the..."
             }
           ]
+        },
+        {
+          "title": "Khasi pineshttps://en.wikipedia.org/wiki/Pinuskesiya are mainly found in Meghalaya...",
+          "text": [
+            "[Khasi pines](https://en.wikipedia.org/wiki/Pinus_kesiya) are mainly found in Meghalaya and Manipur. While the needles appear similar to those of chir pines, the overall crown formed by its branches will appear more jagged and disorganised."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/india/in_khasipine.png",
+              "link": "https://goo.gl/maps/nBGCK7qn9pcqhpHR8",
+              "alt": "India Khasi pineshttps://en.wikipedia.org/wiki/Pinuskesiya are mainly found in Meghalaya..."
+            }
+          ]
         }
       ]
     }
@@ -621,185 +588,12 @@ export const IndiaClue = {
               "alt": "India overview"
             }
           ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The vast majority of the coverage in India was taken with what’s commonly referred to as “shitcam”, which is a **low-quality camera** that can typically be recognised by the brownish colours and often, but not always, by a large circular blur covering the Street View car.",
-            "NOTE: Within Asia, Nepal is also entirely “shitcam”, while it’s also common in Cambodia and can rarely be seen in Sri Lanka and Bangladesh."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_shitcam.png",
-              "link": "https://goo.gl/maps/72iSAvoELCGHYoC36",
-              "alt": "India Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "All the Generation 4 coverage in India was taken using the smallcam, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/Smallcam_India.png",
-              "link": "https://maps.app.goo.gl/Eg7twaY1pJcxKuhD9",
-              "alt": "India Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "While most of India is covered in shitcam, there is also a significant amount of **Generation 3 trekkers** throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_gen3.png",
-              "link": "https://www.google.com/maps/@28.3597213,75.5836665,3a,90y,33.87h,71.53t/data=!3m6!1e1!3m4!1svwLubjQkMOT3owdrmGl1VQ!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "India Signs"
-            }
-          ]
-        },
-        {
-          "title": "India drives on the left side of...",
-          "text": [
-            "India drives on the **left side** of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_leftdrive.png",
-              "link": "https://goo.gl/maps/Hv56NAKUdpxjJkpV8",
-              "alt": "India India drives on the left side of..."
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "A wide variety of scripts can be found in India. Most of them can be used to narrow down the region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_scripts.png",
-              "link": "https://www.plonkit.net/images/india/in_scripts.png",
-              "alt": "India Language"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**English** is also an official language in India and can be seen on a lot of signage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_english.png",
-              "link": "https://goo.gl/maps/vvte9WFbaWkHZdRt9",
-              "alt": "India Signs"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Indian licence plates are typically fairly long, with the most common design being white. Commercial vehicles typically use yellow plates, while electric vehicles use green."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_licenceplates.png",
-              "link": "https://www.plonkit.net/images/india/in_licenceplates.png",
-              "alt": "India Plates"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "India typically has **black and white striped signposts**.",
-            "NOTE: Bangladesh, Nepal and Sri Lanka also have black and white signposts."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/ingen4_blackandwhitesignposts.png",
-              "link": "https://maps.app.goo.gl/QNKgV1VpwQCNX9st7",
-              "alt": "India Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The most common Indian utility pole is a concrete square pole with a trident pole top.",
-            "Beware that many regions have their own distinct poles and poletops.",
-            "NOTE: Indian poles will almost always be made of concrete or metal. Wooden poles are extremely uncommon."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_pole.png",
-              "link": "https://goo.gl/maps/75qKNLyDDm1G8fTx6",
-              "alt": "India Poles"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and state-specific clues",
       "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "**Hindi** is the most common language in India and can be found in many central and northern regions. It uses the [Devanagari script](https://en.wikipedia.org/wiki/Devanagari), which can be recognised by the line going through the top of each word and the straight vertical lines found in the majority of all letters."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_languagehindi.png",
-              "link": "https://www.plonkit.net/images/india/in_languagehindi.png",
-              "alt": "India Language"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Marathi**, found in Maharashtra, also uses the Devanagari script, however it sometimes uses the letter **ळ** which is not found in Hindi."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_languagemarathi.png",
-              "link": "https://www.plonkit.net/images/india/in_languagemarathi.png",
-              "alt": "India Language"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Punjabi** can be found in Punjab in northwestern India. While the script looks somewhat similar to Hindi, it can generally be differentiated by the softer shape of the letters and the horizontal bar being broken over certain letters. It also has some distinctly different features, such as the letters **ਨ**, **ਲ** and** ਅ **as well as a [diacritic](https://en.wiktionary.org/wiki/%E0%A9%81) in the shape of a soft curve beneath a letter."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_languagepunjabi.png",
-              "link": "https://www.plonkit.net/images/india/in_languagepunjabi.png",
-              "alt": "India Language"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Gujarati**, found in Gujarat, has a script with several similarities to the Hindi script, however it notably lacks the horizontal line at the top of every word."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_languagegujarati.png",
-              "link": "https://www.plonkit.net/images/india/in_languagegujarati.png",
-              "alt": "India Language"
-            }
-          ]
-        },
         {
           "title": "Language",
           "text": [
@@ -929,61 +723,6 @@ export const IndiaClue = {
               "url": "https://www.plonkit.net/images/india/in_languageenglish.png",
               "link": "https://www.plonkit.net/images/india/in_languageenglish.png",
               "alt": "India Language"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Yellow tuk tuks** with **black roofs** are common in the southern Indian states of Telangana, Andhra Pradesh, and Tamil Nadu.",
-            "NOTE: They can also rarely be found [elsewhere](https://www.google.com/maps/@26.0016426,92.846562,3a,36.4y,218.5h,82.82t/data=!3m6!1e1!3m4!1sNm7a6dUzWhFoZT4TDVehnQ!2e0!7i13312!8i6656?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/ingen4_southerntuktuk.png",
-              "link": "https://maps.app.goo.gl/2Gw6HMXW9gMK7tva9",
-              "alt": "India Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "**Concrete holey poles** are unique to Gujarat and the Union territory of Daman and Diu, and Dadra and Nagar Haveli.",
-            "Gujarat uses a variety of poletops, some of which can be used to identify other states. Beware that holey poles generally take precedence over poletop metas.",
-            "NOTE: They are rarely found in other states especially Maharashtra, Madhya Pradesh, and Chhattisgarh."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_gujaratholeypole.png",
-              "link": "https://goo.gl/maps/ZJzrw5eN3QUoRXZT9",
-              "alt": "India Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Poles divided in** two sections**, in a similar fashion to [Brazilian poles](https://www.google.com/maps/@-24.9571111,-53.4509436,3a,51.7y,197.35h,89.21t/data=!3m6!1e1!3m4!1s5lhJHp3bn7bMpsWZg81SCA!2e0!7i16384!8i8192?entry=ttu), are common in Andhra Pradesh and Telangana."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/ingen4_andhratelanganapole.png",
-              "link": "https://maps.app.goo.gl/cqbiMWmv2anycYGM7",
-              "alt": "India Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Metal poles with a **mesh pattern** are commonly found in Sikkim."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_sikkimmeshpole.png",
-              "link": "https://goo.gl/maps/6waj7DaQLQ6ujQ1U6",
-              "alt": "India Poles"
             }
           ]
         },
@@ -1237,19 +976,6 @@ export const IndiaClue = {
           ]
         },
         {
-          "title": "In Bihar, and less commonly Jharkhand, you...",
-          "text": [
-            "In Bihar, and less commonly Jharkhand, you may find trees with **four red and white stripes** painted near the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_bihartreepaint.png",
-              "link": "https://maps.app.goo.gl/JrMsgretZCbjqkSc9",
-              "alt": "India In Bihar, and less commonly Jharkhand, you..."
-            }
-          ]
-        },
-        {
           "title": "Poles",
           "text": [
             "Small **yellow pole markings** are commonly found in Kerala.",
@@ -1260,72 +986,6 @@ export const IndiaClue = {
               "url": "https://www.plonkit.net/images/india/in_keralapolesticker.png",
               "link": "https://goo.gl/maps/ESQjNYrS6gc2RHCQ7",
               "alt": "India Poles"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Rounded roof tiles** are common in central India. They often appear disorganised and are kept in rows/columns that are not completely straight."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_centralroofs.png",
-              "link": "https://goo.gl/maps/j7fsc638mKAdftuU6",
-              "alt": "India Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Roofs in southern India are characterised by more organised tiles that are bright orange and flat with a ridge in the middle. It is particularly common in Tamil Nadu.",
-            "NOTE: Similarly shaped tiles with a darker brown colour are common further north."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_southroofs.png",
-              "link": "https://goo.gl/maps/2MUsjRW7wXiJFYCE8",
-              "alt": "India Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Flat roof tiles, similar to the ones found in the south, with a small **diamond shaped protrusion** in the middle, are commonly found in and around West Bengal."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_westbengalroof.png",
-              "link": "https://maps.app.goo.gl/Lqyc1ih2LUL7cQA9A",
-              "alt": "India Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Large [hip roofs](https://en.wikipedia.org/wiki/Hip_roof) made of corrugated sheet metal are found in West Bengal and adjacent areas in Bihar and Odisha."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_westbengalmetalroof.png",
-              "link": "https://maps.app.goo.gl/ZJrm8H5Lwj2eLCW39",
-              "alt": "India Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Metal roofs, with a small triangle near the top, are common in Northeast India."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_northeasternroofs.png",
-              "link": "https://goo.gl/maps/MdAmzPB3CNw8xFyj9",
-              "alt": "India Architecture"
             }
           ]
         },
@@ -1345,110 +1005,6 @@ export const IndiaClue = {
         {
           "title": "Landscape",
           "text": [
-            "Houses or huts with **thatched roofs** are mainly found along the east coast and northern plains. Large [hay mounds](https://goo.gl/maps/kzVojHKUKbsSn9hN7) are also generally more common in this region. Note that thatched roofs from Uttar Pradesh to Odisha tend to be made of [fine pieces of hay](https://goo.gl/maps/kzVojHKUKbsSn9hN7) whereas thatched roofs from Odisha to Tamil Nadu tend to be made of dried [palm fans](https://goo.gl/maps/JQrA1smY5vWAYjee9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_thatchedhut.png",
-              "link": "https://goo.gl/maps/kzVojHKUKbsSn9hN7",
-              "alt": "India Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Gurdwarashttps://en.wikipedia.org/wiki/Gurdwara, which can typically be recognised by...",
-          "text": [
-            "[Gurdwaras](https://en.wikipedia.org/wiki/Gurdwara), which can typically be recognised by their white domes and ornate walls, are most common in Punjab. You can also sometimes recognise them by the [Sikh Khanda symbol](https://maps.app.goo.gl/aKK5UzU4N2Qks3kT9), which represents the religion."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_sikhism.png",
-              "link": "https://goo.gl/maps/yDbDxYYDjk6CfFPm7",
-              "alt": "India Gurdwarashttps://en.wikipedia.org/wiki/Gurdwara, which can typically be recognised by..."
-            }
-          ]
-        },
-        {
-          "title": "Goa and Kerala are two of the...",
-          "text": [
-            "Goa and Kerala are two of the most developed states in India and often have very **wealthy and modern homes**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_keralagoawealthyhouses.png",
-              "link": "https://maps.app.goo.gl/QeRBuUG2T8dULUNt6",
-              "alt": "India Goa and Kerala are two of the..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "[Chir pines](https://en.wikipedia.org/wiki/Pinus_roxburghii) are more or less exclusive to Uttarakhand, Himachal Pradesh, Jammu and Kashmir as well as in westernmost Arunachal Pradesh. These pines can be identified from their generally smooth-looking conical or spherical crowns with very long needles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_chirpine2.png",
-              "link": "https://goo.gl/maps/GRc5GtfY1ZaqR1Kw8",
-              "alt": "India Regions"
-            }
-          ]
-        },
-        {
-          "title": "Khasi pineshttps://en.wikipedia.org/wiki/Pinuskesiya are mainly found in Meghalaya...",
-          "text": [
-            "[Khasi pines](https://en.wikipedia.org/wiki/Pinus_kesiya) are mainly found in Meghalaya and Manipur. While the needles appear similar to those of chir pines, the overall crown formed by its branches will appear more jagged and disorganised."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_khasipine.png",
-              "link": "https://goo.gl/maps/nBGCK7qn9pcqhpHR8",
-              "alt": "India Khasi pineshttps://en.wikipedia.org/wiki/Pinuskesiya are mainly found in Meghalaya..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "This type of cacti ([Euphorbia neriifolia](https://en.wikipedia.org/wiki/Euphorbia_neriifolia)) can commonly be seen as part of fences throughout Gujarat, western Maharashtra and the southern half of Rajasthan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_spurgetree.png",
-              "link": "https://goo.gl/maps/RfCHZQQfAk8vVfb39",
-              "alt": "India Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Palmyra Palms have a **round crown** with** fan shaped leaves** and a trunk with consistent thickness, giving them a lollipop shape. If you see them in large numbers you should be in the south or east of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_palmyrapalm.png",
-              "link": "https://goo.gl/maps/cdxVREcJnVZtcDeP9",
-              "alt": "India Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Areca Palms can be recognised by their **very thin trunk** and a small crown. They are mainly found near the southwestern coast, in the northeast and on the Andaman and Nicobar Islands."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_arecapalm.png",
-              "link": "https://goo.gl/maps/kAjsctSxQJdDkDNb8",
-              "alt": "India Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
             "**Date palms** are commonly found in drier areas of the central regions of India where there are fewer tropical and coastal palms."
           ],
           "images": [
@@ -1456,19 +1012,6 @@ export const IndiaClue = {
               "url": "https://www.plonkit.net/images/india/in_datepalms1.png",
               "link": "https://goo.gl/maps/MZgFMVzm3TKdERjWA",
               "alt": "India Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Oil palm **plantations are most commonly found in the panhandle of Andhra Pradesh, especially near the eastern border with Telangana."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_oilpalms.png",
-              "link": "https://goo.gl/maps/YAsWpWS7gLvnwRKy9",
-              "alt": "India Regions"
             }
           ]
         },
@@ -1604,20 +1147,6 @@ export const IndiaClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "The Western Ghats Mountains in the western part of Maharashtra can be recognised by their **distinct ridgelines**, often having plateaus rather than peaks. The northern part is drier while the southern part has more vegetation.",
-            "NOTE: During the [rainy season](https://www.google.com/maps/@19.5669899,73.7237394,3a,42y,336.38h,97.72t,359.97r/data=!3m6!1e1!3m4!1sfFjQwbXx-Aro9gPWDaPH5Q!2e0!7i13312!8i6656?entry=ttu) the mountains will turn green and appear quite different."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_tabletopmountains.png",
-              "link": "https://goo.gl/maps/JXviYMKMQKpNFXTJ9",
-              "alt": "India Plates"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The landscape in Mizoram mainly consists of lush, green valleys with fairly low vegetation with eroded hillsides having many small peaks scattered around.",
@@ -1628,20 +1157,6 @@ export const IndiaClue = {
               "url": "https://www.plonkit.net/images/india/in_mizorammountains.png",
               "link": "https://goo.gl/maps/1Po4qMmFtb3emfDT9",
               "alt": "India Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Large visible, **square shaped cars** can be found in the areas shown on the map.",
-            "NOTE: A somewhat [similar car](https://maps.app.goo.gl/TndhJZRCdFvoMJqq9) with a visible hood on the car can be found in Odisha."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_boxycar.png",
-              "link": "https://goo.gl/maps/YNT65hK64UXCQXbK8",
-              "alt": "India Google Car"
             }
           ]
         },
@@ -1686,20 +1201,6 @@ export const IndiaClue = {
               "url": "https://www.plonkit.net/images/india/in_andamanpolesticker.png",
               "link": "https://maps.app.goo.gl/WD279TxuJEnzi3Yu7",
               "alt": "India Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The City of Chandigarh is a **planned industrial city**. As a result, the city features a lot of unique infrastructure, such as [blue signs](https://goo.gl/maps/HAYdSmx9sEsf2kbZ8) mentioning sectors and industrial areas, round yellow markings on street lights, and [street signs](https://www.google.com/maps/@30.7499192,76.7780503,3a,16.1y,130.5h,95.4t/data=!3m6!1e1!3m4!1sPVs101xGkIhtQvDG4dwKtA!2e0!7i13312!8i6656?entry=ttu) which will typically feature [several numbers](https://www.google.com/maps/@30.7250865,76.7767257,3a,15y,43.08h,74.38t/data=!3m6!1e1!3m4!1shEU9Ii83j_XOg74Ltm5G1Q!2e0!7i13312!8i6656?entry=ttu) rather than street names.",
-            "NOTE: The nearby cities of [Sahibzada Ajit Singh Nagar](https://www.google.com/maps/@30.7021706,76.7282816,3a,15y,307.52h,103.68t/data=!3m6!1e1!3m4!1sq0D20ET6KxQ-CQ2ZRgdqog!2e0!7i13312!8i6656?entry=ttu) and [Panchkula](https://www.google.com/maps/@30.6802307,76.8513495,3a,15y,85.06h,89.37t/data=!3m6!1e1!3m4!1sOcviMvOxgJKg32g23wdDhg!2e0!7i13312!8i6656?entry=ttu) are also planned industrial cities, which feature somewhat similar signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_chandigarhcityplanning.png",
-              "link": "https://goo.gl/maps/HHMRtZe7manzMd6B9",
-              "alt": "India Signs"
             }
           ]
         },
@@ -1812,19 +1313,6 @@ export const IndiaClue = {
               "url": "https://www.plonkit.net/images/india/in_centralbiharhut.png",
               "link": "https://maps.app.goo.gl/DaeYCBzxppCXNq1u7",
               "alt": "India Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "[Japanese cedar trees](https://en.wikipedia.org/wiki/Cryptomeria) can typically be recognised by their significant height combined with their narrow, fluffy-looking crowns. They are most commonly found near the border of Sikkim and West Bengal, as well as in Meghalaya."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_japaneseredcedar.png",
-              "link": "https://goo.gl/maps/NVdXAhrowoGqTKnS9",
-              "alt": "India Signs"
             }
           ]
         },
@@ -1983,33 +1471,6 @@ export const IndiaClue = {
               "url": "https://www.plonkit.net/images/india/lakshadweep.png",
               "link": "https://maps.app.goo.gl/UBs11BpLPzHxgQ17A",
               "alt": "India Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The coverage on road NH326 (labelled 326) west of Brahmapur in Odisha has a thin **grey antenna**. The images are generally very high-quality for shitcam, with an especially high quality near the [Harabhangi Reservoir](https://goo.gl/maps/haWVM9BU2n4W5T2S7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_odishaantennaroad.png",
-              "link": "https://goo.gl/maps/cYoXFdt73GdSwQU39",
-              "alt": "India Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Parts of roads NH6 and NH206 southeast of Shillong can be recognised by the presence of khasi pines with distinct **yellow outer road lines** and fresh dark pavement.",
-            "NOTE: This is the only road in Meghalaya that uses yellow outer road lines, but these [lines](https://goo.gl/maps/WVhAoJzbH15AGQoG6) exist in other states as well."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/india/in_meghalayayellowroadlines.png",
-              "link": "https://goo.gl/maps/wWvfkoZXbeMUEeTLA",
-              "alt": "India Road Lines"
             }
           ]
         }

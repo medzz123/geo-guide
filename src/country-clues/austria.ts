@@ -73,7 +73,6 @@ export const AustriaClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Bollards",
     "Poles",
     "Signs",
@@ -121,43 +120,8 @@ export const AustriaClue = {
       ]
     },
     {
-      "title": "Plates",
-      "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Austria has long, **white** licence plates with the standard **blue EU strip** on the left.",
-            "NOTE: Italian plates have two blue strips, on both sides of the plate. Italian plates also tend to be noticeably shorter.",
-            "Swiss plates are long and white, but lack the blue strip."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Plates.png",
-              "link": "https://www.plonkit.net/images/austria/Plates.png",
-              "alt": "Austria Plates"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Bollards",
       "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "Austria uses white** **bollards, with a **black top**. The colour of the reflector is **(dark) red or dark grey**.",
-            "Many bollards also feature a small nipple-shaped black cap on the top. Bollards sometimes have a [snow pole on top](https://goo.gl/maps/kkcrsQwXxFkn52rq8).",
-            "NOTE: Slovenia and Montenegro use the same bollards, but with bright red reflectors instead of grey or dark red. Germany uses simple white bollards with grey reflectors."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Austria_or_Slovenia.png",
-              "link": "https://goo.gl/maps/tosg1wLeAYBHX6B96",
-              "alt": "Austria Bollards"
-            }
-          ]
-        },
         {
           "title": "Bollards",
           "text": [
@@ -176,19 +140,6 @@ export const AustriaClue = {
     {
       "title": "Poles",
       "tips": [
-        {
-          "title": "Poles",
-          "text": [
-            "Round **wooden** poles are the most common type of pole found in Austria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Wooden_poles.png",
-              "link": "https://goo.gl/maps/oDFKP2MnFYQX4uCn9",
-              "alt": "Austria Poles"
-            }
-          ]
-        },
         {
           "title": "Poles",
           "text": [
@@ -236,22 +187,6 @@ export const AustriaClue = {
         {
           "title": "Signs",
           "text": [
-            "Austria uses two colour schemes for **chevrons**:",
-            "- white on red",
-            "- red on yellow",
-            "NOTE: Germany mostly uses red on white chevrons, and rarely red on yellow."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Chevrons.png",
-              "link": "https://goo.gl/maps/pFCg2KPnDvejzAiM7",
-              "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "Direction signs have a white background, a **blue outline**, and a unique font."
           ],
           "images": [
@@ -288,6 +223,20 @@ export const AustriaClue = {
               "alt": "Austria Signs"
             }
           ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "**Pedestrian signs** have a unique design: instead of zebra stripes, they have two horizontal dashed lines.",
+            "NOTE: All neighbouring countries have pedestrian signs with zebra stripes."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/austria/Pedestrian_sign.png",
+              "link": "https://goo.gl/maps/KD8s2FCpf4FNeNmZ7",
+              "alt": "Austria Signs"
+            }
+          ]
         }
       ]
     },
@@ -313,19 +262,6 @@ export const AustriaClue = {
     {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "Most of Austria is **mountainous** and covered in forests. However, some areas in the east and northeast are much more flat and agricultural."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Landscape.png",
-              "link": "https://goo.gl/maps/x6nRVi6b7ykzJGZE9",
-              "alt": "Austria Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -543,190 +479,6 @@ export const AustriaClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "Austria has long, **white** licence plates with the standard **blue EU strip** on the left.",
-            "NOTE: Italian plates have two blue strips, on both sides of the plate. Italian plates also tend to be noticeably shorter.",
-            "Swiss plates are long and white, but lack the blue strip."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Plates.png",
-              "link": "https://www.plonkit.net/images/austria/Plates.png",
-              "alt": "Austria Plates"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Austria uses white** **bollards, with a **black top**. The colour of the reflector is **(dark) red or dark grey**.",
-            "Many bollards also feature a small nipple-shaped black cap on the top. Bollards sometimes have a [snow pole on top](https://goo.gl/maps/kkcrsQwXxFkn52rq8).",
-            "NOTE: Slovenia and Montenegro use the same bollards, but with bright red reflectors instead of grey or dark red. Germany uses simple white bollards with grey reflectors."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Austria_or_Slovenia.png",
-              "link": "https://goo.gl/maps/tosg1wLeAYBHX6B96",
-              "alt": "Austria Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Austria uses two colour schemes for **chevrons**:",
-            "- white on red",
-            "- red on yellow",
-            "NOTE: Germany mostly uses red on white chevrons, and rarely red on yellow."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Chevrons.png",
-              "link": "https://goo.gl/maps/pFCg2KPnDvejzAiM7",
-              "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Round **wooden** poles are the most common type of pole found in Austria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Wooden_poles.png",
-              "link": "https://goo.gl/maps/oDFKP2MnFYQX4uCn9",
-              "alt": "Austria Poles"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Most of Austria is **mountainous** and covered in forests. However, some areas in the east and northeast are much more flat and agricultural."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Landscape.png",
-              "link": "https://goo.gl/maps/x6nRVi6b7ykzJGZE9",
-              "alt": "Austria Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Alpine architecture is common in Austria and other countries in the Alps. Houses commonly have distinct **light **coloured walls, with **wooden **elements such as balconies or panelling around the top floor, with dark-coloured wooden roofs that extend outward. The roofs can sometimes be angled downward at the front and back. In addition, houses are also often multi-storeyed.",
-            "NOTE: Germany uses similar architecture in its southern states."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Alpine_architecture.png",
-              "link": "https://www.plonkit.net/images/austria/Alpine_architecture.png",
-              "alt": "Austria Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The official language of Austria is **German**. The German language uses the special letters Ä, Ö, Ü and ß.",
-            "NOTE: The other majority German-speaking countries with coverage are Switzerland and Germany. In addition, German is spoken in [East Belgium](https://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium) and the Italian province of [South Tyrol](https://en.wikipedia.org/wiki/South_Tyrol)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/at_language.png",
-              "link": "https://www.plonkit.net/images/austria/at_language.png",
-              "alt": "Austria Language"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "You can tell the three German-speaking countries apart by **camera meta **alone:",
-            "- Austria only has **Generation 3** and Generation 4 coverage (the only exceptions being Generation 2 on [one road](https://goo.gl/maps/LebHyLrqsjkqyoZMA) in Burgenland, and several [ski resort trekkers](https://goo.gl/maps/pdquUsUJoNwZghxRA)).",
-            "- Germany only has Generation 4 coverage. (the only exceptions being spills and trekkers)",
-            "- Switzerland car coverage is always [low-cam](https://goo.gl/maps/Ey7aUdEn6vc76BZc8). This can be recognized by the much bigger car blur."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Camera_meta.png",
-              "link": "https://goo.gl/maps/jcuCmP3ui7P9h65k9",
-              "alt": "Austria Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Austria also has generation 4 “smallcam” coverage, which is mounted lower than regular generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot.",
-            "NOTE: Most of Western Europe also has smallcam."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/europe_smallcam.png",
-              "link": "https://maps.app.goo.gl/rBAccQcXmU4TRHL9A",
-              "alt": "Austria Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Direction signs have a white background, a **blue outline**, and a unique font."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Direction_signs.png",
-              "link": "https://goo.gl/maps/m73UhLyaiyCod96m8",
-              "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Similar white signs with a** **blue outline and unique font can also be seen at the **entrance of towns**.",
-            "NOTE: Germany uses [yellow town entrance signs](https://goo.gl/maps/Ljn4XR15iQsetv7m7) with a black outline."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Town_entrance_sign.png",
-              "link": "https://goo.gl/maps/7kUuwDenHKPveDyeA",
-              "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Green** signs can commonly be seen, giving directions to different local facilities."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Green_signs.png",
-              "link": "https://goo.gl/maps/dMrfFMLy3E2qFgWy6",
-              "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Pedestrian signs** have a unique design: instead of zebra stripes, they have two horizontal dashed lines.",
-            "NOTE: All neighbouring countries have pedestrian signs with zebra stripes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Pedestrian_sign.png",
-              "link": "https://goo.gl/maps/KD8s2FCpf4FNeNmZ7",
-              "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Road signs in Austria are sometimes mounted by **four metal clips**, which is unique within central Europe. However, plenty of Austrian signs are attached in other ways."
@@ -736,20 +488,6 @@ export const AustriaClue = {
               "url": "https://www.plonkit.net/images/austria/cEvVaTa.png",
               "link": "https://maps.app.goo.gl/fbC5ZPmR3bg1RJ3v7",
               "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road markers are blue with white numbers....",
-          "text": [
-            "**Road markers** are blue with white numbers. They have one decimal separated by a comma, making them very recognizable.",
-            "NOTE: Slovenian road markers are white. And German markers have a thin white outline."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Road_marker.png",
-              "link": "https://goo.gl/maps/rYFqVXHgxeNhhRa26",
-              "alt": "Austria Road markers are blue with white numbers...."
             }
           ]
         },
@@ -806,147 +544,12 @@ export const AustriaClue = {
               "alt": "Austria Signs"
             }
           ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "These **yellow **natural gas poles, which resemble snow poles, are unique to Austria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Yellow_gas_poles.png",
-              "link": "https://goo.gl/maps/rJYmXFH4Fz948Xp56",
-              "alt": "Austria Bollards"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and state-specific clues",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "**Elevation** is very important when region-guessing Austria based on landscape alone.",
-            "The central and western parts of Austria are the most mountainous. The flatter areas are found in the east, mostly near the borders. Note that “flat” is a relative concept in Austria: even in the flat areas, rolling hills are still common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Elevation_map.png",
-              "link": "https://www.plonkit.net/images/austria/Elevation_map.png",
-              "alt": "Austria Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "A map of Austrian **A-roads **can be seen here, following the general trend of increasing in number from east to west.",
-            "_You can click the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Autobahn_darkmode.png",
-              "alt": "Austria Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Austrian **B-roads**, indicated by white text inside of a blue rectangle, also follow the general trend of increasing in number from east to west.",
-            "An important exception to this are roads 222-230, which are located inside the state of Vienna.",
-            "_You can click the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/B_roads.png",
-              "link": "https://www.plonkit.net/images/austria/B_roads.png",
-              "alt": "Austria Regions"
-            }
-          ]
-        },
-        {
-          "title": "Each Austrian state has its own unique...",
-          "text": [
-            "Each Austrian state has its own **unique flag**, shown in the image.",
-            "_You can click the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/State_flags.png",
-              "link": "https://www.plonkit.net/images/austria/State_flags.png",
-              "alt": "Austria Each Austrian state has its own unique..."
-            }
-          ]
-        },
-        {
-          "title": "Each Austrian state has its own unique...",
-          "text": [
-            "Each Austrian state has its own **unique **bus company, the logo of which can be seen on the side of buses.",
-            "_You can click the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Bus_companies.png",
-              "link": "https://www.plonkit.net/images/austria/Bus_companies.png",
-              "alt": "Austria Each Austrian state has its own unique..."
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Bus stops consisting of **neon-yellow poles** are found in Vorarlberg."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/at_vorarlbergbusstop.png",
-              "link": "https://maps.app.goo.gl/7hW8gUuYARzPgGSSA",
-              "alt": "Austria Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **yellow and white stripes** around poles and signposts are found in Vorarlberg."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/at_vorarlbergsticker.png",
-              "link": "https://maps.app.goo.gl/46k2n6YTjkFqQitR9",
-              "alt": "Austria Poles"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**White kilometre markers** can be found in Vorarlberg as well as on a road in [western Salzburg](https://maps.app.goo.gl/sDKDbQ2Czn1zkd59A)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/at_vorarlbergwhitekmmarker.png",
-              "link": "https://maps.app.goo.gl/C537ymsPULLzuFey7",
-              "alt": "Austria Regions"
-            }
-          ]
-        },
-        {
-          "title": "A large white painted square in the...",
-          "text": [
-            "A large **white** **painted square** in the middle of the road can be found next to kilometre markers in Salzburg."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/at_salzburgkmline.png",
-              "link": "https://maps.app.goo.gl/9YntyyukwPAwBYHH6",
-              "alt": "Austria A large white painted square in the..."
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -985,48 +588,6 @@ export const AustriaClue = {
               "alt": "Austria Signs"
             }
           ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Vineyards** are limited to the far eastern part of the country.",
-            "You can find a very precise map [here](https://vineyards.com/photos/maps/Austria%20Wine%20Map.png). Notably, there are a lot of vineyards close to Vienna and around Lake Neusiedl."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Wine_production.png",
-              "link": "https://goo.gl/maps/NQ6D2kAEztmTmDV26",
-              "alt": "Austria Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The **highest parts of the Alps** are found in the west and central parts of the country.",
-            "The tallest mountains are found in the panhandle of Austria, on the Italian border. These mountains can be recognized by their generally sharper peak and [grander appearance](https://www.google.com/maps/@47.1389055,10.2855153,3a,75y,66.33h,92.53t/data=!3m7!1e1!3m5!1sTDJ_tFCAlBIH4nUIgmkiMw!2e0!5s20200901T000000!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Highest_mountains.png",
-              "link": "https://goo.gl/maps/ym5eMj4JRKckM6Ws9",
-              "alt": "Austria Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This unique **tin foil antenna** can be found in western** **Austria, mostly near the Swiss border.",
-            "NOTE: This antenna is unique to Austria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/Conspiracy_Theorist_Driver.png",
-              "link": "https://goo.gl/maps/K7fb6xikV5EWCPSr9",
-              "alt": "Austria Google Car"
-            }
-          ]
         }
       ]
     },
@@ -1063,32 +624,6 @@ export const AustriaClue = {
               "url": "https://www.plonkit.net/images/austria/City_specific_street_signs.png",
               "link": "https://www.plonkit.net/images/austria/City_specific_street_signs.png",
               "alt": "Austria Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Poles in Vienna and [Innsbruck](https://goo.gl/maps/MWpqa8t1cVzunLrz9) feature these **red**-and-**white **pieces of tape that look like the Austrian flag. They can be differentiated by the fact that the tapes in [Vienna](https://goo.gl/maps/N4tkGXcAt1sbjxNy7) are thinner, and there are typically two on each pole."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/at_wieninnsbruck_strips.png",
-              "link": "https://goo.gl/maps/dVqJ2FdTGpoCauBg7",
-              "alt": "Austria Poles"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Lake Constance** (known in German as the Bodensee) is a large lake on the western border of Austria. It can be recognized by its vastness, which is not seen in other lakes within the mountainous part of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/austria/big_wateh.png",
-              "link": "https://goo.gl/maps/kpSctXNSdg4ognN18",
-              "alt": "Austria Landscape"
             }
           ]
         }

@@ -72,54 +72,20 @@ export const GuatemalaClue = {
     }
   ],
   "categories": [
-    "Google Car",
     "Plates",
     "Road Lines",
     "Bollards",
     "Poles",
     "Signs",
     "Landscape",
-    "Architecture",
     "Coverage",
     "Regions",
     "Other"
   ],
   "keyClues": [
     {
-      "title": "Google Car",
-      "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "This **grey** Street View car with a visible roof rack and side mirrors can be seen on all car coverage in Guatemala.",
-            "NOTE: The only other tropical country with a similar car is [Laos](https://maps.app.goo.gl/uMGhM4Th1yi9GsaT9). The car used in the [Dominican Republic](https://goo.gl/maps/Hjv6G6xFYJm1F38i6) may look similar, but has thick black stripes on the bars and the mirrors are not visible."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_googlecar.png",
-              "link": "https://goo.gl/maps/D48c6cCqKHfYhQuX9",
-              "alt": "Guatemala Google Car"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Plates",
       "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Guatemala has short licence plates, which when blurred will typically have either a blue tinge, or a hint of green on the left side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_licenceplate.png",
-              "link": "https://www.plonkit.net/images/guatemala/gt_licenceplate.png",
-              "alt": "Guatemala Plates"
-            }
-          ]
-        },
         {
           "title": "Plates",
           "text": [
@@ -152,19 +118,6 @@ export const GuatemalaClue = {
     {
       "title": "Road Lines",
       "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "Similarly to Mexico, Guatemalan roads generally have solid white outer lines with a **single yellow middle line**. Road lines in Guatemala are generally significantly **thinner** than in [Mexico](https://www.google.com/maps/@15.684137,-92.0520015,3a,67.2y,89.22h,61.96t/data=!3m6!1e1!3m4!1sAWSMGxU5u0okOM9sg-Ah0g!2e0!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_roadlines.png",
-              "link": "https://goo.gl/maps/a9fUCoZEc4nKUxV2A",
-              "alt": "Guatemala Road Lines"
-            }
-          ]
-        },
         {
           "title": "Road Lines",
           "text": [
@@ -240,19 +193,6 @@ export const GuatemalaClue = {
         {
           "title": "Landscape",
           "text": [
-            "Guatemala is a **tropical country**, and is mainly covered by rainforests."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_landscape.png",
-              "link": "https://goo.gl/maps/cwf8vawYn4echrZd6",
-              "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
             "This is a topographic map of Guatemala. Generally speaking, the middle of the country is mountainous, while the south and north are fairly flat."
           ],
           "images": [
@@ -288,22 +228,17 @@ export const GuatemalaClue = {
               "alt": "Guatemala Landscape"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Architecture",
-      "tips": [
+        },
         {
-          "title": "Architecture",
+          "title": "Landscape",
           "text": [
-            "Guatemalan architecture mainly consists of pastel painted stone houses, commonly with rusted sheet metal roofs. It is also somewhat common for buildings to be made out of exposed white brick."
+            "The northern regions of Guatemala are typically **fairly flat**. You will however usually see some hills or a slightly [rolling landscape](https://goo.gl/maps/gn49EV7aAQv94cq6A), rather than the complete flatness of the south."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/guatemala/gt_architecture.png",
-              "link": "https://goo.gl/maps/q8y2LD2zs2C8QruE7",
-              "alt": "Guatemala Architecture"
+              "url": "https://www.plonkit.net/images/guatemala/gt_semiflatnorth.png",
+              "link": "https://goo.gl/maps/RrMgtXnb9nF7heeFA",
+              "alt": "Guatemala Landscape"
             }
           ]
         }
@@ -445,169 +380,12 @@ export const GuatemalaClue = {
               "alt": "Guatemala overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Guatemala has short licence plates, which when blurred will typically have either a blue tinge, or a hint of green on the left side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_licenceplate.png",
-              "link": "https://www.plonkit.net/images/guatemala/gt_licenceplate.png",
-              "alt": "Guatemala Plates"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This **grey** Street View car with a visible roof rack and side mirrors can be seen on all car coverage in Guatemala.",
-            "NOTE: The only other tropical country with a similar car is [Laos](https://maps.app.goo.gl/uMGhM4Th1yi9GsaT9). The car used in the [Dominican Republic](https://goo.gl/maps/Hjv6G6xFYJm1F38i6) may look similar, but has thick black stripes on the bars and the mirrors are not visible."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_googlecar.png",
-              "link": "https://goo.gl/maps/D48c6cCqKHfYhQuX9",
-              "alt": "Guatemala Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Guatemala is a **tropical country**, and is mainly covered by rainforests."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_landscape.png",
-              "link": "https://goo.gl/maps/cwf8vawYn4echrZd6",
-              "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Guatemalan architecture mainly consists of pastel painted stone houses, commonly with rusted sheet metal roofs. It is also somewhat common for buildings to be made out of exposed white brick."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_architecture.png",
-              "link": "https://goo.gl/maps/q8y2LD2zs2C8QruE7",
-              "alt": "Guatemala Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Similarly to Mexico, Guatemalan roads generally have solid white outer lines with a **single yellow middle line**. Road lines in Guatemala are generally significantly **thinner** than in [Mexico](https://www.google.com/maps/@15.684137,-92.0520015,3a,67.2y,89.22h,61.96t/data=!3m6!1e1!3m4!1sAWSMGxU5u0okOM9sg-Ah0g!2e0!7i16384!8i8192?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_roadlines.png",
-              "link": "https://goo.gl/maps/a9fUCoZEc4nKUxV2A",
-              "alt": "Guatemala Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Like Mexico, Panama and Costa Rica, Guatemala uses the word “**ALTO**” on stop signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_alto.png",
-              "link": "https://www.google.com/maps/@14.6255005,-90.5568668,3a,15y,74.14h,81.77t/data=!3m6!1e1!3m4!1smSi97ivNOrtG5_baoEx9YQ!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Guatemala Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "In Guatemala you will very commonly see poles painted with either **pink**, **green** or a combination of the two."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_polepaint.png",
-              "link": "https://goo.gl/maps/z3C6xKzkRjpHVv6w6",
-              "alt": "Guatemala Poles"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Region-specific clues",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "Guatemala has a fairly **low amount of coverage**, particularly in the north. Here you can see which roads are covered."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_coverage.png",
-              "link": "https://www.plonkit.net/images/guatemala/gt_coverage.png",
-              "alt": "Guatemala Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "This is a topographic map of Guatemala. Generally speaking, the middle of the country is mountainous, while the south and north are fairly flat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_topography.png",
-              "link": "https://www.plonkit.net/images/guatemala/gt_topography.png",
-              "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The southern regions of Guatemala mainly consist of **completely flat** agricultural land. It is generally more built up than flat areas in the [north](https://www.google.com/maps/@16.6546485,-90.1707062,3a,90y,317.32h,87t/data=!3m6!1e1!3m4!1sk183E0zMqWnu74AJOcvOFQ!2e0!7i13312!8i6656?entry=ttu)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_flatsouth.png",
-              "link": "https://goo.gl/maps/smc84PABGgGm8RvJ9",
-              "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The central regions of Guatemala are generally **mountainous**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_mountainousmiddle.png",
-              "link": "https://goo.gl/maps/cvr61aTLJurqudZQ6",
-              "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The northern regions of Guatemala are typically **fairly flat**. You will however usually see some hills or a slightly [rolling landscape](https://goo.gl/maps/gn49EV7aAQv94cq6A), rather than the complete flatness of the south."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_semiflatnorth.png",
-              "link": "https://goo.gl/maps/RrMgtXnb9nF7heeFA",
-              "alt": "Guatemala Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -618,113 +396,6 @@ export const GuatemalaClue = {
               "url": "https://www.plonkit.net/images/guatemala/gt_oilpalm.png",
               "link": "https://goo.gl/maps/z8fdGA1XkCzwdssE9",
               "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "**Completely green utility poles** are primarily found in the southeast of the country, but also on a road in the further north in the east and on a small stretch of road around Melchor de Mencos, near the end of the coverage in the far northeast.",
-            "These poles also feature small [pole plates](https://goo.gl/maps/sw6JyNjNerwDncwx8), which can further narrow down the road. This will be further explained in the next tip."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_greenpoles.png",
-              "link": "https://goo.gl/maps/oiHsWxudChDeaGV39",
-              "alt": "Guatemala Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Most green utility poles contain a **white pole plate**, for which the **top two characters** will determine which road you are on. These roads and their corresponding characters are shown in this infographic."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_poleplate.png",
-              "link": "https://www.plonkit.net/images/guatemala/gt_poleplate.png",
-              "alt": "Guatemala Plates"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "In most of the Guatemala coverage, the [top right bar](/images/guatemala/top_right_bar.png?) will be **facing forward**. This means that you can see [this line](/images/guatemala/zoomedinbar_line_highlighted.png?) on the side facing forward."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_carbarforward.png",
-              "link": "https://goo.gl/maps/qU7Ek9tdd4qyUt159",
-              "alt": "Guatemala Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The opposite is true in southeastern Guatemala, where the line is facing backwards."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/backwards_bar_hint.png",
-              "link": "https://goo.gl/maps/86Gre6p6eGpLLFp46",
-              "alt": "Guatemala Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "In these regions, you can often see a **blue rope** on the bottom right bar.",
-            "NOTE: Sometimes it can be [hard](https://maps.app.goo.gl/at4smsdgVk8HbsGaA) or [almost impossible](https://maps.app.goo.gl/HPXi6nrvanWVH3kk8) to see, in which case it might look like a normal backward facing bar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_blueropecar.png",
-              "link": "https://goo.gl/maps/gCV9MkB5DKZWTPg28",
-              "alt": "Guatemala Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "These regions in the south and northeast also have the backwards facing bar. The difference here is that the bottom right bar is **missing** the **thin black cap**, which is present in the other regions."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_carbarbackwardnocap.png",
-              "link": "https://goo.gl/maps/aPUqgqM7bmhQnXvn6",
-              "alt": "Guatemala Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Phone numbers starting with a **2** are unique to Guatemala City."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_phonecode2.png",
-              "link": "https://maps.app.goo.gl/81WKdyb2VyTQfo7R8",
-              "alt": "Guatemala Regions"
-            }
-          ]
-        },
-        {
-          "title": "Similarly, phone numbers starting with a 6...",
-          "text": [
-            "Similarly, phone numbers starting with a **6** are unique to the Guatemala Department.",
-            "NOTE: Phone numbers starting with 7 are found anywhere except for Guatemala Department, and phones starting with 3, 4 or 5 can be found anywhere in the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_phonecode6.png",
-              "link": "https://goo.gl/maps/s24s15LqTenyD2jx6",
-              "alt": "Guatemala Similarly, phone numbers starting with a 6..."
             }
           ]
         }
@@ -743,32 +414,6 @@ export const GuatemalaClue = {
               "url": "https://www.plonkit.net/images/guatemala/gt_lagodeatitlan.png",
               "link": "https://goo.gl/maps/ZZpvQFbfqkoPfNg59",
               "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "A **small dirt road** in the middle of a **dense jungle** can be found north of Tikal, in the far north of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_northofflores.png",
-              "link": "https://goo.gl/maps/SYZ6QEEndt5nL9x68",
-              "alt": "Guatemala Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "These small **white bollards** with **two black stripes** can be found on road 1 northeast of Quetzaltenango."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_uniquebollardroad.png",
-              "link": "https://goo.gl/maps/4PMTuyHnYbNwXAoK7",
-              "alt": "Guatemala Bollards"
             }
           ]
         },
@@ -795,20 +440,6 @@ export const GuatemalaClue = {
               "url": "https://www.plonkit.net/images/guatemala/gt_ca9.png",
               "link": "https://goo.gl/maps/tcxK6zbKiZ1bweiG8",
               "alt": "Guatemala Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "A trekker featuring several **Mayan temples** can be found just west of the town of Tikal.",
-            "It is worth mentioning that while there are other Guatemalan trekkers featuring [Mayan ruins](https://goo.gl/maps/fTti23Fq4zrCGzUE6), this is by far the most prominent and contains the largest and most intact temple structures."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/guatemala/gt_tikal.png",
-              "link": "https://goo.gl/maps/msrYgLWStRDy2FXL7",
-              "alt": "Guatemala Coverage"
             }
           ]
         },

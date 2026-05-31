@@ -90,32 +90,6 @@ export const OmanClue = {
         {
           "title": "Google Car",
           "text": [
-            "The Omani Google car drivers covered a lot of small tracks in the middle of the Omani desert."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/Screenshot%2520(645).png",
-              "link": "https://maps.app.goo.gl/PbJGJawgobwYduaN8",
-              "alt": "Oman Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The coverage in Oman was taken with a white pickup truck. In most locations, the truck is fully blurred out, however you may sometimes see the antenna or the front of the car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/oman_blurred.png",
-              "link": "https://maps.app.goo.gl/EWGzrD16Ew1PasxS9",
-              "alt": "Oman Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
             "A **regular-looking antenna** that **faces upwards** is mainly found around and west of Muscat, as well as on highways in the northwest. A few other pockets include [Al Buraimi](https://maps.app.goo.gl/AAPLiRFwg7ZqPhS7A) and [Sohar](https://maps.app.goo.gl/nHSFUkLhoNNuKW6L8)."
           ],
           "images": [
@@ -138,25 +112,25 @@ export const OmanClue = {
               "alt": "Oman Google Car"
             }
           ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "Road 43, also south of Ubar, is unpaved and features** sunset coverage** along with a dust trail behind the car."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/oman/66.png",
+              "link": "https://maps.app.goo.gl/HrNoEUv5tZFfq3JL6",
+              "alt": "Oman Google Car"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Plates",
       "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Licence plates on private vehicles are generally yellow, while commercial vehicles have red plates."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/3.png",
-              "link": "https://www.plonkit.net/images/oman/3.png",
-              "alt": "Oman Plates"
-            }
-          ]
-        },
         {
           "title": "Plates",
           "text": [
@@ -280,20 +254,6 @@ export const OmanClue = {
         {
           "title": "Signs",
           "text": [
-            "The official language in Oman is **Arabic**.",
-            "NOTE: Due to high tourism, signs in Oman often have English writing alongside Arabic. The same also applies to the UAE."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/5.png",
-              "link": "https://www.plonkit.net/images/oman/5.png",
-              "alt": "Oman Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "**Black-and-yellow curbs** are common in Oman.",
             "NOTE: The UAE also commonly uses similar curbs."
           ],
@@ -332,6 +292,19 @@ export const OmanClue = {
               "alt": "Oman Signs"
             }
           ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Oman uses **black-and-yellow **chevrons that have an unusually large number of arrows."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/oman/13.png",
+              "link": "https://maps.app.goo.gl/7mMFSN9vxF6LxDnR8",
+              "alt": "Oman Signs"
+            }
+          ]
         }
       ]
     },
@@ -356,19 +329,6 @@ export const OmanClue = {
     {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "Most of Oman features a **desert landscape** with little vegetation. While the middle and southern half is mostly flat, the north coast features dry mountains similar to those found in the UAE. The southern coast also has mountains, though less dry."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/2.png",
-              "link": "https://maps.app.goo.gl/QsacAzjhyZ1tvvoV6",
-              "alt": "Oman Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -404,6 +364,19 @@ export const OmanClue = {
             {
               "url": "https://www.plonkit.net/images/oman/45.png",
               "link": "https://maps.app.goo.gl/diDSqi9NHkp1bLb28",
+              "alt": "Oman Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Sandy desert with light coloured green and yellow shrubs can be found in northeastern Oman, mainly south and west of Bidiyah."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/oman/17.png",
+              "link": "https://maps.app.goo.gl/afVocFToyoPKZ6b68",
               "alt": "Oman Landscape"
             }
           ]
@@ -563,280 +536,12 @@ export const OmanClue = {
               "alt": "Oman overview"
             }
           ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Most of Oman features a **desert landscape** with little vegetation. While the middle and southern half is mostly flat, the north coast features dry mountains similar to those found in the UAE. The southern coast also has mountains, though less dry."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/2.png",
-              "link": "https://maps.app.goo.gl/QsacAzjhyZ1tvvoV6",
-              "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The Omani Google car drivers covered a lot of small tracks in the middle of the Omani desert."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/Screenshot%2520(645).png",
-              "link": "https://maps.app.goo.gl/PbJGJawgobwYduaN8",
-              "alt": "Oman Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Licence plates on private vehicles are generally yellow, while commercial vehicles have red plates."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/3.png",
-              "link": "https://www.plonkit.net/images/oman/3.png",
-              "alt": "Oman Plates"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The coverage in Oman was taken with a white pickup truck. In most locations, the truck is fully blurred out, however you may sometimes see the antenna or the front of the car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/oman_blurred.png",
-              "link": "https://maps.app.goo.gl/EWGzrD16Ew1PasxS9",
-              "alt": "Oman Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The official language in Oman is **Arabic**.",
-            "NOTE: Due to high tourism, signs in Oman often have English writing alongside Arabic. The same also applies to the UAE."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/5.png",
-              "link": "https://www.plonkit.net/images/oman/5.png",
-              "alt": "Oman Signs"
-            }
-          ]
-        },
-        {
-          "title": "Roads in Oman use yellow outer and...",
-          "text": [
-            "Roads in Oman use **yellow outer** and **white middle lines.**",
-            "NOTE: This is also common in the UAE, Israel, Jordan, as well as occasionally found in Qatar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/6.png",
-              "link": "https://maps.app.goo.gl/D8WcCeZV4WDxpm8s8",
-              "alt": "Oman Roads in Oman use yellow outer and..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Black-and-yellow curbs** are common in Oman.",
-            "NOTE: The UAE also commonly uses similar curbs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/7.png",
-              "link": "https://maps.app.goo.gl/LX3vwzB1smFzpaLD6",
-              "alt": "Oman Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Buildings in Oman are typically made of** light-coloured stone**. The houses are **‘blocky’ **but still quite **ornate**, and they are usually surrounded by a matching fence, which often has an even more ornate gate.",
-            "NOTE: Buildings in the UAE are often very similar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/8.png",
-              "link": "https://maps.app.goo.gl/EAXcemN3tQxv4ZJb6",
-              "alt": "Oman Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Directional signs are** blue with white text** and are usually in **Arabic and English**.",
-            "NOTE: The UAE and Qatar use similar signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/9.png",
-              "link": "https://maps.app.goo.gl/eX6WDZ3P6mFCGERw5",
-              "alt": "Oman Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Many signposts in Oman have **black-and-white stripes**.",
-            "NOTE: Within the Middle East, striped signposts are only found in Oman and the UAE."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/10.png",
-              "link": "https://maps.app.goo.gl/yTZLdAuXBERbfqUJ9",
-              "alt": "Oman Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Oman typically uses wooden poles, which have pole tops consisting of three varying designs. The first two have 3 insulators, symmetrically attached to a horizontal metal bar. The design with the [metal triangle above the wooden pole](https://maps.app.goo.gl/iQkF9QogKvu641R2A) is unique to Oman. The third design has the [insulators attached to the side](https://maps.app.goo.gl/V2Ziykrp3nrm2k1b7). Poles in general are more common in Oman than in the UAE or Qatar."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/11.png",
-              "link": "https://maps.app.goo.gl/oGiMBDMdsjyYF3mz6",
-              "alt": "Oman Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Oman uses **black-and-yellow **chevrons that have an unusually large number of arrows."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/13.png",
-              "link": "https://maps.app.goo.gl/7mMFSN9vxF6LxDnR8",
-              "alt": "Oman Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "High voltage pylons painted with a red and white pattern are common in Oman.",
-            "NOTE: Within the Middle East, red and white painted pylons can also less commonly be found in [Qatar](https://maps.app.goo.gl/mgn1HPR1K2dP6zwp8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/12.png",
-              "link": "https://maps.app.goo.gl/F2VqiFzwgyEAUqUZ8",
-              "alt": "Oman Regions"
-            }
-          ]
-        },
-        {
-          "title": "The vast majority of garbage bins in...",
-          "text": [
-            "The vast majority of garbage bins in Oman are either black and made of plastic or metallic and grey, with a** three-leaf logo** and the text **‘be’ah’** below it.",
-            "NOTE: Garbage bins in [the UAE](https://maps.app.goo.gl/GaydqmWgcZEWEULK6) will occasionally have the text “bee’ah”, with two E’s. The bins are often more colourful too."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/14.png",
-              "link": "https://maps.app.goo.gl/8uMkASkjiUESC6EC6",
-              "alt": "Oman The vast majority of garbage bins in..."
-            }
-          ]
-        },
-        {
-          "title": "Oman uses white taxis, which have orange-coloured...",
-          "text": [
-            "Oman uses white taxis, which have orange-coloured panels on each side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/Snimek_obrazovky_670.png",
-              "link": "https://maps.app.goo.gl/FgLbXQ3pxRpBvzSP9",
-              "alt": "Oman Oman uses white taxis, which have orange-coloured..."
-            }
-          ]
         }
       ]
     },
     {
       "title": "Region-specific clues",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "Northern Oman features a **dry mountainous landscape** similar to eastern UAE. The south coast of Oman also rarely features some similar mountains."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/15.png",
-              "link": "https://maps.app.goo.gl/LzShg7UNPqEYrAeZA",
-              "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Close to the southern coast, especially around Salalah, you will find a **rolling hills landscape**. The area commonly features [rocky ground](https://maps.app.goo.gl/jScfBdQjFMYqeLA78), [bushes and small trees](https://maps.app.goo.gl/dHACRg4JwejDadmeA) as well as some fairly [green valleys](https://maps.app.goo.gl/tPNC9mp6zLwKW4d1A)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/16.png",
-              "link": "https://maps.app.goo.gl/9zXN8iVTbRgHNv3AA",
-              "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The mountains north of Nizwa have an amount of **green bushes** that are unusually large for the north. The mountains are very rocky and jagged, which differentiates them from the more [rolling mountains](https://maps.app.goo.gl/NpBXUgtm7496CeuE6) in the south."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/45.png",
-              "link": "https://maps.app.goo.gl/diDSqi9NHkp1bLb28",
-              "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Sandy desert with light coloured green and yellow shrubs can be found in northeastern Oman, mainly south and west of Bidiyah."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/17.png",
-              "link": "https://maps.app.goo.gl/afVocFToyoPKZ6b68",
-              "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "South of Bidiyah you can find a couple of dirt roads going through a slightly rolling landscape consisting of orange-pink sand and small yellow-ish shrubs. The roads mainly go between long and low sand dunes with a general south-south-west direction."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/18.png",
-              "link": "https://maps.app.goo.gl/iLFgAHpkpyoiaSmBA",
-              "alt": "Oman Road Lines"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -847,19 +552,6 @@ export const OmanClue = {
               "url": "https://www.plonkit.net/images/oman/21.png",
               "link": "https://maps.app.goo.gl/sJ547581EnT7b5aJA",
               "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Masirah Island features a dry and slightly hilly landscape, typically with somewhat grey soil and with [brown shrubs](https://maps.app.goo.gl/aKFc2E3KJdkTpbxm9) visible. Road 51, which circulates the island, usually only has a white centre road line, which can help in recognising it. The front camera on the island is [slightly smudged](https://maps.app.goo.gl/ANPz9Zyhb9M2dsdx7)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/22.png",
-              "link": "https://maps.app.goo.gl/rttPwmQK3eZJyXvC8",
-              "alt": "Oman Road Lines"
             }
           ]
         },
@@ -906,48 +598,6 @@ export const OmanClue = {
         {
           "title": "Regions",
           "text": [
-            "**Gas pipelines**, often paralleling the road, are most common around Fahud, in Ad Dhahirah Governorate. But they can also be found in many pockets in central-southern Oman."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/Oman%2520Pipes.png",
-              "link": "https://maps.app.goo.gl/KEDhYjtxqPibZTzJ8",
-              "alt": "Oman Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "You can use the colour of the bins in Oman to narrow down your location. The purple regions are mixed.",
-            "NOTE: Even the dark blue and red regions are not 100% a certain colour."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/25.png",
-              "link": "https://www.plonkit.net/images/oman/25.png",
-              "alt": "Oman Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Many bins have a set of numbers on them that can be used to always get the region.",
-            "The first pair of numbers give away the governorate, and the second pair further divide the governorates into smaller subdivisions.",
-            "NOTE: This map does not list every regional code."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/26.png",
-              "link": "https://www.plonkit.net/images/oman/26.png",
-              "alt": "Oman Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "Black bins with a black sticker on the front can be found in Al Buraimi, Ash Sharqiyah North, and Muscat Governorates."
           ],
           "images": [
@@ -955,19 +605,6 @@ export const OmanClue = {
               "url": "https://www.plonkit.net/images/oman/27.png",
               "link": "https://maps.app.goo.gl/UnHTERzHUNMn8hSVA",
               "alt": "Oman Regions"
-            }
-          ]
-        },
-        {
-          "title": "Grey bins with a black sticker on...",
-          "text": [
-            "Grey bins with a black sticker on the front are found in Ad Dhahirah Governorate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/28.png",
-              "link": "https://maps.app.goo.gl/B24PPPvPfoa9Dt63A",
-              "alt": "Oman Grey bins with a black sticker on..."
             }
           ]
         },
@@ -1061,32 +698,6 @@ export const OmanClue = {
               "url": "https://www.plonkit.net/images/oman/35.png",
               "link": "https://maps.app.goo.gl/zbe7o1FF79YbwxyRA",
               "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A **regular-looking antenna** that **faces upwards** is mainly found around and west of Muscat, as well as on highways in the northwest. A few other pockets include [Al Buraimi](https://maps.app.goo.gl/AAPLiRFwg7ZqPhS7A) and [Sohar](https://maps.app.goo.gl/nHSFUkLhoNNuKW6L8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/39.png",
-              "link": "https://maps.app.goo.gl/UEfLNug5qmotxRZa7",
-              "alt": "Oman Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A **forwards-facing antenna** is only found in and around Muscat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/40.png",
-              "link": "https://maps.app.goo.gl/6b5LtK2eb4Jv2GEi7",
-              "alt": "Oman Google Car"
             }
           ]
         }
@@ -1266,32 +877,6 @@ export const OmanClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "The southern section of Road 29 only has a **middle white line**, which along with the greyish and sandy desert landscape makes this road unique."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/51.png",
-              "link": "https://maps.app.goo.gl/bSrnMLB5yTuYkFaD8",
-              "alt": "Oman Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "This long stretch of Road 31 can be recognised by the light-coloured flat desert landscape along with the **wide shoulders** and the often faded road lines. The weather is usually somewhat cloudy."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/52.png",
-              "link": "https://maps.app.goo.gl/GixoLGrCBFWbfoq98",
-              "alt": "Oman Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The divided section of Road 31 is the only divided road going through a flat desert landscape."
@@ -1340,19 +925,6 @@ export const OmanClue = {
               "url": "https://www.plonkit.net/images/oman/57.png",
               "link": "https://maps.app.goo.gl/2dH4PYrjFWbbTXpKA",
               "alt": "Oman Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Road 37 travels in a generally northwest direction through a very generic, flat desert landscape. The angle is one of the best clues for this road. On the southern half, a [big power line](https://maps.app.goo.gl/UwJ6ZDLboH1MJNpf8) is visible to the northeast, while on the northern half, you can find distinct [sunset coverage](https://maps.app.goo.gl/2Y2gJq7uQW76wV25A)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/58.png",
-              "link": "https://maps.app.goo.gl/t37m4WKcagMdqeFR8",
-              "alt": "Oman Poles"
             }
           ]
         },
@@ -1409,19 +981,6 @@ export const OmanClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "Just south of Shalim, you’ll find a stretch of** overcast** coverage, along with a power line to the west of the road, but only north of the [plateau](https://maps.app.goo.gl/nCyXdi6WiQmWz4Hn9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/63.png",
-              "link": "https://maps.app.goo.gl/b9XfKn8WGKmUXsNZ9",
-              "alt": "Oman Plates"
-            }
-          ]
-        },
-        {
           "title": "Road Lines",
           "text": [
             "North of Shalim Road 42 turns into a **very wide unpaved road**, with the soil being quite light in colour. You’ll sometimes see [oil drills](https://maps.app.goo.gl/Vy5T1HBJsQSKUwsRA) in the distance along this stretch."
@@ -1435,33 +994,6 @@ export const OmanClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "The road southeast of Ubar has a general northwest bound angle, along with a power line to the left of the road. You will often see signs of life in the form of farms or buildings on this road.",
-            "NOTE: Don’t mix this up with the 37, which has a similar angle, but is [more desolate](https://maps.app.goo.gl/8uU7Jw947G7wktyd7) and can have [sunset coverage](https://maps.app.goo.gl/dD63F9RyzyfugxBw9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/65.png",
-              "link": "https://maps.app.goo.gl/GSnavuMUaRBY69qU6",
-              "alt": "Oman Poles"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Road 43, also south of Ubar, is unpaved and features** sunset coverage** along with a dust trail behind the car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/66.png",
-              "link": "https://maps.app.goo.gl/HrNoEUv5tZFfq3JL6",
-              "alt": "Oman Google Car"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "The unlabelled road northwest of Ubar can be recognised by the [small white markings](https://maps.app.goo.gl/bGQBP9kQoM3H3R4GA) between the dashes."
@@ -1471,19 +1003,6 @@ export const OmanClue = {
               "url": "https://www.plonkit.net/images/oman/69.png",
               "link": "https://maps.app.goo.gl/9sCTDk315PzqYnXu5",
               "alt": "Oman Regions"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Just west of ميتان, only labelled in Arabic on Google Maps, literally translating to methane, there is a stretch of road, which has a uniquely light-coloured pavement. To the north, you can see [sand dunes](https://maps.app.goo.gl/EHoRRV2ud19p4Jbz9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/oman/71.png",
-              "link": "https://maps.app.goo.gl/r3UoEvW9cE72v6Cs8",
-              "alt": "Oman Language"
             }
           ]
         },

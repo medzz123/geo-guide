@@ -45,11 +45,6 @@ export const getDescriptionPreview = (description: string, maxLength = 110) => {
 
 const formatImage = (image: CountryClueImage) => {
   const alt = image.alt || "Plonkit clue image";
-
-  if (image.link) {
-    return `[![${alt}](${image.url})](${image.link})`;
-  }
-
   return `![${alt}](${image.url})`;
 };
 
@@ -60,20 +55,91 @@ const formatCompactImage = (image: CountryClueImage) => {
   return `<img src="${image.url}" width="120" alt="${alt}" />`;
 };
 
-const formatCompactTips = (tips: CountryClueTip[]) => {
-  return tips
-    .map((tip) => {
-      const image = tip.images[0] ? `${formatCompactImage(tip.images[0])} ` : "";
-      const text = tip.text.join("<br><br>");
+const normalizeMarkdownText = (text: string) =>
+  text
+    .replace(/\]\(\/images\//g, "](https://www.plonkit.net/images/")
+    .replace(/\]\(\/(guide|maps|tools)\b/g, "](https://www.plonkit.net/$1")
+    .replace(/\*\*([^*]+?) \*\*/g, "**$1**")
+    .replace(/\*{4,}/g, "**")
+    .replace(/([^\s*])\*\* ([^*])/g, "$1 **$2")
+    .replace(/([a-z])\*\*([a-z])/gi, "$1 **$2")
+    .trim();
 
-      return `- ${image}${text}`;
-    })
-    .join("\n\n");
+const formatTipText = (text: string[]) =>
+  text.map(normalizeMarkdownText).filter(Boolean).join("\n\n");
+
+const isNoteLine = (line: string) => /^NOTE:/i.test(line.trim());
+
+const isCrossCountryNote = (note: string) => {
+  const lower = note.toLowerCase();
+
+  if (/other countries|other european countries|other asian countries|other african countries/.test(lower)) {
+    return true;
+  }
+
+  if (/also (?:be )?(?:found|seen|common|exist)|can also be found|also used in|also exist in/.test(lower)) {
+    if (/other provinces|within the country|in this country|the town of|the only other place in the country/.test(lower)) {
+      return false;
+    }
+
+    return true;
+  }
+
+  if (/similar to .* in (?:the )?(?:us|uk|europe|africa|asia|south america)/.test(lower)) {
+    return true;
+  }
+
+  return false;
+};
+
+const shortenCrossCountryNote = (note: string) => {
+  const patterns = [
+    /within [^,]+, (?:this|these|it)[^.]*/i,
+    /can also be found in[^.]*/i,
+    /also (?:be )?(?:found|seen|common|exist)[^.]*/i,
+    /other (?:\w+ )?countries[^.]*/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = note.match(pattern);
+    if (match) {
+      return normalizeMarkdownText(match[0]);
+    }
+  }
+
+  const firstSentence = note.split(/(?<=[.!?])\s+/)[0] ?? note;
+  return normalizeMarkdownText(firstSentence.length > 140 ? `${firstSentence.slice(0, 137)}...` : firstSentence);
+};
+
+const getCrossCountryNote = (text: string[]) => {
+  const notes = text
+    .filter(isNoteLine)
+    .map((line) => line.replace(/^NOTE:\s*/i, "").trim())
+    .filter(isCrossCountryNote);
+
+  if (!notes.length) {
+    return undefined;
+  }
+
+  return shortenCrossCountryNote(notes.join(" "));
+};
+
+const formatCompactTip = (tip: CountryClueTip, includeCrossCountryNote = false) => {
+  const image = tip.images[0] ? `${formatCompactImage(tip.images[0])}\n\n` : "";
+  const mainText = formatTipText(tip.text.filter((line) => !isNoteLine(line)));
+  const crossCountryNote = includeCrossCountryNote ? getCrossCountryNote(tip.text) : undefined;
+  const text = crossCountryNote ? `${mainText}\n\n_${crossCountryNote}_` : mainText;
+
+  return `${image}${text}`;
+};
+
+const formatCompactTips = (tips: CountryClueTip[], includeCrossCountryNote = false) => {
+  return tips.map((tip) => formatCompactTip(tip, includeCrossCountryNote)).join("\n\n---\n\n");
 };
 
 const formatTip = (tip: CountryClueTip, headingLevel = 3) => {
   const images = tip.images.map(formatImage).join("\n\n");
-  const text = tip.text.join("\n\n");
+  const text = formatTipText(tip.text);
   const body = [text, images].filter(Boolean).join("\n\n");
   const heading = "#".repeat(headingLevel);
 
@@ -97,7 +163,7 @@ const getCompactSectionGroupMarkdown = (sections: CountryClueSection[]) =>
     .map(
       (section) => `### ${section.title}
 
-${formatCompactTips(section.tips)}`,
+${formatCompactTips(section.tips, true)}`,
     )
     .join("\n\n");
 

@@ -73,7 +73,6 @@ export const ThailandClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
     "Bollards",
     "Poles",
@@ -132,25 +131,6 @@ export const ThailandClue = {
       ]
     },
     {
-      "title": "Plates",
-      "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Thailand uses large, **white** licence plates on **passenger vehicles**, and yellow ones on commercial vehicles.",
-            "NOTE: Within Southeast Asia, yellow commercial plates are only found in Thailand. Be careful, however, as Laos uses yellow licence plates for regular vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Thailand_License_Plate.png",
-              "link": "https://www.plonkit.net/images/thailand/Thailand_License_Plate.png",
-              "alt": "Thailand Plates"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Road Lines",
       "tips": [
         {
@@ -198,20 +178,6 @@ export const ThailandClue = {
     {
       "title": "Bollards",
       "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "The Thai bollard is square shaped with a pointed top, and has **black-and-white stripes**.",
-            "NOTE: In Southeast Asia, these bollards are also found in Cambodia, Laos and Indonesia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/2022-12-22_41.png",
-              "link": "https://goo.gl/maps/WNbKinfDUShWZziU8",
-              "alt": "Thailand Bollards"
-            }
-          ]
-        },
         {
           "title": "Bollards",
           "text": [
@@ -292,20 +258,6 @@ export const ThailandClue = {
         {
           "title": "Signs",
           "text": [
-            "Signposts in Thailand are square and bulky in shape, usually white, and often have the **bottom painted black**.",
-            "NOTE: In Southeast Asia, this design is unique to Thailand."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/round.png",
-              "link": "https://goo.gl/maps/dzS5FHMz1koNS9z46",
-              "alt": "Thailand Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "Directional signs on smaller roads are **white**, and are composed of two signs: one with an arrow at the bottom, and one with the information at the top. These can have place names. When they do not, you will see them as just the road number with a [Garuda](https://en.wikipedia.org/wiki/Emblem_of_Thailand). Moreover, highway signs are **green**, and frequently feature the place names in Latin script below the Thai name."
           ],
           "images": [
@@ -340,6 +292,20 @@ export const ThailandClue = {
             {
               "url": "https://www.plonkit.net/images/thailand/greensign.png",
               "link": "https://www.google.de/maps/@16.6874654,104.0909787,3a,31.5y,2.07h,84.05t/data=!3m6!1e1!3m4!1sILbeC_JPUdgreLQ2jSPoNw!2e0!7i16384!8i8192?shorturl=1",
+              "alt": "Thailand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Waystones and road signs on provincial roads will often provide a **two-letter abbreviation** of the province in Thai script. They will not appear on waystones or road signs for national roads.",
+            "You can use [this](https://super-duper.fr/country/thailand_provinces_en.php) site to view and practice all province abbreviations."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/thailand/abbreviations.png",
+              "link": "https://maps.app.goo.gl/XbrkT9597arMirCw7",
               "alt": "Thailand Signs"
             }
           ]
@@ -476,20 +442,6 @@ export const ThailandClue = {
         {
           "title": "Regions",
           "text": [
-            "**Concrete roads** are common in Thailand. They often have a large square shaped pattern.",
-            "NOTE: In Southeast Asia, these can also be found commonly in the Philippines, and less commonly in Indonesia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/th_concrete_roads.webp",
-              "link": "https://goo.gl/maps/UuCnGp7QtF9Sh6269",
-              "alt": "Thailand Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
             "These two road markers are generally found in Thailand. They will either have a white or a black **Garuda** on them.",
             "NOTE: White Garudas are found on country roads and appear white on the map, while black ones are found on province roads and appear dark blue on the map.",
             "[On the map, national roads are white-and-black, while provincial roads are blue-and-yellow.](/images/thailand/Thai+roads.png)"
@@ -526,349 +478,6 @@ export const ThailandClue = {
             {
               "url": "https://www.plonkit.net/images/thailand/thailand_national_roads.png",
               "alt": "Thailand Regions"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Other",
-      "tips": [
-        {
-          "title": "Thailand drives on the left hand side...",
-          "text": [
-            "Thailand drives on the **left hand** side of the road.",
-            "NOTE: Cambodia, Vietnam and Laos drive on the right hand side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Untitled_design_289_29.png",
-              "link": "https://goo.gl/maps/xU4Pi3hUfUAnHvSp6",
-              "alt": "Thailand Thailand drives on the left hand side..."
-            }
-          ]
-        },
-        {
-          "title": "Thailand has yellow middle lines. These middle...",
-          "text": [
-            "Thailand has** yellow middle lines**. These middle lines are either solid or [dashed](https://goo.gl/maps/3skrWJJNZ7JxFzyi7) lines.",
-            "NOTE: Malaysia only has white middle lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/2022-12-22_42.png",
-              "link": "https://goo.gl/maps/nZhMTSY41YTKfH3B6",
-              "alt": "Thailand Thailand has yellow middle lines. These middle..."
-            }
-          ]
-        },
-        {
-          "title": "Thailand has very distinct long, thin lamp...",
-          "text": [
-            "Thailand has very distinct long, thin **lamp posts** that hang over the side of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/lamp.png",
-              "link": "https://goo.gl/maps/ejsjyNCE8BV7KpdNA",
-              "alt": "Thailand Thailand has very distinct long, thin lamp..."
-            }
-          ]
-        },
-        {
-          "title": "Thailand often has many flags lining the...",
-          "text": [
-            "Thailand often has many flags lining the side of its streets. Aside from the national flag, you can often see [royal flags](https://en.wikipedia.org/wiki/Royal_flags_of_Thailand), which are usually **yellow**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/2022-12-24__281_29.png",
-              "link": "https://goo.gl/maps/3gdvYj8EPVopXjGc7",
-              "alt": "Thailand Thailand often has many flags lining the..."
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "sections": [
-    {
-      "title": "Identifying Thailand",
-      "tips": [
-        {
-          "title": "Overview Image",
-          "text": [],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/0_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Infographic.png",
-              "alt": "Thailand overview"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Thailand uses large, **white** licence plates on **passenger vehicles**, and yellow ones on commercial vehicles.",
-            "NOTE: Within Southeast Asia, yellow commercial plates are only found in Thailand. Be careful, however, as Laos uses yellow licence plates for regular vehicles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Thailand_License_Plate.png",
-              "link": "https://www.plonkit.net/images/thailand/Thailand_License_Plate.png",
-              "alt": "Thailand Plates"
-            }
-          ]
-        },
-        {
-          "title": "Thailand drives on the left hand side...",
-          "text": [
-            "Thailand drives on the **left hand** side of the road.",
-            "NOTE: Cambodia, Vietnam and Laos drive on the right hand side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Untitled_design_289_29.png",
-              "link": "https://goo.gl/maps/xU4Pi3hUfUAnHvSp6",
-              "alt": "Thailand Thailand drives on the left hand side..."
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "The Thai bollard is square shaped with a pointed top, and has **black-and-white stripes**.",
-            "NOTE: In Southeast Asia, these bollards are also found in Cambodia, Laos and Indonesia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/2022-12-22_41.png",
-              "link": "https://goo.gl/maps/WNbKinfDUShWZziU8",
-              "alt": "Thailand Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Signposts in Thailand are square and bulky in shape, usually white, and often have the **bottom painted black**.",
-            "NOTE: In Southeast Asia, this design is unique to Thailand."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/round.png",
-              "link": "https://goo.gl/maps/dzS5FHMz1koNS9z46",
-              "alt": "Thailand Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Concrete roads** are common in Thailand. They often have a large square shaped pattern.",
-            "NOTE: In Southeast Asia, these can also be found commonly in the Philippines, and less commonly in Indonesia."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/th_concrete_roads.webp",
-              "link": "https://goo.gl/maps/UuCnGp7QtF9Sh6269",
-              "alt": "Thailand Regions"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Thai poles are **square **and have small **holes** running vertically up the pole.",
-            "NOTE: You will see similar poles in Sri Lanka, Cambodia and Laos. Make sure to look for other clues before guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/th_square_poles.webp",
-              "link": "https://goo.gl/maps/UkmmFgZewH869iht7",
-              "alt": "Thailand Poles"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Thai script** is compact and in many fonts has tiny circles within most letters.",
-            "NOTE: The Cambodian (Khmer) script often has longer lines and more accents underneath the lettering, as opposed to the Thai script. The Lao script looks similar to the Thai script. Make sure to check the driving side before guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/th_language.png",
-              "link": "https://www.plonkit.net/images/thailand/th_language.png",
-              "alt": "Thailand Language"
-            }
-          ]
-        },
-        {
-          "title": "Thailand has yellow middle lines. These middle...",
-          "text": [
-            "Thailand has** yellow middle lines**. These middle lines are either solid or [dashed](https://goo.gl/maps/3skrWJJNZ7JxFzyi7) lines.",
-            "NOTE: Malaysia only has white middle lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/2022-12-22_42.png",
-              "link": "https://goo.gl/maps/nZhMTSY41YTKfH3B6",
-              "alt": "Thailand Thailand has yellow middle lines. These middle..."
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Street light poles have **red-and-black** or **black-and-white** stripes on the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Street_Light_Markings.png",
-              "link": "https://goo.gl/maps/oz7V87DcmcXSfoke8",
-              "alt": "Thailand Poles"
-            }
-          ]
-        },
-        {
-          "title": "Thailand has very distinct long, thin lamp...",
-          "text": [
-            "Thailand has very distinct long, thin **lamp posts** that hang over the side of the road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/lamp.png",
-              "link": "https://goo.gl/maps/ejsjyNCE8BV7KpdNA",
-              "alt": "Thailand Thailand has very distinct long, thin lamp..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Directional signs on smaller roads are **white**, and are composed of two signs: one with an arrow at the bottom, and one with the information at the top. These can have place names. When they do not, you will see them as just the road number with a [Garuda](https://en.wikipedia.org/wiki/Emblem_of_Thailand). Moreover, highway signs are **green**, and frequently feature the place names in Latin script below the Thai name."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Road_Number_Signs.png",
-              "link": "https://goo.gl/maps/fzFeKsgSovY2wJwK7",
-              "alt": "Thailand Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Stop signs in Thailand feature the **Thai script**, instead of Latin.",
-            "NOTE: Stop signs in Laos feature the Lao script, similar to Thai, but they have just 2 characters instead of 3."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Screenshot%2520(638).png",
-              "link": "https://maps.app.goo.gl/SfLXVkVXWeWw1cFh8",
-              "alt": "Thailand Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "These two road markers are generally found in Thailand. They will either have a white or a black **Garuda** on them.",
-            "NOTE: White Garudas are found on country roads and appear white on the map, while black ones are found on province roads and appear dark blue on the map.",
-            "[On the map, national roads are white-and-black, while provincial roads are blue-and-yellow.](/images/thailand/Thai+roads.png)"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Untitled_design8.png",
-              "link": "https://goo.gl/maps/HmhGFKoJU2daCxiw7",
-              "alt": "Thailand Regions"
-            }
-          ]
-        },
-        {
-          "title": "Thailand often has many flags lining the...",
-          "text": [
-            "Thailand often has many flags lining the side of its streets. Aside from the national flag, you can often see [royal flags](https://en.wikipedia.org/wiki/Royal_flags_of_Thailand), which are usually **yellow**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/2022-12-24__281_29.png",
-              "link": "https://goo.gl/maps/3gdvYj8EPVopXjGc7",
-              "alt": "Thailand Thailand often has many flags lining the..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "These distinctive **green **signs can be found all around Thailand, often in small villages.",
-            "NOTE: You will not find this sign in any other country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/greensign.png",
-              "link": "https://www.google.de/maps/@16.6874654,104.0909787,3a,31.5y,2.07h,84.05t/data=!3m6!1e1!3m4!1sILbeC_JPUdgreLQ2jSPoNw!2e0!7i16384!8i8192?shorturl=1",
-              "alt": "Thailand Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Most Generation 3 coverage has **no visible Street View car**.",
-            "NOTE: [Vientiane](https://maps.app.goo.gl/E53R9yBhmgzxiKaY8) and some Generation 3 coverage in [Cambodia](https://maps.app.goo.gl/G3n69goD22xopDMg7) will also not have a visible car. [Bike trekkers](https://maps.app.goo.gl/89XmAqRyVAqEU8wK6) and a [white car with a brake light](https://maps.app.goo.gl/SnHxSHmoqq64yXfr6) can rarely be found all throughout the country in Generation 3."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/gen3nocar.png",
-              "link": "https://maps.app.goo.gl/6RArTU8VoxKVnX1X7",
-              "alt": "Thailand Google Car"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Regional/province-specific clues",
-      "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "Thai **landline phone numbers** have 9 digits. The first digits of phone numbers are the area code. The Bangkok area code is 02, the other area codes have three digits. The area codes are grouped, so even just learning the first digit is useful.",
-            "NOTE: Mobile phone numbers start with 08 or 09 and have 10 digits. None of these numbers overlap with the area codes. Numbers starting with 06 are also not regional."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Indicatifs_Thailande.png",
-              "link": "https://www.plonkit.net/images/thailand/Indicatifs_Thailande.png",
-              "alt": "Thailand Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "National roads are grouped into four regions based on their **first digit**. Roads beginning with 1 can be found in the north, 2 in the northeast, 3 in the centre and 4 in the south of the country.",
-            "NOTE: Large one- and two-digit highways may pass through multiple regions. Remember that this map does not apply to provincial roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/thailand_national_roads.png",
-              "alt": "Thailand Regions"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Waystones and road signs on provincial roads will often provide a **two-letter abbreviation** of the province in Thai script. They will not appear on waystones or road signs for national roads.",
-            "You can use [this](https://super-duper.fr/country/thailand_provinces_en.php) site to view and practice all province abbreviations."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/abbreviations.png",
-              "link": "https://maps.app.goo.gl/XbrkT9597arMirCw7",
-              "alt": "Thailand Signs"
             }
           ]
         },
@@ -888,7 +497,87 @@ export const ThailandClue = {
               "alt": "Thailand Regions"
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "Other",
+      "tips": [
+        {
+          "title": "Thailand has yellow middle lines. These middle...",
+          "text": [
+            "Thailand has** yellow middle lines**. These middle lines are either solid or [dashed](https://goo.gl/maps/3skrWJJNZ7JxFzyi7) lines.",
+            "NOTE: Malaysia only has white middle lines."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/thailand/2022-12-22_42.png",
+              "link": "https://goo.gl/maps/nZhMTSY41YTKfH3B6",
+              "alt": "Thailand Thailand has yellow middle lines. These middle..."
+            }
+          ]
         },
+        {
+          "title": "Thailand has very distinct long, thin lamp...",
+          "text": [
+            "Thailand has very distinct long, thin **lamp posts** that hang over the side of the road."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/thailand/lamp.png",
+              "link": "https://goo.gl/maps/ejsjyNCE8BV7KpdNA",
+              "alt": "Thailand Thailand has very distinct long, thin lamp..."
+            }
+          ]
+        },
+        {
+          "title": "Thailand often has many flags lining the...",
+          "text": [
+            "Thailand often has many flags lining the side of its streets. Aside from the national flag, you can often see [royal flags](https://en.wikipedia.org/wiki/Royal_flags_of_Thailand), which are usually **yellow**."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/thailand/2022-12-24__281_29.png",
+              "link": "https://goo.gl/maps/3gdvYj8EPVopXjGc7",
+              "alt": "Thailand Thailand often has many flags lining the..."
+            }
+          ]
+        },
+        {
+          "title": "Rice cultivated during the dry season is...",
+          "text": [
+            "**Rice** cultivated during the **dry season** is most common in the central plains. The dry season in Thailand can typically be recognized by a haze in the sky due to wildfires."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/thailand/dryseasonrice.png",
+              "link": "https://maps.app.goo.gl/XhZdHEjsXAE77Q5n7",
+              "alt": "Thailand Rice cultivated during the dry season is..."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Identifying Thailand",
+      "tips": [
+        {
+          "title": "Overview Image",
+          "text": [],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/thailand/0_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Infographic.png",
+              "alt": "Thailand overview"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Regional/province-specific clues",
+      "tips": [
         {
           "title": "Signs",
           "text": [
@@ -899,60 +588,6 @@ export const ThailandClue = {
               "url": "https://www.plonkit.net/images/thailand/islam.png",
               "link": "https://maps.app.goo.gl/5QCCKXbXDJzc2SPm9",
               "alt": "Thailand Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Thailand has two regions that are relatively **flat and dry** compared to other areas. One north of Bangkok, the other more east.",
-            "NOTE: The eastern area feels sometimes a bit **drier** than the area north of Bangkok."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Landscape_-_Eastern_Flat_and_Dry.png",
-              "link": "https://goo.gl/maps/G677huTmDgZuNQj68",
-              "alt": "Thailand Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Tall mountains** are most often seen in northwestern** **Thailand.",
-            "NOTE: Some parts of the southern peninsular part are also mountainous."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Landscape_-_Tall_Mountains_Northwest.png",
-              "link": "https://goo.gl/maps/2F4kZSQecS6C4igH7",
-              "alt": "Thailand Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Low, smooth and forested mountains can be found in the centre-north of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/lowmountains.png",
-              "link": "https://maps.app.goo.gl/5oTu6naatCLJEZZr5",
-              "alt": "Thailand Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Steep mountains with a lot of **exposed rock** are most commonly found in the west and on the peninsula."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/exposedrockmountain.png",
-              "link": "https://maps.app.goo.gl/8GvEz2TG2jPQjjPJ9",
-              "alt": "Thailand Landscape"
             }
           ]
         },
@@ -1005,19 +640,6 @@ export const ThailandClue = {
               "url": "https://www.plonkit.net/images/thailand/th_rice.png",
               "link": "https://www.google.com/maps/@15.7410186,103.7087319,3a,75y,167.97h,69.52t/data=!3m6!1e1!3m4!1sV7uZg8thTdZnjTXF-h0NwA!2e0!7i16384!8i8192",
               "alt": "Thailand Regions"
-            }
-          ]
-        },
-        {
-          "title": "Rice cultivated during the dry season is...",
-          "text": [
-            "**Rice** cultivated during the **dry season** is most common in the central plains. The dry season in Thailand can typically be recognized by a haze in the sky due to wildfires."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/dryseasonrice.png",
-              "link": "https://maps.app.goo.gl/XhZdHEjsXAE77Q5n7",
-              "alt": "Thailand Rice cultivated during the dry season is..."
             }
           ]
         },
@@ -1234,33 +856,6 @@ export const ThailandClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "**Gray corrugated metal roofs** are most commonly found in the north and south** **of the country, but can occasionally be found throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/graycorrugatedroofs.png",
-              "link": "https://maps.app.goo.gl/gGNLasEegrJtVC887",
-              "alt": "Thailand Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Regular poles with a Chilean style **indent **are found around Bangkok.",
-            "NOTE: Larger and thicker poles with indents are found on [highways](https://maps.app.goo.gl/8tzw2wz1WYcVC83R8) all throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/indentedpole.png",
-              "link": "https://maps.app.goo.gl/8V8yJ6NPqRYaeAJh8",
-              "alt": "Thailand Poles"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "**Wind turbines** are most often found on the western side of Chaiyaphum and Nakhon Ratchasima as well as the eastern coast of Songkhla and Nakhon Si Thammarat."
@@ -1274,19 +869,6 @@ export const ThailandClue = {
           ]
         },
         {
-          "title": "Bollards",
-          "text": [
-            "This **black bollard** with **three large white reflectors** is most frequently seen in Chiang Mai and Mae Hong Son."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/specialbollard.png",
-              "link": "https://maps.app.goo.gl/DLEg3FvRp8VxWce37",
-              "alt": "Thailand Bollards"
-            }
-          ]
-        },
-        {
           "title": "Poles",
           "text": [
             "Insulators with **7 or more ridges** are found in the southern half of the peninsula, as well as highways in Chiang Rai and Phayao.",
@@ -1296,19 +878,6 @@ export const ThailandClue = {
             {
               "url": "https://www.plonkit.net/images/thailand/7ridgeinsulator.png",
               "link": "https://goo.gl/maps/kYR5V2U9de5vnrgk7",
-              "alt": "Thailand Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Poles with only **one insulator **on the crossbar can be found from south on the peninsula to Ranong and Chumphon."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/oneinsulator.png",
-              "link": "https://maps.app.goo.gl/yGS12y3v7tbDKh4Q9",
               "alt": "Thailand Poles"
             }
           ]
@@ -1464,19 +1033,6 @@ export const ThailandClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "**Rolling hills** of corn or sugar cane fields can be found in the west of the Tak province. In this area, paved roads are often [very brown](https://maps.app.goo.gl/gFH71bddWWbfX9Pz5)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/westerntak.png",
-              "link": "https://maps.app.goo.gl/5vnLtPy476ekhvrR6",
-              "alt": "Thailand Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "**Large north-south mountains** can be seen on either side of the Phetchabun valley."
@@ -1620,33 +1176,6 @@ export const ThailandClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "**Brown paved roads** among fields of sugarcane, cassava, and corn can be found in southeastern Nakhon Ratchasima."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/nakhonratchasimaSE.png",
-              "link": "https://maps.app.goo.gl/TGZwr7DBSQr6o3gSA",
-              "alt": "Thailand Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "**Brown paved roads** among fields of bananas, durians, rubber, and corn can be found in southern Sisaket.",
-            "NOTE: Southeastern Nakhon Ratchasima may look [similar](https://maps.app.goo.gl/3px9g5rxuA6NbzzL8) at times."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/southsisaket.png",
-              "link": "https://maps.app.goo.gl/VS75Aa3JYD4BC4fd6",
-              "alt": "Thailand Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "Southern Lopburi features a large, slightly** north-north-west grid** with fields of rice, corn, sugarcane, and cassava. Ridges can often be seen to the north, south and west."
@@ -1673,19 +1202,6 @@ export const ThailandClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Western Rayong province features a **northeast-southwest grid** filled with modern and industrial buildings among fields of rubber trees, cassava, and pineapple."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/rayonggrid.png",
-              "link": "https://maps.app.goo.gl/2Y5eNnZEhT8i5iGN8",
-              "alt": "Thailand Architecture"
-            }
-          ]
-        },
-        {
           "title": "Highway 44 going through Krabi and Surat...",
           "text": [
             "Highway 44 going through Krabi and Surat Thani is a **divided four-lane highway** with **very large spacing** in the middle. Often, you will not be able to see the other side of the highway. Rather, a yellow inner line will imply that the road is divided."
@@ -1695,33 +1211,6 @@ export const ThailandClue = {
               "url": "https://www.plonkit.net/images/thailand/hwy44.png",
               "link": "https://maps.app.goo.gl/FvDCNBvgA8bWMfqW9",
               "alt": "Thailand Highway 44 going through Krabi and Surat..."
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This rare Google car with a **visible mirror** is only found in far southern Thailand.",
-            "NOTE: Due to most of the coverage being overwritten by new Generation 4, this car is rarely seen."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/jOVfr8B.png",
-              "link": "https://goo.gl/maps/m4sGpjw5wNW4WxZZ7",
-              "alt": "Thailand Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This rare Google car is only found on the island of Ko Sichang. It is recognizable due to the **bar(s) protruding out of the blur**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/thailand/Ko_Sichang_Car.png",
-              "link": "https://goo.gl/maps/7V7ec8nvg4JG3Wx67",
-              "alt": "Thailand Google Car"
             }
           ]
         },
@@ -1738,26 +1227,6 @@ export const ThailandClue = {
               "alt": "Thailand Landscape"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Maps and resources",
-      "tips": [
-        {
-          "title": "Practice Resources",
-          "text": [
-            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends you play these maps instead:",
-            "- **AI gen - Thailand** ([map link](https://www.geoguessr.com/maps/638777aabd4e538d5e52d4f9)) - balanced, arbitrarily generated map of Thailand. 100k+ locations. Leaning slightly rural. Not pinpointable.",
-            "- **An Arbitrary Rural Thailand (AARTH)** ([map link](https://www.geoguessr.com/maps/644fd01fef64f0dbc532efe6)) - balanced, arbitrarily generated map of Thailand. 59k+ locations. Leaning heavily rural. Not pinpointable.",
-            "- **A Balanced Thailand** ([map link](https://www.geoguessr.com/maps/65fc3dff406689921d2f4dca)) - balanced, arbitrarily generated map of Thailand. 64k+ locations. Leaning slightly more urban. Not pinpointable.",
-            "In addition, here are some resources to help you practise Thailand:",
-            "- **Plonk It Thailand** ([map link](https://www.geoguessr.com/maps/67723cd61f1d1097f1eb7383)) - This map contains locations for practising each meta in the Plonk It Thailand guide from step 2 to 3.",
-            "- **Thailand provinces quiz **([link](https://geo.emily.bz/map-quiz/thailand/provinces)) - practise the provinces’ names and their locations.",
-            "- **Thailand phone codes quiz **([link](https://geo.emily.bz/map-quiz/thailand/phone-codes)) - practise the area codes.",
-            "- **Thailand provincial road prefixes quiz** ([link](https://super-duper.fr/quiz2024/standard.php?id=9&language=en&tile=gmaps&border=thin&difficulty=false&timer=false&gmaplng=en&geojson=%2Fgeojson%2Fprov%2Fgadm41_THAS_1.json&property=NAME_1)) - practise the characters used for the county road prefixes."
-          ],
-          "images": []
         }
       ]
     }

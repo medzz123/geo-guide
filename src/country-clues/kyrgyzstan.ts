@@ -73,12 +73,10 @@ export const KyrgyzstanClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
     "Bollards",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Coverage",
     "Regions",
@@ -88,20 +86,6 @@ export const KyrgyzstanClue = {
     {
       "title": "Google Car",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "Kyrgyzstan can be recognised from the **silver car** and **four bars** that are visible. All coverage is Generation 3.",
-            "NOTE: No other country with a similar landscape has a similar Street View car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Please_dont_guess_Guatemala.png",
-              "link": "https://goo.gl/maps/VAGcow68t9cxy6687",
-              "alt": "Kyrgyzstan Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -141,23 +125,18 @@ export const KyrgyzstanClue = {
               "alt": "Kyrgyzstan Google Car"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Plates",
-      "tips": [
+        },
         {
-          "title": "Plates",
+          "title": "Google Car",
           "text": [
-            "Licence plates in Kyrgyzstan have a **red strip** on them.",
-            "NOTE: Licence plates with red strips can sometimes be seen in Albania and very rarely in the UAE."
+            "Road EM-9 runs from Balykchy to Karakol in the far east. On many parts of the road, you will be able to see Lake Issyk Kul to your south. The car drives towards the east (and in the last section towards the south).",
+            "Includes **3** tips."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_License_Plate.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_License_Plate.png",
-              "alt": "Kyrgyzstan Plates"
+              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-09.png",
+              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-09.png",
+              "alt": "Kyrgyzstan Google Car"
             }
           ]
         }
@@ -245,19 +224,6 @@ export const KyrgyzstanClue = {
         {
           "title": "Poles",
           "text": [
-            "In Kyrgyzstan, you will often see trees and concrete poles that are **painted white** on the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_White_Paint_hint.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=81.22221&map_action=pano&pano=oAmO1qh-JZ9yisVPsLvxSQ&pitch=0&viewpoint=42.73004%252C77.626506#extra%255BloadMode%255D=latLng",
-              "alt": "Kyrgyzstan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
             "These towns east and west of Bishkek feature these **colourful poles** with yellow, green, white, and sometimes red on top.",
             "NOTE: Sokuluk will not have the red paint on top."
           ],
@@ -292,6 +258,19 @@ export const KyrgyzstanClue = {
             {
               "url": "https://www.plonkit.net/images/kyrgyzstan/Em-04_Section_3.png",
               "link": "https://goo.gl/maps/af4i9bSruHkKCgkg8",
+              "alt": "Kyrgyzstan Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "This divided road north of Bishkek, that leads up to the international airport, uses unique **yellow-and-black curbs** on the median, which consists of mostly grass. Some sections have small planted trees, and poles with red-and-yellow paint on the bottom. The [horizontal section](https://goo.gl/maps/3NtVfKr8wvp3ibU48) west of the airport has a lot more trees."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/kyrgyzstan/EM14_Section_1.png",
+              "link": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=322.2761&map_action=pano&pano=TrXQX2EyXb9iSNv3SKkPVQ&pitch=0&viewpoint=42.976095%252C74.447178#extra%255BloadMode%255D=latLng",
               "alt": "Kyrgyzstan Poles"
             }
           ]
@@ -360,42 +339,8 @@ export const KyrgyzstanClue = {
       ]
     },
     {
-      "title": "Language",
-      "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "The Kyrgyz script is similar to Russian. However, the Cyrillic script used for Kyrgyz includes additional characters not found in Russian Cyrillic, such as:",
-            "- Ө",
-            "- Ү",
-            "- Ң"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/kg_language.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/kg_language.png",
-              "alt": "Kyrgyzstan Language"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "All of Kyrgyzstan was covered during the **winter months**, so many of the trees will lack leaves, the landscape will be quite drab, and you can see snow in many parts of Kyrgyzstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/ui_remover.png",
-              "link": "https://goo.gl/maps/uPwedtS1gEC9hqJv5",
-              "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -433,6 +378,19 @@ export const KyrgyzstanClue = {
             {
               "url": "https://www.plonkit.net/images/kyrgyzstan/Bishkek_Snow_coverage.png",
               "link": "https://goo.gl/maps/WeFiqPbswXrt3s8U9",
+              "alt": "Kyrgyzstan Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The coverage south of Bishkek is generally a bit hilly, and you will see the **snowy Tian Shan mountains** to the south. And as Bishkek has the most polluted air of any city, there will usually be visible **smog** to the north."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/kyrgyzstan/South_of_Bishkek.png",
+              "link": "https://goo.gl/maps/UgvY626Vi5aGz7Df7",
               "alt": "Kyrgyzstan Landscape"
             }
           ]
@@ -633,317 +591,12 @@ export const KyrgyzstanClue = {
               "alt": "Kyrgyzstan overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Licence plates in Kyrgyzstan have a **red strip** on them.",
-            "NOTE: Licence plates with red strips can sometimes be seen in Albania and very rarely in the UAE."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_License_Plate.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_License_Plate.png",
-              "alt": "Kyrgyzstan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Kyrgyzstan can be recognised from the **silver car** and **four bars** that are visible. All coverage is Generation 3.",
-            "NOTE: No other country with a similar landscape has a similar Street View car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Please_dont_guess_Guatemala.png",
-              "link": "https://goo.gl/maps/VAGcow68t9cxy6687",
-              "alt": "Kyrgyzstan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The Kyrgyz script is similar to Russian. However, the Cyrillic script used for Kyrgyz includes additional characters not found in Russian Cyrillic, such as:",
-            "- Ө",
-            "- Ү",
-            "- Ң"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/kg_language.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/kg_language.png",
-              "alt": "Kyrgyzstan Language"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "All of Kyrgyzstan was covered during the **winter months**, so many of the trees will lack leaves, the landscape will be quite drab, and you can see snow in many parts of Kyrgyzstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/ui_remover.png",
-              "link": "https://goo.gl/maps/uPwedtS1gEC9hqJv5",
-              "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "In Kyrgyzstan, you will often see trees and concrete poles that are **painted white** on the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_White_Paint_hint.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=81.22221&map_action=pano&pano=oAmO1qh-JZ9yisVPsLvxSQ&pitch=0&viewpoint=42.73004%252C77.626506#extra%255BloadMode%255D=latLng",
-              "alt": "Kyrgyzstan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Kyrgyzstan uses these simple white bollards with a diagonal black stripe near the top."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_Bollards.png",
-              "link": "https://goo.gl/maps/rwsKJCwdMeRSTAcB9",
-              "alt": "Kyrgyzstan Bollards"
-            }
-          ]
-        },
-        {
-          "title": "These kilometre markers with a red-and white...",
-          "text": [
-            "These kilometre markers with a **red-and white** triangle pattern are unique to Kyrgyzstan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrg_KM_marker.png",
-              "link": "https://www.google.com/maps/@42.9073983,74.7665076,3a,17.5y,215.42h,81.12t/data=!3m6!1e1!3m4!1sc3ikdXkDsMbMckuCH55WDA!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Kyrgyzstan These kilometre markers with a red-and white..."
-            }
-          ]
-        },
-        {
-          "title": "The majority of Kyrgyzstan’s population is Muslim....",
-          "text": [
-            "The majority of Kyrgyzstan’s population is Muslim. Hence, you will see a lot of **mosques** throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Mosques.png",
-              "link": "https://goo.gl/maps/iL8rca3LaHihGVZRA",
-              "alt": "Kyrgyzstan The majority of Kyrgyzstan’s population is Muslim...."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Regional clues",
-      "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "The coverage in Kyrgyzstan is very limited. So learning which roads are covered will help you improve a lot.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_Coverage_Map_V4.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_Coverage_Map_V4.png",
-              "alt": "Kyrgyzstan Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Learning which direction the Google Car is driving on most major roads will help you narrow down your options when guessing.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_Driving_Directions_V2.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_Driving_Directions_V2.png",
-              "alt": "Kyrgyzstan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "You can use the Google car’s mirror to region-guess Kyrgyzstan. In the southern region, **less of the road is visible** on the mirror. The car’s reflection is more diagonal. For comparison, this is what it usually [looks like](https://goo.gl/maps/hcZKoj5RDCHUQvpR8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Just_look_at_the_mirror_V8_too_many.png",
-              "link": "https://goo.gl/maps/HMf4AZ1YPWtGTVpg7",
-              "alt": "Kyrgyzstan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Within this southern region, west of the roundabout that takes you up to Manas (Previously Jalal-Abad), the mirror will have a varying degree of **dirt** on it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Keep_looking_at_the_mirror_V2.png",
-              "link": "https://goo.gl/maps/o2wwkRRptUWUWDmo8",
-              "alt": "Kyrgyzstan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "If you see a **small black dot** on the Kyrgyzstan car mirror, you will be in this region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Copy_of_Just_look_at_the_mirror_again_V2.png",
-              "link": "https://goo.gl/maps/gyVuS1QiJTm8GQCd9",
-              "alt": "Kyrgyzstan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Divided roads** are mostly concentrated in and around the capital, Bishkek. A major divided highway runs from Bishkek to Balykchy in the east.",
-            "NOTE: The cities marked on the map also have at least one divided road."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Divided_roads_Hint_1.png",
-              "link": "https://goo.gl/maps/skb6VQAqHRAcexMC6",
-              "alt": "Kyrgyzstan Regions"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Lake Issyk Kul is the **biggest body of water** in Kyrgyzstan. You will often be able to spot it on the roads north and south of the lake. Sometimes it will be obscured by buildings or trees, but the lack of any mountains in the direction of the lake will be a good clue.",
-            "NOTE: There are two other significant bodies of water that can be seen from the road: the [Toktogul Reservoir](https://goo.gl/maps/ay9ZJWwV3ZNPLviu6) and [Lake Song-Kul](https://goo.gl/maps/zgw4obnegxGGkWSPA). With a bit of practice, you can reliably distinguish these from Issyk Kul however."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Lake_Issyk_Kul_v2.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=132.58999981193614&heading=197.9266087914633&map_action=pano&pano=zKjzHRthd9WfFd4GNqHSaA&pitch=-0.7394314880160806&viewpoint=42.597137%252C76.831973#extra%255Btags%255D=Y&extra%255BloadMode%255D=latLng",
-              "alt": "Kyrgyzstan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "These northern roads have a considerable amount of **snow**, and the sky is generally bright.",
-            "The individual sections of these roads are discussed in more detail in step 3.",
-            "NOTE: There is also snow coverage in the south. However, you can use the mirror to distinguish these roads."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Northern_Snowy_Region_Hint_1.png",
-              "link": "https://goo.gl/maps/pv2tZVBKsszXTKdd6",
-              "alt": "Kyrgyzstan Landscape"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Spotlight",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "As the capital city of Kyrgyzstan, Bishkek is by far the most developed city, featuring many taller **multi-story** buildings you would not see elsewhere. And on the outskirts, you can see [fancier buildings ](https://goo.gl/maps/xd7MyxMkqN71PgQs8)as well. There are also [mountains](https://goo.gl/maps/tJvLR8okRKxPUMvx6) south of Bishkek, but these can be hard to see at times."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Bishkek_1.png",
-              "link": "https://goo.gl/maps/Tc1QDdDZTJdryLdQ9",
-              "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "You can find **urban snow coverage** in this region of Bishkek."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Bishkek_Snow_coverage.png",
-              "link": "https://goo.gl/maps/WeFiqPbswXrt3s8U9",
-              "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The coverage south of Bishkek is generally a bit hilly, and you will see the **snowy Tian Shan mountains** to the south. And as Bishkek has the most polluted air of any city, there will usually be visible **smog** to the north."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/South_of_Bishkek.png",
-              "link": "https://goo.gl/maps/UgvY626Vi5aGz7Df7",
-              "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These towns east and west of Bishkek feature these **colourful poles** with yellow, green, white, and sometimes red on top.",
-            "NOTE: Sokuluk will not have the red paint on top."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Around_Bishkek_Poles_v2.png",
-              "link": "https://goo.gl/maps/EHbnkHkdfg3aqVyLA",
-              "alt": "Kyrgyzstan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Osh is the second-biggest city in Kyrgyzstan. It is one of several towns that has coverage with the **southern mirror**. This allows you to easily distinguish it from Bishkek.",
-            "The weather in Osh is fairly good, with some clouds, but **never fully overcast**.",
-            "NOTE: Manas (Previously Jalal-Abad), the other big city with the southern mirror, will always have [very overcast coverage](https://www.google.com/maps/@?api=1&map_action=pano&pano=lb_vnjE_MggaJRTpdjrO4A&viewpoint=40.932859%2C72.985991&heading=79.44492827377147&pitch=42.14790148445914&fov=133.1640120049908#extra%5BloadMode%5D=latLng)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Osh_vibe.png",
-              "link": "https://goo.gl/maps/97nsWmobJFPzMVXJ6",
-              "alt": "Kyrgyzstan Coverage"
-            }
-          ]
-        },
-        {
-          "title": "You can also distinguish Osh from Bishkek...",
-          "text": [
-            "You can also distinguish Osh from Bishkek by looking at the trees: most still have their **leaves**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Osh_leaves.png",
-              "link": "https://goo.gl/maps/DEPbcULsyZNDzdDH8",
-              "alt": "Kyrgyzstan You can also distinguish Osh from Bishkek..."
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -1001,19 +654,6 @@ export const KyrgyzstanClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "In Talas, most poles are painted white on the bottom, and feature **red and yellow** stripes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Talas_Poles_V2.png",
-              "link": "https://goo.gl/maps/xDDcMFDnbhMqCT4N7",
-              "alt": "Kyrgyzstan Poles"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Karakol is a city located between snow capped mountains to the north and south. The coverage in the city is **sunny**, and you can see **melting snow** on the ground."
@@ -1040,34 +680,6 @@ export const KyrgyzstanClue = {
           ]
         },
         {
-          "title": "The EM-04 is a major road that...",
-          "text": [
-            "The EM-04 is a major road that runs from Bishkek to Osh.",
-            "Includes **10** tips."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-04.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-04.png",
-              "alt": "Kyrgyzstan The EM-04 is a major road that..."
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "You can notice a distinct **sunset** on all the coverage from Sokuluk to Kara Balta.",
-            "NOTE: This section of road features the Black Dot Mirror."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Em-04_Section_1_1.png",
-              "link": "https://goo.gl/maps/spkEC7knYyAvjdVw6",
-              "alt": "Kyrgyzstan Coverage"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Here, you will see the Tian Shan **mountain range** to the south. The landscape is otherwise **flat**. The further away from the mountains you are, the [foggier](https://goo.gl/maps/8kUk6rSVFqKD7CoEA) they seem.",
@@ -1082,20 +694,6 @@ export const KyrgyzstanClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "The mountains here can be characterised by **steep rocky cliffs** that can have a slight **purple or red** tint to them. Not much vegetation grows on these mountains - only some grass and shrubs. A small river also runs alongside the road. You can also spot these [brown metallic electricity pylons](https://goo.gl/maps/oscB5ajzy2rpkMi26) and [curved concrete guardrails](https://goo.gl/maps/4nGewnwYYuPECDwa8) on the sides of this road.",
-            "NOTE: This section of road features the Black Dot Mirror."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Em-04_Section_3.png",
-              "link": "https://goo.gl/maps/af4i9bSruHkKCgkg8",
-              "alt": "Kyrgyzstan Poles"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "On this long stretch of road, you will see plenty of **snow** all around you, except on the road. The Landscape is generally hilly, except the northeastern and southwestern parts, which are in the mountains.",
@@ -1106,20 +704,6 @@ export const KyrgyzstanClue = {
               "url": "https://www.plonkit.net/images/kyrgyzstan/EM-9_Section_3_v2__281_29.png",
               "link": "https://goo.gl/maps/5Yd93m1nMW4Jk5gZ6",
               "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "This section of road goes through mountains that have **rocky cliffs**. These mountains are a habitat for lots of [spruce trees](https://goo.gl/maps/6ykqFWDntTbrPQnX6) that grow on the cliff sides. A more diverse selection of trees grows next to the river that follows the road. You can see that [some mountains](https://goo.gl/maps/ZYdKwBNtUvT3WQH8A) still have snow on the peaks. Most [signposts](https://goo.gl/maps/bRKCMi9bDmj5YCQV6) along the road are coloured blue.",
-            "NOTE: The southern section of the road features more rocky cliffs that cannot sustain any trees."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/EM-04_section_5.png",
-              "link": "https://goo.gl/maps/p9x6fLydRRLhXN9P9",
-              "alt": "Kyrgyzstan Signs"
             }
           ]
         },
@@ -1192,20 +776,6 @@ export const KyrgyzstanClue = {
           ]
         },
         {
-          "title": "Coverage",
-          "text": [
-            "The EM-11, which shows up as A365 on Google Maps, runs from Bishkek down to the Chinese border. The coverage ends [here](https://goo.gl/maps/eGJcsbwYT68Sdhee6).",
-            "Includes **10** tips."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_A365_EM-11.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_A365_EM-11.png",
-              "alt": "Kyrgyzstan Coverage"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The beginning section of the divided EM-11 has this **grassy median** up until Khun-Chi."
@@ -1215,32 +785,6 @@ export const KyrgyzstanClue = {
               "url": "https://www.plonkit.net/images/kyrgyzstan/EM-11_Section_1.png",
               "link": "https://goo.gl/maps/EjtbU1CRPj41MDRr6",
               "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "From Khun-Chi to the [intersection ](https://goo.gl/maps/Q3uwC5qMdDACzx5d7)east of Tokmok, the road uses these road lines with a **wide gap** as a median."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/EM-11_Section_2_v3.png",
-              "link": "https://goo.gl/maps/x37bVZSXHnevbMqi6",
-              "alt": "Kyrgyzstan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The gap in the road lines gets **thinner** east of that intersection up until this [intersection](https://goo.gl/maps/skcoJg2pJaxbkJHVA) east of Kemin."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/EM-11_Section_2.5.png",
-              "link": "https://goo.gl/maps/iEFn4jF322ZoHUt4A",
-              "alt": "Kyrgyzstan Road Lines"
             }
           ]
         },
@@ -1332,20 +876,6 @@ export const KyrgyzstanClue = {
               "url": "https://www.plonkit.net/images/kyrgyzstan/EM-11_Section_10.png",
               "link": "https://goo.gl/maps/sf17iLfNnLtRr8t16",
               "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Road EM-9 runs from Balykchy to Karakol in the far east. On many parts of the road, you will be able to see Lake Issyk Kul to your south. The car drives towards the east (and in the last section towards the south).",
-            "Includes **3** tips."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-09.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-09.png",
-              "alt": "Kyrgyzstan Google Car"
             }
           ]
         },
@@ -1470,20 +1000,6 @@ export const KyrgyzstanClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "The EM-17 runs southeast of Talas.",
-            "Includes **2** tips."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-17.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-17.png",
-              "alt": "Kyrgyzstan Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "This section of EM-17 is **very snowy**. The hills and mountains around the road are almost fully covered in snow. Unlike the other snowy roads, this road is often covered in **uncleared slush** or melted snow.",
@@ -1522,33 +1038,6 @@ export const KyrgyzstanClue = {
               "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-13.png",
               "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_EM-13.png",
               "alt": "Kyrgyzstan Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The road going east of Kazarman is an **unpaved gravel road**, between two **hilly ridges** on either side. The ridge to the north is further away, and has a bigger set of mountains visible behind it. The mountain ridge has a [unique mountain](https://goo.gl/maps/4ho1Xxywx3kqwBb67) that towers above the rest."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/EM-13_Section_1.png",
-              "link": "https://goo.gl/maps/Uj14Jg8tniVbmoXu6",
-              "alt": "Kyrgyzstan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "The eastern side of EM-13 closely resembles the road going west of Naryn. (See tip below) This road, however, is an unpaved gravel road in the middle of the Naryn valley, so the hills to the north are now closer. The Landscape is filled with bushes, shrubs, and grass.",
-            "NOTE: The one [town](https://goo.gl/maps/1thfQDp4CWjf8LFd6) in the region can be recognized by these [white-and-red fences](https://www.google.com/maps/@41.4501666,74.8385784,3a,19y,34.51h,67.32t,0.03r/data=!3m6!1e1!3m4!1suyOimMFlXHwwDfOq3fpKRQ!2e0!7i13312!8i6656?entry=ttu) with a white diamond pattern in the middle."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/EM13_Section_2.png",
-              "link": "https://goo.gl/maps/1n1UdHGtGykmWLGF9",
-              "alt": "Kyrgyzstan Road Lines"
             }
           ]
         },
@@ -1619,20 +1108,6 @@ export const KyrgyzstanClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "The M-118 takes you from the resort town Arslanbob down into the fertile Fergana Valley.",
-            "Includes **2** tips."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_M-118.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_M-118.png",
-              "alt": "Kyrgyzstan Regions"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "On this road, you should be able to see the **Kara Darya river** to the east in the valley below the road. The region is generally hilly and green. To the north, you can see some [low-lying mountains](https://goo.gl/maps/fYZUkPu26QE6tfCQ9) in the distance, they have some snow on them. The hills east of the river have snow on the top as well.",
@@ -1661,20 +1136,6 @@ export const KyrgyzstanClue = {
           ]
         },
         {
-          "title": "Signs",
-          "text": [
-            "The M-107 is a pretty road connecting Taskomur to Kerben. Only the first half is covered.",
-            "Includes **2** tips."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_M-107.png",
-              "link": "https://www.plonkit.net/images/kyrgyzstan/Kyrgyzstan_M-107.png",
-              "alt": "Kyrgyzstan Signs"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "This section of M-107 is **dry and rocky**. There are a lot of mountains around, but [this one ridge](https://www.google.com/maps/@41.4371677,72.2096491,3a,21.4y,37.6h,94.9t/data=!3m6!1e1!3m4!1s_g43tNH_JZ14j9fSIrncTg!2e0!7i13312!8i6656?entry=ttu) specifically can be seen from most of this section.",
@@ -1685,20 +1146,6 @@ export const KyrgyzstanClue = {
               "url": "https://www.plonkit.net/images/kyrgyzstan/M-107_Section_1_1.png",
               "link": "https://www.google.com/maps/@?api=1&fov=77.80108317605736&heading=37.83679899912974&map_action=pano&pano=O1svmzmxARmX70GY67y4nA&pitch=6.816902315879233&viewpoint=41.452917%252C72.224167#extra%255BloadMode%255D=latLng",
               "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Going further west, you will encounter a very **hilly** landscape. The landscape features a lot of **vegetation** - tall grass, trees, bushes. This road uses these [concrete barriers](https://goo.gl/maps/KP2sH81R7BDqb2wx5) as guardrails, notice the cement above the gaps.",
-            "The general southeast to northwest driving direction on this road is also worth noting."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/M-107_Section_2.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=255.60459100666864&map_action=pano&pano=shutufqEFrmTRCQJ7Q5Afw&pitch=-1.9046616095099296&viewpoint=41.518579%252C72.208936#extra%255BloadMode%255D=latLng",
-              "alt": "Kyrgyzstan Signs"
             }
           ]
         },
@@ -1793,19 +1240,6 @@ export const KyrgyzstanClue = {
               "url": "https://www.plonkit.net/images/kyrgyzstan/EM-18_Section_1.png",
               "link": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=318.6183659402112&map_action=pano&pano=8owpW0jjRuSinxFSBU9ggg&pitch=0.4227225653269784&viewpoint=42.192924%252C73.948891#extra%255BloadMode%255D=latLng",
               "alt": "Kyrgyzstan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "This divided road north of Bishkek, that leads up to the international airport, uses unique **yellow-and-black curbs** on the median, which consists of mostly grass. Some sections have small planted trees, and poles with red-and-yellow paint on the bottom. The [horizontal section](https://goo.gl/maps/3NtVfKr8wvp3ibU48) west of the airport has a lot more trees."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/kyrgyzstan/EM14_Section_1.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=322.2761&map_action=pano&pano=TrXQX2EyXb9iSNv3SKkPVQ&pitch=0&viewpoint=42.976095%252C74.447178#extra%255BloadMode%255D=latLng",
-              "alt": "Kyrgyzstan Poles"
             }
           ]
         },

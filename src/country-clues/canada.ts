@@ -78,7 +78,6 @@ export const CanadaClue = {
     "Bollards",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Coverage",
     "Regions",
@@ -88,33 +87,6 @@ export const CanadaClue = {
     {
       "title": "Google Car",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "Canada has a fair amount of **Generation 2 coverage**, especially in rural** **or remote areas. Generation 2 can be recognized by the big circular car blur and the halo-like colour distortion in the sky.",
-            "NOTE: Generation 2 is very rare in the US. If you are between Canada and the US, and the location is in Generation 2, you are much more likely to be in Canada."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_gen_2.png",
-              "link": "https://goo.gl/maps/ExAbC66LpzqW8TEU7",
-              "alt": "Canada Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Canada also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. When the car isn’t blurred properly, you will usually see a mirror sticking out on the right side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Smallcam_NA_.png",
-              "link": "https://maps.app.goo.gl/Nwiwy3fjNi2xBJX97",
-              "alt": "Canada Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -137,6 +109,33 @@ export const CanadaClue = {
             {
               "url": "https://www.plonkit.net/images/canada/NL510_map.png",
               "link": "https://goo.gl/maps/Hegora3pRzu3Saub9",
+              "alt": "Canada Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "The remote town of Churchill in northern Manitoba features a trekker with a distinct thin **antenna **visible on the front right side of the car. The town also has unique street signs.",
+            "NOTE: This coverage is also seen in the surrounding area."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/canada/Trekker_-_Churchill.png",
+              "link": "https://goo.gl/maps/vGYxXztnsMDBt6jh8",
+              "alt": "Canada Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "This unique Google car and **dark**-coloured soil is found in Tulita, NWT. The car will most often look like this, but can also be fully blurred with just the **antenna** visible, or with the hood of the car visible."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/canada/ca_tutila.png",
+              "link": "https://www.google.com/maps/@64.9000521,-125.5774667,3a,50.3y,287.74h,75.24t/data=!3m7!1e1!3m5!1sfJ7GgV--URIYljkzqltfHA!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fpanoid%253DfJ7GgV--URIYljkzqltfHA%2526cb_client%253Dmaps_sv.tactile.gps%2526w%253D203%2526h%253D100%2526yaw%253D201.8783%2526pitch%253D0%2526thumbfov%253D100!7i13312!8i6656",
               "alt": "Canada Google Car"
             }
           ]
@@ -349,35 +348,6 @@ export const CanadaClue = {
         {
           "title": "Signs",
           "text": [
-            "**Generation 3** is significantly more common in Canada than in the US.",
-            "In addition, the side mirrors are blurred out differently: While they generally appear as **two peaks** in Canadian Gen 3 coverage, you will mostly see a single peak in the US."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/gen3_blurs.png",
-              "link": "https://maps.app.goo.gl/ikUsTgj7pMRAnE936",
-              "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Canada uses unique **diamond**-shaped T-Intersection signs.",
-            "Some provinces use different designs. You can learn more about those in the region guessing section.",
-            "NOTE: Canada is the only country in the world where you can find these signs. The US, for example, uses rectangular** **T-Intersection signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Checkerboard.png",
-              "link": "https://goo.gl/maps/SfzhCCHYaRWimPki8",
-              "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "Canada uses the word **‘maximum’ **on speed signs. Because speed is measured in kilometres instead of miles, the numbers tend to be higher than the US which can be identifiable from afar.",
             "NOTE: The US uses the words **‘speed limit’ **on such signs. In addition, speed limits ending with 5 are more common in the US, and the ‘speed limit’ text takes up two lines versus one for ‘maximum’ in Canada."
           ],
@@ -401,23 +371,33 @@ export const CanadaClue = {
               "alt": "Canada Signs"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Language",
-      "tips": [
+        },
         {
-          "title": "Language",
+          "title": "Signs",
           "text": [
-            "The English-speaking parts of Canada use **British English** spelling (e.g. centre; colour). In addition, Canada mostly uses the [metric system](https://en.wikipedia.org/wiki/Metric_system). For example, speed is measured in **kilometres **per hour.",
-            "NOTE: This is useful to distinguish between the US, where American English spelling and (usually) the [imperial system](https://en.wikipedia.org/wiki/Imperial_units) are used. For example, the US measures speed in miles."
+            "French is the majority language in **Québec** and parts of **New Brunswick**.",
+            "NOTE: At the federal level, French has official status alongside English, so you can sometimes find bilingual signs in other parts of Canada. In addition, French is also spoken in several communities in Nova Scotia, Ontario and Manitoba."
           ],
           "images": [
             {
-              "url": "https://www.plonkit.net/images/canada/Canada_British_English_and_metric_v2.png",
-              "link": "https://goo.gl/maps/q7ywiDLdbkdXtsTo6",
-              "alt": "Canada Language"
+              "url": "https://www.plonkit.net/images/canada/French_In_Canada_4.png",
+              "link": "https://goo.gl/maps/k7JrK13cZ7EuzcD58",
+              "alt": "Canada Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Each province has their own **highway shields** with unique** **designs.",
+            "The green Trans-Canada Highway shield, shown in the top right of the image, can be found in all 10 provinces.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/canada/Highway_shield_map_of_Canada_2.png",
+              "link": "https://www.plonkit.net/images/canada/Highway_shield_map_of_Canada_2.png",
+              "alt": "Canada Signs"
             }
           ]
         }
@@ -649,197 +629,12 @@ export const CanadaClue = {
               "alt": "Canada overview"
             }
           ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The English-speaking parts of Canada use **British English** spelling (e.g. centre; colour). In addition, Canada mostly uses the [metric system](https://en.wikipedia.org/wiki/Metric_system). For example, speed is measured in **kilometres **per hour.",
-            "NOTE: This is useful to distinguish between the US, where American English spelling and (usually) the [imperial system](https://en.wikipedia.org/wiki/Imperial_units) are used. For example, the US measures speed in miles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_British_English_and_metric_v2.png",
-              "link": "https://goo.gl/maps/q7ywiDLdbkdXtsTo6",
-              "alt": "Canada Language"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Canada has a fair amount of **Generation 2 coverage**, especially in rural** **or remote areas. Generation 2 can be recognized by the big circular car blur and the halo-like colour distortion in the sky.",
-            "NOTE: Generation 2 is very rare in the US. If you are between Canada and the US, and the location is in Generation 2, you are much more likely to be in Canada."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_gen_2.png",
-              "link": "https://goo.gl/maps/ExAbC66LpzqW8TEU7",
-              "alt": "Canada Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "**Generation 3** is significantly more common in Canada than in the US.",
-            "In addition, the side mirrors are blurred out differently: While they generally appear as **two peaks** in Canadian Gen 3 coverage, you will mostly see a single peak in the US."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/gen3_blurs.png",
-              "link": "https://maps.app.goo.gl/ikUsTgj7pMRAnE936",
-              "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Canada also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. When the car isn’t blurred properly, you will usually see a mirror sticking out on the right side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Smallcam_NA_.png",
-              "link": "https://maps.app.goo.gl/Nwiwy3fjNi2xBJX97",
-              "alt": "Canada Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Canada uses unique **diamond**-shaped T-Intersection signs.",
-            "Some provinces use different designs. You can learn more about those in the region guessing section.",
-            "NOTE: Canada is the only country in the world where you can find these signs. The US, for example, uses rectangular** **T-Intersection signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Checkerboard.png",
-              "link": "https://goo.gl/maps/SfzhCCHYaRWimPki8",
-              "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Canada uses the word **‘maximum’ **on speed signs. Because speed is measured in kilometres instead of miles, the numbers tend to be higher than the US which can be identifiable from afar.",
-            "NOTE: The US uses the words **‘speed limit’ **on such signs. In addition, speed limits ending with 5 are more common in the US, and the ‘speed limit’ text takes up two lines versus one for ‘maximum’ in Canada."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_maximum_sign.png",
-              "link": "https://goo.gl/maps/WwEGx9N7k8BdQnPZ6",
-              "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Canadian roads usually have **single yellow **centre lines. However, double middle yellow centre lines are still decently common.",
-            "NOTE: Double yellow centre lines are more common in the US. This is not a 100% reliable clue, so make sure to use this along with other clues."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Road_lines.png",
-              "link": "https://goo.gl/maps/VJ4FADNo9DNiUNi27",
-              "alt": "Canada Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "You can sometimes find communal mailboxes in...",
-          "text": [
-            "You can sometimes find **communal mailboxes** in Canada. Personal mailboxes are still very common, though.",
-            "Canada Post has a **red logo**, which sometimes appears on mailboxes.",
-            "NOTE: These communal mailboxes are very rare in the US. In addition, the US Postal Service has a blue logo."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_communal_mailbox.png",
-              "link": "https://goo.gl/maps/82vTzqHb7tVvhMRS9",
-              "alt": "Canada You can sometimes find communal mailboxes in..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Canadian road signs tend to be **less wordy** compared to their US counterparts. Good examples of this are railroad crossing and yield signs. In the US, these usually have the literal words ‘railroad crossing’ and ‘yield’ written on them, whereas in Canada, these signs are typically** **blank."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_less_wordy_signs.png",
-              "link": "https://goo.gl/maps/XdXHcSNMQ9w5RbT46",
-              "alt": "Canada Signs"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional/province-specific clues",
       "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Each province has its own **unique licence plates**, some recognizable from afar even when blurred. Multiple provinces **do not **require front plates, which can be useful when deciding between provinces.",
-            "NOTE: Since 2019, front plates are no longer required in New Brunswick. However, you should still expect to see them in older coverage. As well, all commercial vehicles in Newfoundland and Labrador are required to use front plates, and so it is possible to see them on vans and pickup trucks.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/ca_license_plates_updated.png.png",
-              "link": "https://www.plonkit.net/images/canada/ca_license_plates_updated.png.png",
-              "alt": "Canada Plates"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "French is the majority language in **Québec** and parts of **New Brunswick**.",
-            "NOTE: At the federal level, French has official status alongside English, so you can sometimes find bilingual signs in other parts of Canada. In addition, French is also spoken in several communities in Nova Scotia, Ontario and Manitoba."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/French_In_Canada_4.png",
-              "link": "https://goo.gl/maps/k7JrK13cZ7EuzcD58",
-              "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Each province has their own **highway shields** with unique** **designs.",
-            "The green Trans-Canada Highway shield, shown in the top right of the image, can be found in all 10 provinces.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Highway_shield_map_of_Canada_2.png",
-              "link": "https://www.plonkit.net/images/canada/Highway_shield_map_of_Canada_2.png",
-              "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Each province has its own unique** kilometre markers** that vary slightly.",
-            "Notably, Ontario KM markers have a **white square** at the bottom, which is unique to the province.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canadian_KM_markers_map_w_numbers2.png",
-              "link": "https://www.plonkit.net/images/canada/Canadian_KM_markers_map_w_numbers2.png",
-              "alt": "Canada Regions"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -858,62 +653,6 @@ export const CanadaClue = {
           ]
         },
         {
-          "title": "Bollards",
-          "text": [
-            "Alberta has a unique **black and white **bollard that is often found at intersections. It has a **cylindrical **shape and two black bands that wrap all the way around. It is one of the most useful Canadian bollards to learn because it appears so frequently.",
-            "NOTE: Some Alberta bollards have a [yellow band](https://goo.gl/maps/VocoBEyMAyYWS6TNA) between the two black bands, instead of a white one. [Blue bands](https://www.google.com/maps/@51.0086521,-114.1574649,3a,15y,332.03h,76.57t/data=!3m6!1e1!3m4!1swqH7OVkeCkEWjGass03ahQ!2e0!7i16384!8i8192) can also rarely be seen, particularly in and around Calgary, while [green bands](https://www.google.com/maps/@53.6289425,-113.3790425,3a,15y,31.12h,80.5t,0.35r/data=!3m6!1e1!3m4!1sOAFFhMEkY051OMV8geKMog!2e0!7i16384!8i8192) are rarely seen in and around Edmonton."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Alberta_bollard.png",
-              "link": "https://goo.gl/maps/zJvQD5NkWEGNeSNM7",
-              "alt": "Canada Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Manitoba uses black and grey painted bollards. Most of the time an **orange stripe** will be present below the grey one.",
-            "[Wooden, rectangular bollards](https://maps.app.goo.gl/Fuj6Rivmhcg3sS5dA) of this form are typically found further north in Manitoba.",
-            "NOTE: Bollards in [this](https://goo.gl/maps/BmjVnBrvDfAc66Ym9) format with just a black top are seen in Manitoba and Saskatchewan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_Map16.png",
-              "link": "https://goo.gl/maps/qauAQr8ukvtSu4nd6",
-              "alt": "Canada Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "British Columbia has black-and-white bollards with a thin, slightly curved shape. It is most commonly found on Vancouver Island, but can be found all throughout the province.",
-            "NOTE: They can look superficially similar to the Alberta bollard. However, the thin shape and the wider spacing of the two black bands should help you tell them apart."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_Map18.png",
-              "link": "https://goo.gl/maps/UXzamM3W2mQLwHpR8",
-              "alt": "Canada Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Québec has unique bollards that are always attached to guardrails. They are long, thin white poles with a **red** or **green reflector** at the top."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Quebec_bollard_v2.png",
-              "link": "https://goo.gl/maps/WJUefvuZq9Qip71K7",
-              "alt": "Canada Bollards"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "You will often find these **yellow fire hydrant markers** atop signposts in Québec.",
@@ -925,33 +664,6 @@ export const CanadaClue = {
               "url": "https://www.plonkit.net/images/canada/Quebec_Hydrant_markers.png",
               "link": "https://maps.app.goo.gl/xrUWsm7QdwAUxQvf6",
               "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "You can find these rectangular markers on...",
-          "text": [
-            "You can find these **rectangular markers** on the sides of the roads in Québec. The colours can vary.",
-            "NOTE: These can be rarely found on urban divided highways in New Brunswick."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Untitled_design_1.png",
-              "link": "https://goo.gl/maps/MP44kxVf6Cte55up9",
-              "alt": "Canada You can find these rectangular markers on..."
-            }
-          ]
-        },
-        {
-          "title": "You can find these diamond-shaped markers on...",
-          "text": [
-            "You can find these **diamond-shaped markers** on the sides of the roads in Ontario. The colours can vary."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Untitled_2200_1080_px_1.png",
-              "link": "https://goo.gl/maps/jT4pyYSJozL57a2M9",
-              "alt": "Canada You can find these diamond-shaped markers on..."
             }
           ]
         },
@@ -992,73 +704,6 @@ export const CanadaClue = {
               "url": "https://www.plonkit.net/images/canada/NWT_bollard.png",
               "link": "https://goo.gl/maps/5y7fz48BkHzvjfSo9",
               "alt": "Canada Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "The transformers on poles will **face **the road in British Columbia and New Brunswick, while in [other provinces](https://www.google.com/maps/@45.597191,-71.9607213,3a,37.3y,356.7h,112.55t/data=!3m6!1e1!3m4!1skt1xgBKW1zae9FlYAHS5lg!2e0!7i16384!8i8192), it will be **parallel **with the wires."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/ca_transformers.png",
-              "link": "https://www.google.com/maps/@46.5538938,-66.1368733,3a,15y,54.62h,104.68t/data=!3m6!1e1!3m4!1sqdk7xkxwyOexmNqYALSGMA!2e0!7i16384!8i8192",
-              "alt": "Canada Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Transformers on Prince Edward Island and Nova Scotia will be installed at a 45° angle relative to the road. On PEI, red numbers will usually be written on the side."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/45_angle_transformers.png",
-              "link": "https://maps.app.goo.gl/TmdZVGRQZvndf3gC8",
-              "alt": "Canada Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Insulators facing **towards or away from the road** are mostly found in Québec, Nova Scotia, and Prince Edward Island. Other provinces tend to have their insulators facing the same direction as the road.",
-            "NOTE: This is most trustworthy when the pole is not at an intersection or driveway."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Perpendicular_Insulators.png",
-              "link": "https://maps.app.goo.gl/rWvpD9mtxFp4VE9f7",
-              "alt": "Canada Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These distinctive pole tops are most commonly found in Ontario. They have two insulators to the **side**, and one on **top**. The side insulators are affixed to the pole with a distinct** **attachment. Sometimes, multiple of them can be [stacked](https://goo.gl/maps/ZVECCo5w5KVtJRmT6) on top of each other.",
-            "NOTE: They can occasionally appear in British Columbia, Nova Scotia, or other provinces more rarely."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_Map20.png",
-              "link": "https://goo.gl/maps/gwX7jhgyotL11Qcc6",
-              "alt": "Canada Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Some Québec poles have recognizable pole tops with insulator rods that are **angled slightly upwards**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Quebec_poletop.png",
-              "link": "https://goo.gl/maps/28ssaXrNpLopwPZ27",
-              "alt": "Canada Poles"
             }
           ]
         },
@@ -1194,19 +839,6 @@ export const CanadaClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "You can sometimes find **white dashes** between the yellow centre lines in Saskatchewan."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/SK-RoadLines_Guide_map.png",
-              "link": "https://maps.app.goo.gl/RtPNG9nr3VhsS9D99",
-              "alt": "Canada Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Stop signs with the word **‘Arrêt’ **are unique to Québec."
@@ -1265,22 +897,6 @@ export const CanadaClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "Rural roads in Manitoba are organised in a grid and referred to only by their number and cardinal direction.",
-            "- Roads ending in **N** run east to west. Their numbers increase by one for every mile north of the US border.",
-            "- Roads with **E** or **W** run north to south. They tell you their position relative to the principal meridian, located just west of Winnipeg.",
-            "For instance, this image was taken 105 miles north of the US border and 147 miles west of the principal meridian."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/manitoba_roads.png",
-              "link": "https://maps.app.goo.gl/WYRsCgBkUQFGKe2p7",
-              "alt": "Canada Regions"
-            }
-          ]
-        },
-        {
           "title": "Poles",
           "text": [
             "This guardrail, with **small poles** connected by **three** or **four metal wires**, can rarely be found on major highways in Alberta."
@@ -1329,20 +945,6 @@ export const CanadaClue = {
               "url": "https://www.plonkit.net/images/canada/Newfounland_and_Labrador_boxes.png",
               "link": "https://goo.gl/maps/Zf7ZoRko5o4K8bfe9",
               "alt": "Canada Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Within Eastern Canada, **double yellow lines** are most common in Nova Scotia, followed by Québec and Prince Edward Island. Ontario prefers single yellow lines for this purpose, but will occasionally use them.",
-            "_For some empirical research, please see this [document](https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit?tab=t.0#heading=h.vhodl2gtolwe)._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/canada_double_road_lines.png",
-              "link": "https://maps.app.goo.gl/V9xVQ24xsnu3adYM8",
-              "alt": "Canada Road Lines"
             }
           ]
         },
@@ -1417,72 +1019,6 @@ export const CanadaClue = {
         {
           "title": "Landscape",
           "text": [
-            "Western Canada is very **mountainous**. The highest mountains are in British Columbia, western Alberta, and parts of Yukon. Outside these provinces, large mountains are rare to non-existent in Canada."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_mountains2.png",
-              "link": "https://goo.gl/maps/rPYM4LWUyfyAM5HK8",
-              "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Yukon has a very northern, **boreal landscape** that is mostly **hilly**,** **sometimes** **with [large mountains](https://goo.gl/maps/j7jVz8vNP3EczZRF8)** **in the distance. Coniferous** **trees line the roads and the further north you go, the thinner and shorter** **the trees get. Older [Generation 2 coverage](https://goo.gl/maps/EuhTiy8inFfLy7BF8) is common in this region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Yukon_landscape.png",
-              "link": "https://goo.gl/maps/gpKVLHs3Y1fFmJ5b7",
-              "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The landscape in the interior of southern British Columbia, mostly centred around the towns of **Kamloops and Kelowna**, has a distinct look. It is generally hilly and a little more arid than the rest of BC, The vegetation consists of sprawling brown grasslands, and pine tree forests on the hillsides."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/BC_interior.png",
-              "link": "https://goo.gl/maps/NRceyf33sq1Xb8iV6",
-              "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The **Great Plains** are mostly flat, with some rolling hills. There is a lot of agriculture, very few trees, and it is very sparsely populated. The landscape gets drier the further south-southwest you go, with the driest parts near the border with the US state of Montana."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_great_plains.png",
-              "link": "https://goo.gl/maps/hnbzoiDyCZp88BPq9",
-              "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Canola is grown in the **central southern** prairies, and it can be found almost nowhere else in Canada. It is visually similar to a field of bright **yellow flowers**.",
-            "NOTE: Canola is also very common in the US state of North Dakota."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/ca_canola.png",
-              "link": "https://goo.gl/maps/3jGW9ygtXqFBPD2c8",
-              "alt": "Canada Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
             "The region around Rouyn-Noranda in northwestern Québec can mainly be characterised by the **north-south grid, **along with the **slightly hilly** landscape featuring many agricultural fields nestled between the forests, which have many shorter trees as well as thin birches."
           ],
           "images": [
@@ -1521,19 +1057,6 @@ export const CanadaClue = {
           ]
         },
         {
-          "title": "Coverage",
-          "text": [
-            "The Canadian Shield extends through the eastern part of Canada. Therefore, you will commonly see **exposed rocks** on street view in the highlighted area."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_Map32.png",
-              "link": "https://goo.gl/maps/kCnFbrXrTvnk9rhW8",
-              "alt": "Canada Coverage"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The **Québec City-Windsor Corridor** is the most densely populated part of Canada. It is mostly flat and green, with a patchwork of agriculture and occasional forest cover.",
@@ -1558,20 +1081,6 @@ export const CanadaClue = {
               "url": "https://www.plonkit.net/images/canada/PEI_Hint.png",
               "link": "https://maps.app.goo.gl/cRPJwgS7fLc4af636",
               "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The **Balsam Fir **is a very common** **species of tree found in Newfoundland. It has a Christmas tree-like appearance.",
-            "NOTE: While most commonly found in Newfoundland, the Balsam Fir can also grow in other parts of Eastern Canada and the US. For an overview, see [this](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Abies_balsamea_range_map_3.png/1280px-Abies_balsamea_range_map_3.png) map."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Newfoundland_trees.png",
-              "link": "https://goo.gl/maps/oudCph4n3bNhGott5",
-              "alt": "Canada Regions"
             }
           ]
         },
@@ -1638,20 +1147,6 @@ export const CanadaClue = {
       "title": "Spotlight",
       "tips": [
         {
-          "title": "Road Lines",
-          "text": [
-            "The **Dempster Highway** (road numbers 5 and 8) connects the Klondike Highway (road number 2) in Yukon with the remote town of Inuvik in the Northwest Territories.",
-            "It is very recognizable: it is an unpaved road with Generation 2 coverage, **dark brown** soil, and a tundra landscape with **short trees**. It is mostly hilly and mountainous, but the section between Fort McPherson and Inuvik is flat. Closer to Inuvik, the weather gets cloudy."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Dempster_Highway.png",
-              "link": "https://goo.gl/maps/WBFNUhxUP2gw1XwW6",
-              "alt": "Canada Road Lines"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "The **Top of the World Highway** west of Dawson City in Yukon has overcast Generation 2 coverage and is located mostly high up in the mountains, making it recognizable."
@@ -1661,19 +1156,6 @@ export const CanadaClue = {
               "url": "https://www.plonkit.net/images/canada/Canada_Map21.png",
               "link": "https://goo.gl/maps/sLDdoVfzeAY8pu1Z9",
               "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A group of **motorcyclists **can be seen in front of the Google car on this stretch of Highway 1 near Beaver Creek in Yukon."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Canada_Map31.png",
-              "link": "https://goo.gl/maps/dwgZcfSrKJ6t5pDDA",
-              "alt": "Canada Google Car"
             }
           ]
         },
@@ -1700,19 +1182,6 @@ export const CanadaClue = {
               "url": "https://www.plonkit.net/images/canada/Drumheller_Gen4.png",
               "link": "https://goo.gl/maps/2MwqJhq1PHT87jJ68",
               "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "The **Trans-Labrador Highway** (road numbers 500 and 510) is a recognizable road, covered by Generation 4, mostly during sunny weather conditions. Thin pine** **trees line the side of the road, and it has a remote, cold, and northern feel. On many parts of the road, the sun is low in the sky. In addition, when the car drives past the city of **Happy Valley-Goose Bay**, it is common to see [snow on the ground](https://maps.app.goo.gl/oGGyzG5H1sVvQot78)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/NL510_map.png",
-              "link": "https://goo.gl/maps/Hegora3pRzu3Saub9",
-              "alt": "Canada Google Car"
             }
           ]
         },
@@ -1782,33 +1251,6 @@ export const CanadaClue = {
           ]
         },
         {
-          "title": "Google Car",
-          "text": [
-            "The remote town of Churchill in northern Manitoba features a trekker with a distinct thin **antenna **visible on the front right side of the car. The town also has unique street signs.",
-            "NOTE: This coverage is also seen in the surrounding area."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Trekker_-_Churchill.png",
-              "link": "https://goo.gl/maps/vGYxXztnsMDBt6jh8",
-              "alt": "Canada Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This unique Google car and **dark**-coloured soil is found in Tulita, NWT. The car will most often look like this, but can also be fully blurred with just the **antenna** visible, or with the hood of the car visible."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/ca_tutila.png",
-              "link": "https://www.google.com/maps/@64.9000521,-125.5774667,3a,50.3y,287.74h,75.24t/data=!3m7!1e1!3m5!1sfJ7GgV--URIYljkzqltfHA!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fpanoid%253DfJ7GgV--URIYljkzqltfHA%2526cb_client%253Dmaps_sv.tactile.gps%2526w%253D203%2526h%253D100%2526yaw%253D201.8783%2526pitch%253D0%2526thumbfov%253D100!7i13312!8i6656",
-              "alt": "Canada Google Car"
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "Sanikiluaq is a remote town situated **in Hudson Bay**. This snowy town was covered by a snowmobile whose driver wore a dark **brown **coat.",
@@ -1859,19 +1301,6 @@ export const CanadaClue = {
               "url": "https://www.plonkit.net/images/canada/Resolute_Map.png",
               "link": "https://goo.gl/maps/fu434dq5xJiyS2EC8",
               "alt": "Canada Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Cambridge Bay is the only Nunavut settlement to have **Generation 2** trekker coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/canada/Cambride_bay_map.png",
-              "link": "https://goo.gl/maps/JzSx2ze7oVV1NR388",
-              "alt": "Canada Coverage"
             }
           ]
         },

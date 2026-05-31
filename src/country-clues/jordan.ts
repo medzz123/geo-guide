@@ -72,72 +72,16 @@ export const JordanClue = {
     }
   ],
   "categories": [
-    "Google Car",
-    "Plates",
     "Road Lines",
     "Poles",
-    "Signs",
     "Landscape",
     "Coverage",
     "Other"
   ],
   "keyClues": [
     {
-      "title": "Google Car",
-      "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "Coverage in Jordan was taken by a **black** Google car, without a red brake light.",
-            "NOTE: Jordan is the only Middle Eastern country where a black Google car without an antenna or a red brake light can be found."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Untitled_design89.png",
-              "link": "https://goo.gl/maps/5gwKWQHcwNAdRcj6A",
-              "alt": "Jordan Google Car"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Plates",
-      "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Jordanian licence plates are **white** and can be long or short. Commercial transport vehicles, such as taxis, have a distinctive **green strip** on the left.",
-            "NOTE: In the Middle East, the green strip is only found in Jordan.",
-            "The UAE also uses long white plates. Israel however only uses yellow licence plates. In Palestine, both white domestic and yellow Israeli plates are common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Jordan_License_Plate.png",
-              "link": "https://www.plonkit.net/images/jordan/Jordan_License_Plate.png",
-              "alt": "Jordan Plates"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Road Lines",
       "tips": [
-        {
-          "title": "Road Lines",
-          "text": [
-            "Roads in Jordan typically feature **yellow outside** and **white middle **lines.",
-            "NOTE: Other Middle Eastern countries such as the UAE and Israel can also have these road lines. Make sure to check other clues before guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/roadlines.png",
-              "link": "https://goo.gl/maps/uFnASS6JeeZLjsiS8",
-              "alt": "Jordan Road Lines"
-            }
-          ]
-        },
         {
           "title": "Road Lines",
           "text": [
@@ -167,39 +111,6 @@ export const JordanClue = {
               "url": "https://www.plonkit.net/images/jordan/Untitled_design92.png",
               "link": "https://goo.gl/maps/vKF8m8xHi4tb72P57",
               "alt": "Jordan Poles"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Signs",
-      "tips": [
-        {
-          "title": "Signs",
-          "text": [
-            "The official language used in Jordan is **Arabic** and can be identified by its lines and dots.",
-            "NOTE: Unlike the UAE, Jordan does not have English writing on most commercial signs. This can be helpful to distinguish the two countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/arabic_language.png",
-              "link": "https://www.plonkit.net/images/jordan/arabic_language.png",
-              "alt": "Jordan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Jordanian chevrons are **white with red arrows**.",
-            "NOTE: You can use chevrons to distinguish between Jordan and Israel: the Israeli chevrons are black with white arrows."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/chevron.png",
-              "link": "https://goo.gl/maps/De9DmfTFSAMYSZPTA",
-              "alt": "Jordan Signs"
             }
           ]
         }
@@ -342,164 +253,12 @@ export const JordanClue = {
               "alt": "Jordan overview"
             }
           ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Coverage in Jordan was taken by a **black** Google car, without a red brake light.",
-            "NOTE: Jordan is the only Middle Eastern country where a black Google car without an antenna or a red brake light can be found."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Untitled_design89.png",
-              "link": "https://goo.gl/maps/5gwKWQHcwNAdRcj6A",
-              "alt": "Jordan Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Jordanian licence plates are **white** and can be long or short. Commercial transport vehicles, such as taxis, have a distinctive **green strip** on the left.",
-            "NOTE: In the Middle East, the green strip is only found in Jordan.",
-            "The UAE also uses long white plates. Israel however only uses yellow licence plates. In Palestine, both white domestic and yellow Israeli plates are common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Jordan_License_Plate.png",
-              "link": "https://www.plonkit.net/images/jordan/Jordan_License_Plate.png",
-              "alt": "Jordan Plates"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The official language used in Jordan is **Arabic** and can be identified by its lines and dots.",
-            "NOTE: Unlike the UAE, Jordan does not have English writing on most commercial signs. This can be helpful to distinguish the two countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/arabic_language.png",
-              "link": "https://www.plonkit.net/images/jordan/arabic_language.png",
-              "alt": "Jordan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Roads in Jordan typically feature **yellow outside** and **white middle **lines.",
-            "NOTE: Other Middle Eastern countries such as the UAE and Israel can also have these road lines. Make sure to check other clues before guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/roadlines.png",
-              "link": "https://goo.gl/maps/uFnASS6JeeZLjsiS8",
-              "alt": "Jordan Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Jordanian chevrons are **white with red arrows**.",
-            "NOTE: You can use chevrons to distinguish between Jordan and Israel: the Israeli chevrons are black with white arrows."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/chevron.png",
-              "link": "https://goo.gl/maps/De9DmfTFSAMYSZPTA",
-              "alt": "Jordan Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These are three common electricity poles that you will find in Jordan. Rounded concrete poles have either a **diagonal support** or consist of three horizontal **Y pole tops.** You may additionally see thin, two support metal poles with three vertical coils."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Untitled_design92.png",
-              "link": "https://goo.gl/maps/vKF8m8xHi4tb72P57",
-              "alt": "Jordan Poles"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Jordan is a **very arid** country, with limited vegetation and a lot of almost completely lifeless desert. The lushest parts will still only have the look of an [arid Mediterranean landscape](https://maps.app.goo.gl/zvmGEnAftHUVwb6N9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/jo_landscape.png",
-              "link": "https://maps.app.goo.gl/x6B4NqSBZcAFfdz38",
-              "alt": "Jordan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Most buildings in Jordan are made of **bright sandstone bricks** and have flat roofs.",
-            "NOTE: Similar sandstone bricks are also common in [Jerusalem](https://maps.app.goo.gl/asRSSgsgJHajzb9N6) and in [the West Bank](https://maps.app.goo.gl/MSSFNKXV4ux3cFhq8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/jo_architecture.png",
-              "link": "https://maps.app.goo.gl/ynzUtqqpbxSvA2389",
-              "alt": "Jordan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "On occasion, the road quality in Jordan is reflective of its age. Roads are well travelled and can be in poor condition. The heat has caused the asphalt to buckle, creating **warped cracks** in the road.",
-            "NOTE: In general, the road quality as a whole tends to be worse than Israel."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Jordan_road.png",
-              "link": "https://goo.gl/maps/dgww956zaSN475AG9",
-              "alt": "Jordan Road Lines"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional and governorate-specific clues",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "Jordan only has Street View coverage in the **far** **western part** of the country. Coverage is limited to bigger towns and main roads in this area.",
-            "NOTE: Coverage ends just north of Jerash. Even though Irbid is the second largest city of Jordan, it has zero official coverage. In the south, coverage extends all the way to the coastal town of Aqaba, but not south of it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/jo_coverage.png",
-              "link": "https://www.plonkit.net/images/jordan/jo_coverage.png",
-              "alt": "Jordan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "**Amman** is by far the largest city in Jordan with extensive coverage. It is a bustling, developed metropolis with a distinct **“big city” feel** to it. It is slightly hilly and most of the city consists of medium-sized apartment blocks."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Amman.png",
-              "link": "https://goo.gl/maps/4ntHt9XwLWXmRkmx6",
-              "alt": "Jordan Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -630,46 +389,6 @@ export const JordanClue = {
       "title": "Spotlight",
       "tips": [
         {
-          "title": "In Amman, taxis are yellow and green....",
-          "text": [
-            "In **Amman**, taxis are yellow and green.",
-            "NOTE: The colours of taxis can be useful to distinguish between Jordanian cities."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Amman_Taxi.png",
-              "link": "https://goo.gl/maps/aWcY26YHccAWvSWQ7",
-              "alt": "Jordan In Amman, taxis are yellow and green...."
-            }
-          ]
-        },
-        {
-          "title": "In Aqaba, taxis are olive green on...",
-          "text": [
-            "In **Aqaba**, taxis are olive green on the top and black at the bottom."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Aqaba_Taxi.png",
-              "link": "https://goo.gl/maps/HyGhMKtWhfb5yMYm8",
-              "alt": "Jordan In Aqaba, taxis are olive green on..."
-            }
-          ]
-        },
-        {
-          "title": "In Madaba, taxis are yellow with white...",
-          "text": [
-            "In **Madaba**, taxis are yellow with white bumpers."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Madaba_Taxi.png",
-              "link": "https://maps.app.goo.gl/gaCsqnC6zSeqyXyo8",
-              "alt": "Jordan In Madaba, taxis are yellow with white..."
-            }
-          ]
-        },
-        {
           "title": "Landscape",
           "text": [
             "In some parts of the town of **Wadi Musa**, unique mountains with distinctive, bulbous rock formations can be seen in the background."
@@ -679,20 +398,6 @@ export const JordanClue = {
               "url": "https://www.plonkit.net/images/jordan/Wadi_Musa_Mountains.png",
               "link": "https://goo.gl/maps/tFXJwj2MRcUmKTop6",
               "alt": "Jordan Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "West of the town of **Wadi Musa**, a collection of trekkers can be found in and around **Petra**, a rock-cut city from antiquity. This trekker coverage features highly eroded reddish rocks, narrow gorges, and occasionally groups of tourists crowding around the archaeological sites.",
-            "NOTE: While not likely to appear in competitive or pinpointable maps, these trekkers are a mainstay in many maps, including the default World map."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/jordan/Petra.png",
-              "link": "https://goo.gl/maps/tb9JSiqx9jJXPAWa6",
-              "alt": "Jordan Coverage"
             }
           ]
         }

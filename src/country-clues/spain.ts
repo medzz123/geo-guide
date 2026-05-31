@@ -151,20 +151,6 @@ export const SpainClue = {
         {
           "title": "Plates",
           "text": [
-            "Spain uses standard long, **white** European plates with a single **blue strip** on the left.",
-            "NOTE: Most Portuguese plates have a yellow strip on the right. Italian plates have two blue strips on either side of the plate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain_License_Plate.png",
-              "link": "https://www.plonkit.net/images/spain/Spain_License_Plate.png",
-              "alt": "Spain Plates"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
             "Spain has **highly diverse landscapes**, ranging from [lush Atlantic forests](https://goo.gl/maps/U8Vp3k1yGrLdVQANA) to [bone-dry semideserts](https://goo.gl/maps/PwTpyn5Lw6DMApWGA). Elevation is also varied: highland plateaus interspersed with [rolling hills](https://goo.gl/maps/hDzbVSrJbPSPQVnJ7) are common, but you might also encounter jagged mountain ranges and [very flat lowland](https://goo.gl/maps/kgiM3UXvKiQAcToWA) areas."
           ],
           "images": [
@@ -216,20 +202,6 @@ export const SpainClue = {
         {
           "title": "Bollards",
           "text": [
-            "The standard Spanish bollards have a **yellow-orange** reflector on the front and two white dots on the back (though the back can also be blank). They are typically hollow.",
-            "NOTE: Very close to Andorra, you can find a [slightly different bollard](https://goo.gl/maps/7zfsuvqVcq5xhuTJ7), which is also used in Andorra itself."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain_bollards.png",
-              "link": "https://goo.gl/maps/f39TkzykcUZ8ZmqaA",
-              "alt": "Spain Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
             "Yellow snow poles with one or two reflectors are unique to Asturias. They are usually found in the south of the region."
           ],
           "images": [
@@ -270,53 +242,25 @@ export const SpainClue = {
               "alt": "Spain Bollards"
             }
           ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "In the region of Extremadura, it is common to see the normal Spanish bollards with **green tops**. This bollard variant is exclusive to this region."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/spain/extremadura_bollard.png",
+              "link": "https://goo.gl/maps/bNd56dntwaq7EPSE6",
+              "alt": "Spain Bollards"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Poles",
       "tips": [
-        {
-          "title": "Poles",
-          "text": [
-            "In Spain, you can find a variety of electricity poles and pole tops. In small towns and sparsely populated rural areas **concrete ladder poles** and **wooden poles** are the most common.",
-            "“Ladder” poles have indents that resemble a ladder, hence the name."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Ladder_and_wooden_poles.png",
-              "link": "https://goo.gl/maps/b9iGeWrUo1v6XRBJ6",
-              "alt": "Spain Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "“**French style**” poletops are common in Spain. They are shaped like an upside down triangle, with a horizontal top bar that is curved slightly upwards. They are usually found on top of tall ladder poles or [medium sized steel poles](https://goo.gl/maps/yWPof9m7EEy7o5u97).",
-            "NOTE: As the name suggests, French poletops are also very common in France."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Frenchpoletop_Spain.png",
-              "link": "https://goo.gl/maps/ZbqqMWFzWxYZ78Xy5",
-              "alt": "Spain Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "High voltage electricity lines supported by **pylons** are very common in Spain, especially compared to other Mediterranean countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Pylons.png",
-              "link": "https://goo.gl/maps/ohasmeD8ikFRBtRm8",
-              "alt": "Spain Poles"
-            }
-          ]
-        },
         {
           "title": "Poles",
           "text": [
@@ -725,131 +669,6 @@ export const SpainClue = {
           ]
         },
         {
-          "title": "Plates",
-          "text": [
-            "Spain uses standard long, **white** European plates with a single **blue strip** on the left.",
-            "NOTE: Most Portuguese plates have a yellow strip on the right. Italian plates have two blue strips on either side of the plate."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain_License_Plate.png",
-              "link": "https://www.plonkit.net/images/spain/Spain_License_Plate.png",
-              "alt": "Spain Plates"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "The standard Spanish bollards have a **yellow-orange** reflector on the front and two white dots on the back (though the back can also be blank). They are typically hollow.",
-            "NOTE: Very close to Andorra, you can find a [slightly different bollard](https://goo.gl/maps/7zfsuvqVcq5xhuTJ7), which is also used in Andorra itself."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain_bollards.png",
-              "link": "https://goo.gl/maps/f39TkzykcUZ8ZmqaA",
-              "alt": "Spain Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "In Spain, you can find a variety of electricity poles and pole tops. In small towns and sparsely populated rural areas **concrete ladder poles** and **wooden poles** are the most common.",
-            "“Ladder” poles have indents that resemble a ladder, hence the name."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Ladder_and_wooden_poles.png",
-              "link": "https://goo.gl/maps/b9iGeWrUo1v6XRBJ6",
-              "alt": "Spain Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "“**French style**” poletops are common in Spain. They are shaped like an upside down triangle, with a horizontal top bar that is curved slightly upwards. They are usually found on top of tall ladder poles or [medium sized steel poles](https://goo.gl/maps/yWPof9m7EEy7o5u97).",
-            "NOTE: As the name suggests, French poletops are also very common in France."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Frenchpoletop_Spain.png",
-              "link": "https://goo.gl/maps/ZbqqMWFzWxYZ78Xy5",
-              "alt": "Spain Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "High voltage electricity lines supported by **pylons** are very common in Spain, especially compared to other Mediterranean countries."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Pylons.png",
-              "link": "https://goo.gl/maps/ohasmeD8ikFRBtRm8",
-              "alt": "Spain Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Spain has distinct road markers with a variety of **colourful borders**. The code on top is the number of the road.",
-            "NOTE: Andorra has [similar markers](https://goo.gl/maps/FEWfZhUVrr8EUTv28) and the letter codes preceding the road number on these markers are often an important region-specific clue. You can learn more about these codes in the region guessing section."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain_marker.png",
-              "link": "https://goo.gl/maps/g5W1QhLR6gQpoHB38",
-              "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "In rural areas you will often find hunting signs. There are two versions, both of which are unique to Spain. One is a simple white sign with a text starting with “coto” and ending in “caza”. The other one has a diagonally divided black and white background.",
-            "NOTE: These signs have an identifying [code](https://www.google.com/maps/@39.7437882,-5.9988875,3a,15y,62.89h,79.86t/data=!3m6!1e1!3m4!1ssz27mavsgGpo566T_-XEmg!2e0!7i16384!8i8192) that can sometimes be read. In this case “Ex” stands for Extremadura."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Caza.png",
-              "link": "https://goo.gl/maps/MZj8GHNroBUSrTr9A",
-              "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Spain has **yellow reflectors** on rounded A-type guardrails.",
-            "NOTE: Belgium, Andorra, Gibraltar and most Latin American countries also have yellow reflectors. For a good overview of European guardrails, see [this infographic](/images/spain/europeguardrail.png)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/2022-12-11_5.png",
-              "link": "https://goo.gl/maps/shMgzeFPhLmZMiqX6",
-              "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Spanish pedestrian crossing signs have **8 stripes**. This is the highest number of stripes in Europe, and almost unique to Spain.",
-            "NOTE: The only other European country with 8 stripes is Andorra."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/2022-12-11_11.png",
-              "link": "https://goo.gl/maps/tsQ3wkTxKwZuebwp9",
-              "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Spanish stop signs have a distinct **small** font.",
@@ -923,52 +742,6 @@ export const SpainClue = {
           ]
         },
         {
-          "title": "Road Lines",
-          "text": [
-            "Rural roads sometimes have **dashed outer lines**. This can help tell Spain apart from Portugal and Italy, where such road lines are (almost) non-existent.",
-            "Note that the reverse is not true: like Italy and Portugal, many Spanish roads do have solid outer lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Dashed_road_lines.png",
-              "link": "https://goo.gl/maps/eSxQan5zqS16zN9c7",
-              "alt": "Spain Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "**Spanish** is the main language in most of the country. It is a Romance language that is closely related to Portuguese.",
-            "Spanish and Portuguese can look very similar. Some key differences between the two:",
-            "- Ñ is unique to Spanish.",
-            "- Ç and lh are unique to Portuguese (Ç is also present in Catalan).",
-            "- Portuguese uses the -ao word ending, and -nh- instead of ñ.",
-            "- Spanish uses de and del, while these are often contracted to da, do, das and dos in Portuguese.",
-            "NOTE: Spain also has several regional languages, some of which are more common than Spanish in their respective regions. These languages are discussed in more detail in the region-guessing section."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/es_language.png",
-              "link": "https://www.plonkit.net/images/spain/es_language.png",
-              "alt": "Spain Language"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "The Spanish word for street is **calle**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/es_calle.png",
-              "link": "https://goo.gl/maps/Lb6KPRC8c5nRiuTT8",
-              "alt": "Spain Language"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "You will often find no parking signs in front of garage doors and gates. They will usually read “**Vado permanente**”.",
@@ -980,85 +753,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Vado_Pernamente.png",
               "link": "https://goo.gl/maps/ggB6ahzm9wQpcbV18",
               "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Spain has **highly diverse landscapes**, ranging from [lush Atlantic forests](https://goo.gl/maps/U8Vp3k1yGrLdVQANA) to [bone-dry semideserts](https://goo.gl/maps/PwTpyn5Lw6DMApWGA). Elevation is also varied: highland plateaus interspersed with [rolling hills](https://goo.gl/maps/hDzbVSrJbPSPQVnJ7) are common, but you might also encounter jagged mountain ranges and [very flat lowland](https://goo.gl/maps/kgiM3UXvKiQAcToWA) areas."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain_landscape_diversity.png",
-              "link": "https://goo.gl/maps/hDzbVSrJbPSPQVnJ7",
-              "alt": "Spain Plates"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "While there is not one single definitive Spanish landscape, most of the country has a somewhat dry, **Mediterranean** climate, with matching vegetation and agriculture."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/2022-12-13_17.png",
-              "link": "https://goo.gl/maps/LEwY4TUekCVdWyzw7",
-              "alt": "Spain Language"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Generation 3 cars can have **long, short** or **no** antennas. The back of the car is usually not visible, but when it is, it can be either black or white.",
-            "NOTE: Coverage in Eastern Andalusia, Huesca, and Lleida sometimes has a long antenna with a [distinctive white top](https://maps.app.goo.gl/Hg7iR7rEuQNftXKe6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Gen_3_cars.png",
-              "link": "https://goo.gl/maps/JaBU6J9bD7NtPEbRA",
-              "alt": "Spain Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Generation 4 cars are **blue** or less commonly **black**. The car can be completely hidden."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Gen_4_cars.png",
-              "link": "https://goo.gl/maps/Lp9G3bYicay2j1KGA",
-              "alt": "Spain Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Spain also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/europe_2Bsmallcam.png",
-              "link": "https://maps.app.goo.gl/RZagzwWrJNhXTS2m6",
-              "alt": "Spain Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Google used a weird, low-quality camera in Spain. This camera is known as the **official Ari** (or “Shitcam”). It has a wide circular car blur, and can be distinguished from Generation 2 by its lack of a sky halo and often somewhat brownish colours. A good map will not usually include this coverage, but it is good to be aware of its existence, in order to not be caught off-guard by it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Screenshot__28213_29.png",
-              "link": "https://maps.app.goo.gl/hv2AT9SvyV1Rr2a87",
-              "alt": "Spain Google Car"
             }
           ]
         }
@@ -1085,19 +779,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Spain-road-codes-small-version-v2_darkmode.png",
               "link": "https://www.plonkit.net/images/spain/Spain-road-prefixes-final-version-hopefully.png",
               "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Area codes** in Spain are very useful, as you only need two digits to get a very accurate guess. Every landline number starts with “9”, followed by the regional numbers.",
-            "Mobile numbers start with “6”, and are not relevant in region guessing."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain-telephone-codes__281_29_darkmode.png",
-              "alt": "Spain Regions"
             }
           ]
         },
@@ -1134,19 +815,6 @@ export const SpainClue = {
           ]
         },
         {
-          "title": "The Catalan word for street is “carrer”.",
-          "text": [
-            "The Catalan word for street is “**carrer**”."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/es_catalan_carrer.png",
-              "link": "https://goo.gl/maps/vYS6MdsXbVuU13tU8",
-              "alt": "Spain The Catalan word for street is “carrer”."
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "No parking signs in Catalan speaking areas will read “**Gual permanent**”. Most municipalities use “gual” in Catalonia and the Balearic Islands, while it’s more common to find a mix of Spanish and Catalan signs in Valencia."
@@ -1171,19 +839,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/es_basque_language.png",
               "link": "https://www.plonkit.net/images/spain/es_basque_language.png",
               "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "Streets in Basque-speaking areas are sometimes called “**kalea**”. However, Spanish “calle” is also still common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/es_basque_kalea2.png",
-              "link": "https://goo.gl/maps/4UpRZLnzVKTNbNxHA",
-              "alt": "Spain Language"
             }
           ]
         },
@@ -1229,46 +884,6 @@ export const SpainClue = {
           ]
         },
         {
-          "title": "Regions",
-          "text": [
-            "Many **Galician town names** start with A, O, As or Os articles (examples: “A Pena”, “O Burgo”, “As Cruces”). This is both very common and unique to this region, and rarely over the border in western Asturias."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/es_galician_town_names.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=63.09341616260334&heading=279.28773509966504&map_action=pano&pano=IMJhyMjcVU8YpaM_KXsrpA&pitch=4.267219056162247&viewpoint=43.315836%252C-8.361698#extra%255BloadMode%255D=latLng",
-              "alt": "Spain Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The regional flags of the autonomous communities are reasonably common, so it is worth learning them.",
-            "NOTE: You can practise them with [this quiz](https://www.geoguessr.com/seterra/en/fl/2033)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Regional-flags-of-Spain.png",
-              "link": "https://www.plonkit.net/images/spain/Regional-flags-of-Spain.png",
-              "alt": "Spain Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The Catalan Independence flag is not official, but is commonly found in Catalan-speaking areas. It uses the **red-and-yellow** striped [Senyera](https://en.wikipedia.org/wiki/Senyera) pattern that is also used in four of the autonomous community flags."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain_catalonian_independence_flag.png",
-              "link": "https://goo.gl/maps/NrDeepkEVq1kXCG49",
-              "alt": "Spain Regions"
-            }
-          ]
-        },
-        {
           "title": "Language",
           "text": [
             "Spain is a very **mountainous** country.",
@@ -1282,59 +897,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Spain_topo.png",
               "link": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Spain_topo.jpg",
               "alt": "Spain Language"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The landscape in the far north is much more **green and lush** than the rest of Spain. The landscape is generally quite hilly. Hedges and green meadows are common. In some places, this region’s landscape bears a vague resemblance to Ireland, France and the UK."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain-northern-coast.png",
-              "link": "https://goo.gl/maps/eYzpg7ycDnLhghrF7",
-              "alt": "Spain Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The **Pyrenees** is a large mountain range on the border between Spain and France. Its mountains are some of the highest in all of Spain. It can be recognized by its light grey rock and abundance of pine trees. Local architecture features many [rock walls](https://goo.gl/maps/F67y544xPUyR5ypo7).",
-            "NOTE: Andorra and the French part of the Pyrenees look very similar in terms of landscape and architecture. Also consider that the exclave of [Llívia](/images/spain/spain_pyreneesllivia.png) is part of Spain."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Spain-pyrenees.png",
-              "link": "https://goo.gl/maps/ke9G9833nL9NYqCy5",
-              "alt": "Spain Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Thick forests of **tall pines** can be found all throughout the Pyrenees. When encountered in smaller mountains in between grazing fields or agricultural land, it will most likely be in the Basque Country or Navarra."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Pyrinees_pines.png",
-              "link": "https://goo.gl/maps/bFjSYDN2q9PSXsBo6",
-              "alt": "Spain Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The centre of Castilla y León features a **mostly flat agricultural landscape**, with only slight changes in elevation. Most of the fields will have cereal crops like wheat and barley, and it is fairly common to find sunflower plantations."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/CyL_secarral.png",
-              "link": "https://goo.gl/maps/kJLBSFvGbncmZBYa8",
-              "alt": "Spain Landscape"
             }
           ]
         },
@@ -1457,19 +1019,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Malaga_style_villages.png",
               "link": "https://goo.gl/maps/gdiMYjENFoed9D7m7",
               "alt": "Spain Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Olive trees are one of the main...",
-          "text": [
-            "**Olive trees** are one of the main crops planted in Spain, they can be commonly seen in more than half of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Olivares_gral.png",
-              "link": "https://goo.gl/maps/CAKR7SobykgcJ3sK8",
-              "alt": "Spain Olive trees are one of the main..."
             }
           ]
         },
@@ -1715,62 +1264,6 @@ export const SpainClue = {
           ]
         },
         {
-          "title": "Most bus stops in Asturias have a...",
-          "text": [
-            "Most bus stops in Asturias have a red post with the CTA logo at the top.",
-            "NOTE: These may be confused with [Madrid bus stops](https://maps.app.goo.gl/BUtYyixugRSHYbgR8), which can also have a red post. The company in charge of Madrid public transport goes by EMT."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Asturias_bus_stop.png",
-              "link": "https://goo.gl/maps/UpTYb5CZmxNPPKSg9",
-              "alt": "Spain Most bus stops in Asturias have a..."
-            }
-          ]
-        },
-        {
-          "title": "Trash containers in Asturias frequently have the...",
-          "text": [
-            "Trash containers in Asturias frequently have the logo of COGERSA, the logo’s shape is distinct and can be recognized from afar.",
-            "NOTE: Recycling bins can also feature this logo."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Asturias_cogersa.png",
-              "link": "https://goo.gl/maps/4Xhuh4E9rVjr7e4P6",
-              "alt": "Spain Trash containers in Asturias frequently have the..."
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Yellow snow poles with one or two reflectors are unique to Asturias. They are usually found in the south of the region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Asturias_snowpole_new.png",
-              "link": "https://goo.gl/maps/ZyEteJYS2Xy93kGr5",
-              "alt": "Spain Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "In Aragón, it is common to see this bollard design on regional roads.",
-            "It has a simple design, consisting of a short flat rectangular white stick with a grey reflector on both sides.",
-            "NOTE: There are [similar bollards](https://goo.gl/maps/S7WhiqK8rgF2caVt7) in other regions, but they appear much less frequently than in Aragón."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Aragon_bollard.png",
-              "link": "https://goo.gl/maps/4vo3GsLyZwTHtAk77",
-              "alt": "Spain Bollards"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "Many signs in Catalonia have **round, corrugated signposts**. This is especially common for direction signs. A similar design is also common in the [Basque Country](https://goo.gl/maps/7yJp32FEUtWj2mGp6) and the [Balearic Islands](https://goo.gl/maps/N8qyyoWVysXz7cKR6).",
@@ -1795,22 +1288,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Caca.png",
               "link": "https://goo.gl/maps/woWJHSd2b4TVeEFp6",
               "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "Within mainland Spain, this bollard is almost exclusive to the provinces of Lleida and Tarragona in Catalonia.",
-            "It features a more **square and orange reflector** on the front, compared to the standard Spanish bollard design. There is a **white reflector** on the back, instead of the two dots of standard bollards.",
-            "Some toll highways like the [AP-6](https://goo.gl/maps/Ce7fFoD835ZTPKzf7) also use this design.",
-            "NOTE: This bollard can also be found on the [eastern half of the Canary Islands](https://goo.gl/maps/uSyWhSZcGbTVX4dU8)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Lleida_Tarragona_bollard.png",
-              "link": "https://goo.gl/maps/mL2DFqqyKmqZwAtF6",
-              "alt": "Spain Bollards"
             }
           ]
         },
@@ -1855,19 +1332,6 @@ export const SpainClue = {
           ]
         },
         {
-          "title": "Bollards",
-          "text": [
-            "In the region of Extremadura, it is common to see the normal Spanish bollards with **green tops**. This bollard variant is exclusive to this region."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/extremadura_bollard.png",
-              "link": "https://goo.gl/maps/bNd56dntwaq7EPSE6",
-              "alt": "Spain Bollards"
-            }
-          ]
-        },
-        {
           "title": "Regions",
           "text": [
             "In Castilla la Mancha you can find stone markers with the region’s [coat of arms](https://brandemia.org/sites/default/files/inline/images/logo_castilla_antes.jpg) lining up fields. It can be recognized from afar by the blue coloured left side and the unpainted right side."
@@ -1877,19 +1341,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Castilla_la_Mancha_stone_marker.png",
               "link": "https://goo.gl/maps/m2PYoipkkZ7A4YWb9",
               "alt": "Spain Regions"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Poles with a **steel mesh** structure making **rectangular shapes** instead of the typical triangles can be found in the southern half of Spain, and are particularly common in Murcia and southern Alicante."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Murcia_Poles.png",
-              "link": "https://goo.gl/maps/rgr76NxPTxtTaFQs8",
-              "alt": "Spain Poles"
             }
           ]
         },
@@ -1935,20 +1386,6 @@ export const SpainClue = {
           ]
         },
         {
-          "title": "Architecture",
-          "text": [
-            "Many houses in Galicia are built with **big concrete blocks**, sometimes textured to resemble natural stone.",
-            "Plain concrete blocks are also an extremely common material for [walls](https://goo.gl/maps/rPpmQLWq37euCkuJ9) and miscellaneous buildings like [garages](https://maps.app.goo.gl/nwbdKGLUKSJGjp7FA)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Galicia_concrete_block.png",
-              "link": "https://goo.gl/maps/E3gzfJZBtm61fd9Y9",
-              "alt": "Spain Architecture"
-            }
-          ]
-        },
-        {
           "title": "In Galicia, these unique granaries called “horreos...",
           "text": [
             "In Galicia, these unique **granaries** called “horreos gallegos”, or “cabazos”, are very common. Note that they can be made from various materials, but the shape remains the same."
@@ -1972,61 +1409,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Ast_horreos.png",
               "link": "https://goo.gl/maps/tAq6cQE2jd6sZh978",
               "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "**Large white houses** with wooden frames are common in the Basque Country, the Basque part of Navarra, and Cantabria."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Casa_vasca.png",
-              "link": "https://goo.gl/maps/Sdv3U7z9YXkk9ceSA",
-              "alt": "Spain Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Traditional farm houses called “[masías](https://en.wikipedia.org/wiki/Masia)” are common in Catalonia, eastern Aragón and parts of the Valencian Community.",
-            "They are usually made of stone and stand isolated or as part of a small complex."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Masia.png",
-              "link": "https://goo.gl/maps/cvGcZP23XYpbA7zA7",
-              "alt": "Spain Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Within the centre and south of Spain, towns made **completely** out of **white painted houses** are very common in Andalucía and Extremadura.",
-            "You can still see a fair amount of white painted houses in Castilla la Mancha but streets where every house is white will not be common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/White_houses_south.png",
-              "link": "https://goo.gl/maps/xwEPuuUaYZfzhCCSA",
-              "alt": "Spain Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "In Asturias you can find a **black** car with **no antenna** and a visible brake light.",
-            "NOTE: This car can very rarely spill into neighbour regions like [Galicia](https://goo.gl/maps/NrhqCAJyCAzVSnb69)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Asturias_Black_Car_no_Antenna.png",
-              "link": "https://goo.gl/maps/8awDBFdhfrrt6dL6A",
-              "alt": "Spain Google Car"
             }
           ]
         },
@@ -2305,20 +1687,6 @@ export const SpainClue = {
               "url": "https://www.plonkit.net/images/spain/Camino_de_Santiago.png",
               "link": "https://goo.gl/maps/uUgkTvG5bKepKaA2A",
               "alt": "Spain Signs"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Coverage during early spring on dirt roads between green grassy fields, and leafless vineyards with red soil, is very common in the central-north part of Castilla la Mancha.",
-            "This type of coverage is particularly extensive in the northern part and exclusively in generation 3. Towards the south you will also find very similar looking coverage in generation 4."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/spain/Radial_towns_coverage.png",
-              "link": "https://goo.gl/maps/rhRLbpVHghzhQfSo8",
-              "alt": "Spain Road Lines"
             }
           ]
         },

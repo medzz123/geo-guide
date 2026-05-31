@@ -77,7 +77,6 @@ export const IsraelWestBankClue = {
     "Road Lines",
     "Poles",
     "Signs",
-    "Language",
     "Landscape",
     "Architecture",
     "Coverage",
@@ -88,20 +87,6 @@ export const IsraelWestBankClue = {
     {
       "title": "Google Car",
       "tips": [
-        {
-          "title": "Google Car",
-          "text": [
-            "Most Generation 3 coverage was taken by a **black** Street View car with a **long antenna**.",
-            "You may also see the black car [without an antenna](https://goo.gl/maps/WnSVs5zTAD2Ek8vu5) and a [silver car](https://www.google.com/maps/@32.8549507,35.0841946,3a,38.6y,212.8h,56.31t/data=!3m6!1e1!3m4!1sumy_ztStyzHowLAKdqEq6g!2e0!7i13312!8i6656?entry=ttu) with a short antenna."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_car.png",
-              "link": "https://goo.gl/maps/HKkcWapSvEt2eQqK7",
-              "alt": "Israel & the West Bank Google Car"
-            }
-          ]
-        },
         {
           "title": "Google Car",
           "text": [
@@ -141,26 +126,26 @@ export const IsraelWestBankClue = {
               "alt": "Israel & the West Bank Google Car"
             }
           ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "This **larger white** Citroën follow car with a **West Bank licence plate** can be found in a region surrounding Jerusalem. It is noticeably found in the cities of Bethlehem and Ramallah.",
+            "NOTE: The [side](https://goo.gl/maps/CyZBjDakijcXH87L6) of this car features the text “SECURITY” in a bold font. Furthermore, this coverage will always feature a black Street View car with [no antenna](https://goo.gl/maps/qSquP511uzs7bk9o6)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/israel-west-bank/ps_followcarbigwhite.png",
+              "link": "https://goo.gl/maps/FkHz1cDrgoL7ZUhn8",
+              "alt": "Israel & the West Bank Google Car"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Plates",
       "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "Israeli licence plates are **yellow **with a blue strip on the left.",
-            "NOTE: While this design is specific for Israel, it is also very common on the West Bank. Jordan and the UAE use white licence plates. Tunisia uses black plates."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_Licence_Plate.png",
-              "link": "https://www.plonkit.net/images/israel-west-bank/il_Licence_Plate.png",
-              "alt": "Israel & the West Bank Plates"
-            }
-          ]
-        },
         {
           "title": "Plates",
           "text": [
@@ -312,52 +297,8 @@ export const IsraelWestBankClue = {
       ]
     },
     {
-      "title": "Language",
-      "tips": [
-        {
-          "title": "Language",
-          "text": [
-            "You will typically find two languages; **Hebrew**, which is practically only found in Israel and the West Bank, and Arabic, which is particularly common in the West Bank."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_language.png",
-              "link": "https://www.plonkit.net/images/israel-west-bank/il_language.png",
-              "alt": "Israel & the West Bank Language"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Landscape",
       "tips": [
-        {
-          "title": "Landscape",
-          "text": [
-            "The landscape ranges from a greener Mediterranean landscape in the north, to a very arid landscape in the south."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_landscape.png",
-              "link": "https://goo.gl/maps/hhScwquZcUzWESXW9",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Architecture tends to consist of bright and warm-coloured stone buildings, often with a blocky appearance. While Mediterranean-style houses with orange tiled roofs are more common than in other Middle Eastern countries, flat roofs are still just as common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_architecture.png",
-              "link": "https://maps.app.goo.gl/tqduKCT4yWSuyqmU9",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -380,6 +321,33 @@ export const IsraelWestBankClue = {
             {
               "url": "https://www.plonkit.net/images/israel-west-bank/il_centrallandscape.png",
               "link": "https://goo.gl/maps/G6BQgcK88r3toJir6",
+              "alt": "Israel & the West Bank Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Southern Israel and eastern West Bank are **extremely dry** and sandy."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_southdry.png",
+              "link": "https://goo.gl/maps/iJSjR7KCdPup1QHC7",
+              "alt": "Israel & the West Bank Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The area west of Jerusalem can often look deceptively similar to northern Israel, with green forested hills and some agriculture sprinkled across the landscape.",
+            "Two things can occasionally be used to tell the two apart. Firstly, in northern Israel you may occasionally see wide, [flat valleys](https://goo.gl/maps/6TvF6u9qvM7ZGx2k8), while the Jerusalem area is always going to be hilly. Secondly, if you see houses made of [Jerusalem stone](https://goo.gl/maps/8QyM47Z1iwZCsiR9A), you are likely to be near Jerusalem."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/israel-west-bank/il_jerusalemlandscape.png",
+              "link": "https://goo.gl/maps/9YnBmm9MiU9dv7YB9",
               "alt": "Israel & the West Bank Landscape"
             }
           ]
@@ -629,318 +597,12 @@ export const IsraelWestBankClue = {
               "alt": "Israel & the West Bank overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Israeli licence plates are **yellow **with a blue strip on the left.",
-            "NOTE: While this design is specific for Israel, it is also very common on the West Bank. Jordan and the UAE use white licence plates. Tunisia uses black plates."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_Licence_Plate.png",
-              "link": "https://www.plonkit.net/images/israel-west-bank/il_Licence_Plate.png",
-              "alt": "Israel & the West Bank Plates"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Most Generation 3 coverage was taken by a **black** Street View car with a **long antenna**.",
-            "You may also see the black car [without an antenna](https://goo.gl/maps/WnSVs5zTAD2Ek8vu5) and a [silver car](https://www.google.com/maps/@32.8549507,35.0841946,3a,38.6y,212.8h,56.31t/data=!3m6!1e1!3m4!1sumy_ztStyzHowLAKdqEq6g!2e0!7i13312!8i6656?entry=ttu) with a short antenna."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_car.png",
-              "link": "https://goo.gl/maps/HKkcWapSvEt2eQqK7",
-              "alt": "Israel & the West Bank Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Language",
-          "text": [
-            "You will typically find two languages; **Hebrew**, which is practically only found in Israel and the West Bank, and Arabic, which is particularly common in the West Bank."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_language.png",
-              "link": "https://www.plonkit.net/images/israel-west-bank/il_language.png",
-              "alt": "Israel & the West Bank Language"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The landscape ranges from a greener Mediterranean landscape in the north, to a very arid landscape in the south."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_landscape.png",
-              "link": "https://goo.gl/maps/hhScwquZcUzWESXW9",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Architecture tends to consist of bright and warm-coloured stone buildings, often with a blocky appearance. While Mediterranean-style houses with orange tiled roofs are more common than in other Middle Eastern countries, flat roofs are still just as common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_architecture.png",
-              "link": "https://maps.app.goo.gl/tqduKCT4yWSuyqmU9",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "Most roads feature **yellow outer lines** with white centre lines."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/IL_Roadlines.png",
-              "link": "https://goo.gl/maps/xkmsD4obYzcgY9TE9",
-              "alt": "Israel & the West Bank Road Lines"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "You will very often see striped kerbs: **red and white** and fairly commonly black and white.",
-            "[Red and yellow](https://goo.gl/maps/x7aWo5BaepqFo2LB9) and [blue and white](https://goo.gl/maps/JhFtRwM7ARjWGsq98) are also rarely found."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_kerb.png",
-              "link": "https://goo.gl/maps/mJ43fQbgtLbgBhdA6",
-              "alt": "Israel & the West Bank Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Both A-type and B-type guardrails are common.",
-            "NOTE: The only other Middle Eastern country where B-type guardrails are common is Turkey."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_guardrails.png",
-              "link": "https://maps.app.goo.gl/PkfkPFXcEzUTqLLV7",
-              "alt": "Israel & the West Bank Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Chevrons are **white** on **black**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/Israeli_Chevron.png",
-              "link": "https://goo.gl/maps/z8QaiRb6dxX6qdBfA",
-              "alt": "Israel & the West Bank Signs"
-            }
-          ]
-        },
-        {
-          "title": "Kilometre markers are white with a thick...",
-          "text": [
-            "Kilometre markers are white with a **thick border**, which can either be red, green or blue."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_kmmarker.png",
-              "link": "https://goo.gl/maps/f9CSv2NjepEtSyuJ7",
-              "alt": "Israel & the West Bank Kilometre markers are white with a thick..."
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Rather than having a word meaning ‘stop’ written on them, stop signs have a **hand** painted on them."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_stopsign.png",
-              "link": "https://goo.gl/maps/EMEy9HCscujaXCzz9",
-              "alt": "Israel & the West Bank Signs"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Utility poles commonly feature these painted **black and white striped** bottoms."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/IL_Stripy_Pole.png",
-              "link": "https://goo.gl/maps/LXHfbNpdLbwJqFQbA",
-              "alt": "Israel & the West Bank Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "Utility poles with a **mesh framework** are very common."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/IL_Mesh_Pole.png",
-              "link": "https://goo.gl/maps/B5DxzkHEwCVxpCiR6",
-              "alt": "Israel & the West Bank Poles"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "You can often find this **yellow warning sign** on poles."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_utilitypolesigns.png",
-              "link": "https://goo.gl/maps/xvwWTaqLSTT8Hvs68",
-              "alt": "Israel & the West Bank Poles"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Regional clues",
       "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "This is a coverage map over Israel and the West Bank. Notably, southern Israel and most of the West Bank has very sparse coverage.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_coverage1.png",
-              "link": "https://www.plonkit.net/images/israel-west-bank/ilps_coverage.png",
-              "alt": "Israel & the West Bank Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Here is a map of **area codes** in Israel and the West Bank. Note that only the phone codes featured on the map are regional."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_areacodes.png",
-              "link": "https://www.plonkit.net/images/israel-west-bank/ilps_areacodes.png",
-              "alt": "Israel & the West Bank Regions"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "**Generation 4** coverage is only found in Israel, in the areas marked on the map.",
-            "The coverage was taken with a **black** Street View car."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_gen4.png",
-              "link": "https://goo.gl/maps/rg94vCLJCmMKAWLe7",
-              "alt": "Israel & the West Bank Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Most of the Generation 4 coverage features a **dirty front camera**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_gen4smudge.png",
-              "link": "https://goo.gl/maps/RNk8F2LsWxDMJgVD6",
-              "alt": "Israel & the West Bank Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "Generation 4 coverage with a **clean** front camera is mostly found in and around Tel Aviv."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_gen4nosmudge.png",
-              "link": "https://goo.gl/maps/MVV1iCyrao6vyc9RA",
-              "alt": "Israel & the West Bank Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Northern Israel is usually far more **mountainous** and **green** than the rest of Israel. Throughout the region you will almost always see forested hills and mountains."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_northlandscape.png",
-              "link": "https://goo.gl/maps/eQDpMa2zBoWHzE5f7",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Central Israel is usually **flat** and has **several cities**. Highways are usually in better condition than roads in the south and north."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_centrallandscape.png",
-              "link": "https://goo.gl/maps/G6BQgcK88r3toJir6",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "Southern Israel and eastern West Bank are **extremely dry** and sandy."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_southdry.png",
-              "link": "https://goo.gl/maps/iJSjR7KCdPup1QHC7",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The area west of Jerusalem can often look deceptively similar to northern Israel, with green forested hills and some agriculture sprinkled across the landscape.",
-            "Two things can occasionally be used to tell the two apart. Firstly, in northern Israel you may occasionally see wide, [flat valleys](https://goo.gl/maps/6TvF6u9qvM7ZGx2k8), while the Jerusalem area is always going to be hilly. Secondly, if you see houses made of [Jerusalem stone](https://goo.gl/maps/8QyM47Z1iwZCsiR9A), you are likely to be near Jerusalem."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_jerusalemlandscape.png",
-              "link": "https://goo.gl/maps/9YnBmm9MiU9dv7YB9",
-              "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
         {
           "title": "Landscape",
           "text": [
@@ -951,73 +613,6 @@ export const IsraelWestBankClue = {
               "url": "https://www.plonkit.net/images/israel-west-bank/ps_landscape.png",
               "link": "https://goo.gl/maps/3ouHpyxHgSiaJz717",
               "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "In Jerusalem and surrounding cities in the West Bank, nearly every building is built with the same type of material, called [Jerusalem stone](https://en.wikipedia.org/wiki/Jerusalem_stone). Beware that the stone will look [much smoother](https://goo.gl/maps/mXZoK6pDh3FiQcjE6) on newer buildings.",
-            "NOTE: Single houses with the same material can be found in other towns and cities."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_jerusalemarchitecture.png",
-              "link": "https://goo.gl/maps/E14v1onUfVCFCYBM7",
-              "alt": "Israel & the West Bank Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Date palm plantations can often be seen...",
-          "text": [
-            "**Date palm** plantations can often be seen close to the Jordanian border."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_palmplantation.png",
-              "link": "https://goo.gl/maps/i1QuZXupR7k7CeW96",
-              "alt": "Israel & the West Bank Date palm plantations can often be seen..."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "**Rock walls** put together with **cement** are found in the north of Israel."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_rockwalls.png",
-              "link": "https://goo.gl/maps/Ano5FHMymHTTryyU9",
-              "alt": "Israel & the West Bank Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "The Dead Sea can easily be recognised by the **dryness** surrounding it.",
-            "NOTE: It is also visible from Jordan and the West Bank."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ilps_deadsea.png",
-              "link": "https://goo.gl/maps/6NrREqt9Dsp3kpDR6",
-              "alt": "Israel & the West Bank Regions"
-            }
-          ]
-        },
-        {
-          "title": "Other than the Dead Sea and the...",
-          "text": [
-            "Other than the Dead Sea and the Mediterranean Sea, the only major body of water is the Sea of Galilee. It is noticeably **more vegetated** than the Dead Sea, making it easily recognisable."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_seaofgalilee.png",
-              "link": "https://goo.gl/maps/TQr8cV9ZA8REo1NK7",
-              "alt": "Israel & the West Bank Other than the Dead Sea and the..."
             }
           ]
         },
@@ -1046,73 +641,6 @@ export const IsraelWestBankClue = {
               "url": "https://www.plonkit.net/images/israel-west-bank/ilps_mountgilboa.png",
               "link": "https://www.google.com/maps/@32.4991773,35.4864055,3a,75y,259.27h,87.06t/data=!3m7!1e1!3m5!1s410LXPfVdPpF25et87jsfQ!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fpanoid%253D410LXPfVdPpF25et87jsfQ%2526cb_client%253Dmaps_sv.tactile.gps%2526w%253D203%2526h%253D100%2526yaw%253D356.51886%2526pitch%253D0%2526thumbfov%253D100!7i13312!8i6656?entry=ttu",
               "alt": "Israel & the West Bank Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "You can find these small **irrigation canals** on the side of the road, in the area around the city of Beit She’an."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_irrigationchannel.png",
-              "link": "https://goo.gl/maps/vXdgc4GqrceYKohx7",
-              "alt": "Israel & the West Bank Regions"
-            }
-          ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "Licence plates in the West Bank are often [white](/images/israel-west-bank/ps_licenceplate1.png) with green text, often giving blurred plates a slight green tint. On public transport vehicles, such as taxis and buses, the colours will be inverted; [green](/images/israel-west-bank/ps_licenceplate2.png) with white text, making blurred plates almost completely green.",
-            "Beware that Israeli licence plates are also very common in most of the West Bank."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ps_licenceplates2.png",
-              "link": "https://goo.gl/maps/EmGEvYsPGHrkzRun8",
-              "alt": "Israel & the West Bank Plates"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A significant portion of the coverage in the West Bank has a visible security **follow car**. The most extensive of these is a small **white Suzuki**, which is found in the central and southern regions."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ps_followcarwhite.png",
-              "link": "https://goo.gl/maps/bdpqi69cm1efcunK8",
-              "alt": "Israel & the West Bank Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "Another follow car is a small **dark blue Ford**, which is found in the northwest."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ps_followcardarkblue.png",
-              "link": "https://goo.gl/maps/a38qLgKhQomdi26x5",
-              "alt": "Israel & the West Bank Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "This **larger white** Citroën follow car with a **West Bank licence plate** can be found in a region surrounding Jerusalem. It is noticeably found in the cities of Bethlehem and Ramallah.",
-            "NOTE: The [side](https://goo.gl/maps/CyZBjDakijcXH87L6) of this car features the text “SECURITY” in a bold font. Furthermore, this coverage will always feature a black Street View car with [no antenna](https://goo.gl/maps/qSquP511uzs7bk9o6)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ps_followcarbigwhite.png",
-              "link": "https://goo.gl/maps/FkHz1cDrgoL7ZUhn8",
-              "alt": "Israel & the West Bank Google Car"
             }
           ]
         }
@@ -1256,46 +784,6 @@ export const IsraelWestBankClue = {
           ]
         },
         {
-          "title": "Jericho can commonly be recognised by the...",
-          "text": [
-            "Jericho can commonly be recognised by the date palms in a somewhat sparsely built and poor-looking urban setting."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ps_jericho.png",
-              "link": "https://goo.gl/maps/UxwfBqkZpgmhGxwd7",
-              "alt": "Israel & the West Bank Jericho can commonly be recognised by the..."
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "In the city of Ramallah you will generally see several **black water tanks** on most houses.",
-            "NOTE: Several other cities in both the [West Bank](https://goo.gl/maps/7Am2paYniAS5E67d8) and [Israel](https://goo.gl/maps/cRJcvcWMiSvRwLye9) can have black water tanks. What makes Ramallah stand out is the sheer number of them on most buildings."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/ps_ramallahwatertanks.png",
-              "link": "https://goo.gl/maps/PhMiK5g95CMAki9f7",
-              "alt": "Israel & the West Bank Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "This **grey mosaic brick work** shaped like towers is unique to the city of Harish."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_harishhouse.png",
-              "link": "https://www.google.com/maps/@32.4601767,35.0436309,3a,49y,41.16h,102.28t/data=!3m6!1e1!3m4!1sUQBfK4jKH-Fk2KXivzMEEA!2e0!7i13312!8i6656?entry=ttu",
-              "alt": "Israel & the West Bank Architecture"
-            }
-          ]
-        },
-        {
           "title": "This white lamp is unique to Nahariya....",
           "text": [
             "This **white lamp** is unique to Nahariya. It has three arms, with round light bulbs on top."
@@ -1336,19 +824,6 @@ export const IsraelWestBankClue = {
           ]
         },
         {
-          "title": "Poles",
-          "text": [
-            "Poles with **blue and white** paint on the bottom are unique to Eilat."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_eilatpole.png",
-              "link": "https://goo.gl/maps/mEK5UDjicvFPYdLMA",
-              "alt": "Israel & the West Bank Poles"
-            }
-          ]
-        },
-        {
           "title": "Signs",
           "text": [
             "These **yellow** fences and signposts are unique to Kiryat Motzkin."
@@ -1384,19 +859,6 @@ export const IsraelWestBankClue = {
               "url": "https://www.plonkit.net/images/israel-west-bank/ps_betlehemhousenumber.png",
               "link": "https://goo.gl/maps/8DW1NTcm7GbR5BQdA",
               "alt": "Israel & the West Bank Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "House numbers in Rosh Haayin are blue, with a **G-clef** in the bottom left corner."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/israel-west-bank/il_roshhaayinhousenumber.png",
-              "link": "https://goo.gl/maps/CL5WbWoEM2Xox64QA",
-              "alt": "Israel & the West Bank Architecture"
             }
           ]
         },

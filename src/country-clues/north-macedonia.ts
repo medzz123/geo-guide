@@ -73,9 +73,7 @@ export const NorthMacedoniaClue = {
   ],
   "categories": [
     "Google Car",
-    "Plates",
     "Road Lines",
-    "Bollards",
     "Poles",
     "Signs",
     "Landscape",
@@ -133,25 +131,6 @@ export const NorthMacedoniaClue = {
       ]
     },
     {
-      "title": "Plates",
-      "tips": [
-        {
-          "title": "Plates",
-          "text": [
-            "North Macedonian licence plates are **white** and sometimes have the standard European blue strip on the left. They also have a noticeable **red block** near the left side of the licence plate.",
-            "NOTE: Serbia will almost always have a blue strip on their licence plates."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/North_Macedonia_License_Plate.png",
-              "link": "https://www.plonkit.net/images/north-macedonia/North_Macedonia_License_Plate.png",
-              "alt": "North Macedonia Plates"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Road Lines",
       "tips": [
         {
@@ -164,25 +143,6 @@ export const NorthMacedoniaClue = {
               "url": "https://www.plonkit.net/images/north-macedonia/Veles-Road-FYROM.png",
               "link": "https://www.google.com/maps/@41.7765465,21.8768732,3a,90y,265.6h,82.71t/data=!3m6!1e1!3m4!1saFke-Xfesbo1wc_B1D_tmg!2e0!7i13312!8i6656",
               "alt": "North Macedonia Road Lines"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Bollards",
-      "tips": [
-        {
-          "title": "Bollards",
-          "text": [
-            "North Macedonia uses two types of bollards. One is rounded and very **thin**, while the other one is wedge-shaped. They both are white and have **red** or **white reflectors**, typically on a black surface.",
-            "NOTE: Croatia uses the same wedge-shaped bollard. Hungary has a similar wedge-shaped bollard but with more white space above the black rectangle."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Bollards.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=17.531467769923246&heading=156.27689367601636&map_action=pano&pano=uIVV6bxpOR7-gxEbGxXrIw&pitch=-13.367175877123586&viewpoint=41.376813%252C22.405482#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Bollards"
             }
           ]
         }
@@ -226,48 +186,6 @@ export const NorthMacedoniaClue = {
         {
           "title": "Signs",
           "text": [
-            "North Macedonia uses **A-Profile** guardrails, like most of Europe. The guardrails have red reflectors.",
-            "NOTE: Serbia uses B-Profile guardrails. For a good overview of European guardrails, see [this infographic](/images/north-macedonia/europeguardrail.png)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Guardrail-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=37.67793187793628&heading=155.01585822565357&map_action=pano&pano=yKiPBi8KOVnnTJHSjZCbCg&pitch=-16.065180572385387&viewpoint=41.994641%252C20.979924#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Direction signs in North Macedonia are typically **yellow **with** biscriptal text**: town names are written in both Latin and Cyrillic script.",
-            "NOTE: Serbia, Slovenia, Croatia, and Montenegro have similar signs. Serbia is the only one that will have biscriptal text though."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Direction-Signs-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=23.09586801158694&heading=133.50243610238593&map_action=pano&pano=tnZKSXUnEuE-vnjQMQhxLA&pitch=-6.47976178606568&viewpoint=41.91066%252C22.473263#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Macedonian is a Slavic language which uses the **Cyrillic** script. Road signs have Latin on them too, although most other signs are fully in Cyrillic.",
-            "The letters ‘**Ѓ**’ and ‘**Ќ**’ are unique to Macedonian. ‘Љ’, ‘Њ’, and ‘Џ’ are only in Serbian and Macedonian."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/mk_language.png",
-              "link": "https://www.plonkit.net/images/north-macedonia/mk_language.png",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
             "North Macedonia normally uses **yellow-filled** **in warning signs**. Most of Europe uses white ones.",
             "NOTE: In southeastern Europe, Greece also commonly uses yellow-filled in signs. Slovenia sometimes has yellow-filled signs."
           ],
@@ -275,6 +193,48 @@ export const NorthMacedoniaClue = {
             {
               "url": "https://www.plonkit.net/images/north-macedonia/Warning-Signs-FYROM.png",
               "link": "https://www.google.com/maps/@42.1559312,21.7120628,3a,16.3y,304.79h,89.78t,1.11r/data=!3m6!1e1!3m4!1sN5navLp4tt38NLK68Ut6EQ!2e0!7i13312!8i6656",
+              "alt": "North Macedonia Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Coverage is **sparse**, only including some highways and some cities in the country.",
+            "The cities of Skopje, Bitola, Kumanovo, Prilep, Tetovo, Veles, Ohrid, and Strumica are the only ones with significant coverage inside the city.",
+            "You can view the official coverage in more detail on [this site](https://sv-map.netlify.app#base=roadmap&cov=official&zoom=9&center=41.4828622445409%2C22.178649902343754)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/north-macedonia/mk_coverage.png",
+              "link": "https://www.plonkit.net/images/north-macedonia/mk_coverage.png",
+              "alt": "North Macedonia Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The E-65 just south of Tetovo has one **concrete median** separating each lane instead of a normal guardrail. This is the only highway in the country to have this."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/north-macedonia/E-65-South-of-Tetevo-FYROM.png",
+              "link": "https://www.google.com/maps/@?api=1&fov=82.51056284541988&heading=344.47261305236293&map_action=pano&pano=OCMsazNNJG08zRe0prOvkw&pitch=-5.411382960067613&viewpoint=41.896213%252C20.937305#extra%255BloadMode%255D=latLng",
+              "alt": "North Macedonia Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The E-65 between Tetovo and Skopje will sometimes have **trees in between the guardrails**.",
+            "This is the only highway to have them, besides a small part of the E-75/A1 road south of Veles (see the next tip)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/north-macedonia/E-65-Between-Skopje-and-Tetovo.png",
+              "link": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=332.09209002423444&map_action=pano&pano=aMV32VRPIP3IhzBeSn0viQ&pitch=-2.8409854949114077&viewpoint=41.994801%252C21.315499#extra%255BloadMode%255D=latLng",
               "alt": "North Macedonia Signs"
             }
           ]
@@ -543,361 +503,12 @@ export const NorthMacedoniaClue = {
               "alt": "North Macedonia overview"
             }
           ]
-        },
-        {
-          "title": "Plates",
-          "text": [
-            "North Macedonian licence plates are **white** and sometimes have the standard European blue strip on the left. They also have a noticeable **red block** near the left side of the licence plate.",
-            "NOTE: Serbia will almost always have a blue strip on their licence plates."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/North_Macedonia_License_Plate.png",
-              "link": "https://www.plonkit.net/images/north-macedonia/North_Macedonia_License_Plate.png",
-              "alt": "North Macedonia Plates"
-            }
-          ]
-        },
-        {
-          "title": "Bollards",
-          "text": [
-            "North Macedonia uses two types of bollards. One is rounded and very **thin**, while the other one is wedge-shaped. They both are white and have **red** or **white reflectors**, typically on a black surface.",
-            "NOTE: Croatia uses the same wedge-shaped bollard. Hungary has a similar wedge-shaped bollard but with more white space above the black rectangle."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Bollards.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=17.531467769923246&heading=156.27689367601636&map_action=pano&pano=uIVV6bxpOR7-gxEbGxXrIw&pitch=-13.367175877123586&viewpoint=41.376813%252C22.405482#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Bollards"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "North Macedonia uses **A-Profile** guardrails, like most of Europe. The guardrails have red reflectors.",
-            "NOTE: Serbia uses B-Profile guardrails. For a good overview of European guardrails, see [this infographic](/images/north-macedonia/europeguardrail.png)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Guardrail-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=37.67793187793628&heading=155.01585822565357&map_action=pano&pano=yKiPBi8KOVnnTJHSjZCbCg&pitch=-16.065180572385387&viewpoint=41.994641%252C20.979924#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Direction signs in North Macedonia are typically **yellow **with** biscriptal text**: town names are written in both Latin and Cyrillic script.",
-            "NOTE: Serbia, Slovenia, Croatia, and Montenegro have similar signs. Serbia is the only one that will have biscriptal text though."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Direction-Signs-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=23.09586801158694&heading=133.50243610238593&map_action=pano&pano=tnZKSXUnEuE-vnjQMQhxLA&pitch=-6.47976178606568&viewpoint=41.91066%252C22.473263#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "Macedonian is a Slavic language which uses the **Cyrillic** script. Road signs have Latin on them too, although most other signs are fully in Cyrillic.",
-            "The letters ‘**Ѓ**’ and ‘**Ќ**’ are unique to Macedonian. ‘Љ’, ‘Њ’, and ‘Џ’ are only in Serbian and Macedonian."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/mk_language.png",
-              "link": "https://www.plonkit.net/images/north-macedonia/mk_language.png",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "All coverage in North Macedonia is Generation 3. There will **never be an antenna **on the Google car.",
-            "Every other country in Europe will sometimes or always have an antenna in Generation 3 coverage. For clarity’s sake: this means that cars with no antenna can be found outside North Macedonia.",
-            "NOTE: The only other country to have no antenna the majority of the time is Serbia, although there will be an antenna sometimes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Antenna-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=223.338540377321&map_action=pano&pano=KE3CO8T-svuWdIJ3ec4sCg&pitch=-46.43877284001876&viewpoint=41.78939%252C22.195939#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "**Rural coverage** in North Macedonia will normally mostly be on highways. This is because of the limited coverage outside urban areas in the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/rural_coverage.png",
-              "link": "https://www.google.com/maps/@41.6205215,21.9050537,3a,75y,308.28h,86.48t/data=!3m6!1e1!3m4!1sbijRGZUxwOovqbjZY-wyMw!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "The general landscape of North Macedonia consists of relatively **dry grasslands**, and small hills and scattered trees."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/General-Landscape-FYROM.png",
-              "link": "https://www.google.com/maps/@41.9702766,21.9312912,3a,63y,217.27h,87.05t/data=!3m6!1e1!3m4!1s3iikJG-Scs2qie7wlbTO6g!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Poles",
-          "text": [
-            "These **‘Greek Lamps’** on utility poles can be found in North Macedonia. They can also be found in various other countries, such as (unsurprisingly) [Greece](https://goo.gl/maps/rSnrVdTGecgndtDG9) or [Serbia](https://goo.gl/maps/VbPpwagrgE3j4Y5r9)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Greek-Lamp-FYROM.png",
-              "link": "https://www.google.com/maps/@41.0299962,21.3274281,3a,26.3y,154.39h,135.54t/data=!3m6!1e1!3m4!1sU2VaxXf6zLbEjBwWs3ffLQ!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "North Macedonia normally uses **yellow-filled** **in warning signs**. Most of Europe uses white ones.",
-            "NOTE: In southeastern Europe, Greece also commonly uses yellow-filled in signs. Slovenia sometimes has yellow-filled signs."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Warning-Signs-FYROM.png",
-              "link": "https://www.google.com/maps/@42.1559312,21.7120628,3a,16.3y,304.79h,89.78t,1.11r/data=!3m6!1e1!3m4!1sN5navLp4tt38NLK68Ut6EQ!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Regional/city-specific clues",
-      "tips": [
-        {
-          "title": "Signs",
-          "text": [
-            "Coverage is **sparse**, only including some highways and some cities in the country.",
-            "The cities of Skopje, Bitola, Kumanovo, Prilep, Tetovo, Veles, Ohrid, and Strumica are the only ones with significant coverage inside the city.",
-            "You can view the official coverage in more detail on [this site](https://sv-map.netlify.app#base=roadmap&cov=official&zoom=9&center=41.4828622445409%2C22.178649902343754)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/mk_coverage.png",
-              "link": "https://www.plonkit.net/images/north-macedonia/mk_coverage.png",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Architecture",
-          "text": [
-            "Skopje is the capital and by far the largest city. If you see any **large apartments **or **buildings**, you are almost guaranteed to be in Skopje."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Skopje-FYROM.png",
-              "link": "https://www.google.com/maps/@41.9989427,21.4294228,3a,75y,243.89h,96.03t/data=!3m6!1e1!3m4!1swQhCtrBjourV9dckRYj3Lg!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Architecture"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "**Winter **to late fall coverage is found in the cities of Skopje, Tetovo, Prilep, Bitola, and Ohrid."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Winter-Coverage-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=318.7590822297051&map_action=pano&pano=5KlH3_5b-4ZkK6MBhW1Myg&pitch=16.957846144114214&viewpoint=41.032609%252C21.322426#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "A** green truck** is visible behind the Google Car for a portion of the E-65. The truck is visible from Kichevo to Arbinovo."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Green-Truck-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=92.07275318052157&heading=234.38047157144842&map_action=pano&pano=TxzzynVgllJzexefao-Qyg&pitch=-5.3870698603167&viewpoint=41.492533%252C20.940928#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Google Car",
-          "text": [
-            "For some of the E-75 north of Veles, there are** triple yellow lines **with a** dashed centre line**. In the northern part of the road, there is a yellow-truck following the Google car.",
-            "The rest of the road is either under construction or newly paved. This road is very similar to the A3 east of Veles, although that one is much flatter and has an arid landscape surrounding it."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/North-Veles-Road-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=21.54028535144242&heading=156.18570947585084&map_action=pano&pano=99Zc8V1O3gJNd9Djh6MF8g&pitch=-1.3510397831568497&viewpoint=41.889806%252C21.689946#extra%255Btags%255D=yellow+truck&extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Google Car"
-            }
-          ]
-        },
-        {
-          "title": "Road Lines",
-          "text": [
-            "A section of the A3 east of Veles also has **triple yellow lines**, which in Europe is extremely uncommon. The rest of the road has a very arid landscape and is noticeably under construction."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Veles-Road-FYROM.png",
-              "link": "https://www.google.com/maps/@41.7765465,21.8768732,3a,90y,265.6h,82.71t/data=!3m6!1e1!3m4!1saFke-Xfesbo1wc_B1D_tmg!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Road Lines"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Smudges",
-      "tips": [
-        {
-          "title": "Coverage",
-          "text": [
-            "You can sometimes see some smudges on the camera. If you see **one black **smudge on the camera, you will most likely be on the A3 between Bitola and Prilep, or the R1302 in the far east. Keep in mind smudges can be randomly seen throughout the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Single-Smudge-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=70.56279854292744&heading=349.30571685344177&map_action=pano&pano=v0XanIP8qSpc5FDHclRInw&pitch=14.522105673422343&viewpoint=41.136034%252C21.36375#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Coverage",
-          "text": [
-            "If you see **three **smudges, you will always be on the R1304. The only large city on this road is Kočani, although it has extremely limited coverage."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Three-Smudges-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=235.00978&map_action=pano&pano=rgbws6lON29AxJQLxl8SPg&pitch=0&viewpoint=41.913571%252C22.421652#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Coverage"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "If you see a **brown **smudge, you will be in the far southeast of the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Brown-Smudge-FYROM.png",
-              "link": "https://www.google.com/maps/@41.438159,22.7875078,3a,55.2y,252.61h,72.58t/data=!3m7!1e1!3m5!1sdsA-WuC4UMuzv6UcANkVgA!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fpanoid%253DdsA-WuC4UMuzv6UcANkVgA%2526cb_client%253Dmaps_sv.tactile.gps%2526w%253D203%2526h%253D100%2526yaw%253D357.2494%2526pitch%253D0%2526thumbfov%253D100!7i13312!8i6656",
-              "alt": "North Macedonia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "A **fly** can be seen on the southern portion of the R1205. This is found nowhere else in the country."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/R1205-Fly-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=325.08045746243556&map_action=pano&pano=O960SIgc8Sy840FAZEomSQ&pitch=-18.77222484320005&viewpoint=41.892036%252C22.200927#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Regions"
-            }
-          ]
         }
       ]
     },
     {
       "title": "Divided roads",
       "tips": [
-        {
-          "title": "Regions",
-          "text": [
-            "Some roads in North Macedonia are divided. The map shown here gives an overview of where you can find such roads.",
-            "You can learn more about these roads below."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/NMK_divided_highways.png",
-              "link": "https://www.plonkit.net/images/north-macedonia/NMK_divided_highways.png",
-              "alt": "North Macedonia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The E-65 just south of Tetovo has one **concrete median** separating each lane instead of a normal guardrail. This is the only highway in the country to have this."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/E-65-South-of-Tetevo-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=82.51056284541988&heading=344.47261305236293&map_action=pano&pano=OCMsazNNJG08zRe0prOvkw&pitch=-5.411382960067613&viewpoint=41.896213%252C20.937305#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Signs",
-          "text": [
-            "The E-65 between Tetovo and Skopje will sometimes have **trees in between the guardrails**.",
-            "This is the only highway to have them, besides a small part of the E-75/A1 road south of Veles (see the next tip)."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/E-65-Between-Skopje-and-Tetovo.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=332.09209002423444&map_action=pano&pano=aMV32VRPIP3IhzBeSn0viQ&pitch=-2.8409854949114077&viewpoint=41.994801%252C21.315499#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Signs"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "A small part of the E75 and the A1 also have **planted trees **in the median.",
-            "As mentioned, trees can also be seen on E-65 between Tetovo and Skopje. To distinguish between these roads, the E-65 is [much more mountainous](https://goo.gl/maps/SBFvGwiaHyTfhGpw6) than the A1."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/A1-Trees-FYROM.png",
-              "link": "https://www.google.com/maps/@41.5580222,22.005116,3a,90y,338.82h,93.52t/data=!3m6!1e1!3m4!1sY_h4mdgTvuzS40w2wH0drQ!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Landscape"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "For a section of the E-75 between Skopje and Kumanovo, there is a large** sloped hill** in between the lanes."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/E-75-Between-Skopje-and-Kumanovo.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=140.9409040663107&map_action=pano&pano=3Pqc6DUa0RjP6Pwlb9rjRQ&pitch=2.613970364114394&viewpoint=42.048669%252C21.683455#extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Landscape"
-            }
-          ]
-        },
         {
           "title": "Signs",
           "text": [
@@ -916,85 +527,6 @@ export const NorthMacedoniaClue = {
     {
       "title": "City-specific obituaries",
       "tips": [
-        {
-          "title": "Poles",
-          "text": [
-            "Each city has its own **city-specific **posters with public obituaries. They are commonly found on utility poles.",
-            "_You can click on the image to enlarge it._"
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/City-Stickers-FYROM.png",
-              "link": "https://www.plonkit.net/images/north-macedonia/City-Stickers-FYROM.png",
-              "alt": "North Macedonia Poles"
-            }
-          ]
-        },
-        {
-          "title": "Obituaries in Kumanovo are the most distinct....",
-          "text": [
-            "Obituaries in Kumanovo are the most distinct. They are the only obituaries to have a** thick light blue border**."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Kumanovo-Stickers-FYROM.png",
-              "link": "https://www.google.com/maps/@42.1270041,21.716013,3a,15y,255.93h,80.87t,358.81r/data=!3m6!1e1!3m4!1sKzz7r42EQF1g-Kh4xuOfEA!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Obituaries in Kumanovo are the most distinct...."
-            }
-          ]
-        },
-        {
-          "title": "Obituaries in Bitola are horizontal and can...",
-          "text": [
-            "Obituaries in Bitola are **horizontal** and can be either light or dark blue. The cross is** in-between **the border, leaving a gap in the rectangle."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Bitola-Stickers-FYROM.png",
-              "link": "https://www.google.com/maps/@41.0313567,21.3402338,3a,15y,159.86h,76.31t/data=!3m6!1e1!3m4!1sjrPwI7nPuyhPPJzTiGj7cw!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Obituaries in Bitola are horizontal and can..."
-            }
-          ]
-        },
-        {
-          "title": "Obituaries in Ohrid are horizontal and either...",
-          "text": [
-            "Obituaries in Ohrid are **horizontal** and either red or blue. The cross is underneath the border, which is unique to Ohrid when the obituary is red."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Ohrid-Stickers-FYROM_fix.png",
-              "link": "https://www.google.com/maps/@41.1193819,20.8086791,3a,19.6y,146.42h,79.48t/data=!3m6!1e1!3m4!1s_E96vhATer0szA4tktVPGw!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Obituaries in Ohrid are horizontal and either..."
-            }
-          ]
-        },
-        {
-          "title": "Obituaries in Strumica are vertical and blue....",
-          "text": [
-            "Obituaries in Strumica are vertical and blue. They are the only obituaries to have an **intricate pattern** in the corner of the poster."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Strumica-Stickers-FYROM.png",
-              "link": "https://www.google.com/maps/@?api=1&fov=17.531467769923246&heading=15.239010551772239&map_action=pano&pano=IBqTzagp90PXCqsPXth_iw&pitch=-13.541064701087365&viewpoint=41.43488%252C22.639936#extra%255Btags%255D=stickers&extra%255BloadMode%255D=latLng",
-              "alt": "North Macedonia Obituaries in Strumica are vertical and blue...."
-            }
-          ]
-        },
-        {
-          "title": "Regions",
-          "text": [
-            "Obituaries in Veles are **vertical and blue**. Veles has the largest variety of obituaries, but will never have the pattern in the corner like the ones seen in Strumica. They are also the only city that will have the cross **above the border** when blue."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Veles-Stickers-FYROM.png",
-              "link": "https://www.google.com/maps/@41.7161871,21.7667479,3a,22.8y,25.61h,79.57t/data=!3m6!1e1!3m4!1sLAQXAuL5a2VxE2Si7DhoGA!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Regions"
-            }
-          ]
-        },
         {
           "title": "Obituaries in Prilep are vertical and black....",
           "text": [
@@ -1063,19 +595,6 @@ export const NorthMacedoniaClue = {
               "url": "https://www.plonkit.net/images/north-macedonia/Prilep-Lamps-FYROM.png",
               "link": "https://www.google.com/maps/@41.3460647,21.5467876,3a,46.8y,24.77h,114.15t,0.88r/data=!3m6!1e1!3m4!1suUqrFVwXOBLMwU0YdSnVwQ!2e0!7i13312!8i6656",
               "alt": "North Macedonia Regions"
-            }
-          ]
-        },
-        {
-          "title": "Landscape",
-          "text": [
-            "These two **extremely rocky hills** are visible in some parts of the city of Prilep."
-          ],
-          "images": [
-            {
-              "url": "https://www.plonkit.net/images/north-macedonia/Prilep-Hills-FYROM.png",
-              "link": "https://www.google.com/maps/@41.3557891,21.5464419,3a,58.9y,317.67h,102.73t/data=!3m6!1e1!3m4!1sLzse2fEW1cNkBajeiuOgDg!2e0!7i13312!8i6656",
-              "alt": "North Macedonia Landscape"
             }
           ]
         }
