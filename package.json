@@ -1,0 +1,54 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "geo-guide",
+  "title": "Geo Guide",
+  "description": "Search GeoGuessr country clues and surface a random country for quick practice.",
+  "icon": "extension-icon.png",
+  "author": "mahedi_hasan",
+  "platforms": [
+    "macOS"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "geoguessr",
+    "geography",
+    "countries",
+    "plonkit",
+    "clues",
+    "practice"
+  ],
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "index",
+      "title": "Search Country Clues",
+      "subtitle": "Geo Guide",
+      "description": "Search and browse country clues for GeoGuessr practice.",
+      "mode": "view"
+    },
+    {
+      "name": "random-clue",
+      "title": "Random Country Clue",
+      "subtitle": "Geo Guide",
+      "description": "Show a randomly selected country clue for quick practice.",
+      "mode": "view"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "latest"
+  },
+  "devDependencies": {
+    "@raycast/eslint-config": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "eslint": "latest",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "build": "ray build",
+    "dev": "ray develop",
+    "lint": "ray lint"
+  }
+}
