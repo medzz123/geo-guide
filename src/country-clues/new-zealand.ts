@@ -1,0 +1,1673 @@
+import type { CountryClue } from "../clues";
+
+export const NewZealandClue = {
+  "name": "New Zealand",
+  "slug": "new-zealand",
+  "description": "Bollards in New Zealand have a **red strip** which wraps around the top of the bollard. This strip wraps the whole way around the back and part of the front. The front or back of the bollard often contains a [**thin yellow**** **](https://goo.gl/maps/DLQi1D8i9rwS1hTA9)**or white reflector**.\n\nNew Zealand uses **white** licence plates with **black text**, which appears mostly white through the blur.\n\nThe most common pole type found in New Zealand is made of concrete and has **one long indent** which runs most of the way up the pole. Most concrete poles have small **silver **possum guards. Circular [wooden poles](https://maps.app.goo.gl/e4UYn9u6VSd4wSE36) can also be found, but are less common. You can also see concrete [holey poles](https://maps.app.goo.gl/e3uB7rNoVtCMmrzz8) in New Zealand.\n\n**Give-way signs** in New Zealand have a white border and red text.\n\nNew Zealand intersections often use give-way triangles **painted** on the road.",
+  "importantClues": [
+    {
+      "title": "Bollards",
+      "text": [
+        "Bollards in New Zealand have a **red strip** which wraps around the top of the bollard. This strip wraps the whole way around the back and part of the front. The front or back of the bollard often contains a [**thin yellow**** **](https://goo.gl/maps/DLQi1D8i9rwS1hTA9)**or white reflector**."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/new-zealand/NZ_Bollard.png",
+          "link": "https://goo.gl/maps/ybfmSthw1whnSTrc9",
+          "alt": "New Zealand Bollards"
+        }
+      ]
+    },
+    {
+      "title": "Plates",
+      "text": [
+        "New Zealand uses **white** licence plates with **black text**, which appears mostly white through the blur."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/new-zealand/Ohne_Titel_2824_29.png",
+          "link": "https://www.plonkit.net/images/new-zealand/Ohne_Titel_2824_29.png",
+          "alt": "New Zealand Plates"
+        }
+      ]
+    },
+    {
+      "title": "Poles",
+      "text": [
+        "The most common pole type found in New Zealand is made of concrete and has **one long indent** which runs most of the way up the pole. Most concrete poles have small **silver **possum guards. Circular [wooden poles](https://maps.app.goo.gl/e4UYn9u6VSd4wSE36) can also be found, but are less common. You can also see concrete [holey poles](https://maps.app.goo.gl/e3uB7rNoVtCMmrzz8) in New Zealand."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/new-zealand/NZ_poles.png",
+          "link": "https://maps.app.goo.gl/iAuHt7cAqzrFcYfDA",
+          "alt": "New Zealand Poles"
+        }
+      ]
+    },
+    {
+      "title": "Signs",
+      "text": [
+        "**Give-way signs** in New Zealand have a white border and red text."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/new-zealand/10jOgSh.png",
+          "link": "https://goo.gl/maps/psrB3Nw3iFi69Uaw7",
+          "alt": "New Zealand Signs"
+        }
+      ]
+    },
+    {
+      "title": "Signs",
+      "text": [
+        "New Zealand intersections often use give-way triangles **painted** on the road."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/new-zealand/mbmItmT.jpg",
+          "link": "https://goo.gl/maps/AdbwWk5ZginWejqD8",
+          "alt": "New Zealand Signs"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Google Car",
+    "Plates",
+    "Road Lines",
+    "Bollards",
+    "Poles",
+    "Signs",
+    "Landscape",
+    "Architecture",
+    "Coverage",
+    "Regions",
+    "Other"
+  ],
+  "keyClues": [
+    {
+      "title": "Google Car",
+      "tips": [
+        {
+          "title": "Google Car",
+          "text": [
+            "Hawke’s Bay** **has **dry, golden grassy hills**, and in Generation 4 it will be sunny with a white Street View car."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_hawkesbay.png",
+              "link": "https://maps.app.goo.gl/z4Yi71zyuu7obhQX6",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "This car with a **white and blue** front is mostly found on the North Island. It can occasionally be found In Canterbury and Marlborough, on the South Island."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_northcar.png",
+              "link": "https://goo.gl/maps/PLoB32g9Y34Ns8hr5",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "This Street View car features a **white-blue-white** pattern which is **blurred **out, and is mainly found on the South Island or around and north of Auckland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_blurredstripedcar.png",
+              "link": "https://maps.app.goo.gl/xrvYStvJE6TFpPoA7",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "State Highway 73, located near [Arthur’s Pass](https://en.wikipedia.org/wiki/Arthur%27s_Pass), can be recognised by the almost dried out river with an **abundance of gravel **on the river bed. Additionally, the Street View car in Arthur’s Pass drove behind a black pickup truck with two ladders** **on its roof."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_arthurspass.png",
+              "link": "https://maps.app.goo.gl/NGm5zxASENUkCz9t6",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Plates",
+      "tips": [
+        {
+          "title": "Plates",
+          "text": [
+            "New Zealand uses **white** licence plates with **black text**, which appears mostly white through the blur.",
+            "NOTE: Some vehicles have custom licence plates which make the sides of the licence plate appear blue or black."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Ohne_Titel_2824_29.png",
+              "link": "https://www.plonkit.net/images/new-zealand/Ohne_Titel_2824_29.png",
+              "alt": "New Zealand Plates"
+            }
+          ]
+        },
+        {
+          "title": "Plates",
+          "text": [
+            "Similarly, a **small white horizontal pole sticker** with several numbers is found in several parts of the North Island.",
+            "NOTE: The edges of the plate must be straight, meaning they cannot be rounded. Rounded plates are seen [all across the country](https://maps.app.goo.gl/YSsMro3M3HUAyV6t7)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_whitehorizontalsticker.png",
+              "link": "https://maps.app.goo.gl/LridKYgTenAUsTsJ8",
+              "alt": "New Zealand Plates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Road Lines",
+      "tips": [
+        {
+          "title": "Road Lines",
+          "text": [
+            "New Zealand normally uses [**white outer**](https://goo.gl/maps/MqhaDyWhXhWWMwfSA)** road lines**. [Yellow dashed outer](https://goo.gl/maps/iwDpkjx7uvAhDnGm9) road lines can be seen in populated areas. Roads with [no outer lines](https://goo.gl/maps/8LJUn5zfzXnHXmZa8) can be seen on smaller roads. Inner lines are either a single dashed white line or unbroken double **yellow **lines.",
+            "NOTE: Australia does not have yellow inside lines, apart from regions with snow."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/9qcVCOM.png",
+              "link": "https://goo.gl/maps/VCKjBxabCvWkHqbaA",
+              "alt": "New Zealand Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "Bridge markers can be found on most paved roads in New Zealand. If the sign is on a state highway, the highway number will always be shown in a **red crest** on a white marker. The yellow marker indicates the name of the river or bridge.",
+            "NOTE: Some bridge markers indicate very small streams or culverdens which can be hard to find."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Gf2dNKO.png",
+              "link": "https://goo.gl/maps/YuL3meSDXpQcc9U59",
+              "alt": "New Zealand Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "Solid outer white lines without middle lines are most common in Gisborne, but can also be found in northern Hawke's Bay and Wellington.",
+            "NOTE: The roads in Wellington are typically [narrower](https://goo.gl/maps/GaHaGPWtHKe4n6Hw6)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Gisborne_Lines_NZ.png",
+              "link": "https://goo.gl/maps/86kgUmjyTt84EncN9",
+              "alt": "New Zealand Road Lines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bollards",
+      "tips": [
+        {
+          "title": "Bollards",
+          "text": [
+            "Bollards in New Zealand have a **red strip** which wraps around the top of the bollard. This strip wraps the whole way around the back and part of the front. The front or back of the bollard often contains a [**thin yellow**** **](https://goo.gl/maps/DLQi1D8i9rwS1hTA9)**or white reflector**.",
+            "NOTE: These bollards are unique to New Zealand."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/NZ_Bollard.png",
+              "link": "https://goo.gl/maps/ybfmSthw1whnSTrc9",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "Two-digit state highway numbers follow a sequential pattern from North to South, making them easy to find. Single digit highways run through large parts of the country, but are easy to remember due to the small number of them.",
+            "NOTE: Bollards can sometimes have [highway numbers](https://maps.app.goo.gl/HgbJ1hmxCHsPfi6z7) written on them.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/highway_numbering_darkmode_v2.png",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "A typical bollard, but with a** green stripe**, is common in southern Canterbury, as well as in some pockets in eastern Southland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_greenstripedbollard.png",
+              "link": "https://maps.app.goo.gl/3ar2zQi3QEEBqozi8",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "A typical bollard but with a **black stripe** instead of a red one is commonly found in Wellington, especially in older Generation 3 coverage."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_blackstripedbollard.png",
+              "link": "https://maps.app.goo.gl/j6nf4jbP16wV6HwK8",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poles",
+      "tips": [
+        {
+          "title": "Poles",
+          "text": [
+            "The most common pole type found in New Zealand is made of concrete and has **one long indent** which runs most of the way up the pole. Most concrete poles have small **silver **possum guards. Circular [wooden poles](https://maps.app.goo.gl/e4UYn9u6VSd4wSE36) can also be found, but are less common. You can also see concrete [holey poles](https://maps.app.goo.gl/e3uB7rNoVtCMmrzz8) in New Zealand."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/NZ_poles.png",
+              "link": "https://maps.app.goo.gl/iAuHt7cAqzrFcYfDA",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Most utility poles in the Marlborough region have a long** square shaped olive-brown possum guard**. These can appear alongside the usual shorter silver possum guards."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_brownpossumguard.png",
+              "link": "https://maps.app.goo.gl/27vLJsb1NrVUgHDu5",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Many of the utility poles in Southland feature a **long cylindrical silver possum guard**. These are also more rarely found in western Otago."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_silverguard.png",
+              "link": "https://maps.app.goo.gl/HUSjdp1FEVe72qbu6",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "**Holey poles** are found most commonly in Southland and around Auckland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_holeypole.png",
+              "link": "https://maps.app.goo.gl/9HJViMdB5ZNYd5kD8",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Signs",
+      "tips": [
+        {
+          "title": "Signs",
+          "text": [
+            "**Give-way signs** in New Zealand have a white border and red text.",
+            "NOTE: Australia’s give-way signs use black text."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/10jOgSh.png",
+              "link": "https://goo.gl/maps/psrB3Nw3iFi69Uaw7",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "New Zealand intersections often use give-way triangles **painted** on the road.",
+            "NOTE: Australia does not use this design."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/mbmItmT.jpg",
+              "link": "https://goo.gl/maps/AdbwWk5ZginWejqD8",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The majority of directional and warning signs in New Zealand are held up by **white posts**. Warning signs are [**diamond-shaped**](https://goo.gl/maps/Yc1aJRudbLkktBBQ8) and painted **yellow**."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/8uDt5G4.png",
+              "link": "https://goo.gl/maps/BnPcmKZgGRnoeQKTA",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "New Zealand often uses **blue street signs **with white text, particularly in rural areas. While street signs of other colours can be often seen, blue is by far the most common.",
+            "NOTE: Australia almost never has blue street signs."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/round.png",
+              "link": "https://goo.gl/maps/Zr6MWAEdi4cjQpfc7",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Landscape",
+      "tips": [
+        {
+          "title": "Landscape",
+          "text": [
+            "It is very common to see ferns growing in forested areas in New Zealand."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_ferns.png",
+              "link": "https://goo.gl/maps/1m5dmoWjSUdaQ7N69",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The Waikato and Northland regions are characterised by their **drier climate** and **rolling hills**. In particular, the Northland region is quite [hilly](https://goo.gl/maps/hpVzi3Ur8nvJuUv69).",
+            "NOTE: This type of landscape can be found in other parts of the North Island, but is more common in the mentioned regions."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/north_island_climate.png",
+              "link": "https://goo.gl/maps/sfsrin1gqq7e8Miz9",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The West Coast and part of the Tasman region on the South Island can be recognized by its **temperate rainforests** and **rugged landscape**. This can be seen through the hundreds of tall hills and mountains, as well as the dark, compact greenery which is due to the area’s high level of rainfall."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/west_coast_rainforests.png",
+              "link": "https://goo.gl/maps/M68Zf5bfbDbBpopo8",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The flatter parts of the Southland and Otago regions can be recognised by their **cold climate** and **sloping, alpine hills**. The vegetation in this area is often quite stunted due to the climate."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/southland_and_otago_landscape.png",
+              "link": "https://goo.gl/maps/uxGiXNtAwhPiZjEH9",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Architecture",
+      "tips": [
+        {
+          "title": "Architecture",
+          "text": [
+            "In 2011, Christchurch was hit by an earthquake. As a result, roads on coverage from [2012](https://goo.gl/maps/8zQJgpbvKzbAUDX19) often appear in quite bad shape. Water damage caused many driveways to be cut off from streets due to large puddles of water, dirt or mud.",
+            "Due to this reason, many residential houses in the city had to be removed, leading to several districts on [newer coverage](https://goo.gl/maps/sTJGWHfVLuJmvM8n6) appearing like normal suburbs, but with almost no houses. This is noticeable when looking at where [former driveways](https://goo.gl/maps/3CRXxH6s1aYCBumS6) used to be."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_christchurchearthquake.png",
+              "link": "https://goo.gl/maps/8hx6TybXwKDxrysT9",
+              "alt": "New Zealand Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "The cities of Lower Hutt and Upper Hutt can be identified by the **wide, green valley** they are located in, which runs southwest to northeast."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/hutt_valley.png",
+              "link": "https://goo.gl/maps/8iBd8vRP9vPh7k4c8",
+              "alt": "New Zealand Architecture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coverage",
+      "tips": [
+        {
+          "title": "Coverage",
+          "text": [
+            "**Generation 2** coverage and gravel roads are particularly common in the Northland region.",
+            "NOTE: These tips do not exclusively indicate Northland. Be sure to use other clues when making guesses."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/northland_gen2.png",
+              "link": "https://goo.gl/maps/5okBrfLUY5mXquSZ7",
+              "alt": "New Zealand Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "Stewart Island only has coverage around the settlement of Oban. It is easily recognized due to the distinct bay, which is often filled with** small boats**. There is only Generation 3 camera coverage."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/stewart_island.png",
+              "link": "https://goo.gl/maps/D1BKXEMHrYaXgqZLA",
+              "alt": "New Zealand Coverage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Regions",
+      "tips": [
+        {
+          "title": "Regions",
+          "text": [
+            "New Zealand phone numbers are seven digits with a two-digit area code in front of it. Numbers starting with 02 are mobile numbers."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_area_codes_new.png",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "The area of the Southern Alps, north and south of Queenstown, contains many **glacial lakes**, which can be recognized by their teal colours and clear waters."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/lakes_district.png",
+              "link": "https://goo.gl/maps/7KYxRQZJFtCSj8Cb6",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "**Vineyards** are particularly common in the Marlborough and Hawke’s Bay regions.",
+            "NOTE: Vineyards can be found throughout New Zealand, so be sure to check other clues as well."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_vineyard.png",
+              "link": "https://goo.gl/maps/VSnrcRhgzxqUez4u6",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "**Corn **is almost exclusively found on the North Island."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_corn.png",
+              "link": "https://maps.app.goo.gl/oozebaZoLsdgVefU7",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other",
+      "tips": [
+        {
+          "title": "Several New Zealand cities have distinctive rubbish...",
+          "text": [
+            "Several New Zealand cities have distinctive rubbish bins. The distinguishing feature of the bins are the **council logos** on the front. The **colour **of the bin lid **varies within cities**.",
+            "NOTE: It is rare to find bins with green lids outside of Christchurch.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/rubbish_bins_darkmode.png",
+              "alt": "New Zealand Several New Zealand cities have distinctive rubbish..."
+            }
+          ]
+        },
+        {
+          "title": "Very tall hedges are found in the...",
+          "text": [
+            "**Very tall hedges** are found in the Bay of Plenty, mainly around Tauranga.",
+            "NOTE: Noticeably lower, but still tall, hedges are commonly found in [Canterbury](https://goo.gl/maps/BSMnbL4FMbQLzE88A)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Tall_hedges_hint_NZ.png",
+              "link": "https://goo.gl/maps/9xcupxQo4AbLVRdV6",
+              "alt": "New Zealand Very tall hedges are found in the..."
+            }
+          ]
+        },
+        {
+          "title": "Uneven crossbars, meaning they are off-centre, are...",
+          "text": [
+            "Uneven crossbars, meaning they are **off-centre**, are found in Otago, Marlborough, Wellington and Taranaki."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_offcentrecrossbar.png",
+              "link": "https://maps.app.goo.gl/BgHtsE6wB6dnovfm6",
+              "alt": "New Zealand Uneven crossbars, meaning they are off-centre, are..."
+            }
+          ]
+        },
+        {
+          "title": "Short pieces of wood attached to a...",
+          "text": [
+            "**Short pieces of** **wood **attached to a fence post, slightly extending it, can often be found on fences in Hawke’s Bay and occasionally in Manawatū-Whanganui and Gisborne."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_shortfenceextension.png",
+              "link": "https://maps.app.goo.gl/2s5jiX4BG2uSRN9S6",
+              "alt": "New Zealand Short pieces of wood attached to a..."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Identifying New Zealand",
+      "tips": [
+        {
+          "title": "Overview Image",
+          "text": [],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/0_summary_nz.png",
+              "alt": "New Zealand overview"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "Bollards in New Zealand have a **red strip** which wraps around the top of the bollard. This strip wraps the whole way around the back and part of the front. The front or back of the bollard often contains a [**thin yellow**** **](https://goo.gl/maps/DLQi1D8i9rwS1hTA9)**or white reflector**.",
+            "NOTE: These bollards are unique to New Zealand."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/NZ_Bollard.png",
+              "link": "https://goo.gl/maps/ybfmSthw1whnSTrc9",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Plates",
+          "text": [
+            "New Zealand uses **white** licence plates with **black text**, which appears mostly white through the blur.",
+            "NOTE: Some vehicles have custom licence plates which make the sides of the licence plate appear blue or black."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Ohne_Titel_2824_29.png",
+              "link": "https://www.plonkit.net/images/new-zealand/Ohne_Titel_2824_29.png",
+              "alt": "New Zealand Plates"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "The most common pole type found in New Zealand is made of concrete and has **one long indent** which runs most of the way up the pole. Most concrete poles have small **silver **possum guards. Circular [wooden poles](https://maps.app.goo.gl/e4UYn9u6VSd4wSE36) can also be found, but are less common. You can also see concrete [holey poles](https://maps.app.goo.gl/e3uB7rNoVtCMmrzz8) in New Zealand."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/NZ_poles.png",
+              "link": "https://maps.app.goo.gl/iAuHt7cAqzrFcYfDA",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "**Give-way signs** in New Zealand have a white border and red text.",
+            "NOTE: Australia’s give-way signs use black text."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/10jOgSh.png",
+              "link": "https://goo.gl/maps/psrB3Nw3iFi69Uaw7",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "New Zealand intersections often use give-way triangles **painted** on the road.",
+            "NOTE: Australia does not use this design."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/mbmItmT.jpg",
+              "link": "https://goo.gl/maps/AdbwWk5ZginWejqD8",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The majority of directional and warning signs in New Zealand are held up by **white posts**. Warning signs are [**diamond-shaped**](https://goo.gl/maps/Yc1aJRudbLkktBBQ8) and painted **yellow**."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/8uDt5G4.png",
+              "link": "https://goo.gl/maps/BnPcmKZgGRnoeQKTA",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "New Zealand often uses **blue street signs **with white text, particularly in rural areas. While street signs of other colours can be often seen, blue is by far the most common.",
+            "NOTE: Australia almost never has blue street signs."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/round.png",
+              "link": "https://goo.gl/maps/Zr6MWAEdi4cjQpfc7",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "New Zealand normally uses [**white outer**](https://goo.gl/maps/MqhaDyWhXhWWMwfSA)** road lines**. [Yellow dashed outer](https://goo.gl/maps/iwDpkjx7uvAhDnGm9) road lines can be seen in populated areas. Roads with [no outer lines](https://goo.gl/maps/8LJUn5zfzXnHXmZa8) can be seen on smaller roads. Inner lines are either a single dashed white line or unbroken double **yellow **lines.",
+            "NOTE: Australia does not have yellow inside lines, apart from regions with snow."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/9qcVCOM.png",
+              "link": "https://goo.gl/maps/VCKjBxabCvWkHqbaA",
+              "alt": "New Zealand Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "New Zealand uses **black-on-yellow** chevrons with a thin black border. [White on black](https://goo.gl/maps/mQzY6iFbA9iufm6N7) chevrons are very rarely used.",
+            "NOTE: Australia’s chevrons have the same colours, but do not have the border."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/09SdKrK.png",
+              "link": "https://goo.gl/maps/MjV3iuiXwNShgXDn9",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "New Zealand uses **green directional signs. **If the sign is on a state highway, the highway number will always be shown in a **red crest**.",
+            "NOTE: Brown signs indicate the direction to landmarks, which can be useful when pinpointing."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/SH56qoz.png",
+              "link": "https://goo.gl/maps/BvKMsNeuFMqAUriLA",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "Bridge markers can be found on most paved roads in New Zealand. If the sign is on a state highway, the highway number will always be shown in a **red crest** on a white marker. The yellow marker indicates the name of the river or bridge.",
+            "NOTE: Some bridge markers indicate very small streams or culverdens which can be hard to find."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Gf2dNKO.png",
+              "link": "https://goo.gl/maps/YuL3meSDXpQcc9U59",
+              "alt": "New Zealand Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "It is very common to see ferns growing in forested areas in New Zealand."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_ferns.png",
+              "link": "https://goo.gl/maps/1m5dmoWjSUdaQ7N69",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Regional clues",
+      "tips": [
+        {
+          "title": "Bollards",
+          "text": [
+            "Two-digit state highway numbers follow a sequential pattern from North to South, making them easy to find. Single digit highways run through large parts of the country, but are easy to remember due to the small number of them.",
+            "NOTE: Bollards can sometimes have [highway numbers](https://maps.app.goo.gl/HgbJ1hmxCHsPfi6z7) written on them.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/highway_numbering_darkmode_v2.png",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "New Zealand phone numbers are seven digits with a two-digit area code in front of it. Numbers starting with 02 are mobile numbers."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_area_codes_new.png",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The first digit of [Fonterra farm signs](https://maps.app.goo.gl/iVEJfCaXqmsAC1qQ7) follows the regional pattern seen on the map.",
+            "_This image was provided by snowf\\_lake and brainy. You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_fonterrafarmsign.png",
+              "link": "https://www.plonkit.net/images/new-zealand/nz_fonterrafarmsign.png",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The cities of Auckland, Wellington and Christchurch all have unique bus stop signs.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/bus_stops_darkmode.png",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Several New Zealand cities have distinctive rubbish...",
+          "text": [
+            "Several New Zealand cities have distinctive rubbish bins. The distinguishing feature of the bins are the **council logos** on the front. The **colour **of the bin lid **varies within cities**.",
+            "NOTE: It is rare to find bins with green lids outside of Christchurch.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/rubbish_bins_darkmode.png",
+              "alt": "New Zealand Several New Zealand cities have distinctive rubbish..."
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The Waikato and Northland regions are characterised by their **drier climate** and **rolling hills**. In particular, the Northland region is quite [hilly](https://goo.gl/maps/hpVzi3Ur8nvJuUv69).",
+            "NOTE: This type of landscape can be found in other parts of the North Island, but is more common in the mentioned regions."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/north_island_climate.png",
+              "link": "https://goo.gl/maps/sfsrin1gqq7e8Miz9",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The West Coast and part of the Tasman region on the South Island can be recognized by its **temperate rainforests** and **rugged landscape**. This can be seen through the hundreds of tall hills and mountains, as well as the dark, compact greenery which is due to the area’s high level of rainfall."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/west_coast_rainforests.png",
+              "link": "https://goo.gl/maps/M68Zf5bfbDbBpopo8",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The flatter parts of the Southland and Otago regions can be recognised by their **cold climate** and **sloping, alpine hills**. The vegetation in this area is often quite stunted due to the climate."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/southland_and_otago_landscape.png",
+              "link": "https://goo.gl/maps/uxGiXNtAwhPiZjEH9",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The Southern Alps, a **large, snowy mountain range,** stretches throughout the majority of the South Island. Vegetation on the mountains becomes rarer the further south it is."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/southern_alps.png",
+              "link": "https://goo.gl/maps/CzAsUce6NgFS9eBY8",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "Hawke’s Bay** **has **dry, golden grassy hills**, and in Generation 4 it will be sunny with a white Street View car."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_hawkesbay.png",
+              "link": "https://maps.app.goo.gl/z4Yi71zyuu7obhQX6",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "**Bright sandy cliffs** are a common sight in the central region of Manawatū-Whanganui. They may also be found in parts of Taranaki, Waikato and a road going into [Hawke’s Bay](https://maps.app.goo.gl/p8uf5YN26915QvQTA).",
+            "NOTE: Sometimes the cliffs may appear like [sandy rocks](https://maps.app.goo.gl/bfFJCCA8BYig9K319)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_sandyhill.png",
+              "link": "https://maps.app.goo.gl/N34BUBVv7SJW2MZr7",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "The area of the Southern Alps, north and south of Queenstown, contains many **glacial lakes**, which can be recognized by their teal colours and clear waters."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/lakes_district.png",
+              "link": "https://goo.gl/maps/7KYxRQZJFtCSj8Cb6",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Mount Taranaki, often referred to as Mount Egmont, is easily distinguished due to its relatively **smooth slopes** and its pointed, often snowy peak. It can frequently be identified from afar, as the surrounding area is flat."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/mt_taranaki.png",
+              "link": "https://goo.gl/maps/n56Ba1cuCP6qBzCB8",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "**Generation 2** coverage and gravel roads are particularly common in the Northland region.",
+            "NOTE: These tips do not exclusively indicate Northland. Be sure to use other clues when making guesses."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/northland_gen2.png",
+              "link": "https://goo.gl/maps/5okBrfLUY5mXquSZ7",
+              "alt": "New Zealand Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "**Tall hedge and tree rows** are particularly common in the Canterbury region. They are mostly found in the Canterbury plains, which comprises very flat, large fields.",
+            "Due to Canterbury’s flat landscape, mountains can often be seen in the distance to the west.",
+            "NOTE: Hedges that are even taller are common near [Tauranga](https://goo.gl/maps/dddpunZazZYpVCqd8)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/MMbPv3H.png",
+              "link": "https://goo.gl/maps/5qWv2CumdvFVUTy2A",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Very tall hedges are found in the...",
+          "text": [
+            "**Very tall hedges** are found in the Bay of Plenty, mainly around Tauranga.",
+            "NOTE: Noticeably lower, but still tall, hedges are commonly found in [Canterbury](https://goo.gl/maps/BSMnbL4FMbQLzE88A)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Tall_hedges_hint_NZ.png",
+              "link": "https://goo.gl/maps/9xcupxQo4AbLVRdV6",
+              "alt": "New Zealand Very tall hedges are found in the..."
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "**Vineyards** are particularly common in the Marlborough and Hawke’s Bay regions.",
+            "NOTE: Vineyards can be found throughout New Zealand, so be sure to check other clues as well."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_vineyard.png",
+              "link": "https://goo.gl/maps/VSnrcRhgzxqUez4u6",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "**Corn **is almost exclusively found on the North Island."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_corn.png",
+              "link": "https://maps.app.goo.gl/oozebaZoLsdgVefU7",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "While [New Zealand flax](https://en.wikipedia.org/wiki/Phormium_tenax) can be found across the country, if you see them in **long neat rows**, you should consider Southland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_southbushes.png",
+              "link": "https://maps.app.goo.gl/EfesRJf8CkRK5kne7",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Most utility poles in the Marlborough region have a long** square shaped olive-brown possum guard**. These can appear alongside the usual shorter silver possum guards."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_brownpossumguard.png",
+              "link": "https://maps.app.goo.gl/27vLJsb1NrVUgHDu5",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Many of the utility poles in Southland feature a **long cylindrical silver possum guard**. These are also more rarely found in western Otago."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_silverguard.png",
+              "link": "https://maps.app.goo.gl/HUSjdp1FEVe72qbu6",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "**Holey poles** are found most commonly in Southland and around Auckland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_holeypole.png",
+              "link": "https://maps.app.goo.gl/9HJViMdB5ZNYd5kD8",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "**Square concrete poles **without the usual indent are most common in Southland, but can also be found in Otago, Taranaki and Manawatū-Whanganui."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_squarepole.png",
+              "link": "https://maps.app.goo.gl/RXEnWvQs87gv21jJ7",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Uneven crossbars, meaning they are off-centre, are...",
+          "text": [
+            "Uneven crossbars, meaning they are **off-centre**, are found in Otago, Marlborough, Wellington and Taranaki."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_offcentrecrossbar.png",
+              "link": "https://maps.app.goo.gl/BgHtsE6wB6dnovfm6",
+              "alt": "New Zealand Uneven crossbars, meaning they are off-centre, are..."
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Poles with the middle insulator being installed on top of a **tall metal bar** are often found along the Auckland Waikato border, as well as in other parts of Waikato.",
+            "NOTE: Insulators installed on significantly [shorter vertical bars](https://maps.app.goo.gl/ka3aMJFraGfTTKWT9) are rarer and can be found all across the country."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_metalextentionpole.png",
+              "link": "https://maps.app.goo.gl/yMy9cuY8EniiVPqcA",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Some concrete poles in eastern Waikato and Whanganui city have **white paint** on the middle part of their wooden crossbars. This white painted crossbar can also be found in parts of western Bay of Plenty, Taranaki, Manawatū-Whanganui and eastern Wellington."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_whitepaintedcrossbar.png",
+              "link": "https://maps.app.goo.gl/TjqYCHGrMWctbV6L6",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "A **yellow tag**, similar in appearance to a cow-tag, is found on most poles in Gisborne. It is also found in a few spots on the South Island, as well as over the border in northern Hawke’s Bay."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_gisbornetag.png",
+              "link": "https://maps.app.goo.gl/w9jPRQScfeHNDMYMA",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "A warning sticker attached to poles, which has a **yellow danger triangle between** **two white rectangles**, is found in Hawke’s Bay, from lake Taupo to lake Rotorua, in northern Waikato and south of Auckland city."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_warningsticker.png",
+              "link": "https://maps.app.goo.gl/gtREtP6Ae8uxgFRr7",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "A medium sized **black vertical** **sticker** with **5 digits** is found in West Coast, Tasman, southern Canterbury and southern Northland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_5digitblacksticker.png",
+              "link": "https://maps.app.goo.gl/sfMm58ouENVND7Tu5",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "A long **black vertical sticker** with **6 digits **with a **small black square** beneath it, is found on most of the North Island, in Southland and in Otago. On the North Island the first digit will be a 3 or a [4](https://maps.app.goo.gl/gqXjzvBEyfHZn5Uu8), while on the South Island it starts with an [8](https://maps.app.goo.gl/TnLdNyLtkVpwU9CQA).",
+            "NOTE: There is a similar regional [black sticker](https://maps.app.goo.gl/dhdc7ruY23wG9iJy6) with 6 digits but without a small square below it. Additionally, the sticker can rarely be white."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_6digitblacksticker.png",
+              "link": "https://maps.app.goo.gl/t7ozB9A7BnhSc9RH7",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Poles near Timaru often have a **tall rectangle of** **orange paint** on them with the text “DANGER LIVE WIRES”."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_orangesticker.png",
+              "link": "https://maps.app.goo.gl/Qp5gC4oHmhfXu6p2A",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "A **small black horizontal pole sticker**, with several numbers, is often found in Taranaki and Wellington. The sticker may rarely be found in parts of Manawatū-Whanganui, Waikato, and southern Hawke's Bay."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_blackhorizontalplate.png",
+              "link": "https://maps.app.goo.gl/nfkxUHaM5RhpshHaA",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Plates",
+          "text": [
+            "Similarly, a **small white horizontal pole sticker** with several numbers is found in several parts of the North Island.",
+            "NOTE: The edges of the plate must be straight, meaning they cannot be rounded. Rounded plates are seen [all across the country](https://maps.app.goo.gl/YSsMro3M3HUAyV6t7)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_whitehorizontalsticker.png",
+              "link": "https://maps.app.goo.gl/LridKYgTenAUsTsJ8",
+              "alt": "New Zealand Plates"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "Solid outer white lines without middle lines are most common in Gisborne, but can also be found in northern Hawke's Bay and Wellington.",
+            "NOTE: The roads in Wellington are typically [narrower](https://goo.gl/maps/GaHaGPWtHKe4n6Hw6)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/Gisborne_Lines_NZ.png",
+              "link": "https://goo.gl/maps/86kgUmjyTt84EncN9",
+              "alt": "New Zealand Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "A typical bollard, but with a** green stripe**, is common in southern Canterbury, as well as in some pockets in eastern Southland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_greenstripedbollard.png",
+              "link": "https://maps.app.goo.gl/3ar2zQi3QEEBqozi8",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "A typical bollard but with a **black stripe** instead of a red one is commonly found in Wellington, especially in older Generation 3 coverage."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_blackstripedbollard.png",
+              "link": "https://maps.app.goo.gl/j6nf4jbP16wV6HwK8",
+              "alt": "New Zealand Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "**Wooden **fences with **tightly packed fence posts** are most common on the North Island and the north of the South Island, as well as on the [Banks peninsula](https://maps.app.goo.gl/Vm45tUxi2tarn4vc9)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_northernfence.png",
+              "link": "https://maps.app.goo.gl/FWrPRrHyqS7Gtg288",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "**Wooden fences** with a** big gap** in-between them are most common on the South island as well as in Taranaki."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_widewoodenfence.png",
+              "link": "https://maps.app.goo.gl/CjgWRMaAuALmsd9Y7",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "Fences with **thin** **metal fence posts** are almost exclusive to the South island."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/MetalFences_Hint_.png",
+              "link": "https://maps.app.goo.gl/yDn53zTe9PWoyDei6",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Short pieces of wood attached to a...",
+          "text": [
+            "**Short pieces of** **wood **attached to a fence post, slightly extending it, can often be found on fences in Hawke’s Bay and occasionally in Manawatū-Whanganui and Gisborne."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_shortfenceextension.png",
+              "link": "https://maps.app.goo.gl/2s5jiX4BG2uSRN9S6",
+              "alt": "New Zealand Short pieces of wood attached to a..."
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Similar wooden extensions, which are **significantly longer**, are mainly found in Southland and Hawke’s Bay, but can also be seen in Otago."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_longfenceextension.png",
+              "link": "https://maps.app.goo.gl/YF5GMEXJd723QXeC8",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "This car with a **white and blue** front is mostly found on the North Island. It can occasionally be found In Canterbury and Marlborough, on the South Island."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_northcar.png",
+              "link": "https://goo.gl/maps/PLoB32g9Y34Ns8hr5",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "This Street View car features a **white-blue-white** pattern which is **blurred **out, and is mainly found on the South Island or around and north of Auckland."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_blurredstripedcar.png",
+              "link": "https://maps.app.goo.gl/xrvYStvJE6TFpPoA7",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spotlight",
+      "tips": [
+        {
+          "title": "Signs",
+          "text": [
+            "There are many town and city specific **street signs **in northern New Zealand, which can be seen in this graphic.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/street_signs_north_island_darkmode.png",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "There are many town and city specific **street signs **in southern New Zealand, which can be seen in this graphic.",
+            "_You can click on the image to enlarge it._"
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/street_signs_south_island_darkmode.png",
+              "alt": "New Zealand Signs"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "An easy way to recognize the city of **Wellington** is by how hilly it is."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/ExmzIEd.png",
+              "link": "https://goo.gl/maps/8rVaDUqZn5eSwnRD9",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "Stewart Island only has coverage around the settlement of Oban. It is easily recognized due to the distinct bay, which is often filled with** small boats**. There is only Generation 3 camera coverage."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/stewart_island.png",
+              "link": "https://goo.gl/maps/D1BKXEMHrYaXgqZLA",
+              "alt": "New Zealand Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The area around Tongariro National Park is identifiable due to the **low-lying volcanic vegetation** in the area. Mount Ruapehu and Mount Tongariro are in the vicinity, and their tops are often covered by clouds."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/tongariro.png",
+              "link": "https://goo.gl/maps/CvCrHzfYw4Wy4GiJA",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Coverage on Mount Ruapehu is easily identifiable due to the **dark volcanic landscape **and distinct lack of vegetation.",
+            "NOTE: This type of coverage is limited to the roads around the Whakapapa Ski Village."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/ruapehu_whakapapa_village.png",
+              "link": "https://goo.gl/maps/VsHxdVodegt9VPz28",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "In 2011, Christchurch was hit by an earthquake. As a result, roads on coverage from [2012](https://goo.gl/maps/8zQJgpbvKzbAUDX19) often appear in quite bad shape. Water damage caused many driveways to be cut off from streets due to large puddles of water, dirt or mud.",
+            "Due to this reason, many residential houses in the city had to be removed, leading to several districts on [newer coverage](https://goo.gl/maps/sTJGWHfVLuJmvM8n6) appearing like normal suburbs, but with almost no houses. This is noticeable when looking at where [former driveways](https://goo.gl/maps/3CRXxH6s1aYCBumS6) used to be."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_christchurchearthquake.png",
+              "link": "https://goo.gl/maps/8hx6TybXwKDxrysT9",
+              "alt": "New Zealand Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Part of State Highway 85 in Otago has **light snow coverage, **specifically between the towns of Becks and Morisson."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/sh85_snow.png",
+              "link": "https://goo.gl/maps/DP3zwsANmmXToiCk6",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "The cities of Lower Hutt and Upper Hutt can be identified by the **wide, green valley** they are located in, which runs southwest to northeast."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/hutt_valley.png",
+              "link": "https://goo.gl/maps/8iBd8vRP9vPh7k4c8",
+              "alt": "New Zealand Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Blenheim can be recognized by having a **large range of hills** to the north and the [south](https://goo.gl/maps/F9pEhqCVnxdZCmA47) of the city."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/blenheim_hills.png",
+              "link": "https://goo.gl/maps/1yDWzEKVhDsv5w599",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "**Fruit farms** covered in **green netting** are particularly common near Tauranga, but can also be seen near Gisborne.",
+            "NOTE: Fruit farms are not fully exclusive to these regions, so make sure to consider other clues as well."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_fruitfarms.png",
+              "link": "https://maps.app.goo.gl/5GnHiuRrFBDtjYiQ8",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Banks peninsula, also sometimes called Akaroa, due to the town, is **rocky with grassy hills,** and small patches of trees.",
+            "NOTE: This region can sometimes have [gorse](https://maps.app.goo.gl/LYyGqHwwPSzM7dGU9), which are also commonly found on the Otago peninsula."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_akaroa.png",
+              "link": "https://maps.app.goo.gl/6aacW3PEEg4Py77u6",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The region of northern Marlborough, known as [Marlborough Sounds](https://en.wikipedia.org/wiki/Marlborough_Sounds), has **densely forested mountains protruding from water**.",
+            "NOTE: Northern Marlborough is almost exclusively in Generation 4."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_northernmarlborough.png",
+              "link": "https://maps.app.goo.gl/qxCSiudSMTJ51kps8",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "The Otago peninsula east of Dunedin is recognizable from its combination of plants such as [cabbage trees](https://en.wikipedia.org/wiki/Cordyline_australis), [yellow flowered bushes](https://en.wikipedia.org/wiki/Ulex_europaeus), small groves of [cone-shaped pine trees](https://maps.app.goo.gl/62xUM4q8p2f4hsad7), and [New Zealand flax](https://en.wikipedia.org/wiki/Phormium_tenax). Additionally, the peninsula’s poles often have [off-centre crossbars](https://maps.app.goo.gl/twAx6yizxoiVJ3rm6)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_dunedinpeninsula.png",
+              "link": "https://maps.app.goo.gl/P1ZDvdo4RnA3LGDV8",
+              "alt": "New Zealand Poles"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "State Highway 73, located near [Arthur’s Pass](https://en.wikipedia.org/wiki/Arthur%27s_Pass), can be recognised by the almost dried out river with an **abundance of gravel **on the river bed. Additionally, the Street View car in Arthur’s Pass drove behind a black pickup truck with two ladders** **on its roof."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_arthurspass.png",
+              "link": "https://maps.app.goo.gl/NGm5zxASENUkCz9t6",
+              "alt": "New Zealand Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "State Highway 94 is characterised by its dense** **[**red beech**](https://en.wikipedia.org/wiki/Nothofagus_fusca)** forest **surrounded by **snow-capped mountains**."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_milfordsound.png",
+              "link": "https://maps.app.goo.gl/QVkC9tnaCjM5x6R69",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "State Highway 80 in the Southern Alps is recognizable by its north-south orientation up a **glacial valley**. The west side of the road is lined with snow-capped mountains, while the east side of the road runs alongside the Tasman River and Lake Pukaki."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/sh80.png",
+              "link": "https://goo.gl/maps/Y9gE66aByLy6smag7",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The mountains of Pirongia and Kakepuku are often seen together in an otherwise mostly flat landscape. To the west, we have Mount Pirongia which is a long mountain range, with **2 distinct small bumps**. Meanwhile Mount Kakepuku is to the south and has a **volcanic cone shape**."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_twomountains.png",
+              "link": "https://maps.app.goo.gl/YXSxGMfQBjwSoGdB6",
+              "alt": "New Zealand Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "The volcano of Putauaki in eastern Bay of Plenty has a seemingly cut-off top which vaguely resembles the shape of a frog, with two big “eyes” protruding on either side of the top."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/new-zealand/nz_putauaki.png",
+              "link": "https://maps.app.goo.gl/1xKEGFXdXZ2CyYSaA",
+              "alt": "New Zealand Regions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Maps and resources",
+      "tips": [
+        {
+          "title": "Practice Resources",
+          "text": [
+            "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends you play these maps instead:",
+            "- **AI Gen - New Zealand **([map link](https://www.geoguessr.com/maps/61f3f49330ad7100010d56c2))** **-** **100,000 computer generated locations that face the road. May not be pin-pointable.",
+            "- **IntersectionGuessr - New Zealand **([map link](https://www.geoguessr.com/maps/61489ff67b19390001c3ed7e)) - Arbitrarily generated locations at intersections, and therefore potentially pinpointable (but this is not guaranteed).",
+            "In addition, here are some resources to help you practise New Zealand:",
+            "- **Plonk It New Zealand** ([map link](https://www.geoguessr.com/maps/640502f97d04dafe53f36ec4)) - This map contains locations for practising each meta in the Plonk It New Zealand guide from step 2 to 3."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ],
+  "sourceUrl": "https://www.plonkit.net/new-zealand"
+} satisfies CountryClue;

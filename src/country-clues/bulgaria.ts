@@ -1,0 +1,987 @@
+import type { CountryClue } from "../clues";
+
+export const BulgariaClue = {
+  "name": "Bulgaria",
+  "slug": "bulgaria",
+  "description": "Bulgarian licence plates have the typical European design, with the blue strip on the left.\n\nBulgaria mainly uses the **Cyrillic alphabet**. However, a lot of signs will also have the Latin alphabet.\n\nThe Bulgarian word for street is **улица** (ulitsa), sometimes abbreviated **ул.** (ul.).\n\nThere are three types of Generation 4 cars that were used to cover Bulgaria:\n\nThe majority of Generation 3 coverage in Bulgaria was taken during March and April, resulting in very distinct dead-looking “winter” coverage.",
+  "importantClues": [
+    {
+      "title": "Plates",
+      "text": [
+        "Bulgarian licence plates have the typical European design, with the blue strip on the left."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/bulgaria/Registation_plates.png",
+          "link": "https://www.plonkit.net/images/bulgaria/Registation_plates.png",
+          "alt": "Bulgaria Plates"
+        }
+      ]
+    },
+    {
+      "title": "Signs",
+      "text": [
+        "Bulgaria mainly uses the **Cyrillic alphabet**. However, a lot of signs will also have the Latin alphabet."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/bulgaria/bg_language.png",
+          "link": "https://www.plonkit.net/images/bulgaria/bg_language.png",
+          "alt": "Bulgaria Signs"
+        }
+      ]
+    },
+    {
+      "title": "Signs",
+      "text": [
+        "The Bulgarian word for street is **улица** (ulitsa), sometimes abbreviated **ул.** (ul.)."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/bulgaria/Street_sign.png",
+          "link": "https://goo.gl/maps/1SZKSMAPZWHQh7SPA",
+          "alt": "Bulgaria Signs"
+        }
+      ]
+    },
+    {
+      "title": "Google Car",
+      "text": [
+        "There are three types of Generation 4 cars that were used to cover Bulgaria:"
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/bulgaria/gen4car.jpeg",
+          "link": "https://goo.gl/maps/QaSePXgwwueb8rDV8",
+          "alt": "Bulgaria Google Car"
+        }
+      ]
+    },
+    {
+      "title": "Coverage",
+      "text": [
+        "The majority of Generation 3 coverage in Bulgaria was taken during March and April, resulting in very distinct dead-looking “winter” coverage."
+      ],
+      "images": [
+        {
+          "url": "https://www.plonkit.net/images/bulgaria/Gen_3_winter.png",
+          "link": "https://goo.gl/maps/pAmrbB5ToNJh9Y6h8",
+          "alt": "Bulgaria Coverage"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Google Car",
+    "Plates",
+    "Road Lines",
+    "Bollards",
+    "Poles",
+    "Signs",
+    "Landscape",
+    "Architecture",
+    "Coverage",
+    "Regions",
+    "Other"
+  ],
+  "keyClues": [
+    {
+      "title": "Google Car",
+      "tips": [
+        {
+          "title": "Google Car",
+          "text": [
+            "There are three types of Generation 4 cars that were used to cover Bulgaria:",
+            "- A **blue** car, which can be found in most European countries.",
+            "- A **red** car, which is also found in Latvia, Lithuania, Russia, Slovakia, and Sweden. Of these, Russia and Slovakia are easiest to confuse with Bulgaria.",
+            "- A **black** car, which is found in many European countries; of which Greece and Croatia are the ones more likely to be confused with Bulgaria.",
+            "All cars can be found with or without antenna. Additionally, you can also encounter coverage where the car is completely hidden."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/gen4car.jpeg",
+              "link": "https://goo.gl/maps/QaSePXgwwueb8rDV8",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "You can commonly see a small piece of **grey tape **at the top of the car antenna in Generation 3 coverage. The community sometimes refers to it as “flag antenna”.",
+            "Not all Gen 3 coverage has this tape.",
+            "NOTE: This can also be seen in Czechia, Slovakia, Hungary, and Romania."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_3_antenna.png",
+              "link": "https://goo.gl/maps/pYbetFaiKUjKetbW9",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "Locations with an invisible Generation 4 Street View car can be found along the North and West borders of Bulgaria, as well as the northern half of the coast."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_4_invisible_car_with_text.png",
+              "link": "https://goo.gl/maps/cUzGAUbyedPcLx6Q8",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "A **red** Generation 4 Street View car is mostly found in central and southeastern Bulgaria.",
+            "This car can be found with and [without](https://goo.gl/maps/JUqTZr8YLVTmX22U9) an antenna."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_4_red_car.png",
+              "link": "https://maps.app.goo.gl/QErjzKasVUR8cnD99",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Plates",
+      "tips": [
+        {
+          "title": "Plates",
+          "text": [
+            "Bulgarian licence plates have the typical European design, with the blue strip on the left."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Registation_plates.png",
+              "link": "https://www.plonkit.net/images/bulgaria/Registation_plates.png",
+              "alt": "Bulgaria Plates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Road Lines",
+      "tips": [
+        {
+          "title": "Road Lines",
+          "text": [
+            "The old town of Nessebar, and to a lesser extent Sozopol, can be recognised by the well-preserved old buildings made of a combination of unpainted stone, white stone walls and brown wood. Most of the streets are paved with cobblestone."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_nessebar.png",
+              "link": "https://goo.gl/maps/gg6RZNrzZL3ZHq1Y7",
+              "alt": "Bulgaria Road Lines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bollards",
+      "tips": [
+        {
+          "title": "Bollards",
+          "text": [
+            "Bollards are generally **fairly rare** in Bulgaria.",
+            "When you see them, they almost always have this somewhat generic design, which is relatively similar to the bollards found in Croatia and Hungary. They have a red reflector on the front, and a white one on the back. The design isn’t terribly consistent: sometimes they are [thinner](https://goo.gl/maps/cHocfsUNELC32ANF6), and the shape of the reflector varies."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Bollard.png",
+              "link": "https://goo.gl/maps/VRc8A31iErrc9nHv6",
+              "alt": "Bulgaria Bollards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poles",
+      "tips": [
+        {
+          "title": "Poles",
+          "text": [
+            "Most utility poles in Bulgaria are **cylindrical **and made of **concrete**.",
+            "There is also a less common concrete ‘ladder pole’ variation. You can also sometimes see simple wooden poles."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Pole_material_and_shape.png",
+              "link": "https://goo.gl/maps/6uioxC1wsJ3ucpPC7",
+              "alt": "Bulgaria Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Most poles have small, alternating **hook-shaped** insulators."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Poletop_alternating_hooks.png",
+              "link": "https://goo.gl/maps/JyGHzsdxzpEFMbq36",
+              "alt": "Bulgaria Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "This style of pole top, with 3 large, alternating insulators that are shaped like **upward facing hooks**, is a good clue for Bulgaria. This pole top is probably unique to the country.",
+            "NOTE: You can also find this pole top with the insulators facing [downwards](https://maps.app.goo.gl/srfTSgJK7kcGUUQNA)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Poletop_3_large_hook.png",
+              "link": "https://goo.gl/maps/zqyChyyahx7ydA8RA",
+              "alt": "Bulgaria Poles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Signs",
+      "tips": [
+        {
+          "title": "Signs",
+          "text": [
+            "Bulgaria mainly uses the **Cyrillic alphabet**. However, a lot of signs will also have the Latin alphabet.",
+            "The letter “Ъ” is only found in Bulgarian and Russian, although it is fairly uncommon in Russian."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_language.png",
+              "link": "https://www.plonkit.net/images/bulgaria/bg_language.png",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The Bulgarian word for street is **улица** (ulitsa), sometimes abbreviated **ул.** (ul.).",
+            "NOTE: In older street signs seeing only Cyrillic is more common.",
+            "Russia also uses улица/ulitsa."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Street_sign.png",
+              "link": "https://goo.gl/maps/1SZKSMAPZWHQh7SPA",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Bulgarian chevrons are typically **red on white**.",
+            "NOTE: Many other European countries have similar chevrons. Crucially, among neighbouring countries, Romania, Turkey, and North Macedonia use the same chevrons. Greece and Serbia use black and white chevrons however. [See this infographic](/images/bulgaria/eu_chevrons.png?) for an overview."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_chevron.png",
+              "link": "https://maps.app.goo.gl/XbyL6zM6hm6vM6mH6",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Bulgarian directional signs are blue, arrow-shaped, and use both the **Cyrillic and Latin** alphabet. Importantly, even if you are far away and cannot decipher the script, you can still see that the sign has two lines of text instead of one."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Directional_signs.png",
+              "link": "https://goo.gl/maps/8S3wjkVHG9bCfMFw9",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Landscape",
+      "tips": [
+        {
+          "title": "Landscape",
+          "text": [
+            "The Balkan mountains cut across Bulgaria and divide the country in two distinct halves. North of them, you will find a mostly flat area that goes all the way to the border with Romania.",
+            "The Rhodope Mountains start close to Sofia and run South-East into Greece. In them you will find the highest peaks of Bulgaria.",
+            "Between both mountain ranges you will find the second biggest flat area of Bulgaria.",
+            "The westernmost part of the country usually features many small valleys surrounded by hills and small mountains."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Topographic_map.png",
+              "link": "https://www.plonkit.net/images/bulgaria/Topographic_map.png",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The towering mountains of Pirin and Rila National Parks can be recognised by the tall pyramid-shaped peaks, and can be seen from a few different vantage points in Blagoevgrad, Kyustendil and Sofia Provinces."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/National_parks.png",
+              "link": "https://maps.app.goo.gl/g86p1KtCqGEdLfYw8",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Wind turbines are most common in Dobrich Province, and usually towards the coast."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Wind_turbines.png",
+              "link": "https://goo.gl/maps/cQag2hFLG18aA5jU9",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The mountains overlooking Vratsa from the southwest have a very distinct “bumpy” shape, and can be seen from afar in the province."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_vratsamountains.png",
+              "link": "https://goo.gl/maps/gGEYWqem5Z12PCNMA",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Architecture",
+      "tips": [
+        {
+          "title": "Architecture",
+          "text": [
+            "Most houses in Bulgaria have orange tiled roofs, with distinct **patches of **[**mortar**](https://en.wikipedia.org/wiki/Mortar_(masonry)) along the corner tiles.",
+            "Famously, Bulgarian roofs often seem **poorly constructed**: the roof tiles and mortar tend to be uneven, especially when compared to other European countries."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Exquisite_bulgarian_masonry.png",
+              "link": "https://goo.gl/maps/C8stkY5y37R4fwLh8",
+              "alt": "Bulgaria Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "Suburbs in Bulgaria are generally among the **poorest areas** in Europe, with small, densely built houses and generally an almost ghetto-like look."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Suburban_ghetto.png",
+              "link": "https://goo.gl/maps/QKPdVtzUb4SFsZaL7",
+              "alt": "Bulgaria Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "Buildings with features similar to Alpine architecture, such as **white walls** with **brown wooden details** are commonly found in and around the Smoljan region in the south."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Alpine_looking_architecture.png",
+              "link": "https://goo.gl/maps/fSnq1HwBjEvs1s9T9",
+              "alt": "Bulgaria Architecture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coverage",
+      "tips": [
+        {
+          "title": "Coverage",
+          "text": [
+            "The majority of Generation 3 coverage in Bulgaria was taken during March and April, resulting in very distinct dead-looking “winter” coverage.",
+            "NOTE: Hungary and Czechia also have a lot of similar dead-looking Generation 3 coverage. Furthermore, while not common, Bulgaria has some [summer Generation 3](https://www.google.com/maps/@42.6462065,24.980028,3a,90y,176.39h,83.7t/data=!3m6!1e1!3m4!1srReAyNGYfJcuvSNTXNt4tQ!2e0!7i13312!8i6656?entry=ttu)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_3_winter.png",
+              "link": "https://goo.gl/maps/pAmrbB5ToNJh9Y6h8",
+              "alt": "Bulgaria Coverage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Regions",
+      "tips": [
+        {
+          "title": "Regions",
+          "text": [
+            "Metallic trash bins with this shape are very common in Bulgaria.",
+            "NOTE: This style of bin is also common in Turkey and other balkan countries such as Serbia, Albania and North Macedonia."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Metallic_bins.png",
+              "link": "https://goo.gl/maps/rNqLhC5EMQWvNngc8",
+              "alt": "Bulgaria Regions"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "Area codes in Bulgaria are one of the best clues to regionguess urban rounds. Conveniently, they are ordered by first digit, so just learning the first digit can yield high results with little effort.",
+            "Numbers between parentheses in the map are area codes from a neighbouring province that frequently spill into that one.",
+            "Codes next to a small dot represent area codes unique to the province capital."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_areacodes.png",
+              "link": "https://www.plonkit.net/images/bulgaria/bg_areacodes.png",
+              "alt": "Bulgaria Regions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other",
+      "tips": [
+        {
+          "title": "Bulgaria usually has thin roadlines. This is...",
+          "text": [
+            "Bulgaria usually has **thin** roadlines. This is particularly useful to tell Bulgaria apart from Romania, where roadlines are usually much [thicker](https://goo.gl/maps/QUeF5hDdv9HWUBz9A)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Road_lines.png",
+              "link": "https://goo.gl/maps/6nK1dEjs41bLrkPt5",
+              "alt": "Bulgaria Bulgaria usually has thin roadlines. This is..."
+            }
+          ]
+        },
+        {
+          "title": "Bulgaria generally has fairly poor-quality roads, with...",
+          "text": [
+            "Bulgaria generally has fairly **poor-quality roads**, with many small cracks and occasionally potholes."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Road_quality.png",
+              "link": "https://goo.gl/maps/e1QQSseuYd8JXsHz5",
+              "alt": "Bulgaria Bulgaria generally has fairly poor-quality roads, with..."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Identifying Bulgaria",
+      "tips": [
+        {
+          "title": "Overview Image",
+          "text": [],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/transparent-bg_summary_2026.png",
+              "alt": "Bulgaria overview"
+            }
+          ]
+        },
+        {
+          "title": "Plates",
+          "text": [
+            "Bulgarian licence plates have the typical European design, with the blue strip on the left."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Registation_plates.png",
+              "link": "https://www.plonkit.net/images/bulgaria/Registation_plates.png",
+              "alt": "Bulgaria Plates"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Bulgaria mainly uses the **Cyrillic alphabet**. However, a lot of signs will also have the Latin alphabet.",
+            "The letter “Ъ” is only found in Bulgarian and Russian, although it is fairly uncommon in Russian."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_language.png",
+              "link": "https://www.plonkit.net/images/bulgaria/bg_language.png",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "The Bulgarian word for street is **улица** (ulitsa), sometimes abbreviated **ул.** (ul.).",
+            "NOTE: In older street signs seeing only Cyrillic is more common.",
+            "Russia also uses улица/ulitsa."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Street_sign.png",
+              "link": "https://goo.gl/maps/1SZKSMAPZWHQh7SPA",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "There are three types of Generation 4 cars that were used to cover Bulgaria:",
+            "- A **blue** car, which can be found in most European countries.",
+            "- A **red** car, which is also found in Latvia, Lithuania, Russia, Slovakia, and Sweden. Of these, Russia and Slovakia are easiest to confuse with Bulgaria.",
+            "- A **black** car, which is found in many European countries; of which Greece and Croatia are the ones more likely to be confused with Bulgaria.",
+            "All cars can be found with or without antenna. Additionally, you can also encounter coverage where the car is completely hidden."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/gen4car.jpeg",
+              "link": "https://goo.gl/maps/QaSePXgwwueb8rDV8",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "text": [
+            "The majority of Generation 3 coverage in Bulgaria was taken during March and April, resulting in very distinct dead-looking “winter” coverage.",
+            "NOTE: Hungary and Czechia also have a lot of similar dead-looking Generation 3 coverage. Furthermore, while not common, Bulgaria has some [summer Generation 3](https://www.google.com/maps/@42.6462065,24.980028,3a,90y,176.39h,83.7t/data=!3m6!1e1!3m4!1srReAyNGYfJcuvSNTXNt4tQ!2e0!7i13312!8i6656?entry=ttu)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_3_winter.png",
+              "link": "https://goo.gl/maps/pAmrbB5ToNJh9Y6h8",
+              "alt": "Bulgaria Coverage"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "You can commonly see a small piece of **grey tape **at the top of the car antenna in Generation 3 coverage. The community sometimes refers to it as “flag antenna”.",
+            "Not all Gen 3 coverage has this tape.",
+            "NOTE: This can also be seen in Czechia, Slovakia, Hungary, and Romania."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_3_antenna.png",
+              "link": "https://goo.gl/maps/pYbetFaiKUjKetbW9",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Most utility poles in Bulgaria are **cylindrical **and made of **concrete**.",
+            "There is also a less common concrete ‘ladder pole’ variation. You can also sometimes see simple wooden poles."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Pole_material_and_shape.png",
+              "link": "https://goo.gl/maps/6uioxC1wsJ3ucpPC7",
+              "alt": "Bulgaria Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "Most poles have small, alternating **hook-shaped** insulators."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Poletop_alternating_hooks.png",
+              "link": "https://goo.gl/maps/JyGHzsdxzpEFMbq36",
+              "alt": "Bulgaria Poles"
+            }
+          ]
+        },
+        {
+          "title": "Poles",
+          "text": [
+            "This style of pole top, with 3 large, alternating insulators that are shaped like **upward facing hooks**, is a good clue for Bulgaria. This pole top is probably unique to the country.",
+            "NOTE: You can also find this pole top with the insulators facing [downwards](https://maps.app.goo.gl/srfTSgJK7kcGUUQNA)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Poletop_3_large_hook.png",
+              "link": "https://goo.gl/maps/zqyChyyahx7ydA8RA",
+              "alt": "Bulgaria Poles"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Bulgarian chevrons are typically **red on white**.",
+            "NOTE: Many other European countries have similar chevrons. Crucially, among neighbouring countries, Romania, Turkey, and North Macedonia use the same chevrons. Greece and Serbia use black and white chevrons however. [See this infographic](/images/bulgaria/eu_chevrons.png?) for an overview."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_chevron.png",
+              "link": "https://maps.app.goo.gl/XbyL6zM6hm6vM6mH6",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Bulgarian directional signs are blue, arrow-shaped, and use both the **Cyrillic and Latin** alphabet. Importantly, even if you are far away and cannot decipher the script, you can still see that the sign has two lines of text instead of one."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Directional_signs.png",
+              "link": "https://goo.gl/maps/8S3wjkVHG9bCfMFw9",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Town entry signs have a simple white design and also use both the Cyrillic and Latin alphabet. Like with the directional signs, the two lines of text are obvious, even when seen from far away."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Town_entry_sign.png",
+              "link": "https://goo.gl/maps/Ya8JD8hzK7d9QvVJ6",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "Bulgarian pedestrian signs have **four stripes**, and the person is wearing a hat.",
+            "NOTE: No other eastern or central European pedestrian signs have four stripes."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_pedestriansign.png",
+              "link": "https://goo.gl/maps/PUxvkNzoyaQ8GfreA",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Bollards",
+          "text": [
+            "Bollards are generally **fairly rare** in Bulgaria.",
+            "When you see them, they almost always have this somewhat generic design, which is relatively similar to the bollards found in Croatia and Hungary. They have a red reflector on the front, and a white one on the back. The design isn’t terribly consistent: sometimes they are [thinner](https://goo.gl/maps/cHocfsUNELC32ANF6), and the shape of the reflector varies."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Bollard.png",
+              "link": "https://goo.gl/maps/VRc8A31iErrc9nHv6",
+              "alt": "Bulgaria Bollards"
+            }
+          ]
+        },
+        {
+          "title": "Bulgaria usually has thin roadlines. This is...",
+          "text": [
+            "Bulgaria usually has **thin** roadlines. This is particularly useful to tell Bulgaria apart from Romania, where roadlines are usually much [thicker](https://goo.gl/maps/QUeF5hDdv9HWUBz9A)."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Road_lines.png",
+              "link": "https://goo.gl/maps/6nK1dEjs41bLrkPt5",
+              "alt": "Bulgaria Bulgaria usually has thin roadlines. This is..."
+            }
+          ]
+        },
+        {
+          "title": "Bulgaria generally has fairly poor-quality roads, with...",
+          "text": [
+            "Bulgaria generally has fairly **poor-quality roads**, with many small cracks and occasionally potholes."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Road_quality.png",
+              "link": "https://goo.gl/maps/e1QQSseuYd8JXsHz5",
+              "alt": "Bulgaria Bulgaria generally has fairly poor-quality roads, with..."
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "Most houses in Bulgaria have orange tiled roofs, with distinct **patches of **[**mortar**](https://en.wikipedia.org/wiki/Mortar_(masonry)) along the corner tiles.",
+            "Famously, Bulgarian roofs often seem **poorly constructed**: the roof tiles and mortar tend to be uneven, especially when compared to other European countries."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Exquisite_bulgarian_masonry.png",
+              "link": "https://goo.gl/maps/C8stkY5y37R4fwLh8",
+              "alt": "Bulgaria Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "Suburbs in Bulgaria are generally among the **poorest areas** in Europe, with small, densely built houses and generally an almost ghetto-like look."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Suburban_ghetto.png",
+              "link": "https://goo.gl/maps/QKPdVtzUb4SFsZaL7",
+              "alt": "Bulgaria Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "Metallic trash bins with this shape are very common in Bulgaria.",
+            "NOTE: This style of bin is also common in Turkey and other balkan countries such as Serbia, Albania and North Macedonia."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Metallic_bins.png",
+              "link": "https://goo.gl/maps/rNqLhC5EMQWvNngc8",
+              "alt": "Bulgaria Regions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Region-specific clues",
+      "tips": [
+        {
+          "title": "Landscape",
+          "text": [
+            "The Balkan mountains cut across Bulgaria and divide the country in two distinct halves. North of them, you will find a mostly flat area that goes all the way to the border with Romania.",
+            "The Rhodope Mountains start close to Sofia and run South-East into Greece. In them you will find the highest peaks of Bulgaria.",
+            "Between both mountain ranges you will find the second biggest flat area of Bulgaria.",
+            "The westernmost part of the country usually features many small valleys surrounded by hills and small mountains."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Topographic_map.png",
+              "link": "https://www.plonkit.net/images/bulgaria/Topographic_map.png",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Regions",
+          "text": [
+            "Area codes in Bulgaria are one of the best clues to regionguess urban rounds. Conveniently, they are ordered by first digit, so just learning the first digit can yield high results with little effort.",
+            "Numbers between parentheses in the map are area codes from a neighbouring province that frequently spill into that one.",
+            "Codes next to a small dot represent area codes unique to the province capital."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_areacodes.png",
+              "link": "https://www.plonkit.net/images/bulgaria/bg_areacodes.png",
+              "alt": "Bulgaria Regions"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "The towering mountains of Pirin and Rila National Parks can be recognised by the tall pyramid-shaped peaks, and can be seen from a few different vantage points in Blagoevgrad, Kyustendil and Sofia Provinces."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/National_parks.png",
+              "link": "https://maps.app.goo.gl/g86p1KtCqGEdLfYw8",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Landscape",
+          "text": [
+            "Wind turbines are most common in Dobrich Province, and usually towards the coast."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Wind_turbines.png",
+              "link": "https://goo.gl/maps/cQag2hFLG18aA5jU9",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "text": [
+            "Buildings with features similar to Alpine architecture, such as **white walls** with **brown wooden details** are commonly found in and around the Smoljan region in the south."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Alpine_looking_architecture.png",
+              "link": "https://goo.gl/maps/fSnq1HwBjEvs1s9T9",
+              "alt": "Bulgaria Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "Locations with an invisible Generation 4 Street View car can be found along the North and West borders of Bulgaria, as well as the northern half of the coast."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_4_invisible_car_with_text.png",
+              "link": "https://goo.gl/maps/cUzGAUbyedPcLx6Q8",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "A **red** Generation 4 Street View car is mostly found in central and southeastern Bulgaria.",
+            "This car can be found with and [without](https://goo.gl/maps/JUqTZr8YLVTmX22U9) an antenna."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Gen_4_red_car.png",
+              "link": "https://maps.app.goo.gl/QErjzKasVUR8cnD99",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "Generation 3 coverage with a piece of **tape** on a **short antenna** can be commonly found in the eastern part of Bulgaria.",
+            "NOTE: Tape antennas can very rarely appear in other provinces, the only provinces where it’s never found are Vratsa, Montana, Pazardzhik and Smolyan."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Tape_antenna.png",
+              "link": "https://www.google.com/maps/@43.234917,26.1228177,3a,15y,320.23h,57.95t/data=!3m6!1e1!3m4!1sjwsehkuyf70YOp3e7djZaQ!2e0!7i13312!8i6656?entry=ttu",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "Generation 3 locations with a **taped long antenna **and visible white car can be found in Stara Zagora, and rarely a few small roads in Plovdiv and Burgas.",
+            "NOTE: This combination of car and antenna can be found more commonly in other European countries as well. Make sure to use other clues."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_Long_antenna_tape.png",
+              "link": "https://goo.gl/maps/swcuJu784uGN4iyB7",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        },
+        {
+          "title": "Google Car",
+          "text": [
+            "This antenna with unpeeled tape at the top, resulting in a bulkier antenna tip, can be found in the Varna Province. Coverage with this antenna is exclusively in March, resulting in a dead winter look."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/Varna_antenna__28tape_in_march_29.png",
+              "link": "https://www.google.com/maps/@43.0891502,27.6152412,3a,15y,90.66h,56.67t/data=!3m7!1e1!3m5!1sEwHSdvSMaP6v_pK_aGgsOQ!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fpanoid%253DEwHSdvSMaP6v_pK_aGgsOQ%2526cb_client%253Dmaps_sv.tactile.gps%2526w%253D203%2526h%253D100%2526yaw%253D177.15912%2526pitch%253D0%2526thumbfov%253D100!7i13312!8i6656?entry=ttu",
+              "alt": "Bulgaria Google Car"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spotlight",
+      "tips": [
+        {
+          "title": "Landscape",
+          "text": [
+            "The mountains overlooking Vratsa from the southwest have a very distinct “bumpy” shape, and can be seen from afar in the province."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_vratsamountains.png",
+              "link": "https://goo.gl/maps/gGEYWqem5Z12PCNMA",
+              "alt": "Bulgaria Landscape"
+            }
+          ]
+        },
+        {
+          "title": "Road Lines",
+          "text": [
+            "The old town of Nessebar, and to a lesser extent Sozopol, can be recognised by the well-preserved old buildings made of a combination of unpainted stone, white stone walls and brown wood. Most of the streets are paved with cobblestone."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_nessebar.png",
+              "link": "https://goo.gl/maps/gg6RZNrzZL3ZHq1Y7",
+              "alt": "Bulgaria Road Lines"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "White street signs with **two red strips**; one covering the bottom and one covering part of the top, can be found in Sofia.",
+            "NOTE: You can also find [other types](https://goo.gl/maps/yzVNEQ4rCtYVqnYh8) of street signs in Sofia."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_sofiastreetsign.png",
+              "link": "https://goo.gl/maps/TWKjmMoerGy4Zv3s9",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        },
+        {
+          "title": "Signs",
+          "text": [
+            "**Brown street signs** with bright yellow text can be found in Stara Zagora."
+          ],
+          "images": [
+            {
+              "url": "https://www.plonkit.net/images/bulgaria/bg_starazagorastreetsign.png",
+              "link": "https://goo.gl/maps/WDJxmk13J2t7MqjB6",
+              "alt": "Bulgaria Signs"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceUrl": "https://www.plonkit.net/bulgaria"
+} satisfies CountryClue;
